@@ -1,0 +1,4922 @@
+Warrior
+Guerrero
+
+warrior
+guerrero
+
+Orc
+Orco
+
+orc
+orco
+
+Assassin
+Asesino
+
+assassin
+asesino
+
+Hunter
+Cazador
+
+hunter
+cazador
+
+Mage
+Mago
+
+mage
+mago
+
+Elf
+Elfo
+
+elf
+elfo
+
+Priest
+Sacerdote
+
+priest
+sacerdote
+
+Sorcerer
+Hechicero
+
+sorcerer
+hechicero
+
+Sorceress
+Hechicera
+
+sorceress
+hechicera
+
+Witcher
+Hechicero
+
+witcher
+hechicero
+
+Frog
+Rana
+
+Beetle
+Escarabajo
+
+Golden Rooster
+Gallo dorado
+
+Duck
+Pato
+
+Donkey
+Burro
+
+Goat
+Cabra
+
+Steed
+Caballo
+
+Cattle
+Vaca
+
+Shorthair Cat
+Gato de pelo corto
+
+Hound
+Sabueso
+
+Curly Cat
+Gato de pelo rizado
+
+Shepard Dog
+Perro pastor
+
+Parrot
+Loro
+
+Lizard
+Lagarto
+
+Monkey
+Mono
+
+Wild Eagle
+Águila salvaje
+
+Hippo
+Hipopótamo
+
+Boar
+Jabalí
+
+Elephant
+Elefante
+
+Brown Bear
+Oso pardo
+
+Snow Wolf
+Lobo de las nieves
+
+Lion
+León
+
+Cheetah
+Guepardo
+
+Tiger
+Tigre
+
+Pixie
+Hada
+
+Sprite
+Duendecillo
+
+Goblin
+Goblin
+
+Wild Frog
+Rana salvaje
+
+Wild Beetle
+Escarabajo salvaje
+
+Wild Golden Rooster
+Gallo dorado salvaje
+
+Wild Duck
+Pato salvaje
+
+Wild Donkey
+Burro salvaje
+
+Wild Goat
+Cabra salvaje
+
+Wild Steed
+Caballo salvaje
+
+Wild Cattle
+Vaca salvaje
+
+Wild Shorthair Cat
+Gato de pelo corto salvaje
+
+Wild Hound
+Sabueso salvaje
+
+Wild Curly Cat
+Gato de pelo rizado salvaje
+
+Wild Shepard Dog
+Perro pastor salvaje
+
+Wild Parrot
+Loro salvaje
+
+Wild Lizard
+Lagarto salvaje
+
+Wild Monkey
+Mono salvaje
+
+Wild Hippo
+Hipopótamo salvaje
+
+Wild Boar
+Javalí salvaje
+
+Wild Elephant
+Elefante salvaje
+
+Wild Brown Bear
+Oso Pardo Salvaje
+
+Wild Snow Wolf
+Lobo de las nieves salvaje
+
+Wild Lion
+León salvaje
+
+Wild Cheetah
+Guepardo salvaje
+
+Wild Tiger
+Tigre salvaje
+
+Ice Tiger
+Tigre de hielo
+
+Night Cat
+Gato nocturno
+
+Cherub
+Querubín
+
+Frog {s}
+Rana $1
+
+Beetle {s}
+Escarabajo $1
+
+Golden Rooster {s}
+Gallo dorado $1
+
+Duck {s}
+Pato $1
+
+Donkey {s}
+Burro $1
+
+Goat {s}
+Cabra $1
+
+Steed {s}
+Caballo $1
+
+Cattle {s}
+Vaca $1
+
+Shorthair Cat {s}
+Gato de pelo corto $1
+
+Hound {s}
+Sabueso $1
+
+Curly Cat {s}
+Gato de pelo rizado $1
+
+Shepard Dog {s}
+Perro pastor $1
+
+Parrot {s}
+Loro $1
+
+Lizard {s}
+Lagarto $1
+
+Monkey {s}
+Mono $1
+
+Wild Eagle {s}
+Águila salvaje $1
+
+Hippo {s}
+Hipopótamo $1
+
+Boar {s}
+Jabalí $1
+
+Elephant {s}
+Elefante $1
+
+Brown Bear {s}
+Oso pardo $1
+
+Snow Wolf {s}
+Lobo de las nieves $1
+
+Lion {s}
+León $1
+
+Cheetah {s}
+Guepardo $1
+
+Tiger {s}
+Tigre $1
+
+Pixie {s}
+Hada $1
+
+Sprite {s}
+Duendecillo $1
+
+Goblin {s}
+Goblin $1
+
+Wild Frog {s}
+Rana salvaje $1
+
+Wild Beetle {s}
+Escarabajo salvaje $1
+
+Wild Golden Rooster {s}
+Gallo dorado salvaje $1
+
+Wild Duck {s}
+Pato salvaje $1
+
+Wild Donkey {s}
+Burro salvaje $1
+
+Wild Goat {s}
+Cabra salvaje $1
+
+Wild Steed {s}
+Caballo salvaje $1
+
+Wild Cattle {s}
+Vaca salvaje $1
+
+Wild Shorthair Cat {s}
+Gato de pelo corto salvaje $1
+
+Wild Hound {s}
+Sabueso salvaje $1
+
+Wild Curly Cat {s}
+Gato de pelo rizado salvaje $1
+
+Wild Shepard Dog {s}
+Perro pastor salvaje $1
+
+Wild Parrot {s}
+Loro salvaje $1
+
+Wild Lizard {s}
+Lagarto salvaje $1
+
+Wild Monkey {s}
+Mono salvaje $1
+
+Wild Hippo {s}
+Hipopótamo salvaje $1
+
+Wild Boar {s}
+Javalí salvaje $1
+
+Wild Elephant {s}
+Elefante salvaje $1
+
+Wild Brown Bear {s}
+Oso Pardo Salvaje $1
+
+Wild Snow Wolf {s}
+Lobo de las nieves salvaje $1
+
+Wild Lion {s}
+León salvaje $1
+
+Wild Cheetah {s}
+Guepardo salvaje $1
+
+Wild Tiger {s}
+Tigre salvaje $1
+
+Ice Tiger {s}
+Tigre de hielo $1
+
+Night Cat {s}
+Gato nocturno $1
+
+Cherub {s}
+Querubín $1
+
+Totem
+Tótem
+
+treasure chest
+Cofre del tesoro
+
+village chief Radome
+Radome; Jefe de la aldea
+
+Master Arthur
+Maestro Arturo
+
+Blacksmith Oak
+Herrero Oak
+
+Apothecary Mia
+Boticaria Mia
+
+Celestial Elder
+Anciano celestial
+
+guide villager
+Aldeano guía
+
+Master Katherine
+Maestra Katherine
+
+Master Taufan
+Maestro Taufan
+
+Blacksmith Zalachi
+Herrero Zalachi
+
+Pharmacist Dani
+Farmacéutica Dani
+
+Shard Marketplace
+Mercado de fragmentos
+
+Master Drunk
+Maestro borracho
+
+Witch Saffy
+Bruja Saffy
+
+Guard Captain Martin
+Martin; Capitán de la guardia
+
+Mayor Maureen
+Alcalde Maureen
+
+Citizen Kirk
+Ciudadano Kirk
+
+Artificer Milena
+Artesana Milena
+
+Girl hostage
+Niña rehén
+
+Priest Michelle
+Sacerdote Michelle
+
+Angie
+Angie
+
+Chancellor Bren
+Canciller Bren
+
+citizen Jasmine
+Ciudadana Jazmín
+
+Citizen Fanny
+Ciudadana Fanny
+
+Granny Skycloth
+Abuela con velo
+
+Natasha
+Natasha
+
+Chun Li
+Chun Li
+
+Blacksmith Ou Yezi
+Herrero Ou Yezi
+
+Grocer John
+Tendero John
+
+Master Kakarotto
+Maestro Kakarotto
+
+Master Elizabeth
+Maestra Elizabeth
+
+Master Pepper
+Maestra Pepper
+
+Weapon Merchant Gordon
+Comerciante de armas Gordon
+
+Bank receptionist Tamara
+Recepcionista bancaria Tamara
+
+Pet Trainer Granny Shen
+Abuelita Shen; entrenadora de mascotas
+
+Potion Merchant Zoma
+Comerciante de pociones Zoma
+
+Camp Administrator Sudon
+Sudon; Administrador del campamento
+
+Orc Dyson
+Orco Dyson
+
+Master Macghee
+Maestro Macghee
+
+Lord Garcina
+Señora Garcina
+
+Bank receptionist teleju
+Recepcionista bancario Teleju
+
+Blacksmith Marisol
+Herrera Marisol
+
+Grocer Lana
+Tendera Lana
+
+Weapon Merchant Claire
+Comerciante de armas Claire
+
+Jewelry Merchant Yuna
+Comerciante de joyas Yuna
+
+Artificer ilana
+Artesana Ilana
+
+Pet Trainer Isabella
+Entrenadora de mascotas Isabella
+
+Blacksmith Malcolm
+Herrero Malcolm
+
+Elder Johanna
+Anciana Johanna
+
+Blacksmith Senbei Norimaki
+Herrero Senbei Norimaki
+
+Armor Merchant Akizuki
+Comerciante de armaduras Akizuki
+
+Master Federo
+Maestro Federo
+
+Pope Saxon
+Papa Saxon
+
+Jewelry Merchant alpana
+Comerciante de joyas Alpana
+
+Potion Merchant Magnus
+Comerciante de pociones Magnus
+
+Weapon Merchant Monchia
+Comerciante de armas Monchia
+
+Grocer Sam
+Tendero Sam
+
+Artificer Ami
+Artesana Ami
+
+Bank receptionist Kaito
+Recepcionista Bancario Kaito
+
+Master Galaxia
+Maestra Galaxia
+
+Ecilian
+Ecilian
+
+Blacksmith Zosia
+Herrero Zosia
+
+Sister Mary
+Hermana Mary
+
+Master Shadow Killer
+Maestro asesino de las sombras
+
+Lord Barakhe
+señor Barakhe
+
+Potion Mona Lisa
+Poción Mona Lisa
+
+Blacksmith Sanchi
+Herrero Sanchi
+
+lazy sheep
+Oveja perezosa
+
+Bartender
+Barman
+
+Nina
+Nina
+
+Traveling Merchant
+Vendedora ambulante
+
+Hen
+Gallina
+
+Rooster
+Gallo
+
+chick
+Polluelo
+
+Grass Snake
+Serpiente de hierba
+
+Giant Snake
+Serpiente gigante
+
+porcupine
+Puercoespín
+
+steel tooth pig
+Cerdo con dientes de acero
+
+iron head pig
+Cerdo con cabeza de hierro
+
+Iron Paw Bear
+Oso con patas de hierro
+
+Iron Armor Bear
+Oso con armadura de hierro
+
+guinea pig
+Conejillo de indias
+
+chipmunk
+Ardilla listada
+
+mole
+mole
+
+man-eating rat
+Rata devoradora de hombres
+
+black bat
+Murciélago negro
+
+blood bat
+Murciélago sanguinario
+
+Pig-Face Bat King
+Rey murciélago Caradecerdo
+
+green snake
+Serpiente verde
+
+White Snake
+Serpiente blanca
+
+Anaconda
+Anaconda
+
+Black Rat
+Rata negra
+
+White Rat
+Rata blanca
+
+blowfly
+Moscardón
+
+Five-colored deer
+Ciervo pentacolor
+
+maroon horse
+Caballo granate
+
+Bullfinch
+Camachuelo
+
+Silver ring snake
+Serpiente de anillos plateados
+
+Bactrian camel
+Camello bactriano
+
+Alpaca
+Alpaca
+
+vulture
+Vuitre
+
+Golden eagle
+Águila dorada
+
+sand snake
+Serpiente de arena
+
+Death Worm
+Gusano de la muerte
+
+red armor Cattle
+Vaca con armadura roja
+
+seducing fox
+Zorro seductor
+
+black jackal
+chacal negro
+
+Bloodfang Wolf
+Lobo de colmillos sangrientos
+
+Sabertooth wolf
+Lobo dientes de sable
+
+white giant wolf
+Gran lobo blanco
+
+Man-wolf Caesar
+Hombre Lobo Caesar
+
+Piebald mosquito
+Mosquito Piebald
+
+slobber
+Babosa
+
+black leech
+sanguijuela negra
+
+Purple Toad
+Sapo púrpura
+
+green bullfrog
+Rana Toro verde
+
+Mud Slime
+Slime de barro
+
+Shapeshifting Slime
+Slime metamórfico
+
+Crested Penguin
+Pingüino crestado
+
+Ring Seal
+Foca anillada
+
+Sea Lion
+León marino
+
+Snow Leopard
+Leopardo de las nieves
+
+White Bear
+Oso polar
+
+Ice Lizard
+Lagarto de hielo
+
+Ice Queen Los
+Reina del hielo Los
+
+Blood Claw Cat
+Gato con garras sangrientas
+
+Lynx
+Lince
+
+Leopard
+Leopardo
+
+striped tiger
+Tigre rayado
+
+golden lion
+León dorado
+
+Wildcat Warrior
+Guerrero felino
+
+wildcat shooter
+Felino arquero
+
+Cat King Carter
+Rey gato Carter
+
+zombie
+Zombi
+
+mummy
+Momia
+
+little zombie
+Pequeño zombi
+
+ghoul
+Necrófago
+
+three-headed dog
+Perro de 3 cabezas
+
+Pharaoh Tar
+Faraón Tar
+
+frog
+rana
+
+water snake
+Serpiente acuática
+
+Piranha
+Piraña
+
+Inland sea monster
+Monstruo marino del interior
+
+Giant Crocodile
+Cocodrilo gigante
+
+sea monster
+Monstruo marino
+
+Gnome
+Gnomo
+
+Dwarf elf
+Elfo enano
+
+Dark elf
+Elfo oscuro
+
+Dwarf
+Enano
+
+Gnome Leader
+Líder gnomo
+
+Goblin Leader
+Líder goblin
+
+Dwarf elf elder
+Anciano elfo enano
+
+Dark Elf Leader
+Líder Elfo oscuro
+
+dwarf leader
+Líder enano
+
+Elven King Erth
+Rey élfico Erth
+
+flame chicken
+Pollo en llamas
+
+Flame Fox
+Zorro en llamas
+
+Flaming Wolf
+Lobo llameante
+
+Chasing Leopard
+Leopardo cazador
+
+Thunder Tiger
+Tigre del trueno
+
+Dark Flame Dragon
+Dragón de llamas oscuras
+
+Giant Fire Dog
+Perro de fuego gigante
+
+Fire Lord Balrog
+Señor del fuego Balrog
+
+Gophers
+Tuza
+
+miner zombie
+zombi minero
+
+Split Slime
+Slime dividido
+
+Maid Leliya
+Doncella Leliya
+
+maid mohani
+Doncella Mohani
+
+Zombie Priest
+Sacerdote Zombi
+
+green-winged fly
+mosca de alas verdes
+
+Bumblebee
+Abejorro
+
+plum sparrow
+Gorrión cirulero
+
+rattlesnake
+serpiente de cascabel
+
+golden monkey
+Mono dorado
+
+Dryad
+Dríada
+
+cannibal tree
+Árbol Caníbal
+
+Millennium Dryad King
+Rey dríada milenario
+
+cactus
+Cactus
+
+depravedPinocchio
+Pinocho depravado
+
+gargoyle
+Gárgola
+
+Slime chunks
+Pedazos del slime
+
+spotted seal
+Foca moteada
+
+black fur seal
+Foca de piel negra
+
+grey sea lion
+León marino gris
+
+plesiosaur
+Plesiosaurio
+
+green turtle
+Tortuga verde
+
+killer whale
+Orca
+
+Hydra
+Hidra
+
+Whale Monster Bigger
+Monstruo vallena gigante
+
+flame researcher
+Investigador de llamas
+
+Bomb Researcher
+Investigador de bombas
+
+Doctor Meow Meow
+Doctor Miau Miau
+
+Doctor's Robot
+Robot del doctor
+
+black centipede
+ciempiés negro
+
+blood spider
+Araña de sangre
+
+Crimson Scorpion
+Escorpión carmesí
+
+red-faced monkey
+Mono con cara roja
+
+Ghost Faced Monkey
+Mono con cara fantasmal
+
+King beetle
+Rey escarabajo
+
+great ape
+gran simio
+
+Monkey King Wukong
+Rey Mono Wukong
+
+little monkey
+Pequeño Mono
+
+Tauren Warrior
+Guerrero Tauren
+
+werewolf killer
+Hombre lobo asesino
+
+Centaur Archer
+Arquero centauro
+
+Lizardman Shaman
+Chamán Lagarto
+
+Raven Man Warlock
+Brujo hombre-cuervo
+
+Orc Commander
+Comandante Orco
+
+Orc Priest
+Sacerdote Orco
+
+Elder Orc
+Orco anciano
+
+barbarian tyrant
+tirano bárbaro
+
+Cannibal
+Caníbal
+
+Bloodthirsty Demon
+Demonio sanguinario
+
+little devil
+pequeño diablo
+
+Lightning Spirit
+Espíritu del relámpago
+
+Thunder Beast
+Bestia del Trueno
+
+Two-Faced Demon
+Demonio de dos caras
+
+Succubus
+Súcubo
+
+Thunder Lord
+Señor del Trueno
+
+evil spirit
+espíritu maligno
+
+Masked Knifeman
+Cuchillero enmascarado
+
+Masked Thrower
+Lanzador enmascarado
+
+Aqua Witch
+Bruja del agua
+
+Fire Witch
+Bruja del fuego
+
+Temptress
+Tentadora
+
+Nightmare
+Pesadilla
+
+Meteor Witch
+Bruja de los meteoritos
+
+Meteor Queen Elsa
+Elsa; reina de los meteoritos
+
+ghost jellyfish
+Medusa fantasma
+
+beak shar
+Tiburón colmilludo
+
+Pineapple Sea Urchin
+Erizo de mar de piña
+
+sun starfish
+Estrella solar de mar
+
+bubble fish
+Pez burbuja
+
+giant octopus
+Pulpo gigante
+
+Water elf
+Elfo de agua
+
+gyro sea urchin
+Erizo de mar giroscópico
+
+water demon
+Demonio de agua
+
+demonized Water Elf
+Elfo de agua demonizado
+
+bear merman
+Oso tritón
+
+Mermaid Princess
+Princesa sirena
+
+Apostle
+Apóstol
+
+Harpy
+Arpía
+
+Hag
+Bruja
+
+Black Witcher
+Brujo negro
+
+Death Knight
+Caballero de la muerte
+
+Dark Messenger
+Mensajero oscuro
+
+Altar Guard
+Guardia del Altar
+
+Dark Priest
+Sacerdote oscuro
+
+Skeleton Knifeman
+Esqueleto cuchillero
+
+Skeleton Archer
+Arquero esqueleto
+
+Blood Skull
+Calavera sangrienta
+
+golden skull
+Calavera dorada
+
+Skeleton Knight
+Caballero esqueleto
+
+statue guard
+Estatua guardiana
+
+black skull
+Calavera negra
+
+Lich King
+Rey Exánime
+
+Jack-O'-Lantern
+Jack-O'-Lantern
+
+ghost
+Fantasma
+
+Dark soul
+Alma oscura
+
+undead
+No muerto
+
+Necro
+Necro
+
+Wraith
+Espectro
+
+temptress
+tentadora
+
+Robot Fly
+Mosca robótica
+
+Robot Bird
+pájaro robótico
+
+Robot Dog
+perro robótico
+
+Robot Cat
+gato robótico
+
+Robot Dinosaur
+dinosaurio robótico
+
+Robot guard
+Guardia robótico
+
+vampire child
+Niño vampiro
+
+vampire girl
+Vampiresa joven
+
+vampire boy
+Vampiro joven
+
+vampire Lady
+dama vampiresa
+
+Vampire Knight
+Caballero Vampiro
+
+Vampire Earl
+Conde vampiro
+
+Vampire Elder
+vampiro Anciano 
+
+vampire lord dracula
+Drácula; señor de los vampiros
+
+locust
+langosta
+
+black bear
+oso negro
+
+black bear king
+rey oso negro
+
+Leo
+Leo
+
+cow
+Vaca
+
+Gadfly
+Tábano
+
+sheep
+Oveja
+
+goat
+Cabra
+
+ox
+Buey
+
+Marshall
+Marshall
+
+demonized Blood Bat
+Murciélago de sangre demonizado
+
+demonized cannibal tree
+Árbol caníbal demonizado
+
+demonized white wolf
+Lobo blanco demonizado
+
+Mud King
+Rey del barro
+
+Wildcat leader
+líder felino
+
+hell's three-headed dog
+Perro infernal de tres cabezas
+
+demonized Fire-breathing Beast
+Escupefuegos demonizado
+
+demonized killer whale
+orca demonizada
+
+demonized Sand Snake
+Serpiente de arena demonizada
+
+Ice blue lizard
+Lagarto azul de hielo
+
+Robot Sergeant
+Sargento robot
+
+Two-headed Demon
+Demonio de dos cabezas
+
+Elf Prince
+Príncipe elfo
+
+Guard
+Guardia
+
+Rick
+Rick
+
+Santa Claus
+Papá Noel
+
+Man-eating Flower
+Flor devoradora de hombres
+
+Demonized Man-eating Tree
+Árbol devorador de hombres demonizado
+
+rat
+Rata
+
+Demonized man-eating rat
+Rata devoradora de hombres demonizada
+
+bat
+Murciélago
+
+Snake
+Serpiente
+
+Demonized Colorful Boa
+Boa colorida demonizada
+
+millipede
+Milpiés
+
+Demonized centipede
+Ciempiés demonizado
+
+boar
+Jabalí
+
+boar leader
+Líder jabalí
+
+bear
+Oso
+
+Giant Bear Leader
+Líder oso gigante
+
+Dog
+Perro
+
+Vicious Dog leader
+Líder perro feroz
+
+wolf
+lobo
+
+Vicious Wolf Leader
+Líder Lobo Feroz
+
+Cat
+Gato
+
+Demonized Cat
+Gato demonizado
+
+Demon Cheetah Leader
+Líder guepardo demoníaco
+
+Demon Tiger Leader
+Líder tigre demoníaco
+
+Demon Lion Leader
+Líder león demoníaco
+
+Crypt Demon Ape
+Mono demoníaco de la cripta
+
+dragon
+Dragón
+
+Black T-Rex
+Tiranosaurio rex negro
+
+stone monster
+monstruo de piedra
+
+Stone Troll
+Trol de piedra
+
+little demon
+pequeño demonio
+
+Imp
+Diablillo
+
+demon zomby
+zombi demonio
+
+Skeleton
+Esqueleto
+
+Bone Demon
+Demonio de hueso
+
+Ghost
+Fantasma
+
+Demonized Insect King
+Rey Insecto Demonizado
+
+demonized cat king
+rey gato demonizado
+
+Hellfire Dragon
+Dragón de fuego infernal
+
+Mountain Thief
+Ladrón de la montaña
+
+Mountain Thief Leader
+Líder de los ladrones de la montaña
+
+Mountain Bandit
+Bandido de la montaña
+
+Mountain Bandit Leader
+Líder de los bandidos de la montaña
+
+Bandit Leader Akana
+Akana; Líder de los bandidos
+
+demonized Boar king
+Rey jabalí demonizado
+
+Gnome Thrower
+Lanzador gnomo
+
+Gnome Guard
+Guardia gnomo
+
+Goblin Shooter
+Arquero goblin
+
+Goblin Guard
+Guardia goblin
+
+Giant Pig-faced bat
+Murciélago gigante cara de cerdo
+
+Giant Dryad
+dríada gigante
+
+blood red worm
+gusano carmesí
+
+Brutal Man-Wolf
+Hombre lobo sanguinario 
+
+Evil Cat King
+Rey gato malvado
+
+Demon Sentinel
+Centinela demonio
+
+Demon Lieutenant
+Teniente demonio
+
+Bigmouth
+Bocagrande
+
+Sparrow
+Gorrión
+
+jackal
+Chacal
+
+Blood Demon Wolf
+Lobo demonio sangriento
+
+Demon Wolf General
+General lobo demonio
+
+Demon Fox Soldier
+Soldado zorro demonio
+
+slime worm
+gusano slime
+
+blood-sucking earthworm
+lombriz chupasangre
+
+angry big mouth
+Bocagrande enfadado
+
+poisonous spider
+Araña venenosa
+
+giant spider
+Araña gigante
+
+demonized Boar
+Jabalí demonizado
+
+Color slime
+Slime multicolor
+
+Emperor Slime
+Slime Emperador
+
+Mad Bull
+Toro Loco
+
+Red-eyed Mad Bull
+Toro loco de ojos rojos
+
+Demon Bull Warrior
+Guerrero toro demonio
+
+Demon goat Sentry
+Cabra demonio centinela
+
+Bull King
+Rey toro
+
+Demonized Lyria
+Lyria demonizada
+
+Demonized Mohani
+Mohani demonizada
+
+Magic Swordsman
+Espadachín mágico
+
+Black Mage
+Mago negro
+
+Demon warrior
+Guerrero demonio
+
+Executioner
+Verdugo
+
+Pilgrim
+Peregrino
+
+black bishop
+obispo negro
+
+Black Blade Guard
+Guardia cuchillas negras
+
+dark magic Guard
+Guardia mágico oscuro
+
+Tsundere Demon Cat
+Gata demonio tsundere
+
+Elite demon Cat
+Gato demoníaco de élite
+
+Golden Tiger Guard
+Guardián tigre dorado
+
+Princess Cathy
+Princesa Cathy
+
+black bear
+Oso negro
+
+white bear
+Oso blanco
+
+demonized black bear
+Oso negro demonizado
+
+demonized white bear
+Oso blanco demonizado
+
+Grizzly King
+Rey oso pardo
+
+zombie warrior
+Guerrero zombi
+
+Zombie Mage
+Mago zombi
+
+Zombie general
+General zombi
+
+Zombie Archmage
+Archimago zombi
+
+Zombie King
+Rey zombi
+
+Demonized Pinocchio
+Pinocho demonizado
+
+experimental form
+Forma experimental
+
+mutant form
+Forma mutante
+
+Demonist
+Demonista
+
+Elemental Elf
+Elfo elemental
+
+Dream Elf Avril
+Avril, la elfa de los sueños
+
+Bakamu beast
+Bestia Bakamu
+
+Humanoid Bach
+Bach humanoide
+
+Bachwood Beast
+Bestia Bach de madera
+
+Undead Bakamu
+Bakamu No-muerto
+
+demon Balu
+Demonio Baru
+
+Invincible Bamu beast
+Bestia invencible Bamu
+
+toothed sea lion
+león marino dentado
+
+crampon snow leopard
+Leopardo de carga de las nieves
+
+Swallowtail Penguin
+Pingüino con cola de golondrina
+
+ice seal
+Foca de hielo
+
+hostaged soldier
+soldado secuestrado
+
+hostaged resident
+residente secuestrado
+
+Mud Monster
+Monstruo de barro
+
+small slime
+pequeño slime
+
+Big Slime
+gran slime
+
+apostate 
+apóstata
+
+rioting prisoner
+Prisionero amotinado
+
+prison head
+Jefe de la prisión
+
+water monster
+monstruo acuático
+
+water monster elite
+Monstruo acuático de élite
+
+water monster king
+Rey monstruo acuático
+
+piranha
+piraña
+
+tree puppet
+Árbol marioneta
+
+Guardian
+guardián
+
+mine spider
+Araña de la mina
+
+mine fly
+Mosca de mina|
+
+Aham
+Aham
+
+Mutant Cactus
+Cactus mutante
+
+vampire
+Vampiro
+
+Zombie Lord
+Señor zombi
+
+Guardian Shadick
+Guardián Shadick
+
+sand eagle
+Águila de arena
+
+Scorpion
+Escorpión
+
+little bat putra
+Pequeño murciélago Putra
+
+Note sprite
+Nota duende
+
+note monster
+Nota monstruo
+
+Naughty Elf
+Elfo travieso
+
+Electro ball
+Electrobola
+
+laser transmitter
+Transmisor láser
+
+Tyrannosaurus
+tiranosaurio
+
+Chief Robot
+Robot jefe
+
+Potato
+Patata
+
+tomato
+tomate
+
+Chestnut
+castañas
+
+food processor
+Procesador de comida
+
+black snake king
+Rey serpiente negra
+
+Zombie Guard
+Guardia Zombi
+
+single skull
+Calavera solitaria
+
+Fragrant Konjac
+Konjac fragante
+
+goblin miner
+minero goblin
+
+Goblin Sapper
+Hacedor de goblins
+
+Goblin overseer
+Supervisor goblin
+
+white rat
+rata blanca
+
+mechanic
+mecánico
+
+Large tube wheel (two tube wheel, three tube wheel)
+Rueda tubular grande (rueda de dos tubos, rueda de tres tubos)
+
+chief engineer
+Jefe ingeniero
+
+sailor
+marinero
+
+Boatswain
+Contramaestre
+
+First Mate (Second and Third Mate)
+Primer oficial (Segundo y tercer oficial)
+
+captain
+capitán
+
+Yeti
+Yeti
+
+Yeti Guard
+Guardia Yeti
+
+Yeti King
+rey yeti
+
+Crimson boar
+Jabalí carmesí
+
+boar Leader
+Líder jabalí
+
+demon boar king
+rey jabalí demoníaco
+
+super mechanic
+súper mecánico
+
+Patroling Robot Bird
+Pájaro robot patrullero
+
+robot dog
+roboperro
+
+robot cat
+robogato
+
+robot guard
+roboguardia
+
+fire cat
+gato de fuego
+
+bomb cat
+Gato bomba
+
+super mech
+súper mecha
+
+little devil guard
+pequeño guardia diablo
+
+demon Gatekeeper
+Portero demonio
+
+demon servant
+sirviente demonio
+
+Giant demon
+demonio gigante
+
+Giant Patrol demon
+Demonio Patrullero Gigante
+
+magpie
+urraca
+
+wolf leader
+líder lobo
+
+moth
+polilla
+
+zombie dog
+perro zombi
+
+Demon Samael
+demonio Samael
+
+little sea monster
+pequeño monstruo marino
+
+sea ??monster
+monstruo marino
+
+space fighter
+luchador espacial
+
+Demon princess
+princesa demonio
+
+Demon sentinel
+centinela demonio
+
+Rampage demon
+demonio alborotado
+
+Demon Guard
+Guardia demonio
+
+alien
+alienígena
+
+alien warlord
+jefe militar alienígena
+
+Super Fire Lord
+Súper Señor del Fuego
+
+Super Whale Monster
+super ballena monstruosa
+
+apprentice knight
+aprendiz de caballero
+
+wooden man
+hombre de madera
+
+truck
+camión
+
+Stone Guard
+Guardia de piedra
+
+Mechanical Guard
+Guardia mecánico
+
+super Pinocchio
+súper pinocho
+
+Gnome captain
+capitán gnomo
+
+Goblin Captain
+capitán goblin
+
+super elf king
+súper rey elfo
+
+Undead Wraith
+Espectro no muerto
+
+Trick Pumpkin
+Calabaza trucada
+
+dragon man
+hombre Dragón
+
+Dragon man Guard
+Guardia hombre dragón
+
+Frozen Snake King
+Rey serpiente congelada
+
+prehistoric dragon
+dragón prehistórico
+
+Little Evilclaw
+Pequeño Garra Maligna
+
+Evilclaw
+Garra maligna
+
+Frozen Snake
+Serpiente congelada
+
+Evilclaw Elite
+Garra Malvada de élite
+
+Frozen Snake Elite
+Serpiente Congelada de élite
+
+little Frozen Snake
+pequeña serpiente congelada
+
+demonized Pig-Face Bat King
+rey murciélago cara de cerdo demonizado
+
+Demonized Millennium Dryad King
+Rey dríada milenario demonizado
+
+Demonized Death Worm
+Gusano de la muerte demonizado
+
+Demonized Man-wolf Caesar
+Hombre-lobo Caesar demonizado
+
+Demonized Shapeshifting Slime
+Slime metamórfico demonizado
+
+Demonized Ice Queen Los
+Reina del hielo Los demonizada
+
+Demonized Cat King Carter
+Rey gato Carter demonizado
+
+Demonized Pharaoh Tar
+Faraón Tar demonizado
+
+Demonized Elven King Erth
+Rey élfico Erth demonizado
+
+Demonized Fire Lord Balrog
+Señor del Fuego Balrog demonizado
+
+Demonized Whale Monster Bigger
+super ballena monstruosa demonizada
+
+Doctor's Super Robot
+Super robot del doctor
+
+Demonized Monkey King
+Rey mono demonizado
+
+Demonized barbarian tyrant
+Tirano bárbaro demonizado
+
+Demonized Thunder Lord
+Señor del trueno demonizado
+
+Demonized Lich King
+Rey Exánime Demonizado
+
+Demonized evil spirit
+Espíritu maligno demonizado
+
+Dragon Guard
+Dragón guardián
+
+Guardian Sky
+Guardián del cielo
+
+guardian earth
+guardián de la tierra
+
+Guardian Wind
+Guardián del Viento
+
+Guardian thunder
+Guardián del trueno
+
+Guardian Water
+Guardián del Agua
+
+Guardian Fire
+Guardián del fuego
+
+Guardian Mountain
+Guardián de la Montaña
+
+Guardian River
+guardián del río
+
+statue
+estatua
+
+Wild Dragon
+dragón salvaje
+
+Iron eater
+devorador de hierro
+
+Iron eater king
+Rey devorador de hierro
+
+Guard Captain
+capitán de la guardia
+
+Black
+Negro
+
+Year Beast
+bestia del año
+
+King of Year Beasts
+Rey de las bestias del año
+
+mouse
+ratón
+
+bull
+toro
+
+Rabbit
+Conejo
+
+snake
+serpiente
+
+horse
+caballo
+
+Dragon
+Dragón
+
+monkey
+mono
+
+chicken
+pollo
+
+dog
+perro
+
+pig
+cerdo
+
+Tiger King
+rey tigre
+
+dark killer
+asesino oscuro
+
+Dark Mage
+Mago oscuro
+
+dark warrior
+Guerrero oscuro
+
+dark commander
+comandante oscuro
+
+Demonized Mermaid Princess
+Princesa sirena demonizada
+
+Death knight
+Caballero de la muerte
+
+termite
+termita
+
+shark
+tiburón
+
+blaster
+bláster 
+
+treasure thief
+ladrón de tesoros
+
+Mutant Skeleton
+esqueleto mutante
+
+Dark Veteran
+Veterano oscuro
+
+dark hero
+héroe oscuro
+
+dark missionary
+misionero oscuro
+
+Brann
+Brann
+
+Kungler
+Kungler
+
+hound
+sabueso
+
+prank clown
+payaso bromista
+
+Dark Spiritist
+Espiritista oscuro
+
+Dark Servant
+Sirviente oscuro
+
+defender
+defensor
+
+Elite Crusader
+Cruzado élite
+
+Dark Defender
+Defensor oscuro
+
+Harlan
+Harlan
+
+Dark Centurion
+Centurión oscuro
+
+Witcher
+brujo
+
+monk
+monje
+
+Kolov
+Kolov
+
+Mograine
+Mograine
+
+whitemane
+melenablanca
+
+dark Crusader
+cruzado oscuro
+
+dark archer
+arquero oscuro
+
+Bandage Freak
+monstruo de las vendas
+
+zombie waiter
+camarero zombi
+
+zombie commander
+comandante zombi
+
+zombie King
+rey zombi
+
+stone lion
+león de piedra
+
+bomb-man
+hombre bomba
+
+lightsaber warrior
+guerrero sable de luz
+
+crazy gear
+Equipamiento loco
+
+giant fruit
+fruta gigante
+
+huge drumstick
+Baqueta enorme
+
+Demon Warrior
+guerrero demonio
+
+Demon soldier
+soldado demonio
+
+Devil Totem
+Tótem diabólico
+
+masked killer
+asesino enmascarado
+
+killer officer
+oficial asesino
+
+twins killer
+asesino de gemelos
+
+pig man
+hombre cerdo
+
+Orc demon
+demonio orco
+
+Demon Archer
+Arquero demonio
+
+Demon General
+general demonio
+
+Yeti monster
+Monstruo yeti
+
+Cave Yeti
+cueva yeti
+
+Yeti girl
+chica yeti
+
+Demon Bear
+Oso demonio
+
+Demon Bear Chief
+Jefe Oso Demonio
+
+Bearman Commander
+Comandante hombre oso
+
+Lord of the Undead
+Señor de los muertos vivientes
+
+earth wall
+muro de tierra
+
+Plague Monster
+Monstruo de la plaga
+
+Plague Behemoth
+Behemoth de la plaga
+
+dead soul
+alma muerta
+
+Lord of the dead soul
+Señor del alma muerta
+
+mummy pharaoh
+Momia faraónica
+
+Ancestral Zombie
+Zombi ancestral
+
+Elsa of the dream
+Elsa de los sueños
+
+dream eater
+comesueños
+
+Skeleton Soldier
+Soldado esqueleto
+
+Skeleton general
+general esqueleto
+
+hairy crab
+cangrejo peludo
+
+Maggie
+Maggie
+
+Miyuki
+Miyuki
+
+Yan Lili
+Yan Lili
+
+Satsuki
+Satsuki
+
+black queen bee
+reina abeja negra
+
+black bee
+abeja negra
+
+earth eater
+devorador de tierra
+
+Kodo
+Kodo
+
+red eye beast
+bestia de ojos rojos
+
+blue faced beast
+bestia de cara azul
+
+green head beast
+bestia de cabeza verde
+
+believer in white
+Monje blanco
+
+believer in black
+Monje negro
+
+Ethos bishop
+obispo Ethos
+
+male gangster
+Pandillero
+
+female gangster
+Pandillera
+
+Bandit Kunshan
+Bandido Kunshan
+
+Bandit Natasha
+Bandida Natasha
+
+Scout
+Scout
+
+guard
+Guardia
+
+Berserker
+Berserker
+
+Garlic Loofah
+Garlic Loofah
+
+crusty zombie
+zombi crujiente
+
+Super Pharaoh
+súper faraón
+
+zombie ghost
+zombi fantasmal
+
+captain of the guard
+capitán de la guardia
+
+base guard
+guardia de la base
+
+devil Gomez
+diablo Gómez
+
+little warrior
+pequeño guerrero
+
+sentry tower
+torre centinela
+
+Crystal Tower
+Torre de cristal
+
+Wall barricade
+Barricada
+
+Magnetic car
+Carro magnético
+
+root package
+paquete de raíces
+
+fish reef
+arrecife de peces
+
+wedding float
+carroza de bodas
+
+barricade
+barricada
+
+tempered glass
+vidrio templado
+
+tree stump
+tocón de árbol
+
+Door
+Puerta
+
+railing
+barandilla
+
+cabinet
+gabinete
+
+show window
+ventana panorámica
+
+wooden container
+contenedor de madera
+
+fence
+valla
+
+cfence
+Cerca
+
+low wall
+muro inferior
+
+rickshaw
+Muro serrado
+
+barrier
+barrera
+
+fruit tree
+Árbol frutal
+
+cbarrier
+Verja
+
+rock
+roca
+
+machine
+máquina
+
+Spirit Crystal
+Cristal espiritual
+
+Bonfire
+Hoguera
+
+board
+tablero
+
+torch
+antorcha
+
+button
+botón
+
+broom
+Escoba
+
+scarf
+bufanda
+
+hat
+sombrero
+
+snowball
+bola de nieve
+
+stone
+Piedra
+
+iron wall
+muro de hierro
+
+wall
+pared
+
+Exquisite gift box
+caja de regalo Exquisita
+
+crystal trophy
+trofeo de cristal
+
+arnebia
+arnebia
+
+wooden box
+caja de madera
+
+clown box
+caja de payaso
+
+warehouse
+Almacén
+
+Level {d} supply camp
+Campamento de suministros de nivel $1
+
+Level {d} Magic Cannon
+Cañón Mágico de nivel $1
+
+Magic Cannon
+Cañón Mágico
+
+wood warrior
+guerrero de madera
+
+wood shooter
+Arquero de madera
+
+Catapult
+Catapulta
+
+mech warrior
+mecaguerrero
+
+Iron Warrior
+Guerrero de hierro
+
+wooden stake
+estaca de madera
+
+cannon
+cañón
+
+Core Electronics
+Núcleo electrónico
+
+withered crops
+cultivos marchitos
+
+Clay pig
+Cerdo de arcilla
+
+silver pig
+cerdo plateado
+
+Golden Pig
+cerdo dorado
+
+Wolf King Crystal
+Cristal del Rey Lobo
+
+Electronic lock
+cerradura electrónica
+
+phantom Lyria
+Fantasma Lyria
+
+Phantom Mohani
+Fantasma Mohani
+
+ice wall
+muro de hielo
+
+puppet soldier
+soldado títere
+
+Iron Guard
+Guardia de Hierro
+
+monster maker
+Generador de monstruos
+
+105 smoothbore gun
+105 pistola de ánima lisa
+
+cannonball
+bala de cañón
+
+150 antiaircraft gun
+150 arma antiaérea
+
+Cannon
+Cañón
+
+time bomb
+bomba de relojería
+
+Camera
+Cámara
+
+hunting net
+red de caza
+
+hunting chest
+cofre de caza
+
+miniature chariot
+carro en miniatura
+
+mini fighter
+mini luchador
+
+barrel
+barril
+
+supercomputer
+supercomputador
+
+magma polymerisation
+polimerización de magma
+
+dragon power stone
+Piedra de poder del dragón
+
+remote control bomb
+bomba a control remoto
+
+smoothbore gun
+pistola de ánima lisa
+
+Black Heavy Armor
+Armadura pesada negra
+
+fireworks
+fuegos artificiales
+
+stone gate
+puerta de piedra
+
+Rolling Stone
+Piedra rodante
+
+toy car
+coche de juguete
+
+balloon
+globo
+
+halo
+halo
+
+automatic crossbow
+ballesta automática
+
+Mirror of Soul
+espejo del alma
+
+avalanche
+avalancha
+
+concealed arrow
+flecha oculta
+
+black hole
+agujero negro
+
+prison door
+puerta de la prisión
+
+Sharp Claw Cat
+Gato de garras afiladas
+
+Shadow Assassin
+Asesina de las sombras
+
+Forger Nagano kawa
+Forjador Nagano kawa
+
+Angry Bigmouth
+Boca grande enfadado
+
+Macaque
+Macaco
+
+Blacksmith Zarachi
+Herrero Zarachi
+
+dungeon north gate
+puerta norte de la mazmorra
+
+Demonized Man-wolf
+Hombre-lobo demonizado
+
+Mirage Fairy
+hada del espejismo
+
+Medicine Storage Construction
+Construcción del almacén de medicina
+
+Alien base {d}
+base alienígena $1
+
+Back Door
+Puerta trasera
+
+Red Mane Lion
+León melena roja
+
+Hunting Chest
+Cofre de caza
+
+Jewelry Merchant Clara
+Comerciante de joyas Clara
+
+Blue Slime
+Slime Azul
+
+Fleeing Rattlesnake
+Serpiente de cascabel huidiza
+
+The door lock is open
+La cerradura de la puerta se abrió.
+
+Civilian Puppy
+Civil Puppy
+
+secret roomsouth gate
+puerta sur de la habitación secreta 
+
+Man-eating Rat Duplicate
+Clon de Rata Devoradora de Hombres
+
+juicer
+exprimidor
+
+ghost vacuum cleaner
+aspiradora fantasmal
+
+Damaged Artillery stand
+Soporte de artillería dañado
+
+Level {d} Magic Cannon Construction
+Construcción de cañón mágico de nivél $1
+
+Armory Construction
+Construcción de la armería
+
+Bubble barrier
+barrera de burbujas
+
+Ansible Space-time marketplace; Press G to check the product details.
+Mercado espaciotemporal; Pulsa "G" para revisar los detalles de los productos
+
+Laser cannon {d}
+Cañón láser $1
+
+Fleeing lion
+León huidizo
+
+Demons' Base
+Base de los demonios
+
+Do
+Do
+
+Mountain gate
+puerta de la montaña
+
+Demonized Cat King
+Rey gato demonizado
+
+Christmas tree
+árbol de Navidad
+
+Carnivorous Bat
+Murciélago carnívoro
+
+Mutant Hen
+gallina mutante
+
+Pirate Ship Teleportation Circle
+Círculo de teletransportación del barco pirata
+
+Colorful Boa Duplicate
+Clon de boa colorida
+
+Armor Merchant Jonny
+Comerciante de armaduras Jonny
+
+Wisdom Tree
+Árbol de la sabiduría
+
+Fa
+Fa
+
+Hell Wraith
+Espectro infernal
+
+Weaver Girl
+Chica tejedora
+
+Luke
+Luke
+
+Highland Entrance
+Entrada de las Tierras Altas
+
+Gem Craftsman Sarah
+Sintetizadora de gemas Sarah
+
+fence gate
+puerta de la cerca
+
+Wraith duplicate
+Clon de espectro
+
+Beautiful Gift Box
+Hermosa caja de regalo
+
+Exploding Ship
+Nave explosiva
+
+Jewelry Merchant Red
+Comerciante de joyas Red
+
+Mysterious Elder
+Anciano misterioso
+
+Fleeing Living Dead
+No Muerto huidizo
+
+Tana
+Tana
+
+Hexagram Platform
+Plataforma del Hexagrama
+
+Black Stone Monster
+Monstruo de piedra negra
+
+Ghost vacuum cleaner
+aspiradora fantasmal
+
+Caravan grocer Adam
+Adam; Tendero de la caravana
+
+Millipede
+Milpiés
+
+Recycle Station
+Estación de reciclaje
+
+dungeon south gate
+puerta sur de la mazmorra
+
+East encampment reinforced construction
+Construcción de refuerzo del campamento este
+
+Civilian Batty
+Civil Batty
+
+Tusk Rat
+Rata colmilluda
+
+Button on the stone gate
+Botón en la puerta de piedra
+
+potato
+patata
+
+Rattlesnake
+Serpiente de cascabel
+
+Material Storage
+Almacén de materiales
+
+Black Boar
+jabalí negro
+
+Civilian Yasmin
+Civil Yasmin
+
+Townsfolk Rachee
+Pueblerina Rachee
+
+Civilian Gadane
+Civil Gadane
+
+Lock
+Cerradura
+
+movable stake
+estaca móvil
+
+Rampage Bear
+Oso furioso
+
+Villager Kevin
+Aldeano Kevin
+
+Grain basket
+Cesta para grano
+
+Galaxy
+Galaxia
+
+Emcee
+Maestra de ceremonias
+
+Loki Union Envoy Claire
+Claire; Embajadora de la federación Loki
+
+Bank receptionist Gin
+Recepcionista bancario Gin
+
+Marbles
+Canicas
+
+Stegosaurus
+Estegosaurio
+
+God of Love
+Dios del amor
+
+Herbal Mountain Teleportation Circle
+Círculo de teletransportación de la montaña de hierbas
+
+Cockroaches
+cucaracha
+
+Fleeing Strong Bear
+fuerte Oso huidizo
+
+Head of Outer hall
+Jefe del salón exterior
+
+Level {d} Supply Camp Construction
+Construcción de campamento de suministros de nivel $1
+
+Maintenance of ancient buildings
+Mantenimiento de edificios antiguos
+
+Fleeing Man-eating Rat
+Rata devoradora de hombres huidiza
+
+Vicious Dog leader Duplicate
+Clon de líder perro feroz
+
+Monica
+Mónica
+
+Ceratops
+cerátops
+
+Fisherman Poseidon
+Pescador Poseidón
+
+Blacksmith
+Herrero
+
+Audio Player
+Reproductor de música
+
+Gem Craftsman Jim
+Sintetizador de gemas Jim
+
+Gang Tournament Messenger Gouken
+Mensajero del Torneo de Pandillas Gouken
+
+Village Chief Lorenzo
+Lorenzo; jefe de la aldea
+
+Mage Aratta
+maga Aratta
+
+Villager Ginger Head
+Aldeano Cabeza de Jengibre
+
+Townsfolk
+Pueblerinos
+
+Maze Guard
+Guardia del laberinto
+
+Village Chief Datin
+Datin; jefe de la aldea
+
+Fleeing Demon Skeleton
+Esqueleto de demonio huidizo
+
+Almost-ripe rice spikelet
+Espiga de arroz casi madura
+
+Blood-Red Worm
+Gusano rojo-sangre
+
+Mountain Stronghold Sentry
+Centinela de la fortaleza de la montaña
+
+Drummer
+Baterista
+
+General Paul
+General Paul
+
+Living Dead
+Muertos vivientes
+
+Fleeing Boar Leader
+Líder jabalí uhidizo
+
+Village Chief Melon Head
+Melon Head; Jefe de la aldea
+
+Jewelry Merchant Mimi
+Comerciante de joyas Mimi
+
+confession room south gate
+puerta sur del confesionario 
+
+Inner hall Guard
+Guardia del pasillo interior
+
+Civilian Fanny
+Civil Fanny
+
+Captain Cassi
+Capitán Cassi
+
+Nether Cave
+Cueva Abisal
+
+Breeding room Construction
+Construcción del criadero
+
+mixer
+mezclador
+
+Village Chief Konanna
+Konanna; jefa de la aldea
+
+Iron Claw Cat
+Gato con Garras de Hierro
+
+ctrl
+Control
+
+Blue Stone Monster
+Monstruo de piedra azul
+
+Garth Empire Envoy Sanmu
+Sanmu; embajador del Imperio Garth
+
+Potion Merchant
+Comerciante de pociones
+
+Re
+Re
+
+Locked door
+Puerta bloqueada
+
+Fleeing White Skeleton
+Esqueleto blanco huidizo
+
+Sophie
+Sophie
+
+Sentry Tower
+Torre centinela
+
+courtyard gate
+puerta del patio
+
+pudding
+pudin
+
+Villager Mrs. Shen
+Aldeana Señora Shen
+
+CTRL
+Control
+
+stone slate
+pizarra de piedra
+
+Strong Bear
+oso fuerte
+
+Electronic Console
+Consola electrónica
+
+Black Tiger
+Tigre negro
+
+Commander Aydar
+Comandante Aydar
+
+Ice maze Teleportation Circle
+Círculo de teletransportación del laberinto de hielo 
+
+Fleeing Man-eating Tree
+Árbol devorador de hombres huidizo
+
+Demon Tiger duplicate
+Clon de tigre demonio
+
+Rain of Arnebia
+Lluvia de Arnebia
+
+Gem Craftsman Narissa
+Sintetizadora de gemas Narissa
+
+Vicious Wolf Leader duplicate
+Clon de Líder Lobo Feroz
+
+Highland Construction
+Construcción de las tierras altas
+
+Flute Player
+flautista
+
+Ore Buyer Jordan
+Comprador de minerales Jordan
+
+Red Boar
+jabalí rojo
+
+Fleeing Pointy Mouth Rat
+Rata de boca puntiaguda huidiza
+
+electronic lock
+cerradura electrónica
+
+Wandering Villager
+Aldeano errante
+
+Fleeing giant Bear Leader
+líder oso gigante huidizo
+
+Lake Construction
+Construcción del lago
+
+Monami
+Monami
+
+Ripe rice spikelet
+Espiga de arroz maduro
+
+Demon Skeleton duplicate
+Clon de Esqueleto de Demonio
+
+Grinder
+Grinder
+
+Path Keeper
+guardián del camino
+
+war zone shop
+tienda de la zona de guerra
+
+Seed Keeper
+Guardián de las semillas
+
+Villager
+Aldeano
+
+Hell Fire Dragon
+Dragón de fuego infernal
+
+Civilian Zachary
+Civil Zachary
+
+Pharmacy room Construction
+Construcción de la farmacia
+
+Messenger
+Mensajero
+
+Chimney
+Chimney
+
+Artillery stand
+Puesto de artillería
+
+Civilian Aesop
+Civil Aesop
+
+Car door
+Puerta del coche
+
+Crystal Turret
+Torreta de cristal
+
+Mechanism
+Mecanismo
+
+Crystal Slime
+Slime de cristal
+
+Villager Zodafir
+Aldeano Zodafir
+
+Circular groove
+Ranura circular
+
+Soldier
+Soldado
+
+Villager Rice
+Aldeana Rice
+
+Old Villager
+viejo aldeano
+
+Militiaman Ulan
+Militar Ulan
+
+Demonized Death worm
+Gusano de la muerte demonizado
+
+Animal Shed
+cobertizo para animales
+
+Grocer Henry
+Tendero Henry
+
+Mutant Duck
+pato mutante
+
+Herbal Garden Entrance
+Entrada al jardín de hierbas
+
+River water
+agua del río
+
+Test room south gate
+puerta sur de la sala de pruebas
+
+Lake Entrance
+Entrada al lago
+
+Ice Stone
+Piedra de hielo
+
+door
+puerta
+
+Elemental Crystal
+Cristal elemental
+
+Instructor Hargard
+Instructor Hargard
+
+Forger Ganjiang
+Forjador Ganjiang
+
+Grass carp
+Carpa herbívora
+
+Demon Ape duplicate
+Clon de Mono Demonio
+
+Smelting room Construction
+Construcción de Sala de fundido
+
+Heaven Jade
+Jade celestial
+
+secret room north door
+puerta norte de la habitación secreta
+
+Guard Jack
+Guardia Jack
+
+Keyboard Player
+tecladista
+
+Sharp Fang Wolf
+Lobo de Colmillos Afilados
+
+Townsfolk Mike
+Pueblerino Mike
+
+Villager Merlin
+Aldeana Merlin
+
+Senior Huntress
+Cazadora sénior
+
+Villager Mattes
+Aldeano Mattes
+
+Lucadan
+Lucadan
+
+Forger
+Forjador
+
+Kidnapped girl
+niña secuestrada
+
+Undersea treasure hunt
+Búsqueda del tesoro submarino
+
+A letter
+Una carta
+
+Black Witch
+Bruja negra
+
+Little Girl
+Niña pequeña
+
+Ansible Space-Time Storehouse
+Almacén espaciotemporal
+
+Mining Area Construction
+Construcción de la mina
+
+Mutant Rooster
+Gallo mutante
+
+Strange Stone Ball
+Bola de piedra extraña
+
+Cable Car manager
+Gerente del Teleférico
+
+Villager Charlene
+Aldeana Charlene
+
+Demonized Cat Duplicate
+Clon de Gato Demonizado
+
+Locked Stone Door
+puerta de piedra bloqueada
+
+Wormhole teleportation Circle
+Círculo de teletransportación del agujero de gusano
+
+Information Board
+Tablero informativo
+
+Combat Trainer Billy
+Billy; Entrenador de combate
+
+Head of inner hall
+Jefe del salón interior
+
+Civilian Jasmine
+Civil Jasmine
+
+Energy barrier
+Barrera de energía
+
+Saxophone Player
+Saxofonista
+
+Button
+Botón
+
+Seven Treasures
+siete tesoros
+
+Old Mage
+Mago viejo
+
+Fleeing bat
+Murciélago huidizo
+
+Gang Entrance
+Entrada a la pandilla
+
+Mail custodian Starmark
+Custodio del correo Starmark
+
+Sound
+Sonido
+
+Red Skeleton
+esqueleto rojo
+
+Civilian Bohr
+Civil Bohr
+
+Orc Chief
+Jefe orco
+
+Demon Cheetah duplicate
+Clon de Guepardo demonio
+
+Fleeing Colorful Boa
+Boa colorida huidiza
+
+Soul-Draining Evil Spirit
+Espíritu maligno Drenaalmas
+
+Villager Old Jack
+Viejo aldeano Jack
+
+Fleeing Stone Troll
+Troll de piedra huidizo
+
+Villager Lucian
+Aldeano Lucian
+
+Stone walls
+Muro de piedra
+
+Gold Ring Snake
+Serpiente de anillos dorados
+
+Master's assistant
+ayudante del maestro
+
+Big Iron Lock
+Cerradura de hierro grande
+
+Stone Door
+puerta de piedra
+
+Trumpeter
+trompetista
+
+Bass Player
+Bajista
+
+Gem Craftsman
+Sintetizador de gemas
+
+Secret door
+Puerta secreta
+
+chestnut
+castaña
+
+Villager Little Jack
+pequeño aldeano Jack
+
+Sentry Tower Construction
+Construcción de la torre centinela
+
+Man-eating Tree Duplicate
+Clon de Árbol devorador de hombres
+
+Yellow key
+llave amarilla
+
+Soul-Snatching Evil Spirit
+Espíritu maligno arrebatador de almas
+
+blood bat Duplicate
+Clon de Murciélago de sangre
+
+Ghost Monkey
+mono fantasma
+
+Black Panther
+Pantera negra
+
+Guard Barr
+Guardia Barr
+
+Blue pearl
+Perla azul
+
+Study Construction
+Construcción del Estudio 
+
+Black Slime
+Slime negro
+
+Fleeing blood bat
+Murciélago de sangre huidizo
+
+Bat King Incarnate
+Encarnación del Rey murciélago
+
+Locked gate
+puerta cerrada
+
+Centipede
+Ciempiés
+
+Material Storage Construction
+Construcción del almacén de materiales
+
+Yellow pearl
+perla amarilla
+
+Elf Elder
+Elfa Anciana
+
+Stone Button
+Botón de piedra
+
+Graceful Mountain Teleportation circle
+Círculo de teletransportación de la montaña elegante
+
+Cat-eating Rat
+Rata comegatos
+
+Apothecary Zoma
+Farmacéutica Zoma
+
+Fisherman Paul
+Pescador Paul
+
+Test room north door
+puerta norte de la sala de pruebas
+
+research room south gate
+puerta sur de la sala de investigación
+
+Henry
+Henry
+
+Artificer Kania
+Artesana Kania
+
+Young Man fetching water
+Hombre joven En búsqueda de agua
+
+Forger Yelda
+Forjador Yelda
+
+hole
+agujero
+
+Living Dead duplicate
+Clon de Muerto viviente
+
+Civilian Wald
+Civil Wald
+
+Locked courtyard gate
+Puerta del patio bloqueada
+
+Fleeing Demon Ape
+Mono demonio huidizo
+
+Growing wheat head
+Espiga de trigo en crecimiento
+
+Chest
+Cofre
+
+Apothecary Phillips
+Farmacéutico Phillips
+
+West encampment reinforced construction
+Construcción de refuerzo del campamento oeste
+
+Arnebia
+Arnebia
+
+Jame
+Jame
+
+Vampire Vine
+enredadera vampírica
+
+Armor Merchant Varney
+Comerciante de armaduras Varney
+
+Artificer
+Artesano
+
+Uncle Wang
+Tío Wang
+
+Red Slime
+Slime rojo
+
+Demon Cave
+cueva demoníaca
+
+Fleeing Man-eating Grass
+Hierba devoradora de hombres uhidiza
+
+Competition Host Chun Li
+Chun Li; Anfitriona de la competencia
+
+Competition Host Charlie
+Charlie; anfitrión de la competencia
+
+Instructor
+Instructor
+
+Fleeing Cheetah
+Guepardo huidizo
+
+Man-eating Dog
+Perro devorador de hombres
+
+Fleeing Soul-Draining Evil Spirit
+Espíritu maligno drenaalmas huidizo
+
+dungeon north door
+puerta norte de la mazmorra
+
+Polypod
+Polípodo
+
+Armor Merchant Jara
+Comerciante de armaduras Jara
+
+Fleeing Demon Cheetah
+Guepardo demonio uhidizo
+
+Alien
+Alienígena
+
+Guru Elder
+Anciano gurú
+
+Walking Dead
+Muerto andante
+
+Sliver Ring Snake
+Serpiente de anillos plateados
+
+Herb Buyer Benson
+Comprador de hierbas Benson
+
+Sol
+Sol
+
+Panel
+Panel
+
+Listen to notes
+escuchar las notas
+
+Sheriff Ralph
+Alguacil Ralph
+
+Medicine Storage
+Almacén de medicina
+
+Seed of the Wisdom Tree
+Semilla del Árbol de la Sabiduría
+
+Bounty Warrior Rick
+Cazarrecompensas Rick
+
+Caravan Master Solitury
+Solitury; Maestro de la caravana
+
+Grumpy
+Gruñón
+
+Hawk
+Halcón
+
+Dodge shells
+Esquivar proyectiles
+
+Fleeing Black Tiger
+Tigre negro huidizo
+
+Mining Area Entrance
+Entrada a la mina
+
+Cyan Slime
+Slime cian
+
+Grey Stone Monster
+Monstruo de piedra gris
+
+Zombie
+Zombi
+
+Steel Fang Wolf
+Lobo de colmillos de acero
+
+White Boar
+jabalí blanco
+
+Bloodthirsty Bat
+Murciélago sanguinario
+
+Civilian Kitazawa
+Civil Kitazawa
+
+Fleeing Zombie
+Zombi huidizo
+
+Almost-ripe wheat head
+Espiga de trigo casi madura
+
+Demon Lion duplicate
+Clon de León Demonio
+
+Hero List
+Lista de héroes
+
+Civilian Rancy
+Civil Rancy
+
+control
+control
+
+Stove
+Estufa
+
+Fleeing Blood Fang Wolf
+Lobo de colmillos de sangre huidizo
+
+Clay Pig
+Cerdo de arcilla
+
+Weapon Merchant Selmore
+Comerciante de armas Selmore
+
+Opened Chest
+Cofre abierto
+
+Guitar Player
+Guitarrista
+
+Ankylosaurus
+anquilosaurio
+
+Green pearl
+perla verde
+
+Artificer Daisy
+Artesana Daisy
+
+Fleeing macaque
+Macaco huidizo
+
+Bubble Cube Teleportation Circle
+Círculo de teletransportación del cubo de burbujas
+
+White Tiger
+Tigre blanco
+
+Shopkeeper Mappa
+Comerciante Mappa
+
+Blue Skeleton
+Esqueleto azul
+
+Wooden block
+Bloque de madera
+
+Herbal Garden Construction
+Construcción del jardín de hierbas
+
+Blacksmith Orisun
+Herrero Orisun
+
+Fleeing vicious dog leader
+líder perro feroz huidizo
+
+training room north door
+puerta norte de la sala de entrenamiento
+
+Weapon Merchant Tony
+Comerciante de armas Tony
+
+Fence gate
+Puerta de la cerca
+
+Forest ranger
+guardabosques
+
+Silver Pig
+Cerdo plateado
+
+Spider cave
+cueva de la araña
+
+Village Chief Matsubi
+Matsubi; Jefe de la aldea
+
+Baker
+Baker
+
+Civilian Kirk
+Civil Kirk
+
+Armory
+Armería
+
+dumpling
+bola de masa hervida
+
+cTRL
+Control
+
+Accounting desk
+escritorio de contabilidad
+
+Kitchen Construction
+Construcción de la cocina
+
+Washing and grinding room Construction
+Construcción de sala de síntesis e incrustación de gemas
+
+Green Slime
+Slime verde
+
+Golden Mane Lion
+León de melena dorada
+
+Demonized Worm King
+Rey Gusano Demonizado
+
+Purple Slime
+slime púrpura
+
+Chaos Stone
+Piedra del Caos
+
+militia captain Nusan
+Nusan; Capitán de la milicia
+
+Fruit tree
+Árbol frutal
+
+Magic keyboard player
+Tecladista mágico
+
+Girl
+Chica
+
+Space invaders
+Invasores espaciales
+
+Anxious man
+Hombre ansioso
+
+Ctrl
+Control
+
+Fleeing Man-eating Dog
+Perro devorador de hombres huidizo
+
+Demon Bat
+murciélago demonio
+
+Black T-Rex duplicate
+Clon de tiranosaurio rex negro
+
+Bloodthirsty Evil Spirit
+Espíritu maligno sediento de sangre
+
+Peach
+Durazno
+
+Door Bolt
+Cerrojo
+
+Ghoul Dog
+Perro necrófago
+
+Control
+Control
+
+Mountain Stronghold Gate
+Puerta de la Fortaleza de la Montaña
+
+Branch
+Rama
+
+Alexia
+Alexia
+
+Veteran Tom
+Veterano Tom
+
+Road Sign
+Señal de tráfico
+
+Mok
+Mok
+
+Civilian Virik
+Civil Virik
+
+Silver Mane Lion
+León melena plateada
+
+Scholar Eric
+Erudito Eric
+
+Growing rice spikelet
+Espiga de arroz en crecimiento
+
+Gate Guard
+Guardia de la puerta
+
+Teleportation Portal
+Portal de teletransportación
+
+Villager Marilyn
+Aldeana Marilyn
+
+Master Kakarot
+maestro Kakarot
+
+Insecticide
+Insecticida
+
+Roots
+Raíces
+
+Wolf head mountain teleportation circle
+Círculo de teletransportación de la montaña cabeza de lobo
+
+East-pointing Arrow
+Flecha que apunta al este
+
+Teleportation circle
+Círculo de teletransportación
+
+Villager Marge
+Aldeana Marge
+
+Violent Bear
+Oso violento
+
+Giant puppets
+marionetas gigantes
+
+Blacksmith Orc Dyson
+orco herreroDyson
+
+Caravan Leader Fantine
+Fantine; Líder de la caravana
+
+Honor Guard {d}
+Guardia de honor $1
+
+Master Catherine
+maestra Catherine
+
+Stone Troll duplicate
+Clon de Trol de piedra
+
+Colonel Demar
+Coronel Demar
+
+Pentagram Circle
+círculo del pentagrama
+
+Civilian Slarry
+Civil Slarry
+
+training room south gate
+puerta sur de la sala de entrenamiento
+
+Gate; The key needs to be passed on to the tutor to open the door
+Puerta; La llave debe ser enviada al maestro para abrir la puerta.
+
+Barrier Magic circle
+Círculo de barrera mágica
+
+Imp duplicate
+Clon de diablillo
+
+Caravan Crew Eva
+Eva; tripulante de la caravana
+
+Giant Bear Leader Duplicate
+Clon de Líder oso gigante
+
+Blood Fang Wolf
+Lobo de colmillos de sangre
+
+Pointy Mouth Rat
+Rata de boca puntiaguda
+
+Artificer Mirena
+Artesana Mirena
+
+Scavenger dog
+perro carroñero
+
+Gang Upgrading Construction
+Construcción para la mejora de pandilla
+
+Speed potion
+Poción de velocidad
+
+Fleeing vicious wolf Leader 
+Líder lobo feroz huidizo
+
+research room north door
+puerta norte de la sala de investigación 
+
+Civilian Lissandra
+Civil Lissandra
+
+King William III
+Rey William III
+
+Fleeing Red Boar
+Jabalí rojo huidizo
+
+Pharmacist
+Farmacéutico
+
+Dummy
+Dummy
+
+Mulberry tree
+Morera
+
+Pharmacist Mia
+Farmacéutica Mía
+
+Kiki
+Kiki
+
+Temple gate
+puerta del templo
+
+Combat Trainer Jimmy
+Entrenador de combate Jimmy
+
+Aquaculture Buyer Luffy
+Comprador de peces Luffy
+
+Fleeing Imp
+Diablillo huidizo
+
+Pet Trainer Lacey
+Entrenadora de mascotas Lacey
+
+Bubble
+Burbuja
+
+Tree
+Árbol
+
+Stake
+Estaca
+
+centipede Duplicate
+Clon de Ciempiés
+
+Airship Administrator
+Administrador del dirigible
+
+The Wraith Cave
+Cueva espectral
+
+confession room north door
+puerta norte del confesionario
+
+Cowherd
+Vaquero
+
+Villager Jyaria
+Aldeana Jyaria
+
+Fleeing demon lion
+León demonio huidizo
+
+Man-eating Grass
+Hierba devoradora de hombres
+
+Golden Tiger
+tigre dorado
+
+Usherette {d}
+Dama de honor $1
+
+Civilian Cindy
+Civil Cindy
+
+Yellow Slime
+Slime amarillo
+
+Fleeing Blue Stone Monster
+Monstruo de piedra azul huidizo
+
+Fleeing Demon Tiger
+Tigre demonio huidizo
+
+Equipment Maker
+Fabricante de equipo
+
+Blue key
+llave azul
+
+Leaf Monkey
+mono de las hojas
+
+Soul Storehouse
+Almacén de almas
+
+Shells
+conchas
+
+Grocer Vic
+Tendero Vic
+
+White Skeleton
+esqueleto blanco
+
+Central Kingdom Envoy Daniel
+Daniel; embajador del Reino Central
+
+Civilian Mei
+CivilMei
+
+Chief Narcy
+Jefe Narcy
+
+Hercules Stone Man
+Hombre hercúleo de piedra
+
+Burst Stone Man
+Hombre explosivo de piedra
+
+  level {d}
+  nivel $1
+
+Guard Captain Suke
+Suke; Capitán de la guardia
+
+Bank Receptionist Talina
+Recepcionista bancaria Talina
+
+Bank receptionist Kiki
+Recepcionista bancaria Kiki
+
+Forger Neil
+Forjador Neil
+
+Pharmacist Evan
+Farmacéutico Evan
+
+Gem Craftsman Audrey
+Sintetizadora de gemas Audrey
+
+Artificer Elana
+Artesana Elana
+
+Aquaculture Buyer Chantal
+Compradora de peces Chantal
+
+Herb Buyer Emily
+Compradora de hierbas Emily
+
+Ore Buyer Nicholas
+Comprador de minerales Nicholas
+
+Chimney
+Chimenea
+
+plantation owner Morphosa
+Morphosa; Dueña de la plantación
+
+farmer Victor
+Granjero Victor
+
+Black Gate Prison Teleportation circle
+Círculo de teletransportación de la Prisión de la Puerta Negra
+
+Crimson Mausoleum Teleportation circle
+Círculo de teletransportación del mausoleo Carmesí
+
+flagpole
+Asta de bandera
+
+Gatekeeper
+Guardián de la puerta
+
+iron lock
+Cerradura de hierro
+
+Front prison door
+Puerta Delantera de la prisión
+
+activity envoys
+Embajador de actividades
+
+Baru Grottoe Teleportation circle
+Círculo de teletransportación de la Gruta de Baru
+
+Elemental Maze Teleportation circle
+Círculo de teletransportación del Laberinto Elemental
+
+stone platform
+Plataforma de piedra
+
+door lock
+Cerradura de la puerta
+
+sacrificing scale
+Balanza de sacrificio
+
+mechanism
+Mecanismo
+
+Priest Elder Johanna
+Anciana Sacerdotisa Johanna
+
+portal; {t}
+Portal; {sub2{$1}sub2}
+
+Earth Elf
+Elfo de la Tierra
+
+Water Elf
+Elfo del Agua
+
+Fire Elf
+Elfo del Fuego
+
+Wind Elf
+Elfo del Viento
+
+Ore Buyer Pluto
+Comprador de minerales Plutón
+
+Herb Buyer Uranus
+Comprador de hierbas Urano
+
+Aquaculture Buyer Neptune
+Comprador de peces Neptuno
+
+Parishioner Enoch
+Feligrés Enoch
+
+Hunting list
+Lista de héroes
+
+Parishioner dave
+Feligrés Dave
+
+Competition Host Gouki
+Gouki; anfitrión de la competencia
+
+Forger Satu
+Forjador Satu
+
+Civilian Sofia
+Cibil Sofía
+
+Parishioner sherrill
+Feligrés Sherrill
+
+Parishioner Nelson
+Feligrés Nelson
+
+Civilian Calgary
+Cibil Calgary
+
+Village Chief Arnold
+Arnold; jefe de la aldea
+
+Civilian Lyra
+Cibil Lyra
+
+young man carrying water
+Hombre joven acarreando agua
+
+Combat Trainer Gulie
+Entrenador de combate Gulie
+
+Civilian Tarik
+Cibil Tarik
+
+Civilian Chad
+Cibil Chad
+
+Gate
+Puerta
+
+Civilian Watson
+Cibil Watson
+
+Bank receptionist Clara
+Recepcionista bancaria Clara
+
+Herdsman Majid
+Pastor Majid
+
+Pharmacist Anna
+Farmacéutica Anna
+
+Artificer Stephanie
+Artesana Stephanie
+
+Gem Craftsman Zoe
+Sintetizadora de gemas Zoe
+
+Guard Captain Bifee
+Bifee; Capitán de la guardia
+
+The monster maker is in operation and protected by an energy passport
+La máquina fabricante de monstruos está en funcionamiento y protegida por un escudo energético
+
+The monster maker stopped working
+La máquina fabricante de monstruos ha dejado de funcionar
+
+console
+Consola
+
+colorful cow
+Vaca colorida
+
+Iron basket
+Cubo de hierro
+
+forage basket
+Cesta de forraje
+
+Civilian Mary
+Cibil Mary
+
+Armor Merchant Samantha
+Comerciante de armaduras Samantha
+
+Armor Merchant Fiona
+Comerciante de armaduras Fiona
+
+Civilian Lan Keer
+Cibil Lan Keer
+
+Jewelry Merchant Katarina
+Comerciante de joyas Katarina
+
+Gem Craftsman Kino
+Sintetizador de gemas Kino
+
+bakamu beast
+Bestia Bakamu
+
+monster factory Teleportation circle
+Círculo de teletransportación de la fábrica de monstruos
+
+Master Antino
+Maestro Antino
+
+Master Ecilian
+Maestra Ecilian
+
+Grocer Sander
+Tendero Sander
+
+black cow
+Vaca negra
+
+white cow
+Vaca blanca
+
+Forger Marcilet
+Forjador Marcilet
+
+Grand Duke Trini
+Gran Duque Triny
+
+ lord of the city
+ Señor de la ciudad
+
+Weapon Merchant Oliver
+Comerciante de armas Oliver
+
+Pet Trainer Hawk
+Hawk; Entrenador de mascotas
+
+Marquis Sami
+Marqués Sami
+
+Shape-shifting Slime
+Slime Metamórfico
+
+ Lord of the City
+Señor de la Ciudad
+
+Fire Lord
+Señor del Fuego
+
+Priest Diraf
+Sacerdote Diraf
+
+Villager Philips
+Aldeano Philips
+
+Villager Louis
+Aldeano Louis
+
+Farmer Modi
+Granjero Modi
+
+girl Wia
+Señorita Wia
+
+old man Jedd
+Hombre viejo Jedd
+
+Temple Knight Ondner
+Caballero templario Ondner
+
+puppet warrior
+Títere Guerrero
+
+puppet shooter
+Títere arquero
+
+Farmer Kimberly
+Granjera Kimberly
+
+Farmer Mokov
+Granjero Mokov
+
+pool water
+Pozo de agua
+
+healthy crops
+Cultivos sanos
+
+underground power plant Teleportation circle
+Círculo de teletransportación de la Planta de energía subterránea
+
+cargo box
+Caja de carga
+
+Pet Trainer Petra
+Entrenadora de mascotas Petra
+
+Dangerous mountain forest
+Bosque montañoso peligroso
+
+圆形凹槽
+Agujero
+
+Villager Akata Takeshi
+Aldeano Akata Takeshi
+
+Villager Zaranki
+Aldeano Zaranki
+
+Villager Pipiru
+Aldeano Pipiru
+
+Villager Lucy
+Aldeana Lucy
+
+Villager Gulihan
+Aldeano Gulihan
+
+Civilian Wiki
+Cibil Wiki
+
+Pet Trainer Vani
+Entrenadora de mascotas Vani
+
+Dummy
+Tontín
+
+combat trainer carlos
+Entrenador de combate Carlos
+
+Soldier Eta
+Soldado Eta
+
+Underwater grottoe Teleportation circle
+Círculo de teletransportación de la gruta submarina
+
+Guardian Stronghold Teleportation circle
+Círculo de teletransportación de la Fortaleza del Guardián
+
+bloody cave Teleportation circle
+Círculo de teletransportación de la Cueva Sangrienta
+
+Forger Gita
+Forjador Gita
+
+Civilian Leaky
+Cibil Leaky
+
+Civilian carmencita
+Cibil Carmencita
+
+Pharmacist Kania
+Farmacéutica Kania
+
+Dryad Jungle Teleportation circle
+Círculo de teletransportación de la Jungla de la Dríada
+
+wooden door
+Puerta de madera
+
+dead wood
+Madera muerta
+
+Captain Chris
+Capitán Chris
+
+Pool water
+Pozo de agua
+
+patrol officer
+Oficial de patrulla
+
+Pet Trainer monica
+Entrenadora de mascotas Monica
+
+Bank receptionist Meiling
+Recepcionista bancaria Meiling
+
+Zagrama Canyon Teleportation circle
+Círculo de teletransportación del Cañón Zagrama
+
+Civilian Zimu
+Cibil Zimu
+
+High Priest Theo
+Sumo Sacerdote Theo
+
+Marshall's artillery Teleportation circle
+Círculo de teletransportación de la Artillería de Marshall
+
+Lumberman Linch
+Leñador Linch
+
+Tree branches
+Ramas de árbol
+
+Machine Fortress Teleportation circle
+Círculo de teletransportación de la máquina del fuerte
+
+Villager Lisa
+Aldeana Lisa
+
+Moon Princess Eponine
+Princesa de la Luna Eponine
+
+Ice and Snow Cave Teleportation circle
+Círculo de teletransportación de la Cueva de Hielo y Nieve
+
+Ice wall
+Muro de hielo
+
+Soldier Gamma
+Soldado Gama
+
+Soldier Beta
+Soldado Beta
+
+Soldier Alpha
+Soldado Alfa
+
+High Inquisitor Shawi
+Inquisidor Superior Shawi
+
+patrol officer Jeff
+Oficial de patrulla Jeff
+
+Soldier Lambam
+Soldado Lambam
+
+Soldier Santil
+Soldado Santil
+
+Soldier Scaru
+Soldado Scaru
+
+Apostate
+Apóstata
+
+Cabinet
+Gabinete
+
+Chief Kavanchu
+Jefe Kavanchu
+
+old carpenter luban
+Viejo carpintero Luban
+
+Villager Popov
+Aldeano Popov
+
+Villager Karenina
+Aldeana Karenina
+
+vent
+Conducto
+
+Door lock
+Puerta cerrada
+
+three tube wheel
+Rueda de tres tubos
+
+ladder
+Escalera
+
+Blood Mountain Villa Teleportation circle
+Círculo de teletransportación de la villa Mmontaña de Sangre
+
+A pile of empty iron buckets
+Un montón de baldes de hierro vacíos
+
+Luffa vine
+Enredadera de lufa
+
+cane vines
+Enredaderas de caña
+
+mountain spring
+Manantial de la montaña
+
+Heaven Pool water
+Pozo de agua celestial
+
+Grocer Millen
+Tendero Millen
+
+Jewelry Merchant Simena
+Comerciante de joyas Simena
+
+Armor Merchant Soledad
+Comerciante de armaduras Soledad
+
+Weapon Merchant Empal
+Comerciante de armas Empal
+
+Gem Craftsman audrey
+Sintetizadora de gemas Audrey
+
+Master Shadow Thorn
+Maestro Espina de las Sombras
+
+amazing old city Teleportation circle
+Círculo de teletransportación de la Antigua Ciudad Increíble
+
+Stone pillar
+Pilar de piedra
+
+snake egg
+Huevo de serpiente
+
+Soldier Blake
+Soldado Blake
+
+Wheat head
+Espiga de trigo
+
+rice spikelet
+Espiga de arroz
+
+sarcophagus
+Sarcófago
+
+Console
+Consola
+
+slot
+Ranura
+
+Gnome excavation plant Teleportation circle
+Círculo de teletransportación de la Planta de excavación de gnomos
+
+Aham
+Serpiente
+
+girl corpse
+Cadáver de la chica
+
+moon cake
+Pastel lunar
+
+Ice bomb
+Bomba de hielo
+
+{c}{s}s time bomb
+Bomba de relojería de $1
+
+fishing net
+Red de pesca
+
+野猪统领分身
+Clon de líder jabalí
+
+Gomez manor Teleportation circle
+Círculo de teletransportación de la Mansión Gómez
+
+silver flying saucer Teleportation circle
+Círculo de teletransportación del Platillo Volante Plateado
+
+Demon's Prison Teleportation circle
+Círculo de teletransportación de la Prisión del Demonio
+
+Silver Peak Teleportation circle
+Círculo de teletransportación del Pico Plateado
+
+Machining plant Teleportation circle
+Círculo de teletransportación de la Planta Mecanizada
+
+fully mountain Teleportation circle
+Círculo de teletransportación de la Montaña Plena
+
+Grandpa Gao
+Abuelo Gao
+
+boar Pitcher
+Jabalí lanzador
+
+Orchid Gao
+Orquídea Gao
+
+Puppet archer
+Arquero títere
+
+Puppet soldier
+Soldado títere
+
+village chief Bridge
+Bridge, el jefe de la aldea
+
+Centralia Teleportation circle
+Círculo de teletransportación de Centralia
+
+Spiral Grottoe Teleportation circle
+Círculo de teletransportación de la Gruta Espiral
+
+active volcano Teleportation circle
+Círculo de teletransportación del Volcán Activo
+
+Villager Lake
+Aldeano Rakke
+
+Sun Knight Gawain
+Gawuain, el Caballero del Sol
+
+Armor Merchant susan
+Susan, comerciante de armaduras
+
+Jewelry Merchant Shanna
+Shanna, comerciante de joyas
+
+Grocer Luca
+Tendero Luca
+
+Pharmacist Mona Lisa
+Farmacéutica Mona Lisa
+
+Forger Aldrich
+Forjador Aldrich
+
+Gem Craftsman Stuart
+Sintentizador de gemas Stuart
+
+Artificer Shadelle
+Artesana Shadelle
+
+Weapon Merchant Federica
+Federica, comerciante de armas
+
+Bank receptionist Rich
+Rich, recepcionista del banco
+
+Combat Trainer Sangilf
+Sangilf, entrenador de combate
+
+Pet Trainer Karen
+Karen, entrenadora de mascotas
+
+Master Kenton
+Maestro Kenton
+
+open sea Teleportation circle
+Círculo de teletransportación del mar abierto
+
+space battleship Teleportation circle
+Círculo de teletransportación de la nave espacial de combate
+
+Treasure pavilion Teleportation circle
+Círculo de teletransportación del pabellón del tesoro
+
+Fossil piles
+Montones de fósiles
+
+Underground Tunnel Teleportation circle
+Círculo de teletransportación del Túnel Subterráneo
+
+Switch
+Interruptor
+
+Drive core
+Núcleo impulsor
+
+wine glass
+Copa de vino
+
+phonograph
+Fonógrafo
+
+Apprentice knight
+Escudero
+
+Civilian Heidi
+Ciudadana Heidi
+
+Bank receptionistClaudia
+Recepcionista bancaria Claudia
+
+Gem Craftsman Frewin
+Sintentizador de gemas Frewin
+
+Artificer Wapier
+Artesano Wapier
+
+Forger Robert
+Forjador Robert
+
+Blacksmith Payne
+Herrero Payne
+
+Jewelry Merchant Dorothy
+Comerciante de joyas Dorothy
+
+Armor Merchant Maca
+Comerciante de armaduras Maca
+
+Weapon Merchant Brandon
+Comerciante de armas Brandon
+
+Grocer Morabi
+Tendero Morabi
+
+Potion Merchant Leisa
+Comerciante de pociones Leisa
+
+High Priest Illidan
+Sumo Sacerdote Illidan
+
+Godmother Zoira
+Madrina Zoira
+
+Knight Commander George
+Comandante caballero George
+
+Pet Trainer Svarna
+Entrenadora de mascotas Svarna
+
+Great Dragon Valley Teleportation circle I
+Círculo de teletransportación del Valle del Gran Dragón I
+
+Great Dragon Valley Teleportation circle II
+Círculo de teletransportación del Valle del Gran Dragón II
+
+Great Dragon Valley Teleportation circle III
+Círculo de teletransportación del Valle del Gran Dragón III
+
+ghost house Teleportation circle
+Círculo de teletransportación de la casa encantada
+
+remnants' base Teleportation circle
+Círculo de teletransportación de la base de restos
+
+Beast Mountain Teleportation circle
+Círculo de teletransportación de la montaña de las bestias
+
+Dragon's Lair Entrance
+Entrada a la guarida del dragón
+
+Dragon Village teleportation channel
+Canal de teletransportación a la Aldea del Dragón
+
+dark night camp Teleportation circle
+Círculo de teletransportación del Campamento Nocturno Oscuro
+
+Dragon Power Crystal
+Cristal de poder del dragón
+
+{c}'s Jumping Spring
+Resorte de salto de $1
+
+branch
+rama
+
+switch
+Interruptor
+
+damaged plinth
+Pilar dañado
+
+向东指的箭头
+Flecha apuntando hacia el este
+
+Village Chief
+Jefe de la Aldea
+
+mountain gate
+puerta de la montaña
+
+Secret room Manager
+Gerente de la sala secreta
+
+Snowflake prince
+Príncipe Copo de Nieve
+
+Snowflake princess
+Princesa Copo de Nieve
+
+Snowball prince
+Príncipe Bola de Nieve
+
+Snowball princess
+Princesa Bola de Nieve
+
+Snow mountain prince
+Príncipe Nieve de la Montaña
+
+Snow mountain princess
+Princesa Nieve de la Montaña
+
+Glacier prince
+Príncipe Glaciar
+
+Glacier princess
+Princesa Glaciar
+
+Ice prince
+Príncipe de Hielo
+
+Ice princess
+Princesa de Hielo

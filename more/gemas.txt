@@ -1,0 +1,401 @@
+gem synthesis;Synthesize higher-level gems with lower-level gems
+Sintetizar gemas; Sintetizar gemas de nivel superior con gemas de nivel inferior
+
+gem synthesis
+Sintetizar gemas
+
+Synthesize higher-level gems with lower-level gems
+Sintetizar gemas de nivel superior con gemas de nivel inferior
+
+shard synthesis;Use shards to making Enhance Crystals and Gems
+Sintetizar fragmentos; Usar fragmentos para hacer mejores cristales y gemas
+
+shard synthesis
+Sintetizar fragmentos
+
+Use shards to making Enhance Crystals and Gems
+Usar fragmentos para hacer mejores cristales y gemas
+
+break into shards;Breaks gems and Enhance Crystals into shards
+Romper en fragmentos; romper gemas y cristales en fragmentos
+
+break into shards
+Romper en fragmentos
+
+Breaks gems and Enhance Crystals into shards
+Romper gemas y cristales en fragmentos
+
+Batch gem synthesis;Use lower-level gems to synthesize higher-level gems in batches
+Sintetizar gemas por lotes; usar gemas de nivel inferior para sintetizar gemas de nivel superior en lotes
+
+Batch gem synthesis
+Sintetizar gemas por lotes
+
+Use lower-level gems to synthesize higher-level gems in batches
+Usar gemas de nivel inferior para sintetizar gemas de nivel superior en lotes
+
+View instructions for gem socketing
+Ver instrucciones sobre el engarce de gemas
+
+It takes {d} {s} and cost {d} arnebia to synthesize each {s}
+Se necesita $1 {sub2{$2}sub2} y $3 arnebia para sintetizar cada {sub2{$4}sub2}
+
+Automatically use {s} in the backpack to increase the success rate; no seleccionado
+Usa automáticamente un {sub2{$1}sub2}en la mochila para aumentar la tasa de éxito; no seleccionado
+
+Automatically use {s} in the backpack to increase the success rate; seleccionado
+Usa automáticamente un {sub2{$1}sub2} en la mochila para aumentar la tasa de éxito; seleccionado
+
+Fill in the amount to be synthesized and start synthesizing
+Introduce la cantidad y comienza a sintetizar
+
+add {d} {s}; no seleccionado
+Añade $1 {sub2{$2}sub2}; no seleccionado
+
+add {d} {s}; seleccionado
+Añade $1 {sub2{$2}sub2}; seleccionado
+
+use {d} {s}; no seleccionado
+Utilizar $1 {sub2{$2}sub2}; no seleccionado 
+
+use {d} {s}; seleccionado
+Utilizar $1 {sub2{$2}sub2}; seleccionado 
+
+OK to Synthesize
+Sintetizar
+
+synthesize {d} {s} needs {d} {s}; fee {d} arnebia
+sintetizar $1 {sub2{$2}sub2} necesita $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+Press here to enter the number of {s} to synthesize
+Introduce el número de {sub2{$1}sub2} que quieres sintetizar
+
+synthesize Level {d} Equipment Enhance Crystal
+sintetizar un cristal de mejora de equipo de nivel $1 
+
+Press here to enter the number of {s} to break
+Introduce la cantidad de {sub2{$1}sub2} que quieres descomponer
+
+{d} {s} can break into {d} {s}; fee {d} arnebia
+$1 {sub2{$2}sub2} se puede descomponer en $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+socketing
+Engarzar
+
+socketing {s}, fee {d} arnebia
+Engarzar {sub2{$1}sub2}; cuesta $2 arnebia
+
+Can get {d} Sockets, 
+Puede tener $1 engarces
+
+Press here to see what colors of the Sockets this equipment can get
+pulsa para ver qué colores puede tener este equipo
+
+socket {d}： {s}; use {d} {s} to protect; {s}
+Engarce $1: {sub2{$2}sub2}, utiliza $3 {sub2{$4}sub2} para protegerlo; {sub1{$5}sub1}
+
+start socketing
+empezar a engarzar
+
+insert and take out
+insertar y retirar
+
+Socket {d}: {s}; press to insert gem; fee {d} arnebia
+Engarce $1: {sub2{$2}sub2}; insertar gema; cuesta $3 arnebia
+
+Socket {d}: {s}; press to take out gem; fee {d} arnebia
+Engarce $1: {sub2{$2}sub2}; sacar la gema; cuesta $3 arnebia
+
+Gem Socketing Instruction
+Instrucciones para engarzar gemas
+
+Crimson
+Carmesí
+
+Dark Blue
+Azul Oscuro
+
+Brown Yellow
+Marrón
+
+Honey Yellow
+Amarillo Miel
+
+Pink
+rosa
+
+Blue
+Azul
+
+Dark Purple
+Morado Oscuro
+
+Dark Yellow
+Amarillo Oscuro
+
+Blue purple
+Azul púrpura
+
+Dark green
+Verde Oscuro
+
+Golden yellow
+Dorado
+
+Orange
+Naranja
+
+White
+Blanco
+
+Emerald Green
+Verde Esmeralda
+
+		this equipment is Equipped, cannot socket
+Este equipo está en uso, no se puede engarzar
+
+You have no equipment that can insert or take out gems
+No tienes equipo al que le puedas engarzar o retirar gemas.
+
+You have no gems available for synthesizing
+No tienes suficientes gemas para sintetizar.
+
+use {d} Level {d} Ruby to Synthesize {d} {s}; fee {d} arnebia
+usa $1 rubíes de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Sapphire to Synthesize {d} {s}; fee {d} arnebia
+usa $1 zafiros de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Tiger Eye Stone to Synthesize {d} {s}; fee {d} arnebia
+usa $1 piedras de ojo de tigre de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Opal to Synthesize {d} {s}; fee {d} arnebia
+usa $1 ópalos de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Spinel to Synthesize {d} {s}; fee {d} arnebia
+usa $1 espinelas de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Aquamarine to Synthesize {d} {s}; fee {d} arnebia
+usa $1 aguamarinas de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Garnet to Synthesize {d} {s}; fee {d} arnebia
+usa $1 granates de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Blond Jade to Synthesize {d} {s}; fee {d} arnebia
+usa $1 jades de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Grape Stone to Synthesize {d} {s}; fee {d} arnebia
+usa $1 prenitas de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Olivine to Synthesize {d} {s}; fee {d} arnebia
+usa $1 olivinos de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Topaz to Synthesize {d} {s}; fee {d} arnebia
+usa $1 topacios de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Obsidian to Synthesize {d} {s}; fee {d} arnebia
+usa $1 obsidianas de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Sunlight Stone to Synthesize {d} {s}; fee {d} arnebia
+usa $1 piedras solares de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Moonstone to Synthesize {d} {s}; fee {d} arnebia
+usa $1 piedras lunares de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+use {d} Level {d} Turquoise to Synthesize {d} {s}; fee {d} arnebia
+usa $1 turquesas de nivel $2 para sintetizar $3 {sub2{$4}sub2}; cuesta $5 arnebia
+
+No sockets yet
+Todavía sin engarzar
+
+the socket colors that can get from hanging equipment
+Colores que puede tener el equipo para el cuello
+
+Brown Yellow;Honey Yellow;Dark Purple;Blue purple;Dark green;Black;Orange;Blue
+Marrón, amarillo miel, morado oscuro, azul púrpura, verde oscuro, negro, naranja y azul
+
+Not enough Socket Protection Stone
+No tienes piedras de protección de ranuras
+
+get {n} socket, press to continue socketing
+obtuvo un engarce de color {sub2{$1}sub2}; presiona para seguir engarzando
+
+get {n};{n} socket, press to continue socketing
+obtuvo engarces de colores {sub2{$1}sub2} y {sub2{$2}sub2}; presiona para seguir engarzando
+
+Not enough gems
+No tienes suficientes gemas
+
+Are you sure you want to take out the gem?
+¿Confirmas que quieres sacar la gema?
+
+Not enough shards
+No tienes suficientes fragmentos
+
+This equipment is inserted with gems, please remove it before socketing
+Este equipo tiene gemas insertadas, por favor retíraselas antes de engarzar
+
+the socket colors that can get from armor equipment
+Colores que puede tener el equipo para el pecho
+
+Crimson;Dark Blue;Pink;Blue;Dark Yellow;Golden yellow;White;Brown Yellow
+Carmesí, azul oscuro, rosa, azul, amarillo oscuro, dorado, blanco y marrón
+
+the socket colors that can get from helmet equipment
+Colores que puede tener el equipo para la cabeza
+
+Crimson;Dark Blue;Pink;Blue;Dark Yellow;Golden yellow;White;Dark green
+Carmesí, azul oscuro, rosa, azul, amarillo oscuro, dorado, blanco y verde oscuro
+
+synthesize Level {d} Weapon Enhance Crystal
+Sintetizar un cristal de mejora de arma de nivel $1 
+
+This equipment is inserted with gems, which must be removed to deposit
+Este equipo tiene gemas engarzadas. Quítaselas antes de depositarlo.
+
+the socket colors that can get from weapon equipment
+Colores que pueden tener las armas
+
+Brown Yellow;Honey Yellow;Dark Purple;Blue purple;Dark green;Black;Orange;Pink
+Marrón, amarillo miel, morado oscuro, azul púrpura, verde oscuro, negro, naranja y rosa
+
+the socket colors that can get from shawl equipment
+Colores que puede tener el equipo para los hombros
+
+Crimson;Dark Blue;Pink;Blue;Dark Yellow;Golden yellow;White;Blue purple
+Carmesí, azul oscuro, rosa, azul, amarillo oscuro, dorado, blanco y azul púrpura
+
+the socket colors that can get from ring (left) equipment
+Colores que pueden tener los anillos (izquierdos)
+
+Brown Yellow;Honey Yellow;Dark Purple;Blue purple;Dark green;Black;Orange;Crimson
+Marrón, amarillo miel, morado oscuro, azul púrpura, verde oscuro, negro, naranja y carmesí
+
+the socket colors that can get from ring (right) equipment
+Colores que pueden tener los anillos (derechos)
+
+Brown Yellow;Honey Yellow;Dark Purple;Blue purple;Dark green;Black;Orange;Dark Blue
+Marrón, amarillo miel, morado oscuro, azul púrpura, verde oscuro, negro, naranja y azul oscuro
+
+the socket colors that can get from belt equipment
+Colores que puede tener el equipo para la cintura
+
+Crimson;Dark Blue;Pink;Blue;Dark Yellow;Golden yellow;White;Black
+Carmesí, azul oscuro, rosa, azul, amarillo oscuro, dorado, blanco y negro
+
+the socket colors that can get from pant legs equipment
+Colores que puede tener el equipo para las piernas
+
+Crimson;Dark Blue;Pink;Blue;Dark Yellow;Golden yellow;White;Honey Yellow
+Carmesí, azul oscuro, rosa, azul, amarillo oscuro, dorado, blanco y amarillo miel
+
+the socket colors that can get from handwears equipment
+Colores que puede tener el equipo para las manos
+
+Crimson;Dark Blue;Pink;Blue;Dark Yellow;Golden yellow;White;Orange
+Carmesí, azul oscuro, rosa, azul, amarillo oscuro, dorado, blanco y naranja
+
+the socket colors that can get from shoes equipment
+Colores que puede tener el equipo para los pies
+
+Crimson;Dark Blue;Pink;Blue;Dark Yellow;Golden yellow;White;Emerald Green
+Carmesí, azul oscuro, rosa, azul, amarillo oscuro, dorado, blanco y verde esmeralda
+
+Reminder: This equipment is currently tradable, but it will be bound to your soul after being socketed
+Recuerda: Este equipo actualmente se puede comerciar, pero se vinculará a tu alma una vez que lo engarces.
+
+Reminder: This equipment is currently tradable, but it will be bound to your soul after being enhanced
+Recuerda: este equipo actualmente se puede comerciar, pero se vinculará a tu alma después de mejorarlo.
+
+This equipment is inserted with gems and cannot be decomposed
+Este equipo tiene gemas insertadas, por lo que no se puede romper
+
+The equipment you are wearing cannot be enhanced
+No se puede mejorar el equipo si lo llevas puesto
+
+forging {s};{c} , Enhancement level increased from {d} to {d}, requires {s}, costs {d} arnebia
+Mejorar el equipo {sub2{$1}sub2}; {sub2{$2}sub2}, de nivel $3 a nivel $4 requiere {sub2{$5}sub2}. Cuesta $6 arnebia
+
+{d}% success rate;When the forging fails, the enhancement level is reduced by 1 level
+$1% de probabilidad de ser mejorado; cuando la forja falla, el equipo se degrada un nivel.
+
+100.0% success rate
+100.0% de probabilidad de ser mejorado
+
+Use {s}; increase success rate by 5%; not selected
+Usa {sub2{$1}sub2}; incrementa 5% de probabilidad; no seleccionado
+
+Use {s}; increase success rate by 5%; selected
+Usa {sub2{$1}sub2}; incrementa 5% de probabilidad; seleccionado
+
+you don't have enough {s}
+No tienes suficientes {sub2{$1}sub2}
+
+Use {s} to protect the equipment from being degraded when the forging fails; not selected
+Usa {sub2{$1}sub2} para prevenir que el equipo se degrade cuando la forja falle; no seleccionado
+
+Use {s} to protect the equipment from being degraded when the forging fails; selected
+Usa {sub2{$1}sub2} para prevenir que el equipo se degrade cuando la forja falle; seleccionado
+
+start forging 
+Empezar a forjar
+
+lack of {s}
+Te falta {sub2{$1}sub2}
+
+This equipment has high level requirements and is not suitable for you. Please upgrade to level {d} first.
+Este equipo necesita que estés en un nivel superior para usarlo. Por favor sube a nivel $1 antes de volver a intentarlo.
+
+{s};{s};enhancement level: {d}
+{sub2{$1}sub2};{sub2{$2}sub2}; mejorado a nivel $3
+
+enhance Level {d}; decomposed can get {d} {s}
+Equipo mejorado a nivel $1; al romperlo obtendrás $2 {sub2{$3}sub2}
+
+{s};enhance Level {d}; decomposed can get {s}
+{sub2{$1}sub2}; equipo mejorado a nivel $2; al romperlo obtendrás {sub2{$3}sub2}
+
+Are you sure you want to decompose this equipment?
+¿Confirmas que quieres romper este equipo?
+
+Please reconfirm the equipment you want to decompose
+Por favor vuelve a confirmar el equipo que quieres romper
+
+{s};enhance Level {d}
+{sub2{$1}sub2}; equipo mejorado a nivel $2
+
+decomposed can get {s}
+Al romperlo obtendrás {sub2{$1}sub2}
+
+Please select the equipment to be smelted
+Selecciona el equipo a fundir
+
+Please select the equipment to use as material
+Selecciona el equipo a utilizar como material
+
+you are goint to smelt {n};{c} ; enhance Level {d}
+Vas a fundir {sub2{$1}sub2}; {sub2{$2}sub2}; mejorado a nivel $3
+
+The equipment used as material is {n};{c} ; enhance Level {d}
+El equipo utilizado como material es {sub2{$1}sub2}; {sub2{$2}sub2}; mejorado a nivel $3
+
+After smelting, the quality of smelting equipment will be changed to {c} , and the equipment used as materials will disappear
+Después de la fundición, la calidad del equipo fundido cambiará a {sub2{$1}sub2} y el equipo utilizado como material desaparecerá.
+
+Smelting cost {d} arnebia
+El coste de la fundición es $1 arnebia
+
+start smelting
+Empezar a fundir
+
+Are you sure you want to smelt?
+¿Confirmas que quieres fundir?
+
+Smelting completed
+Fundición completada
+
+corresponding gem
+la gema correspondiente
+
+get {n};{n};{n} socket, press to continue socketing
+obtuvo engarces de colores {sub2{$1}sub2}, {sub2{$2}sub2} y {sub2{$3}sub2}; presiona para seguir engarzando

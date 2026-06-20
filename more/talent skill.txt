@@ -1,0 +1,428 @@
+Snuggle
+Intimidad
+
+Blood Transfusion
+Transfusión de sangre
+
+Mining
+Minería
+
+Collect Herbs
+Recolectar Hierbas
+
+Fishing
+Pesca
+
+Draw Blood
+Extraer sangre
+
+Cut Flesh
+Cortar carne
+
+Skinning
+Desollar
+
+Turtle Breath
+Respiración de tortuga
+
+Anti-Corrosion
+Anticorrosión
+
+Poison Immunity
+Inmunidad al veneno
+
+Combat Stance
+Postura de batalla
+
+Cleave Combo
+Combo de cortes
+
+Powerful Leap Attack
+Salto potenciado
+
+Fighting Expert
+Experto en lucha
+
+Defensive Stance
+Postura defensiva
+
+Sturdy Sentry
+Centinela firme
+
+Defensive Barrier
+Barrera defensiva
+
+Precise Block
+Bloqueo preciso
+
+Severe Wound
+Daño severo
+
+Sixth Sense
+Sexto sentido
+
+Rampage Stance
+Postura furiosa
+
+Cruel
+Crueldad
+
+Enrage
+Enfurecimiento
+
+Unruly Rage
+Furia desenfrenada
+
+Defensive Stance
+Postura defensiva
+
+Sturdy Sentry
+Centinela firme
+
+Defensive Barrier
+Barrera defensiva
+
+Ancestral Protection
+Protección Ancestral
+
+Ruthless
+Implacable
+
+Strength of Giant
+Fuerza de gigante
+
+Assassin's Determination
+Determinación del asesino
+
+Mental Barrier
+Barrera mental
+
+Seal Fate
+Sello del destino
+
+Executioner
+Verdugo
+
+Blind Faith
+Fe ciega
+
+Shadow Blade
+Cuchilla sombría
+
+Shadow of Erosion
+Sombra erosionante
+
+Hatred
+Odio
+
+Deadly Attack
+Ataque mortal
+
+Ruthless Strike
+Golpe despiadado
+
+Aspect of the Wild
+Aspecto salvaje
+
+Survival Expert
+Experto en Supervivencia
+
+Wild Rage
+Furia salvaje
+
+Call of the Wilderness
+Llamada de la naturaleza
+
+Aspect of the Monkey
+Aspecto del mono
+
+Sniper Training
+Entrenamiento de francotirador
+
+Steady Hands
+Manos firmes
+
+Hunter's Mark
+Marca del cazador
+
+Aspect of the Cheetah
+Aspecto del guepardo
+
+Aspect of the Hawk
+Aspecto del Halcón
+
+Ice Lineage
+Linaje de hielo
+
+Desolate Winter
+Invierno desolado
+
+Ice Finger
+Dedo helado
+
+Chilling Cold
+Frío congelante
+
+Cold Lineage
+Linaje de frío
+
+Freezing Cold
+Frío glacial
+
+Crisp Wisdom
+Sabiduría fría
+
+Ice Spirit
+Espíritu helado
+
+Frost Armor
+Armadura de escarcha
+
+Frost Lineage
+Linaje de escarcha
+
+Elven Fire
+Fuego élfico
+
+Enhanced Fireworks
+Fuegos potenciados
+
+Blazing Combo
+Combo ardiente
+
+Blessing of Flame
+Bendición de la llama
+
+Hellfire
+Fuego infernal
+
+Energized Fireball
+Bola de fuego potenciada
+
+Mana Expert
+Experto en mana
+
+Heart of Heat
+Corazón ardiente
+
+Elven Dance
+Danza élfica
+
+Flame Combo
+Combo llameante
+
+Justice
+Justicia
+
+Holy Light Echo
+Eco de luz sagrada
+
+Wisdom
+Sabiduría
+
+Skilled Healer
+Sanador hábil
+
+Shelter
+Refugio sagrado
+
+Divine Whip
+Látigo divino
+
+Confession
+Confesión
+
+Divine Reincarnation
+Reencarnación Divina
+
+Holy Light Protection
+Protección de la luz sagrada
+
+Ring of Life
+Anillo de la vida
+
+Soul Link
+Vínculo del alma
+
+Enhanced Explosion
+Explosión potenciada
+
+Rushing Tide
+Marea impetuosa
+
+Dead Toxin Surge
+Oleada de toxinas mortales
+
+Soul Harmony
+Armonía del alma
+
+Spiritual Concentration
+Concentración Espiritual
+
+Extensive Heal
+Curación extendida
+
+Soul Insight
+Perspicacia del alma
+
+Wrath of Wraith
+Ira Espectral
+
+Jungle Perseverance
+Perseverancia de la jungla
+
+Imperious
+Imperiosidad
+
+Focus
+Concentración
+
+Ravage
+Destrucción
+
+Havoc
+Debastación
+
+Anger
+Cólera
+
+Brutal
+Brutalidad
+
+Shielded
+Blindaje
+
+Dexterous
+Destreza
+
+Tough
+Impenetrabilidad
+
+Tai chi
+Tai chi
+
+Havoc (Aggressive)
+Debastación (Ofensivo)
+
+Tough (Aggressive)
+Impenetrabilidad (Ofensivo)
+
+Tai chi (Aggressive)
+Tai chi (Ofensivo)
+
+Focus (Defensive)
+Concentración (Defensivo)
+
+Ravage (Defensive)
+Destrucción (Defensivo)
+
+Havoc (Defensive)
+Debastación (Defensivo)
+
+Anger (Defensive)
+Cólera (Defensivo)
+
+Brutal (Defensive)
+Brutalidad (Defensivo)
+
+Dexterous (Defensive)
+Destreza (Defensivo)
+
+Tough (Defensive)
+Impenetrabilidad (Defensivo)
+
+Tai chi (Defensive)
+Tai chi (Defensivo)
+
+Focus (Aggressive)
+Concentración (Ofensivo)
+
+Ravage (Aggressive)
+Destrucción (Ofensivo)
+
+Brutal (Aggressive)
+Brutalidad (Ofensivo)
+
+Anger (Aggressive)
+Cólera (Ofensivo)
+
+Tough (Aggressive)-2
+Impenetrabilidad (Ofensivo)-2
+
+Ravage (Defensive)-2
+Destrucción (Defensivo)-2
+
+Havoc (Defensive)-2
+Debastación (Defensivo)-2
+
+Brutal (Defensive)-2
+Brutalidad (Defensivo)-2
+
+Dexterous (Defensive)-2
+Destreza (Defensivo)-2
+
+Tough (Defensive)-2
+Impenetrabilidad (Defensivo)-2
+
+Tai chi (Defensive)-2
+Tai chi (Defensivo)-2
+
+Ravage (Aggressive)-2
+Destrucción (Ofensivo)-2
+
+Havoc (Aggressive)-3
+Debastación (Ofensivo)-3
+
+Anger (Aggressive)
+Cólera (Ofensivo)
+
+Tough (Aggressive)-3
+Impenetrabilidad (Aggressive)-3
+
+Tai chi (Aggressive)-2
+Tai chi (Ofensivo)-2
+
+Ravage (Defensive)-3
+Destrucción (Defensivo)-3
+
+Havoc (Defensive)-3
+Debastación (Defensivo)-3
+
+Anger (Defensive)-2
+Cólera (Defensivo)-2
+
+Dexterous (Defensive)-3
+Destreza (Defensivo)-3
+
+Tough (Defensive)-3
+Impenetrabilidad (Defensivo)-3
+
+Tai chi (Defensive)-3
+Tai chi (Defensivo)-3
+
+Focus (Aggressive)-2
+Concentración (Ofensivo)-2
+
+Ravage (Aggressive)-3
+Destrucción (Ofensivo)-3
+
+Havoc (Aggressive)-4
+Debastación (Ofensivo)-4
+
+Tough (Aggressive)-4
+Impenetrabilidad (Ofensivo)-4
+
+Ravage (Defensive)-4
+Destrucción (Defensivo)-4
+
+Havoc (Defensive)-4
+Debastación (Defensivo)-4
+
+Brutal (Defensive)-3
+Brutalidad (Defensivo)-3
+
+Dexterous (Defensive)-4
+Destreza (Defensivo)-4
+
+Tough (Defensive)-4
+Impenetrabilidad (Defensivo)-4

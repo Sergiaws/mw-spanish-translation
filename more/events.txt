@@ -1,0 +1,101 @@
+After you eat {s}, your movement speed will increase by {d}% for {d} seconds.
+Después de haber comido {sub2{$1}sub2}, tu velocidad de movimiento incrementa $2% por $3 segundos.
+
+purple potato stuffed mooncakes
+el pastel lunar relleno de patata morada
+
+the egg yolk stuffed mooncake
+el pastel lunar relleno de yemas de huevo
+
+You use ice bombs, which reduces the movement speed of all hairy crabs by 20% for 20 seconds.
+Usas la bomba de hielo, que hace que la velocidad de los cangrejos peludos se reduzca un 20% por 20 segundos.
+
+the lotus seed paste mooncake
+el pastel lunar de pasta de semillas de loto
+
+mooncakes stuffed with jujube paste
+el pastel lunar relleno de pasta de jínjol
+
+a chocolate-filled mooncake
+el pastel lunar relleno de chocolate
+
+melon-filled mooncakes
+el pastel lunar relleno de melón
+
+peach-filled mooncakes
+el pastel lunar relleno de duraznos
+
+the custard stuffed mooncake
+el pastel lunar relleno de natillas
+
+salt and pepper mooncakes
+el pastel lunar de sal y pimienta
+
+a rose-filled mooncake
+el pastel lunar relleno de rosas
+
+leave autumn moon pond
+Abandonar el estanque de la luna otoñal
+
+nut-filled mooncakes
+el pastel lunar relleno de nueces
+
+mooncakes stuffed with meat floss
+el pastel lunar relleno de carne deshebrada
+
+exchange {s}; {d} hairy crabs are required; Already exchanged {d}/{d} times today
+Canhgear {sub2{$1}sub2}; necesitas $2 cangrejos peludos; ya cangeaste este premio $3 de $4 veces hoy
+
+No more exchanges can be made today; {s}
+Ya no puedes cangear {sub2{$1}sub2} hoy
+
+Four sets of gem fragments
+Cuatro conjuntos de fragmentos de gemas
+
+Not enough hairy crabs
+No tienes suficientes cangrejos peludos
+
+Mid-Autumn Festival activities are in progress
+Actividades del festival del otoño medio; en progreso
+
+Enter the event map; please empty the aquatic products, herbs and ores in your backpack before
+Entrar al mapa del evento; por favor no cargues con minerales, hierbas o peces
+
+Exchange event rewards
+Cangear premios del evento
+
+View event introduction
+Ver la introducción del evento
+
+20 Small Plier (Level 1 to 69) Or 10 Large Plier (Level 70 to 89)
+20 alicate pequeño (nivel 1 a 69) o 10 alicate grande (nivel 70 a 89)
+
+4 Small Toolbox (Level 1 to 69) or 2 Large Toolbox (Level 70 to 89)
+4 caja de herramientas pequeña (nivel 1 a 69) o 2 caja de herramientas grande (nivel 70 a 89)
+
+20 Osmanthus wine and 20 Five-Nuts Mooncake
+20 vino de Osmanthus y 20 pastel lunar de 5 nueces
+
+Please select the prize you want to exchange
+Por favor selecciona el premio que quieras cangear
+
+matcha-filled mooncakes
+el pastel lunar relleno de matcha
+
+After you eat the red bean filling mooncake, your movement speed increases by {d}% for {d} seconds.
+Después de haber comido el pastel lunar relleno de frijoles rojos, tu velocidad de movimiento incrementa $1% por $2 segundos.
+
+It's not event time now
+Todavía no es tiempo de evento
+
+There are currently no events going on
+Actualmente no hay eventos en curso
+
+Sign in to receive Arnebia; Event time: {s}
+Regístrate para recibir arnebia; tiempo del evento: $1
+
+Get Arnebia; Received {d} out of {d} times today
+Recoger arnebia; recibida $1 de $2 veces hoy
+
+{d} minutes to get it again; Received {d} out of {d} times today
+$1 minutos para recogerla de nuevo; recibida $2 de $3 veces hoy

@@ -1,0 +1,188 @@
+{d}秒后可重新发送
+Se puede reenviar en $1 segundos
+
+请输入要丢弃的{s}数量
+Por favor indica la cantidad de $1 que deseas tirar
+
+您确定要丢掉装备({s})吗？
+¿Confirmas que quieres tirar tu $1?
+
+您确定要丢掉融合兽({s})吗？
+¿Confirmas que quieres tirar la Bestia de fusión $1?
+
+您确定要放生宠物({s})吗？
+¿Confirmas que quieres liberar la mascota ($1)?
+
+{s}消息
+Canal $1
+
+请选择{s}消息朗读方式
+Por favor, selecciona el método de lectura para el canal $1
+
+请选择{s}消息快捷显示方式
+Por favor, selecciona el método de visualización para el canal $1
+
+短语{d}
+Frase $1
+
+{s}战报
+Informe de batalla de {sub2{$1}sub2}
+
+{s}队伍{s}战报
+Informe de la batalla en {sub2{$2}sub2} del equipo $1
+
+己方;{s}帮派
+Tu bando; pandilla $1
+
+敌方;{s}帮派
+Bando enemigo; Pandilla $1
+
+己方;{s}队伍
+Tu bando; Equipo $1
+
+敌方;{s}队伍
+Bando enemigo; Equipo $1
+
+等级{d}
+ nivel $1
+
+摧毁水晶塔{d}
+ Torres de cristal destruídas: $1
+
+摧毁防御塔{d}
+ Torretas destruídas: $1
+
+杀敌{d}
+ Enemigos asesinados: $1
+
+杀怪{d}
+ Monstruos asesinados: $1
+
+最高群伤输出{d}
+ Máximo daño a múltiples objetivos: $1
+
+最高单伤输出{d}
+ Máximo daño a un objetivo: $1
+
+最高群疗输出{d}
+ Máxima curación a múltiples objetivos: $1
+
+最高单疗输出{d}
+ Máxima curación a un objetivo: $1
+
+总伤害输出{d}
+ Daño Total: $1
+
+总疗伤输出{d}
+ Curación Total: $1
+
+损益和控制输出{d}
+ Debuffs y Control: $1
+
+增益输出{d}
+ Buffs: $1
+
+解损益数{d}
+ Debuffs eliminados: $1
+
+解增益数{d}
+ Buffs eliminados: $1
+
+复活人数{d}
+ Número de resurrecciones: $1
+
+{d}血量
+; $1 salud
+
+{d}血率
+; $1% salud
+
+;冷却剩余{d}分{d}秒
+; Enfriamiento: quedan $1 minutos y $2 segundos
+
+;冷却剩余{d}分
+; Enfriamiento: quedan $1 minutos
+
+;冷却剩余{d}秒
+; Tiempo restante: quedan $1 segundos
+
+{d}码
+; $1 metros
+
+疗{d}
+Sanación $1
+
+增{d}
+Buff $1
+
+损{d}
+Debuff $1
+
+服务器爆满，您前边约有{d}人在排队
+El servidor está lleno: $1 jugadores en cola.
+
+{d}毫秒
+$1 MS
+
+私聊{s}:
+Chat privado con $1: 
+
+{s}说:
+$1 dice: 
+
+角色{d}
+Personaje $1
+
+{d}最大
+$1 Máximo
+
+{d}增大
+$1
+
+{d}最快
+$1
+
+{d}加快
+$1
+
+{d}最高
+$1
+
+{d}升高
+$1
+
+{d}最小
+$1 mínimo
+
+{d}减小
+$1
+
+{d}最慢
+$1
+
+{d}减慢
+$1
+
+{d}最低
+$1
+
+{d}降低
+$1
+
+{s}后可用
+Disponible después de $1
+
+到期剩余{s}
+ Le quedan $1
+
+与{s}聊天
+Chat con $1
+
+Private chatI said: {s}
+Chat privado Dije: $1
+
+Private chat{c} says:{s}
+Chat privado $1 dice: $2
+
+: {d} characters
+$1 caracteres

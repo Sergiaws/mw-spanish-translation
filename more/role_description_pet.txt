@@ -1,0 +1,599 @@
+no mutation
+sin mutación
+
+primary mutation
+mutación primaria
+
+intermediate mutation
+mutación intermedia
+
+advanced mutation
+mutación avanzada
+
+super mutation
+súper mutación
+
+perfect mutation
+mutación perfecta
+
+cautious
+cauteloso
+
+loyal
+leal
+
+smart
+inteligente
+
+courageous
+valiente
+
+{s}Frog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+Rana{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Una rana que adora cantar, te cantará cuando tenga hambre.
+
+{s}Frog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+Rana{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una rana que adora cantar, te cantará cuando tenga hambre.
+
+{s}Frog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+Rana{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Una rana que adora cantar, te cantará cuando tenga hambre.
+
+{s}Frog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+Rana{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una rana que adora cantar, te cantará cuando tenga hambre.
+
+{s}Frog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+Rana{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Una rana que adora cantar, te cantará cuando tenga hambre.
+
+{s}Frog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+Rana{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Una rana que adora cantar, te cantará cuando tenga hambre.
+
+{s}Beetle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+Escarabajo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Tiene un brillante caparazón que parece ser muy duro. Posee dos pares de alas translúcidas en su espalda. Sus extremidades anteriores son como cuchillos afilados, muy peligrosas cuando ataca.
+
+{s}Beetle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+Escarabajo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Tiene un brillante caparazón que parece ser muy duro. Posee dos pares de alas translúcidas en su espalda. Sus extremidades anteriores son como cuchillos afilados, muy peligrosas cuando ataca.
+
+{s}Beetle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+Escarabajo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Tiene un brillante caparazón que parece ser muy duro. Posee dos pares de alas translúcidas en su espalda. Sus extremidades anteriores son como cuchillos afilados, muy peligrosas cuando ataca.
+
+{s}Beetle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+Escarabajo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Tiene un brillante caparazón que parece ser muy duro. Posee dos pares de alas translúcidas en su espalda. Sus extremidades anteriores son como cuchillos afilados, muy peligrosas cuando ataca.
+
+{s}Beetle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+Escarabajo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Tiene un brillante caparazón que parece ser muy duro. Posee dos pares de alas translúcidas en su espalda. Sus extremidades anteriores son como cuchillos afilados, muy peligrosas cuando ataca.
+
+{s}Beetle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+Escarabajo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Tiene un brillante caparazón que parece ser muy duro. Posee dos pares de alas translúcidas en su espalda. Sus extremidades anteriores son como cuchillos afilados, muy peligrosas cuando ataca.
+
+{s}Golden Rooster{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+Gallo Dorado{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Su plumaje es dorado, su cabecita está erguida, quién sabe qué estará pensando.
+
+{s}Golden Rooster{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+Gallo Dorado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Su plumaje es dorado, su cabecita está erguida, quién sabe qué estará pensando.
+
+{s}Golden Rooster{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+Gallo Dorado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Su plumaje es dorado, su cabecita está erguida, quién sabe qué estará pensando.
+
+{s}Golden Rooster{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+Gallo Dorado{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Su plumaje es dorado, su cabecita está erguida, quién sabe qué estará pensando.
+
+{s}Golden Rooster{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+Gallo Dorado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Su plumaje es dorado, su cabecita está erguida, quién sabe qué estará pensando.
+
+{s}Golden Rooster{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+Gallo Dorado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Su plumaje es dorado, su cabecita está erguida, quién sabe qué estará pensando.
+
+{s}Duck{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+Pato{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, El pequeño bobo que se pondrá delante del peligro, parece muy lindo.
+
+{s}Duck{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+Pato{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, El pequeño bobo que se pondrá delante del peligro, parece muy lindo.
+
+{s}Duck{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+Pato{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, El pequeño bobo que se pondrá delante del peligro, parece muy lindo.
+
+{s}Duck{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+Pato{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, El pequeño bobo que se pondrá delante del peligro, parece muy lindo.
+
+{s}Duck{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+Pato{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, El pequeño bobo que se pondrá delante del peligro, parece muy lindo.
+
+{s}Duck{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+Pato{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, El pequeño bobo que se pondrá delante del peligro, parece muy lindo.
+
+{s}Donkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+Burro{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Burro estúpido y lindo
+
+{s}Donkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+Burro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Burro estúpido y lindo
+
+{s}Donkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+Burro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Burro estúpido y lindo
+
+{s}Donkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+Burro{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Burro estúpido y lindo
+
+{s}Donkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+Burro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Burro estúpido y lindo
+
+{s}Donkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+Burro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Burro estúpido y lindo
+
+{s}Goat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+Cabra{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Una cabra blanca como la nieve
+
+{s}Goat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+Cabra{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una cabra blanca como la nieve
+
+{s}Goat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+Cabra{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Una cabra blanca como la nieve
+
+{s}Goat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+Cabra{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una cabra blanca como la nieve
+
+{s}Goat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+Cabra{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Una cabra blanca como la nieve
+
+{s}Goat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+Cabra{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Una cabra blanca como la nieve
+
+{s}Steed{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+Caballo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un caballo alto
+
+{s}Steed{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+Caballo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un caballo alto
+
+{s}Steed{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+Caballo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un caballo alto
+
+{s}Steed{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+Caballo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un caballo alto
+
+{s}Steed{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+Caballo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un caballo alto
+
+{s}Steed{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+Caballo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un caballo alto
+
+{s}Cattle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+Vaca{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Una vaca robusta
+
+{s}Cattle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+Vaca{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una vaca robusta
+
+{s}Cattle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+Vaca{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Una vaca robusta
+
+{s}Cattle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+Vaca{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una vaca robusta
+
+{s}Cattle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+Vaca{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Una vaca robusta
+
+{s}Cattle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+Vaca{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Una vaca robusta
+
+{s}Shorthair Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+Gato de Pelo Corto{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Gato vivaz de pelo corto
+
+{s}Shorthair Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+Gato de Pelo Corto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Gato vivaz de pelo corto
+
+{s}Shorthair Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+Gato de Pelo Corto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Gato vivaz de pelo corto
+
+{s}Shorthair Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+Gato de Pelo Corto{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Gato vivaz de pelo corto
+
+{s}Shorthair Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+Gato de Pelo Corto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Gato vivaz de pelo corto
+
+{s}Shorthair Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+Gato de Pelo Corto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Gato vivaz de pelo corto
+
+{s}Hound{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+Sabueso{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un sabueso leal
+
+{s}Hound{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+Sabueso{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un sabueso leal
+
+{s}Hound{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+Sabueso{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un sabueso leal
+
+{s}Hound{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+Sabueso{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un sabueso leal
+
+{s}Hound{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+Sabueso{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un sabueso leal
+
+{s}Hound{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+Sabueso{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un sabueso leal
+
+{s}Curly Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+Gato de Pelo Rizado{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un lindo gato de pelo rizado
+
+{s}Curly Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+Gato de Pelo Rizado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un lindo gato de pelo rizado
+
+{s}Curly Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+Gato de Pelo Rizado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un lindo gato de pelo rizado
+
+{s}Curly Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+Gato de Pelo Rizado{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un lindo gato de pelo rizado
+
+{s}Curly Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+Gato de Pelo Rizado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un lindo gato de pelo rizado
+
+{s}Curly Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+Gato de Pelo Rizado{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un lindo gato de pelo rizado
+
+{s}Shepard Dog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+Perro Pastor{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un perro valiente
+
+{s}Shepard Dog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+Perro Pastor{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un perro valiente
+
+{s}Shepard Dog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+Perro Pastor{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un perro valiente
+
+{s}Shepard Dog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+Perro Pastor{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un perro valiente
+
+{s}Shepard Dog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+Perro Pastor{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un perro valiente
+
+{s}Shepard Dog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+Perro Pastor{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un perro valiente
+
+{s}Parrot{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+Loro{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, A los vivaces loros les gusta comer nueces y también las usan como armas para atacar a los enemigos
+
+{s}Parrot{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+Loro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, A los vivaces loros les gusta comer nueces y también las usan como armas para atacar a los enemigos
+
+{s}Parrot{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+Loro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, A los vivaces loros les gusta comer nueces y también las usan como armas para atacar a los enemigos
+
+{s}Parrot{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+Loro{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, A los vivaces loros les gusta comer nueces y también las usan como armas para atacar a los enemigos
+
+{s}Parrot{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+Loro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, A los vivaces loros les gusta comer nueces y también las usan como armas para atacar a los enemigos
+
+{s}Parrot{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+Loro{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, A los vivaces loros les gusta comer nueces y también las usan como armas para atacar a los enemigos
+
+{s}Lizard{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+Lagarto{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un lagarto obediente y lindo
+
+{s}Lizard{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+Lagarto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un lagarto obediente y lindo
+
+{s}Lizard{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+Lagarto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un lagarto obediente y lindo
+
+{s}Lizard{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+Lagarto{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un lagarto obediente y lindo
+
+{s}Lizard{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+Lagarto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un lagarto obediente y lindo
+
+{s}Lizard{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+Lagarto{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un lagarto obediente y lindo
+
+{s}Monkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+Mono{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Vivaz y muy inteligente.
+
+{s}Monkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+Mono{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Vivaz y muy inteligente.
+
+{s}Monkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+Mono{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Vivaz y muy inteligente.
+
+{s}Monkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+Mono{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Vivaz y muy inteligente.
+
+{s}Monkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+Mono{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Vivaz y muy inteligente.
+
+{s}Monkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+Mono{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Vivaz y muy inteligente.
+
+{s}Wild Eagle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+Águila{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un espíritu de viento orgulloso con hermosas plumas.
+
+{s}Wild Eagle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+Águila{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un espíritu de viento orgulloso con hermosas plumas.
+
+{s}Wild Eagle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+Águila{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un espíritu de viento orgulloso con hermosas plumas.
+
+{s}Wild Eagle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+Águila{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un espíritu de viento orgulloso con hermosas plumas.
+
+{s}Wild Eagle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+Águila{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un espíritu de viento orgulloso con hermosas plumas.
+
+{s}Wild Eagle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+Águila{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un espíritu de viento orgulloso con hermosas plumas.
+
+{s}Hippo{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+Hipopótamo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un hipopótamo dócil de enorme tamaño. Cuando se enoja, usará su gran boca para dar una lección a quien le haya molestado.
+
+{s}Hippo{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+Hipopótamo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un hipopótamo dócil de enorme tamaño. Cuando se enoja, usará su gran boca para dar una lección a quien le haya molestado.
+
+{s}Hippo{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+Hipopótamo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un hipopótamo dócil de enorme tamaño. Cuando se enoja, usará su gran boca para dar una lección a quien le haya molestado.
+
+{s}Hippo{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+Hipopótamo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un hipopótamo dócil de enorme tamaño. Cuando se enoja, usará su gran boca para dar una lección a quien le haya molestado.
+
+{s}Hippo{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+Hipopótamo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un hipopótamo dócil de enorme tamaño. Cuando se enoja, usará su gran boca para dar una lección a quien le haya molestado.
+
+{s}Hippo{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+Hipopótamo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un hipopótamo dócil de enorme tamaño. Cuando se enoja, usará su gran boca para dar una lección a quien le haya molestado.
+
+{s}Boar{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+Jabalí{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, El majestuoso jabalí, su arma son sus largos colmillos que utiliza como puñales
+
+{s}Boar{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+Jabalí{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, El majestuoso jabalí, su arma son sus largos colmillos que utiliza como puñales
+
+{s}Boar{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+Jabalí{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, El majestuoso jabalí, su arma son sus largos colmillos que utiliza como puñales
+
+{s}Boar{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+Jabalí{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, El majestuoso jabalí, su arma son sus largos colmillos que utiliza como puñales
+
+{s}Boar{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+Jabalí{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, El majestuoso jabalí, su arma son sus largos colmillos que utiliza como puñales
+
+{s}Boar{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+Jabalí{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, El majestuoso jabalí, su arma son sus largos colmillos que utiliza como puñales
+
+{s}Elephant{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+Elefante{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Son los mamíferos terrestres más grandes, son muy inteligentes y saben usar su trompa para atacar al enemigo o protegerse.
+
+{s}Elephant{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+Elefante{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Son los mamíferos terrestres más grandes, son muy inteligentes y saben usar su trompa para atacar al enemigo o protegerse.
+
+{s}Elephant{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+Elefante{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Son los mamíferos terrestres más grandes, son muy inteligentes y saben usar su trompa para atacar al enemigo o protegerse.
+
+{s}Elephant{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+Elefante{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Son los mamíferos terrestres más grandes, son muy inteligentes y saben usar su trompa para atacar al enemigo o protegerse.
+
+{s}Elephant{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+Elefante{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Son los mamíferos terrestres más grandes, son muy inteligentes y saben usar su trompa para atacar al enemigo o protegerse.
+
+{s}Elephant{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+Elefante{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Son los mamíferos terrestres más grandes, son muy inteligentes y saben usar su trompa para atacar al enemigo o protegerse.
+
+{s}Brown Bear{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+Oso Pardo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Valiente oso pardo, sus zarpas son su mejor arma
+
+{s}Brown Bear{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+Oso Pardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Valiente oso pardo, sus zarpas son su mejor arma
+
+{s}Brown Bear{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+Oso Pardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Valiente oso pardo, sus zarpas son su mejor arma
+
+{s}Brown Bear{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+Oso Pardo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Valiente oso pardo, sus zarpas son su mejor arma
+
+{s}Brown Bear{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+Oso Pardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Valiente oso pardo, sus zarpas son su mejor arma
+
+{s}Brown Bear{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+Oso Pardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Valiente oso pardo, sus zarpas son su mejor arma
+
+{s}Snow Wolf{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+Lobo de las nieves{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Criaturas autóctonas de las regiones polares, de expresión fría, muy alerta.
+
+{s}Snow Wolf{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+Lobo de las nieves{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Criaturas autóctonas de las regiones polares, de expresión fría, muy alerta.
+
+{s}Snow Wolf{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+Lobo de las nieves{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Criaturas autóctonas de las regiones polares, de expresión fría, muy alerta.
+
+{s}Snow Wolf{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+Lobo de las nieves{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Criaturas autóctonas de las regiones polares, de expresión fría, muy alerta.
+
+{s}Snow Wolf{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+Lobo de las nieves{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Criaturas autóctonas de las regiones polares, de expresión fría, muy alerta.
+
+{s}Snow Wolf{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+Lobo de las nieves{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Criaturas autóctonas de las regiones polares, de expresión fría, muy alerta.
+
+{s}Lion{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+León{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, El majestuoso rey de la selva
+
+{s}Lion{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+León{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, El majestuoso rey de la selva
+
+{s}Lion{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+León{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, El majestuoso rey de la selva
+
+{s}Lion{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+León{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, El majestuoso rey de la selva
+
+{s}Lion{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+León{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, El majestuoso rey de la selva
+
+{s}Lion{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+León{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, El majestuoso rey de la selva
+
+{s}Cheetah{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+Guepardo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Un asesino veloz en la naturaleza
+
+{s}Cheetah{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+Guepardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un asesino veloz en la naturaleza
+
+{s}Cheetah{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+Guepardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Un asesino veloz en la naturaleza
+
+{s}Cheetah{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+Guepardo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Un asesino veloz en la naturaleza
+
+{s}Cheetah{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+Guepardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Un asesino veloz en la naturaleza
+
+{s}Cheetah{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+Guepardo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Un asesino veloz en la naturaleza
+
+{s}Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+Tigre{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Una rana que adora cantar, te cantará cuando tenga hambre.
+
+{s}Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+Tigre{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Feroces y tenaces, no dudarán en abalanzarse ante las amenazas.
+
+{s}Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+Tigre{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Feroces y tenaces, no dudarán en abalanzarse ante las amenazas.
+
+{s}Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+Tigre{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, HP $8/$9, MP $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Feroces y tenaces, no dudarán en abalanzarse ante las amenazas.
+
+{s}Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+Tigre{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, HP $7/$8, MP $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Feroces y tenaces, no dudarán en abalanzarse ante las amenazas.
+
+{s}Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+Tigre{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Feroces y tenaces, no dudarán en abalanzarse ante las amenazas.
+
+{s}Pixie{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+Hada{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Con muy buen comportamiento, aunque un poco tímida. Es muy hermosa, en su espalda destacan dos pares de alas de ángel.
+
+{s}Pixie{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+Hada{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Con muy buen comportamiento, aunque un poco tímida. Es muy hermosa, en su espalda destacan dos pares de alas de ángel.
+
+{s}Pixie{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+Hada{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Con muy buen comportamiento, aunque un poco tímida. Es muy hermosa, en su espalda destacan dos pares de alas de ángel.
+
+{s}Pixie{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+Hada{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Con muy buen comportamiento, aunque un poco tímida. Es muy hermosa, en su espalda destacan dos pares de alas de ángel.
+
+{s}Pixie{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+Hada{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Con muy buen comportamiento, aunque un poco tímida. Es muy hermosa, en su espalda destacan dos pares de alas de ángel.
+
+{s}Pixie{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+Hada{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Con muy buen comportamiento, aunque un poco tímida. Es muy hermosa, en su espalda destacan dos pares de alas de ángel.
+
+{s}Sprite{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+Duendecillo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Pequeño y lindo, vivaz y sonriente.
+
+{s}Sprite{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+Duendecillo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Pequeño y lindo, vivaz y sonriente.
+
+{s}Sprite{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+Duendecillo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Pequeño y lindo, vivaz y sonriente.
+
+{s}Sprite{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+Duendecillo{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Pequeño y lindo, vivaz y sonriente.
+
+{s}Sprite{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+Duendecillo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Pequeño y lindo, vivaz y sonriente.
+
+{s}Sprite{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+Duendecillo{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Pequeño y lindo, vivaz y sonriente.
+
+{s}Goblin{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+Goblin{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Una cosita delgadita de piel verde, muy astuto.
+
+{s}Goblin{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+Goblin{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una cosita delgadita de piel verde, muy astuto.
+
+{s}Goblin{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+Goblin{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Una cosita delgadita de piel verde, muy astuto.
+
+{s}Goblin{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+Goblin{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Una cosita delgadita de piel verde, muy astuto.
+
+{s}Goblin{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+Goblin{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Una cosita delgadita de piel verde, muy astuto.
+
+{s}Goblin{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+Goblin{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Una cosita delgadita de piel verde, muy astuto.
+
+{s}Slime{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+Slime{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, En la parte frontal de su cuerpo azul translúcido varios grandes ojos parpadean sin cesar
+
+{s}Slime{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+Slime{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, En la parte frontal de su cuerpo azul translúcido varios grandes ojos parpadean sin cesar
+
+{s}Slime{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+Slime{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, En la parte frontal de su cuerpo azul translúcido varios grandes ojos parpadean sin cesar
+
+{s}Slime{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+Slime{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, En la parte frontal de su cuerpo azul translúcido varios grandes ojos parpadean sin cesar
+
+{s}Slime{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+Slime{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, En la parte frontal de su cuerpo azul translúcido varios grandes ojos parpadean sin cesar
+
+{s}Slime{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+Slime{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, En la parte frontal de su cuerpo azul translúcido varios grandes ojos parpadean sin cesar
+
+{s}Ice Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+Ice Tiger{sub2{$1}sub2}$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, Salud $8/$9, Mana $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+Ice Tiger{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, Salud $7/$8, Mana $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+Ice Tiger{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+Ice Tiger{sub2{$1}sub2}$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, Salud $8/$9, Mana $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+Ice Tiger{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, Salud $7/$8, Mana $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+Ice Tiger{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Night Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+Night Cat{sub2{$1}sub2}$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, Salud $8/$9, Mana $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+Night Cat{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, Salud $7/$8, Mana $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+Night Cat{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+Night Cat{sub2{$1}sub2}$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, Salud $8/$9, Mana $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+Night Cat{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, Salud $7/$8, Mana $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+Night Cat{sub2{$1}sub2}$2, level $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Cherub{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+Querubín{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidades: {sub2{$12}sub2} y {sub2{$13}sub2}, habilidades de talento: $14, estadísticas $15, tasa de crecimiento $16, personalidad: {sub2{$17}sub2}, Hay una abertura dorada en su cabeza, sus ojos son claros y su sonrosado y tierno rostro está sonriendo. Tiene dos pares de alas luminosas en su espalda.
+
+{s}Cherub{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+Querubín{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidades: {sub2{$11}sub2} y {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Hay una abertura dorada en su cabeza, sus ojos son claros y su sonrosado y tierno rostro está sonriendo. Tiene dos pares de alas luminosas en su espalda.
+
+{s}Cherub{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+Querubín{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidades: {sub2{$9}sub2} y {sub2{$10}sub2}, habilidades de talento: $11, estadísticas $12, tasa de crecimiento $13, personalidad: {sub2{$14}sub2}, Hay una abertura dorada en su cabeza, sus ojos son claros y su sonrosado y tierno rostro está sonriendo. Tiene dos pares de alas luminosas en su espalda.
+
+{s}Cherub{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+Querubín{sub2{$1}sub2}$2, nivel $3, necesita $4 puntos de experiencia para subir de nivel, {sub2{$5}sub2}, índice de avance $6, amabilidad $7, Salud $8/$9, Mana $10/$11, habilidad: {sub2{$12}sub2}, habilidades de talento: $13, estadísticas $14, tasa de crecimiento $15, personalidad: {sub2{$16}sub2}, Hay una abertura dorada en su cabeza, sus ojos son claros y su sonrosado y tierno rostro está sonriendo. Tiene dos pares de alas luminosas en su espalda.
+
+{s}Cherub{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+Querubín{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, índice de avance $5, amabilidad $6, Salud $7/$8, Mana $9/$10, habilidad: {sub2{$11}sub2}, habilidades de talento: $12, estadísticas $13, tasa de crecimiento $14, personalidad: {sub2{$15}sub2}, Hay una abertura dorada en su cabeza, sus ojos son claros y su sonrosado y tierno rostro está sonriendo. Tiene dos pares de alas luminosas en su espalda.
+
+{s}Cherub{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+Querubín{sub2{$1}sub2}$2, nivel $3, {sub2{$4}sub2}, Salud $5/$6, Mana $7/$8, habilidad: {sub2{$9}sub2}, habilidades de talento: $10, estadísticas $11, tasa de crecimiento $12, personalidad: {sub2{$13}sub2}, Hay una abertura dorada en su cabeza, sus ojos son claros y su sonrosado y tierno rostro está sonriendo. Tiene dos pares de alas luminosas en su espalda.
+
+{s}  level {d}
+{sub2{$1}sub2} nivel $2
+
+Do you want to rename pet {s} ?
+¿Quieres renombrar a tu {sub2{$1}sub2}?
+
+haven't summoned pets
+No has invocado ninguna mascota
+
+Got pet {s}
+Has obtenido la mascota {sub2{$1}sub2}

@@ -1,0 +1,1388 @@
+yyyy年MM月dd日; HH点mm分ss秒
+dd/MM/yyyy; HH:mm:ss
+
+减小背景音乐音量
+Disminuir el volumen de la música de fondo
+
+最小背景音乐音量
+Volumen mínimo de la música de fondo
+
+增加背景音乐音量
+Aumentar el volumen de la música de fondo
+
+最大背景音乐音量
+Volumen máximo de la música de fondo
+
+减小游戏音量
+Disminuir el volumen del juego
+
+最小游戏音量
+Volumen mínimo del juego
+
+增加游戏音量
+Aumentar el volumen del juego
+
+最大游戏音量
+Volumen máximo del juego
+
+登录
+Iniciar sesión
+
+注册
+Crear cuenta
+
+修改和找回密码
+Cambiar y recuperar contraseña
+
+修改密码
+Cambiar la contraseña
+
+找回密码
+Recuperar la contraseña
+
+退出游戏
+Salir
+
+拷贝
+Copiado
+
+添加
+Añadido
+
+开启切换实时导航
+Activar navegación en tiempo real
+
+关闭切换实时导航
+Desactivar navegación en tiempo real
+
+第一页
+Primera página
+
+第二页
+Segunda página
+
+手机号或邮箱地址
+Dirección de correo electrónico
+
+密码
+Contraseña
+
+记住密码(&R)
+Recordar contraseña (&R)
+
+自动登录(&A)
+Inicio de sesión automático (&A)
+
+确定(&o)
+Aceptar (&o)
+
+取消(&c)
+Cancelar (&c)
+
+请输入帐号！
+Por favor, introduce los datos de tu cuenta
+
+帐号格式不正确！
+El formato de la cuenta es incorrecto
+
+请输入密码！
+Por favor, introduce tu contraseña
+
+密码长度有误！
+Longitud de contraseña inválida
+
+密码格式不正确！
+El formato de la contraseña es incorrecto
+
+连接出错;退出游戏
+Error de conexión; saliendo del juego
+
+发送验证码(&S)
+Enviar código de verificación (&S)
+
+请填写收到的验证码
+Por favor, ingresa el código de verificación recibido
+
+下一步(&N)
+Siguiente (&N)
+
+返回(&b)
+Atrás (&b)
+
+请填写手机号或邮箱地址！
+Por favor, introduce tu dirección de correo electrónico
+
+手机号或邮箱地址格式不正确！
+El formato de la dirección de correo electrónico es incorrecto
+
+重新发送验证码
+Reenviar código de verificación
+
+请填写帐号！
+Por favor, introduce los datos de tu cuenta
+
+请先发送验证码！
+Por favor, envía primero el código de verificación
+
+请填写验证码！
+Por favor, introduce el código de verificación
+
+验证码格式不正确！
+El formato del código de verificación es incorrecto
+
+注册成功
+Cuenta creada.
+
+恭喜您，注册成功！
+¡Felicitaciones, tu registro se ha completado con éxito!
+
+请输入密码（6-16个字符）
+Por favor introduce una contraseña (De 6 a16 caracteres)
+
+确认密码
+Confirma tu contraseña
+
+注册(&R)
+Registrarse (&R)
+
+请填写密码！
+Por favor, introduce una contraseña
+
+密码长度必须是6到16个字符！
+La longitud de la contraseña debe estar entre 6 y 16 caracteres
+
+请填写确认密码！
+Por favor, rellena el cuadro de confirmar contraseña
+
+密码和确认密码必须相同！
+La contraseña y la confirmación deben ser iguales
+
+该帐号已注册过了！
+Esta cuenta ya está registrada
+
+验证码错误！
+Error del código de verificación
+
+禁止注册！
+Registro no disponible en este momento
+
+验证码超时！
+Se ha agotado el tiempo de espera del código de verificación
+
+非法操作！
+Operación incorrecta.
+
+IP注册太频繁了！
+Esta IP se ha intentado registrar demasiadas veces seguidas
+
+服务器错误！
+Error del Servidor
+
+删除角色
+Eliminar personaje
+
+发送邮箱验证码(&S)
+Enviar código de verificación por correo electrónico (&S)
+
+发送手机验证码(&S)
+Enviar código de verificación por SMS (&S)
+
+邮箱验证码
+Código de verificación de correo electrónico
+
+手机验证码
+Código de verificación de teléfono móvil
+
+删除(&N)
+Eliminar (&N)
+
+重新发送邮箱验证码
+Reenviar código de verificación por correo electrónico
+
+重新发送手机验证码
+Reenviar código de verificación por SMS
+
+请先发送邮箱验证码！
+Envíe primero el código de verificación por correo electrónico
+
+请先发送手机验证码！
+Envíe primero el código de verificación por SMS
+
+请填写邮箱验证码！
+Por favor, introduce el código de verificación de correo electrónico.
+
+请填写手机验证码！
+Por favor, introduce el código de verificación recibido en tu teléfono móvil
+
+验证码已失效！
+El código de verificación ha caducado
+
+角色删除成功
+Personaje eliminado con éxito
+
+帐号
+Introduce tu correo electrónico
+
+旧密码
+Contraseña anterior
+
+填写验证码
+Introduce el código de verificación
+
+请填写收到的验证码！
+Por favor, introduce el código de verificación recibido
+
+密码修改成功
+Restablecimiento de contraseña completado
+
+恭喜，新的密码已生效！
+¡Felicitaciones, la nueva contraseña ya está en vigor!
+
+填写新密码
+Introduce una nueva contraseña
+
+请输入新密码（6-16个字符）
+Introduce una nueva contraseña (De 6 a 16 caracteres)
+
+确认新密码
+Confirma la nueva contraseña
+
+确定(&R)
+Aceptar (&R)
+
+帐号不存在！
+Esa cuenta no existe
+
+密码错误！
+La contraseña es incorrecta
+
+您刚找回过密码，请不要在短时间内多次找回！
+Acabas de restablecer tu contraseña, no la restablezcas varias veces en poco tiempo
+
+修改绑定邮箱/手机
+Cambiar correo electrónico vinculado
+
+填写原邮箱收到的验证码
+Introduce el código de verificación recibido en el correo electrónico original
+
+填写原手机收到的验证码
+Introduce el código de verificación recibido en el teléfono móvil original
+
+验证绑定新帐号
+Verificar y vincular la nueva cuenta
+
+新手机号或邮箱地址
+Nueva dirección de correo electrónico
+
+系统错误！
+Error del sistema
+
+请输入数量！
+¡Por favor ingresa la cantidad!
+
+请正确输入数量！
+¡Por favor ingresa la cantidad correctamente!
+
+短语不能为空！
+¡La frase no puede estar vacía!
+
+不能含有非法字符！
+¡No puede contener caracteres ilegales!
+
+频道聊天
+Canal de chat
+
+消息
+Información
+
+输入
+Escribir
+
+频道
+---
+
+发送(&S)
+Enviar (&S)
+
+发送消息后关闭聊天窗口(&X)
+Cerrar la ventana de chat después de enviar el mensaje (&X)
+
+显示
+Mostrar
+
+所有消息
+Todos los mensajes
+
+系统消息和广播
+Mensajes del sistema y transmisiones
+
+系统广播
+Transmisiones
+
+消息过长！
+¡El mensaje es demasiado largo!
+
+好友聊天
+Chat privado
+
+对象(&O)
+Destinatario (&O)
+
+查看信息(&I)
+Ver información (&I)
+
+会话记录(&L)
+Registro de sesión (&L)
+
+选择(&C)
+Seleccionar (&C)
+
+删除(&D)
+Eliminar (&D)
+
+加入黑名单(&J)
+Añadir a la lista negra (&J)
+
+黑名单
+Lista negra
+
+移出黑名单(&R)
+Eliminar de la lista negra (&R)
+
+请填写玩家ID或在会话记录选择发送对象
+Introduce la ID del jugador o selecciona el destinatario en el registro de sesión
+
+物品
+Objetos
+
+装备
+Equipo
+
+融合兽
+Bestias de fusión
+
+宠物
+Mascotas
+
+战斗技能
+Habilidades de combate
+
+天赋技能
+Habilidades de talento
+
+生活技能
+Habilidades de profesión
+
+所有物品
+Todos los objetos
+
+日常物品
+Objetos comúnmente usados
+
+药品和食物
+Pociones y comida
+
+采集物品
+Objetos recolectados
+
+材料物品
+Materiales
+
+宝石和强化物品
+Gemas y potenciadores
+
+已选中
+ seleccionado
+
+未选中
+ no seleccionado
+
+确定
+Confirmar
+
+取消
+Cancelar
+
+已屏蔽
+bloqueado
+
+已解除
+desbloqueado
+
+设置菜单
+Menú de configuración
+
+朗读切换目标序号
+Leer el número de orden al seleccionar objetivos
+
+距离在后
+Indicar la distancia después de pronunciar el objetivo
+
+距离在前
+Indicar primero la distancia al seleccionar un objetivo
+
+距离朗读方式
+Modo de lectura de la distancia, 
+
+请选择目标距离朗读方式
+Selecciona el modo de lectura de la distancia al objetivo
+
+切目标时读出玩家职业
+Leer en voz alta la clase del jugador al seleccionarle como objetivo
+
+不朗读目标生命状态
+No leer el estado de salud del objetivo
+
+朗读生命描述
+Leer la Salud de forma descriptiva
+
+朗读生命值
+Leer los puntos de vida
+
+朗读生命百分比
+Leer el porcentaje de Salud
+
+切换目标时
+Al cambiar de objetivo
+
+请选择目标生命状态朗读方式
+Selecciona el método de lectura del estado de salud del objetivo
+
+前置朗读尸体状态
+Leer delante el estado del cadáver
+
+查看目标数值时前置朗读增损益信息
+Leer delante los buffs o debuffs de un objetivo al leer su información
+
+使用物品时朗读数量和名称
+Leer cantidad y nombre al usar objetos
+
+朗读输出数值
+Leer el daño/curación saliente
+
+朗读输入数值
+Leer el daño/curación entrante
+
+切己方目标时跳过尸体
+Ignorar cadáveres al ver solo objetivos de tu bando
+
+切敌方目标时跳过尸体
+Ignorar cadáveres al ver solo objetivos enemigos
+
+对调跟随攻击和站桩攻击的热键
+Invertir las teclas de movimiento y ataque estacionario al usar una habilidad en un objetivo seleccionado
+
+混合显示聊天消息
+Mostrar los mensajes de chat mezclados
+
+按攻击技能时在面对的方向上自动锁定新目标
+Seleccionar automáticamente un nuevo objetivo en la dirección hacia la que miras cuando presionas una habilidad de ataque
+
+用副语音库朗读聊天消息
+Leer mensajes de chat con la librería de voz secundaria
+
+用副语音库朗读系统提示消息
+Leer mensajes de aviso del sistema con la librería de voz secundaria
+
+播放暴击音效
+Reproducir sonido de golpe crítico
+
+消息屏蔽管理
+Gestión de bloqueo de mensajes
+
+启用NVDA朗读主语音库(需要开启NVDA)
+Habilitar NVDA como voz principal (es necesario habilitar NVDA)
+
+启用NVDA朗读副语音库(需要开启NVDA)
+Habilitar NVDA como voz secundaria (es necesario habilitar NVDA)
+
+更换帐号
+Cambiar de cuenta
+
+退出
+Salir
+
+帮助
+Ayuda
+
+帮助与反馈
+Ayuda y soporte
+
+频道消息朗读和快捷显示设置菜单
+Configuración de lectura de mensajes de los canales
+
+全部朗读
+; leer todo
+
+只读系统消息
+; leer solo mensajes del sistema
+
+禁止朗读
+; No leer nada
+
+全部显示
+; mostrar todos
+
+只显示系统消息
+; mostrar solo mensajes del sistema
+
+禁止显示
+; No mostrar ninguno
+
+快捷短语设置菜单
+Configuración de frases rápidas
+
+请输入短语
+Por favor, introduce una frase
+
+战报
+Informe de batalla
+
+公告
+Anuncios
+
+帮派公告
+Anuncios de pandilla
+
+私信
+Mensajes privados
+
+,有新
+, nuevo
+
+上一页
+Página anterior
+
+下一页
+Página siguiente
+
+时间;
+hora; 
+
+总杀怪数:
+Total de monstruos asesinados: 
+
+杀怪最多玩家:
+Jugador que asesinó más monstruos:
+
+杀怪数;
+número : 
+
+总伤害输出最多玩家:
+Jugador con la producción de daño total más alta:
+
+总伤害输出:
+daño total: 
+
+总疗伤输出最多玩家:
+Jugador con la curación total más alta:
+
+总疗伤输出:
+curación total: 
+
+最高单伤害输出玩家:
+Jugador con la mayor producción de daño a un objetivo: 
+
+伤害值:
+daño: 
+
+最高群体伤害输出玩家:
+Jugador con la mayor producción de daño a múltiples objetivos: 
+
+最高单疗伤输出玩家:
+Jugador con la mayor producción de curación a un objetivo: 
+
+疗伤值:
+curación: 
+
+最高群体疗伤输出玩家:
+Jugador con la mayor producción de curación a múltiples objetivos: 
+
+损益输出和控制最多玩家:
+Jugador con más producción de Debuffs y Control: 
+
+影响人次:
+ número de afectados: 
+
+增益输出最多玩家:
+Jugador con la mayor producción de buffs: 
+
+解损益最多玩家:
+Jugador con mayor eliminación de debuffs: 
+
+解损益数:
+ Debuffs Eliminados: 
+
+解增益最多玩家:
+Jugador con mayor eliminación de Buffs: 
+
+解增益数:
+ Buffs Eliminados: 
+
+复活人次最多玩家:
+Jugador con más Resurrecciones: 
+
+复活数:
+ Número de resurrecciones: 
+
+己方:
+Tu bando: 
+
+男
+masculino
+
+女
+femenino
+
+,等级
+, nivel
+
+敌方:
+Enemigo: 
+
+怪角色
+NPC
+
+己方杀敌数:
+Número de enemigos asesinados por tu bando: 
+
+敌方杀敌数:
+Número de aliados asesinados por el enemigo: 
+
+己方杀怪数:
+Número de monstruos asesinados por tu bando: 
+
+敌方杀怪数:
+Número de monstruos asesinados por el enemigo: 
+
+己方伤害总输出:
+Daño total producido por tu bando: 
+
+敌方伤害总输出:
+Daño total producido por el bando enemigo: 
+
+己方疗伤总输出:
+Curación total realizada por tu bando: 
+
+敌方疗伤总输出:
+Curación total realizada por el bando enemigo: 
+
+己方单次最高伤害:
+Daño máximo de tu bando a un objetivo: 
+
+敌方单次最高伤害:
+Daño máximo del bando enemigo a un objetivo: 
+
+己方单次最高疗伤:
+Curación máxima de tu propio bando a un objetivo: 
+
+敌方单次最高疗伤:
+Curación máxima del bando enemigo a un objetivo: 
+
+己方摧毁水晶塔数:
+Número de torres de cristal destruídas por tu bando: 
+
+敌方摧毁水晶塔数:
+Número de torres de cristal destruídas por el bando enemigo: 
+
+己方摧毁防御塔数:
+Número de torretas destruídas por tu bando: 
+
+敌方摧毁防御塔数:
+Número de torretas destruídas por el bando enemigo: 
+
+己方总杀敌数:
+Número de enemigos asesinados por tu bando: 
+
+敌方总杀敌数:
+Número de aliados asesinados por el bando enemigo: 
+
+己方总杀怪数:
+Número de monstruos asesinados por tu bando: 
+
+敌方总杀怪数:
+Número de monstruos asesinados por el bando enemigo: 
+
+己方总伤害输出:
+Daño total producido por tu bando: 
+
+敌方总伤害输出:
+Daño total producido por el bando enemigo: 
+
+己方总疗伤输出:
+Curación total realizada por tu bando: 
+
+敌方总疗伤输出:
+Curación total realizada por el bando enemigo: 
+
+己方总损益输出:
+Producción total de debuffs de tu bando: 
+
+敌方总损益输出:
+Producción total de debuffs del bando enemigo: 
+
+己方总增益输出:
+Producción total de buffs de tu bando: 
+
+敌方总增益输出:
+Producción total de buffs del bando enemigo: 
+
+己方总解损益数:
+Número de debuffs eliminados por tu bando: 
+
+敌方总解损益数:
+Número de debuffs eliminados por el bando enemigo: 
+
+己方总解增益数:
+Número de buffs eliminados por tu bando: 
+
+敌方总解增益数:
+Número de buffs eliminados por el bando enemigo: 
+
+己方总复活人数:
+Número total de resucitados en tu bando: 
+
+敌方总复活人数:
+Número total de resucitados en el bando enemigo: 
+
+己方最高单体伤害输出:
+Daño máximo de tu bando a un objetivo: 
+
+敌方最高单体伤害输出:
+Daño máximo del bando enemigo a un objetivo: 
+
+己方最高群体伤害输出:
+Daño máximo de tu bando a múltiples objetivos: 
+
+敌方最高群体伤害输出:
+Daño máximo del bando enemigo a múltiples objetivos: 
+
+己方最高单体疗伤输出:
+Curación máxima de tu bando a un objetivo: 
+
+敌方最高单体疗伤输出:
+Curación máxima del bando enemigo a un objetivo: 
+
+己方最高群体疗伤输出:
+Curación máxima de tu bando a múltiples objetivos: 
+
+敌方最高群体疗伤输出:
+Curación máxima del bando enemigo a múltiples objetivos: 
+
+拷贝窗口文字
+Copiar texto de la ventana
+
+己方
+Tu bando 
+
+敌方
+Bando enemigo 
+
+摧毁水晶塔数排名
+Ranking de destrucción de torres de cristal
+
+摧毁防御塔数排名
+Ranking de destrucción de torretas
+
+杀敌数排名
+Ranking de asesinato de enemigos
+
+杀怪数排名
+Ranking de monstruos asesinados
+
+总伤害输出排名
+Ranking de daño total producido
+
+总疗伤输出排名
+Ranking de curación total realizada
+
+总控制和损益输出排名
+Ranking de producción de debuffs y control
+
+总增益输出排名
+Ranking de producción de buffs
+
+总解损益数排名
+Ranking de eliminación de debuffs
+
+总解增益数排名
+Ranking de eliminación de buffs
+
+总复活人数排名
+Ranking de resurrecciones realizadas
+
+最高单伤输出排名
+Ranking de daño a un objetivo
+
+最高群伤输出排名
+Ranking de daño a múltiples objetivos
+
+最高单疗输出排名
+Ranking de curación a un objetivo
+
+最高群疗输出排名
+Ranking de curación a múltiples objetivos
+
+说明:屏蔽一个角色后，本地客户端将不再接收该角色的任何消息
+Descripción: cuando se bloquea un personaje, tu cliente local ya no recibirá ningún mensaje de este.
+
+添加新的屏蔽角色
+Agregar nuevo personaje
+
+请填写角色ID
+Por favor introduce la ID del personaje que quieres bloquear
+
+已屏蔽的ID
+ID's bloqueadas
+
+角色ID:
+ID del personaje:
+
+备注名称:
+Nombre de la nota: 
+
+解除
+Desbloquear
+
+确定解除对该ID的屏蔽吗？
+¿Seguro que quieres desbloquear esta ID?
+
+备注名称
+Nombre de la nota
+
+请填写备注名称
+Por favor introduce un nombre para la nota
+
+已损坏;无法装备
+Demasiado dañado para equiparse
+
+不能丢弃穿上的装备
+El equipo en uso no se puede tirar
+
+不能丢弃化身中的融合兽
+No puedes tirar una bestia de fusión mientras la estés usando
+
+不能抛弃放出的宠物
+No puedes abandonar mascotas invocadas
+
+没有物品
+No hay objetos
+
+请填写存入数量
+Por favor introduce la cantidad a depositar
+
+没有可存入的物品
+No tienes objetos disponibles para depositar
+
+没有装备
+Sin equipo
+
+没有可存入的装备
+No tienes equipo disponible para depositar
+
+没有融合兽
+Sin bestias de fusión
+
+没有可存入的融合兽
+No tienes bestias de fusión disponibles para depositar
+
+请填写要出售的数量
+Por favor introduce la cantidad a vender
+
+没有可出售的物品
+No tienes ningún objeto que se pueda vender
+
+请填写出售价格
+Por favor introduce el precio de venta
+
+没有可出售的装备
+No hay equipo disponible para vender
+
+已设置
+Establecido
+
+全部
+Todos
+
+己方 
+Tu bando
+
+敌方 
+Enemigos
+
+NPC
+NPC
+
+和平模式
+Modo pacifista
+
+和平反击模式
+Modo contraataque
+
+善恶模式
+Modo moral
+
+帮派模式
+Modo pandilla
+
+团队模式
+Modo equipo
+
+所有模式
+Modo libre
+
+无法查看自己
+No te puedes ver a ti mismo
+
+不能私聊自己
+No puedes hablar contigo mismo
+
+启动跟随
+Empezando a seguir
+
+停止跟随
+Dejando de seguir
+
+安全区禁用技能
+Las habilidades están desactivadas en la zona segura
+
+未设置
+No establecido
+
+取消导航
+Cancelar navegación
+
+导航
+Navegación
+
+导航;
+Navegación; 
+
+导航失败
+Error de navegación
+
+取消环境导航
+Navegación ambiental cancelada
+
+环境导航;
+Navegación ambiental; 
+
+拷贝窗口
+Copiar la ventana
+
+非法操作;退出游戏
+Operación no válida; saliendo del juego
+
+程序版本过低;退出游戏
+La versión del programa es demasiado antigua; saliendo del juego
+
+请校准系统时间;退出游戏
+Calibra la hora de tu sistema operativo; saliendo del juego
+
+非法登录;退出游戏
+Inicio de sesión ilegal; saliendo del juego
+
+该电脑禁止登录;退出游戏
+Esta computadora tiene prohibido el acceso; saliendo del juego
+
+用户名错误;退出游戏
+Nombre de usuario incorrecto; saliendo del juego
+
+密码错误;退出游戏
+Contraseña incorrecta; saliendo del juego
+
+保存的密码已失效;退出游戏
+La contraseña guardada ha caducado; saliendo del juego
+
+该用户禁止登录;退出游戏
+Este usuario tiene prohibido iniciar sesión; saliendo del juego
+
+服务器故障;退出游戏
+Fallo del servidor; saliendo del juego
+
+帐号在别处登录;退出游戏
+Esta cuenta ya está siendo utilizada; saliendo del juego
+
+刷新查看
+Actualizar
+
+创建新角色
+Crear nuevo personaje
+
+创建新角色，请按，S，和，W，键选择角色种类，选择后回车确定。
+Para crear un nuevo personaje, pulsa las teclas S y W para seleccionar su clase y sexo, y pulsa Enter para confirmar.
+
+填写您想要的昵称;需要是两到六个汉字
+Introduce el nombre del personaje; debe tener entre 4 y 12 caracteres
+
+，请重新填写
+Por favor introdúcelo de nuevo
+
+上次进入：
+Último acceso: 
+
+该角色十天内登录过,不能删除!
+Este personaje ha iniciado sesión en los últimos diez días y no se puede eliminar.
+
+该功能可将已注册的帐号修改成还没注册过的邮箱/手机，修改后的帐号需要重新找回密码后登录，确定继续吗？
+Esta función permite cambiar la cuenta a un correo electrónico que no esté registrado en el servidor. Si lo haces tendrás que restablecer la contraseña antes de poder iniciar sesión. ¿Confirmas que quieres continuar?
+
+请选择传送地点
+Selecciona una ubicación para teletransportarte
+
+即将损坏
+ está a punto de romperse
+
+已损坏
+ está Roto
+
+提交太快了，消息发送失败。
+No se pueden enviar dos mensajes consecutivos tan rápido.
+
+修改成功,退出游戏
+Modificado con éxito. saliendo del juego
+
+世界
+Global 
+
+地图
+Mapa 
+
+附近
+Cercano 
+
+帮派
+Pandilla 
+
+队伍
+Equipo 
+
+国际
+Internacional 
+
+私有
+Privado 
+
+已加入
+Agregado
+
+已移出
+Eliminado
+
+系统
+Sistema
+
+广播
+Transmisión
+
+ - 聊天
+ - chat
+
+我说:
+Dije: 
+
+$1到$2
+$1 a $2
+
+音量
+volumen
+
+语速
+velocidad
+
+音调
+tono
+
+语音
+voz
+
+战士
+ guerrero; 
+
+兽人
+ orco; 
+
+猎人
+ cazador; 
+
+刺客
+ asesino; 
+
+法师
+ mago; 
+
+精灵
+ elfo; 
+
+牧师
+ sacerdote; 
+
+巫师
+ hechicero; 
+
+边缘
+borde
+
+黑名
+ negro;
+
+红名
+ rojo;
+
+黄名
+ amarillo;
+
+尸体
+ Cadáver de 
+
+干尸
+ Cadáver disecado de 
+
+腐尸
+ Cadáver podrido de 
+
+枯骨
+ Huesos marchitos de 
+
+碎屑
+ Escombros de 
+
+轻伤
+; heridas leves 
+
+流血
+; sangrando 
+
+伤残
+; mutilado 
+
+吐血
+; vomitando sangre
+
+重伤
+; gravemente herido
+
+游戏版本过期，请重新下载
+La versión del juego ha caducado, descárgalo de nuevo
+
+版本更新失败，退出游戏
+La actualización ha fallado, saliendo del juego
+
+小时
+Horas 
+
+分
+Minutos 
+
+秒
+Segundos 
+
+闪开攻击
+Esquivando ataque
+
+闪
+Fallado
+
+破
+Roto 
+
+暴
+Crítico 
+
+疗
+Curación 
+
+;有菜单
+; tiene menú
+
+(限制)
+ (restringido) 
+
+(锁定)
+ (bloqueado) 
+
+;可用时间
+ tiempo disponible 
+
+到
+ a 
+
+粗糙
+tosco
+
+普通
+común
+
+精良
+excelente
+
+完美
+perfecto
+
+珍奇
+raro
+
+传说
+legendario
+
+精品
+Refinado 
+
+绝品
+Grandioso 
+
+极品
+Épico 
+
+仙化
+Celestial 
+
+神佑
+Bendito 
+
+(绑定)
+ (vinculado)
+
+更新进度： 
+Progreso de la actualización: 
+
+版本升级
+Actualización disponible
+
+迷雾世界
+Mist World
+
+新转移帐号24小时内不能再次转移！
+Una cuenta recién modificada no se puede volver a modificar dentro de las 24 horas
+
+未开放功能！
+Función no disponible
+
+开启全局音效
+Activar sonido en segundo plano
+
+提示
+Prompt 
+
+Posted at 
+Publicado a las 
+
+消息设置
+Configuración de mensajes
+
+消息播放提示设置
+Configuración de sonidos de mensajes
+
+消息自动朗读设置
+Configuración de lectura automática de mensajes
+
+语音消息自动朗读设置
+Configuración de reproducción automática de mensajes de voz
+
+消息记录显示发送时间
+Mostrar la hora después de cada mensaje en el registro de mensajes
+
+朗读系统消息
+Leer mensajes del sistema
+
+切换分组
+Cambiar entre grupos
+
+查看所有分组
+Ver todos los grupos
+
+公聊
+Chat público
+
+私聊
+Chat privado
+
+翻译目标语言设置
+Configurar el idioma destino de la traducción automática
+
+Press left or right to select a historical account
+Presiona izquierda o derecha para navegar por tu historial de cuentas
+
+连接出错
+Error de conexión
+
+帐号输入框
+Cuadro de edición de cuenta
+
+密码输入框
+Cuadro de edición de contraseña
+
+删除角色需要填写帐号邮箱/手机收到的验证码，您确定删除该角色吗？
+Para eliminar un personaje, necesitas introducir el código de verificación que has recibido en el correo electrónico asociado a tu cuenta. ¿Confirmas que quieres eliminar el personaje?
+
+点此输入验证码
+Pulsa aquí para introducir el código de verificación
+
+验证码错误，请重新填写
+El código de verificación es incorrecto, por favor, inténtalo de nuevo.
+
+超出今天的验证码发送次数
+Se ha excedido el límite permitido de códigos de verificación enviados en un mismo día
+
+返回
+volver
+
+请输入
+Por favor, escribe
+
+请填写原邮箱/手机收到的验证码
+Por favor, introduce el código de verificación que recibiste en la dirección de correo electrónico original.
+
+请填写新邮箱/手机收到的验证码
+Por favor, introduce el código de verificación que has recibido en la nueva dirección de correo electrónico
+
+帐号修改成功！
+¡Cuenta modificada correctamente!
+
+点此输入新手机号/邮箱地址
+Pulsa aquí para ingresar tu nueva dirección de correo electrónico
+
+手机号或邮箱地址输入框
+Cuadro de edición de dirección de correo electrónico
+
+发送验证码
+Enviar código de verificación
+
+请填写收到的验证码输入框
+Introduce el código de verificación que recibiste en el cuadro de entrada a tal efecto
+
+下一步
+siguiente
+
+确认密码输入框
+Cuadro de edición de confirmación de contraseña
+
+旧密码输入框
+Cuadro de edición de la antigua contraseña
+
+确认新密码输入框
+Cuadro de edición de confirmar la nueva contraseña
+
+OK
+OK
+
+返回登录
+Volver a la pantalla de inicio de sesión
+
+非法登录
+Inicio de sesión ilegal:
+
+保存的密码已失效
+La contraseña guardada ha caducado
+
+该用户禁止登录
+Este usuario tiene prohibido el acceso
+
+帐号在别处登录，您已被替换下线
+Esta cuenta está iniciando sesión en otro lugar, se te ha desconectado
+
+帐号被封禁，退出游戏
+Cuenta baneada; saliendo del juego
+
+连接断开;退出游戏
+Desconectado; saliendo del juego

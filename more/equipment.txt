@@ -1,0 +1,3596 @@
+cudgel
+garrote
+
+bamboo bow
+arco de bambú
+
+straw hat
+sombrero de paja
+
+mahogany necklace
+collar de caoba
+
+tulle cape
+capa de tul
+
+cotton clothes
+ropaje de algodón
+
+Bark Belt
+cinturón de corteza
+
+straw sandals
+Sandalias de paja
+
+linen trousers
+pantalones de lino
+
+mahogany bracelet
+brazaletes de caoba
+
+mahogany ring (left)
+anillo de caoba (Izquierdo)
+
+mahogany ring (right)
+anillo de caoba (Derecho)
+
+iron sword
+espada de hierro
+
+iron hammer
+martillo de hierro
+
+dagger
+daga
+
+wooden bow
+arco de madera
+
+Ivy Staff
+Bastón de Hiedra
+
+Ivy Scepter
+Cetro de Hiedra
+
+bronze helmet
+Yelmo de bronce
+
+Golden necklace
+Collar dorado
+
+Bronze Shoulders
+Hombreras de Bronce
+
+bronze armor
+armadura de bronce
+
+Bronze Belt
+Cinturón de Bronce
+
+Bronze Boots
+Botas de Bronce
+
+Bronze Leggings
+Polainas de Bronce
+
+gold bracelet
+brazaletes de oro
+
+gold ring (left)
+anillo de oro (Izquierdo)
+
+gold ring (right)
+anillo de oro (Derecho)
+
+silk hat
+sombrero de seda
+
+jade necklace
+collar de jade
+
+silk cape
+capa de seda
+
+silk robe
+túnica de seda
+
+silk belt
+cinturón de seda
+
+silk boots
+botas de seda
+
+silk pants
+pantalones de seda
+
+jade bracelet
+brazaletes de jade
+
+jade ring (left)
+anillo de jade (Izquierdo)
+
+jade ring (right)
+anillo de jade (Derecho)
+
+Sword of Fighter
+Espada de Luchador
+
+machete of Berserker
+Machete de berserker 
+
+Blade of Killer
+cuchilla de asesino
+
+Bow of chaser
+Arco de cazador
+
+Staff of Wisdom
+Bastón de la sabiduría
+
+Staff of Nature
+Bastón de la naturaleza
+
+Scepter of Mercy
+Cetro de la misericordia
+
+Scepter of Bones
+Cetro de huesos
+
+soft pouch
+Bolsa ligera
+
+fighter Helm
+Yelmo de luchador
+
+fighter 's Courage
+Coraje del luchador
+
+fighter Shoulders
+hombreras de luchador
+
+fighter Armor
+armadura de luchador
+
+fighter Waistguard
+escarcela de luchador
+
+fighter Boots
+botas de luchador
+
+fighter Legplates
+perneras de luchador
+
+fighter Bracers
+brazales de luchador
+
+fighter ring (left)
+anillo de pelea (Izquierdo)
+
+fighter ring (right)
+anillo de pelea (Derecho)
+
+Berserker Helm
+Yelmo de Berserker
+
+Berserker's power
+poder del Berserker
+
+Berserker Shoulders
+Hombreras de berserker
+
+Berserker Armor
+Armadura de berserker
+
+Berserker Waistguard
+escarcela de berserker
+
+Berserker Boots
+Botas de berserker
+
+Berserker Legplates
+Perneras de berserker
+
+Berserker Bracers
+Brazales de berserker
+
+Berserker Ring (Left)
+Anillo de berserker (Izquierdo)
+
+Berserker Ring (right)
+Anillo de berserker (Derecho)
+
+killer Mask
+máscara de asesino
+
+killer's lethality
+letalidad del asesino
+
+killer Cloak
+capa de asesino
+
+killer Armor
+armadura de asesino
+
+killer Waistguard
+escarcela de asesino
+
+killer Boots
+botas de asesino
+
+killer Leggings
+polainas de asesino
+
+killer Gloves
+guantes de asesino
+
+Killing Ring (Left)
+anillo de asesinato (Izquierdo)
+
+Killing Ring (Right)
+Anillo de asesinato (Derecho)
+
+chaser Hat
+sombrero de cazador
+
+chaser's gaze
+mirada del cazador
+
+chaser Cloak
+capa de cazador
+
+chaser jacket
+chaqueta de cazador
+
+chaser Waistguard
+escarcela de cazador
+
+chaser Riding Boots
+botas de montar de cazador
+
+chaser Leather Pants
+pantalones de cuero de cazador
+
+chaser Gauntlets
+guanteletes de cazador
+
+Eagle eye ring (left)
+anillo de ojo de águila (Izquierdo)
+
+Eagle eye ring (right)
+Anillo de ojo de águila (Derecho)
+
+Wisdom Hat
+Sombrero de sabio
+
+magic from Wisdom
+magia de la sabiduría
+
+Wisdom Cloak
+Capa de sabio
+
+Wisdom Robe
+Túnica de sabio
+
+Wisdom Belt
+Cinturón de sabio
+
+Wisdom Boots
+Botas de sabio
+
+Wisdom Pants
+Pantalones de sabio
+
+Wisdom bracelet
+Brazaletes de sabio
+
+Wisdom Ring (left)
+anillo de sabiduría (Izquierdo)
+
+Wisdom Ring (right)
+Anillo de sabiduría (Derecho)
+
+colorful wreath
+guirnalda de colores
+
+breath of nature
+aliento de la naturaleza
+
+Leaf wings
+alas de hoja
+
+green robe
+túnica verde
+
+vine Belt
+cinturón de vid
+
+lotus Boots
+botas de loto
+
+green hakama
+hakama verde
+
+nature bracelet
+brazaletes de la naturaleza
+
+nature ring (left)
+anillo de la naturaleza (Izquierdo)
+
+nature ring (right)
+anillo de la naturaleza (Derecho)
+
+charity Hat
+sombrero de caridad
+
+forgiving from heart
+perdón desde el corazón
+
+benevolence Cloak
+capa de la benevolencia
+
+Fraternity Robe
+túnica de la fraternidad
+
+Kindness Girdle
+Cinturón de la bondad
+
+Compassion Boots
+Botas de la compasión
+
+Fraternity Leggings
+Polainas de la fraternidad
+
+loving Bracelet
+Brazaletes de amor
+
+loving ring (left)
+anillo de amor (Izquierdo)
+
+loving ring (right)
+anillo de amor (Derecho)
+
+Skull Mask
+Máscara de calavera
+
+odor of decay
+olor putrefacto
+
+Corpse Cloak
+capa de cadáver
+
+Carrion Tabard
+tabardo carroñero
+
+shroud belt
+cinturón de mortaja
+
+Zombie Boots
+Botas de zombi
+
+Skeleton Leggings
+Polainas de esqueleto
+
+Bone Bracelet
+Brazaletes de hueso
+
+Bone Ring (left)
+anillo de hueso (Izquierdo)
+
+Bone Ring (right)
+Anillo de hueso (derecho)
+
+Ocean Roaring
+rugido del océano
+
+Mountain Crushing
+Alud de la montaña
+
+Shadow Kissing
+beso de sombra
+
+Wind Dancing
+danza de viento
+
+Ice Sighing
+Soplo de hielo
+
+Fire Enveloping
+fuego envolvente
+
+Light Weaving
+Tejido de Luz
+
+Soul Sucking
+Succión de alma
+
+Fencer helmet
+Yelmo de esgrimista
+
+Fencer's Heart
+corazón del esgrimista
+
+Fencer Shoulder Guard
+hombreras de esgrimista
+
+Fencer Armor
+armadura de esgrimista
+
+Fencer waist guard
+escarcela de esgrimista
+
+Fencer boots
+Botas de esgrimista
+
+Fencer Legplates
+Perneras de esgrimista
+
+Fencer Bracers
+Brazales de esgrimista
+
+Fencer Ring (Left)
+Anillo de esgrimista (Izquierdo)
+
+Fencer Ring (Right)
+Anillo de esgrimista (Derecho)
+
+Gladiator Helmet
+Yelmo de gladiador
+
+Pulse of Gladiator
+Pulso de gladiador
+
+Gladiator Shoulders
+Hombreras de gladiador
+
+Gladiator Armor
+Armadura de gladiador
+
+Gladiator Waistguard
+Escarcela de gladiador
+
+Gladiator Boots
+Botas de gladiador
+
+Gladiator Legplates
+Perneras de gladiador
+
+Gladiator Bracers
+Brazales de gladiador
+
+Gladiator ring (Left)
+Anillo de gladiador (Izquierdo)
+
+Gladiator ring (Right)
+Anillo de gladiador (Derecho)
+
+Tearer mask
+Máscara de destripador
+
+Judgment Of Tearer
+Juicio de destripador
+
+Tearer Cloak
+Capa de destripador
+
+tearer suit
+traje de destripador
+
+tearer Belt
+cinturón de destripador
+
+tearer Boots
+botas de destripador
+
+tearer Leggings
+polainas de destripador
+
+tearer Gloves
+guantes de destripador
+
+tearer Ring (Left)
+anillo de destripador (Izquierdo)
+
+tearer Ring (Right)
+anillo de destripador (Derecho)
+
+Windrunner Hood
+Capucha de Corredor del viento
+
+Windrunner's Harvest
+Cosecha de corredor del viento
+
+Windrunner Cloak
+Capa de corredor del viento
+
+Windrunner Armor
+Armadura de corredor del viento
+
+Windrunner Belt
+Cinturón de corredor del viento
+
+Windrunner Boots
+Botas de corredor del viento
+
+Windrunner Leather Pants
+Pantalones de cuero de corredor del viento
+
+Windrunner Gauntlets
+Guanteletes de corredor del viento
+
+Windrunner ring (Left)
+Anillo de corredor del viento (izquierdo)
+
+Windrunner ring (Right)
+Anillo de corredor del viento (derecho)
+
+Freezing cap
+Gorra helada
+
+Freezing pendant
+Colgante helado
+
+Freezing Cloak
+Capa helada
+
+Freezing Robe
+Túnica helada
+
+Freezing Belt
+Cinturón helado
+
+Freezing boots
+Botas heladas
+
+Freezing Leggings
+Polainas heladas
+
+Freezing Bracelet
+Brazaletes helados
+
+Freezing ring (Left)
+Anillo helado (izquierdo)
+
+Freezing ring (Right)
+Anillo helado (derecho)
+
+Flaming headband
+Diadema llameante
+
+Flaming Pendant
+Colgante llameante
+
+Flaming Cloak
+Capa llameante
+
+Flaming Robe
+Túnica llameante
+
+Flaming Belt
+Cinturón llameante
+
+Flaming Boots
+Botas llameantes
+
+Flaming Leggings
+Polainas llameantes
+
+Flaming Bracelet
+Brazaletes llameantes
+
+Flaming ring (Left)
+Anillo llameante (izquierdo)
+
+Flaming ring (Right)
+Anillo llameante (derecho)
+
+Radiant Hood
+Capucha radiante
+
+Radiant Pendant
+Colgante radiante
+
+Radiant Cloak
+Capa radiante
+
+Radiant Tabard
+Tabardo radiante
+
+Radiant Belt
+Cinturón radiante
+
+Radiant Boots
+Botas radiantes
+
+Radiant Leggings
+Polainas radiantes
+
+Radiant Bracelet
+Brazaletes radiantes
+
+Radiant Ring (Left)
+Anillo radiante (izquierdo)
+
+Radiant Ring (Right)
+Anillo radiante (derecho)
+
+Ghost Mask
+Máscara fantasmal
+
+Ghost Pendant
+Colgante fantasmal
+
+Ghost Cloak
+Capa fantasmal
+
+Ghost Robe
+Túnica fantasmal
+
+Ghost Belt
+Cinturón fantasmal
+
+Ghost Boots
+Botas fantasmales
+
+Ghost Leggings
+Polainas fantasmales
+
+Ghost Bracelet
+Brazaletes fantasmales
+
+Ghost Ring (Left)
+Anillo fantasmal (izquierdo)
+
+Ghost Ring (Right)
+Anillo fantasmal (derecho)
+
+Solemn Oath
+Juramento solemne
+
+Savage invader
+Invasor salvaje
+
+Grief Bringer
+Portador de desgracias
+
+Mutant Slayer
+Matamutantes
+
+Frost Sorrow
+Lamento de escarcha
+
+Scorching Torch
+Antorcha abrasadora
+
+Praying seraph
+Oración del serafín
+
+Griffin Claw
+Garra de grifo
+
+hot bag
+Mochila de viento y fuego
+
+Honor Helm
+Yelmo de honor
+
+Honor Pendant
+Colgante de honor
+
+Honor Shoulders
+Hombreras de honor
+
+Honor Armor
+Armadura de honor
+
+Honor Belt
+Cinturón de honor
+
+Honor Boots
+Botas de honor
+
+Honor Legplates
+Perneras de honor
+
+Honorable Bracers
+Brazales de honor
+
+Honor Ring (Left)
+Anillo de honor (izquierdo)
+
+Honor Ring (Right)
+Anillo de honor (derecho)
+
+Barbarian Helm
+Yelmo de bárbaro
+
+Barbarian Pendant
+Colgante de bárbaro
+
+Barbarian Shoulders
+Hombreras de bárbaro
+
+Barbarian Heavy Armor
+Armadura pesada de bárbaro
+
+Barbarian Waistguard
+Escarcela de bárbaro
+
+Barbarian Boots
+Botas de bárbaro
+
+Barbarian Legplates
+Perneras de bárbaro
+
+Barbarian Bracers
+Brazales de bárbaro
+
+Barbarian Ring (Left)
+Anillo de bárbaro (izquierdo)
+
+Barbarian Ring (Right)
+Anillo de bárbaro (derecho)
+
+ascetic mask
+Máscara de asceta
+
+Ascetic Pendant
+Colgante de asceta
+
+Ascetic cloak
+Capa de asceta
+
+Ascetic Suit
+Traje de asceta
+
+Ascetic Belt
+Cinturón de asceta
+
+Ascetic Boots
+Botas de asceta
+
+Ascetic Leggings
+Polainas de asceta
+
+Ascetic Gloves
+Guantes de asceta
+
+Ascetic ring (Left)
+Anillo de asceta (izquierdo)
+
+Ascetic ring (Right)
+Anillo de asceta (derecho)
+
+Raider Hat
+Sombrero de asaltante
+
+Raider Pendant
+Colgante de asaltante
+
+Raider Cape
+Capa de asaltante
+
+Raider Leather Armor
+Armadura de cuero de asaltante
+
+Raider Belt
+Cinturón de asaltante
+
+Raider Boots
+Botas de asaltante
+
+Raider Leather Pants
+Pantalones de cuero de asaltante
+
+Raider Gauntlets
+Guanteletes de asaltante
+
+Raider Ring (Left)
+Anillo de asaltante (izquierdo)
+
+Raider Ring (Right)
+Anillo de asaltante (derecho)
+
+Frost Helm
+Yelmo de escarcha
+
+Frost pendant
+Colgante de escarcha
+
+Frost shawl
+Manto de escarcha
+
+Frost Armor
+Armadura de escarcha
+
+Frost Belt
+Cinturón de escarcha
+
+Frost Boots
+Botas de escarcha
+
+Frost Leggings
+Polainas de escarcha
+
+Frost Bracelet
+Brazaletes de escarcha
+
+Frost Ring (Left)
+Anillo de escarcha (izquierdo)
+
+Frost Ring (Right)
+Anillo de escarcha (derecho)
+
+wildfire helmet
+Yelmo de fuego silvestre
+
+Wildfire Pendant
+Colgante de fuego silvestre
+
+Wildfire Cloak
+Capa de fuego silvestre
+
+Wildfire Armor
+Armadura de fuego silvestre
+
+Wildfire Belt
+Cinturón de fuego silvestre
+
+Wildfire Boots
+Botas de fuego silvestre
+
+Wildfire Leggings
+Polainas de fuego silvestre
+
+wildfire bracelets
+brazaletes de fuego silvestre
+
+wildfire ring (Left)
+Anillo de fuego silvestre (izquierdo)
+
+wildfire ring (Right)
+anillo de fuego silvestre (derecho)
+
+angel halo
+Halo angelical
+
+Angel's Tears
+Lágrimas angelicales
+
+Angel Wings
+Alas de ángel
+
+Angel Clothes
+Ropaje angelical
+
+Angel Girdle
+Cinturón angelical
+
+Angel Boots
+Botas angelicales
+
+Angel Leggings
+Polainas angelicales
+
+angel bracelet
+Brazaletes angelicales
+
+Angel ring (Left)
+Anillo angelical (izquierdo)
+
+angel ring (Right)
+anillo angelical (derecho)
+
+Lich Mask
+Máscara de lich
+
+Legacy of the Lich
+Legado del lich
+
+Lich Cloak
+Capa de lich
+
+Lich Tabard
+Tabardo de lich
+
+Lich Belt
+Cinturón de lich
+
+Lich Boots
+Botas de lich
+
+Lich Leggings
+Polainas de lich
+
+Lich Bracelet
+Brazaletes de lich
+
+Lich Ring (Left)
+Anillo de lich (izquierdo)
+
+Lich Ring (Right)
+Anillo de lich (derecho)
+
+Ribcracker
+Quebrantahuesos
+
+Tornado Scourge
+Azote de tornado
+
+Invisible Claw
+Garra invisible
+
+Heart Hitter
+Cazacorazones
+
+Pelting Hail
+Granizo torrencial
+
+Thousands Blast
+Explosión expansiva
+
+Inspire Scepter
+Cetro inspirador
+
+Terror Scepter
+Cetro terrorífico
+
+Champion Helm
+Yelmo de campeón
+
+Champion Pendant
+Colgante de campeón
+
+Champion Shoulders
+Hombreras de campeón
+
+Champion armor
+Armadura de campeón
+
+champion belt
+Cinturón de campeón
+
+Champion Boots
+Botas de campeón
+
+Champion Legplates
+Perneras de campeón
+
+Champion bracers
+Brazales de campeón
+
+Champion ring (Left)
+Anillo de campeón (izquierdo)
+
+Champion ring (Right)
+Anillo de campeón (derecho)
+
+Rampage Helm
+Yelmo de violencia
+
+Rampage Pendant
+Colgante de violencia
+
+Rampage Pauldrons
+Espaldares de violencia
+
+Rampage Armor
+Armadura de violencia
+
+Rampage Belt
+Cinturón de violencia
+
+Rampage Boots
+Botas de violencia
+
+Rampage Legplates
+Perneras de violencia
+
+Rampage Bracers
+Brazales de violencia
+
+Rampage ring (Left)
+Anillo de violencia (izquierdo)
+
+Rampage ring (Right)
+Anillo de violencia (derecho)
+
+Stealth Mask
+Máscara de sigiloso
+
+Stealth Pendant
+Colgante de sigiloso
+
+Stealth Cloak
+Capa de sigiloso
+
+Stealth Suit
+Traje de sigiloso
+
+Stealth Belt
+Cinturón de sigiloso
+
+Stealth Boots
+Botas de sigiloso
+
+Stealth shorts
+Shorts de sigiloso
+
+Stealth Gloves
+Guantes de sigiloso
+
+Stealth Ring (Left)
+Anillo de sigiloso (izquierdo)
+
+Stealth Ring (Right)
+Anillo de sigiloso (derecho)
+
+sniper hat
+Sombrero de francotirador
+
+Sniper Pendant
+Colgante de francotirador
+
+sniper cape
+Capa de francotirador
+
+Sniper armor
+Armadura de francotirador
+
+Sniper Belt
+Cinturón de francotirador
+
+sniper boots
+Botas de francotirador
+
+Sniper Leggings
+Polainas de francotirador
+
+Sniper Bracers
+Brazales de francotirador
+
+sniper ring (left)
+Anillo de francotirador (izquierdo)
+
+sniper ring (right)
+Anillo de francotirador (derecho)
+
+Blizzard Hat
+Sombrero de ventisca
+
+Blizzard Charm
+Amuleto de ventisca
+
+Blizzard Cloak
+Capa de ventisca
+
+Blizzard Robe
+Túnica de ventisca
+
+Blizzard Belt
+Cinturón de ventisca
+
+Blizzard Boots
+Botas de ventisca
+
+Blizzard Leggings
+Polainas de ventisca
+
+Blizzard Bracelet
+Brazaletes de ventisca
+
+Blizzard Ring (Left)
+Anillo de ventisca (izquierdo)
+
+blizzard ring (Right)
+Anillo de ventisca (derecho)
+
+Firestorm Crown
+Corona incinerante
+
+Fire Storm Pendant
+Colgante incinerante
+
+Firestorm Cloak
+Capa incinerante
+
+Firestorm Tabard
+Tabardo incinerante
+
+Firestorm Belt
+Cinturón incinerante
+
+Firestorm Boots
+Botas incinerantes
+
+Firestorm Leggings
+Polainas incinerantes
+
+Firestorm Bracelet
+Brazaletes incinerantes
+
+Firestorm ring (Left)
+Anillo incinerante (izquierdo)
+
+Firestorm ring (Right)
+Anillo incinerante (derecho)
+
+Sermon Hood
+Capucha de orador
+
+Sermon Pendant
+Colgante de orador
+
+Sermon cloak
+Capa de orador
+
+Sermon Tabard
+Tabardo de orador
+
+Sermon Belt
+Cinturón de orador
+
+Sermon boots
+Botas de orador
+
+Sermon Leggings
+Polainas de orador
+
+Sermon bracelet
+Brazaletes de orador
+
+Sermon ring (Left)
+Anillo de orador (izquierdo)
+
+Sermon ring (Right)
+Anillo de orador (derecho)
+
+Horror mask
+Máscara de terror
+
+Horror Orb
+Orbe de terror
+
+Horror cloak
+Capa de terror
+
+Horror Robe
+Túnica de terror
+
+Horror Belt
+Cinturón de terror
+
+Horror Boots
+Botas de terror
+
+Horror Leggings
+Polainas de terror
+
+Horror bracelets
+Brazales de terror
+
+Horror ring (left)
+Anillo de terror (izquierdo)
+
+Horror ring (right)
+Anillo de terror (derecho)
+
+Royal Victory
+Victoria real
+
+Lethal Warhammer
+Martillo de guerra letal
+
+Bloodletting razor	
+Navaja sanguinaria
+
+Hydra crossbow
+Ballesta de la hydra
+
+Sealing Moon
+Sello lunar
+
+eruption Magma
+Erupción de magma
+
+Pure Wisdom
+Sabiduría pura
+
+mummy Curse
+Maldición de momia
+
+weightless sack
+Saco ingrávido
+
+hero helmet
+Yelmo de héroe
+
+hero pendant
+Colgante de héroe
+
+Hero Pauldrons
+Espaldares de héroe
+
+Hero Armor
+Armadura de héroe
+
+Hero Belt
+Cinturón de héroe
+
+Hero Boots
+Botas de héroe
+
+Hero Legplates
+Perneras de héroe
+
+Heroic Bracers
+Brazales de héroe
+
+Hero ring (left)
+Anillo de héroe (izquierdo)
+
+Hero ring (right)
+Anillo de héroe (derecho)
+
+Sentinel Helm
+Yelmo de centinela
+
+Sentinel Pendant
+Colgante de centinela
+
+Sentinel Pauldrons
+Espaldares de centinela
+
+Sentinel Armor
+Armadura de centinela
+
+Sentinel Belt
+Cinturón de centinela
+
+Sentinel boots
+Botas de centinela
+
+Sentinel Legplates
+Perneras de centinela
+
+Sentinel Bracers
+Brazales de centinela
+
+Sentinel ring (left)
+Anillo de centinela (izquierdo)
+
+Sentinel ring (right)
+Anillo de centinela (derecho)
+
+Executioner Mask
+Máscara de verdugo
+
+Executioner Pendant
+Colgante de verdugo
+
+Executioner Cloak
+Capa de verdugo
+
+Executioner Suit
+Traje de verdugo
+
+Executioner Belt
+Cinturón de verdugo
+
+Executioner Boots
+Botas de verdugo
+
+Executioner Shorts
+Shorts de verdugo
+
+Executioner Gloves
+Guantes de verdugo
+
+executioner ring (left)
+Anillo de verdugo (izquierdo)
+
+executioner ring (right)
+Anillo de verdugo (derecho)
+
+Penetrator helmet
+Yelmo de perforador
+
+Penetrator Pendant
+Colgante de perforador
+
+Penetrator shawl
+Manto de perforador
+
+Penetrator Leather Armor
+Armadura de cuero de perforador
+
+Penetrator Belt
+Cinturón de perforador
+
+Penetrator boots
+Botas de perforador
+
+Penetrator Leather Pants
+Pantalones de cuero de perforador
+
+Penetrator Bracers
+Brazales de perforador
+
+Penetrator ring (left)
+Anillo de perforador (izquierdo)
+
+Penetrator ring (right)
+Anillo de perforador (derecho)
+
+Glacier Helmet
+Yelmo glaciar
+
+Glacier Pendant
+Colgante glaciar
+
+Glacier Cloak
+Capa glaciar
+
+Glacier Armor
+Armadura glaciar
+
+Glacier Belt
+Cinturón glaciar
+
+Glacier Boots
+Botas glaciares
+
+Glacier Leggings
+Polainas glaciares
+
+Glacier Bracelet
+Brazaletes glaciares
+
+glacier ring (left)
+Anillo glaciar (izquierdo)
+
+glacier ring (right)
+Anillo glaciar (derecho)
+
+Volcano helmet
+Yelmo volcánico
+
+Volcano Orb
+Orbe volcánico
+
+Volcano Cape
+Capa volcánica
+
+Volcano Armor
+Armadura volcánica
+
+Volcano Belt
+Cinturón volcánico
+
+Volcano boots
+Botas volcánicas
+
+Volcano Leggings
+Polainas volcánicas
+
+Volcano bracelet
+Brazaletes volcánicos
+
+Volcano ring (left)
+Anillo volcánico (izquierdo)
+
+Volcano ring (right)
+Anillo volcánico (derecho)
+
+Saint Helmet
+Yelmo de santo
+
+Saint Orb
+Orbe de santo
+
+Saint cloak
+Capa de santo
+
+Saint Robe
+Túnica de santo
+
+Saint Belt
+Cinturón de santo
+
+Saint boots
+Botas de santo
+
+Saint Leggings
+Polainas de santo
+
+Saint bracelet
+Brazaletes de santo
+
+Saint ring (left)
+Anillo de santo (izquierdo)
+
+Saint ring (right)
+Anillo de santo (derecho)
+
+Toxin mask
+Máscara de toxinas
+
+Toxin Magic Beads
+Abalorios mágicos de toxinas
+
+Toxin cloak
+capa de toxinas
+
+Toxin Robe
+Túnica de toxinas
+
+Toxin Belt
+Cinturón de toxinas
+
+Toxin boots
+Botas de toxinas
+
+Toxin Leggings
+Polainas de toxinas
+
+Toxin bracelet
+Brazaletes de toxinas
+
+Toxin ring (left)
+Anillo de toxinas (izquierdo)
+
+Toxin ring (right)
+Anillo de toxinas (derecho)
+
+Broken Sky
+Trozo de cielo
+
+Lost Eternity
+Eternidad perdida
+
+Dragon Scale
+Escama de dragón
+
+Star Fury
+Furia estelar
+
+Desolate Snow
+Desolación Invernal
+
+Black Smoke
+Humo negro
+
+Redemption finger
+Dedo de la redención
+
+Demon Spine
+Columna vertebral demoníaca
+
+Pioneer Helm
+Yelmo de pionero
+
+Pioneer Pendant
+Colgante de pionero
+
+Pioneer Shoulders
+Hombreras de pionero
+
+Pioneer Armor
+Armadura de pionero
+
+Pioneer Belt
+Cinturón de pionero
+
+Pioneer Boots
+Botas de pionero
+
+Pioneer Legplates
+Perneras de pionero
+
+Pioneer Bracers
+Brazales de pionero
+
+Pioneer Ring (Left)
+Anillo de pionero (izquierdo)
+
+Pioneer Ring (Right)
+Anillo de pionero (derecho)
+
+Giant Helm
+Yelmo de gigante
+
+giant pendant
+Colgante de gigante
+
+Giant Pauldrons
+Espaldares de gigante
+
+Giant Armor
+Armadura de gigante
+
+Giant Belt
+Cinturón de gigante
+
+Giant Boots
+Botas de gigante
+
+Giant Legplates
+Perneras de gigante
+
+Giant Bracers
+Brazales de gigante
+
+giant ring (left)
+Anillo de gigante (izquierdo)
+
+Giant Ring (Right)
+Anillo de gigante (derecho)
+
+Reaper Mask
+Máscara de segador
+
+Reaper Pendant
+Colgante de segador
+
+Reaper Cloak
+Capa de segador
+
+Reaper Suit	
+Traje de segador
+
+Reaper Belt
+Cinturón de segador
+
+Reaper Boots
+Botas de segador
+
+Reaper Shorts
+Shorts de segador
+
+Reaper Gloves
+Guantes de segador
+
+reaper ring (left)
+Anillo de segador (izquierdo)
+
+reaper ring (right)
+anillo de segador (derecho)
+
+Destroyer Hat
+Sombrero de destructor
+
+Destroyer Pendant
+Colgante de destructor
+
+Destroyer Cape
+Capa de destructor
+
+Destroyer Armor
+Armadura de destructor
+
+Destroyer Belt
+Cinturón de destructor
+
+Destroyer Boots
+Botas de destructor
+
+Destroyer Pants
+Pantalones de destructor
+
+Destroyer Gauntlets
+Guanteletes de destructor
+
+Destroyer ring (left)
+Anillo de destructor (izquierdo)
+
+Destroyer ring (right)
+Anillo de destructor (derecho)
+
+Winter helmet
+Yelmo invernal
+
+Winter Pendant
+Colgante invernal
+
+winter cloak
+capa invernal
+
+Winter armor
+Armadura invernal
+
+Winter Belt
+Cinturón invernal
+
+winter boots
+Botas invernales
+
+Winter Leggings
+Polainas invernales
+
+Winter bracelet
+Brazaletes invernal
+
+Winter ring (left)
+Anillo invernal (izquierdo)
+
+Winter ring (right)
+Anillo invernal (derecho)
+
+Inferno helmet
+Yelmo infernal
+
+Inferno Pendant
+Colgante infernal
+
+Inferno cape
+Capa infernal
+
+Inferno Armor
+Armadura infernal
+
+Inferno Belt
+Cinturón infernal
+
+Inferno boots
+Botas infernales
+
+Inferno Leggings
+Polainas infernales
+
+Inferno bracelet
+Brazaletes infernal
+
+Inferno ring (left)
+Anillo infernal (izquierdo)
+
+Inferno ring (right)
+Anillo infernal (derecho)
+
+Revival headband
+Diadema de reanimador
+
+Revival Pendant
+Colgante de reanimador
+
+Revival cape
+Capa de reanimador
+
+Revival Robe
+Túnica de reanimador
+
+Revival Belt
+Cinturón de reanimador
+
+Revival boots
+Botas de reanimador
+
+Revival Leggings
+Polainas de reanimador
+
+Revival bracelet
+Brazaletes de reanimador
+
+Revival ring (left)
+Anillo de reanimador (izquierdo)
+
+Revival ring (right)
+Anillo de reanimador (derecho)
+
+Undead mask
+Máscara de no muerto
+
+Undead Pendant
+Colgante de no muerto
+
+Undead Cloak
+Capa de no muerto
+
+Undead Tabard
+Tabardo de no muerto
+
+Undead Belt
+Cinturón de no muerto
+
+Undead Boots
+Botas de no muerto
+
+Undead Leggings
+Polainas de no muerto
+
+Undead bracelet
+Brazaletes de no muerto
+
+Undead Ring (Left)
+Anillo de no muerto (izquierdo)
+
+Undead Ring (Right)
+Anillo de no muerto (derecho)
+
+Evil Purger
+Purga maldita
+
+Thor Hammer
+Martillo de Thor
+
+Revenge Tooth
+Talión
+
+Phoenix Longbow
+Arco largo de fénix
+
+Poseidon Trident
+Tridente de Poseidón
+
+Burning Corona
+Corona ardiente
+
+Salvation Cross
+Cruz de salvación
+
+Death Scythe
+Guadaña de la muerte
+
+Realm Pack
+Mochila del reino
+
+Saviour helmet
+Yelmo de redentor
+
+Saviour Pendant
+Colgante de redentor
+
+Saviour Shoulders
+Hombreras de redentor
+
+Saviour Battlegear
+equipo de batalla de redentor
+
+Saviour Waistguard
+Escarcela de redentor
+
+Saviour boots
+Botas de redentor
+
+Saviour Legplates
+Perneras de redentor
+
+Saviour Bracers
+Brazales de redentor
+
+Saviour ring (left)
+Anillo de redentor (izquierdo)
+
+Saviour ring (right)
+Anillo de redentor (derecho)
+
+Patronus helmet
+Yelmo de patronus
+
+Patronus Pendant
+Colgante de patronus
+
+Patronus Pauldrons
+Espaldares de patronus
+
+Patronus Armor
+Armadura de patronus
+
+Patronus Waist
+Escarcela de patronus
+
+Patronus boots
+Botas de patronus
+
+Patronus Legplates
+Perneras de patronus
+
+Patronus Bracers
+Brazales de patronus
+
+Patronus ring (left)
+Anillo de patronus (izquierdo)
+
+Patronus ring (right)
+Anillo de patronus (derecho)
+
+Slaughterer Mask
+Máscara de ejecutor
+
+Slaughterer Pendant
+Colgante de ejecutor
+
+Slaughterer Cloak
+Capa de ejecutor
+
+Slaughterer Suit
+Traje de ejecutor
+
+Slaughterer Belt
+Cinturón de ejecutor
+
+Slaughterer Boots
+Botas de ejecutor
+
+Slaughterer Trousers
+Pantalones de ejecutor
+
+Slaughterer Gloves
+Guantes de ejecutor
+
+Slaughterer Ring (Left)
+Anillo de ejecutor (izquierdo)
+
+Slaughterer Ring (Right)
+Anillo de ejecutor (derecho)
+
+Dominator hat
+Sombrero de dominador
+
+Dominator Pendant
+Colgante de dominador
+
+Dominator Shawl
+Manto de dominador
+
+Dominator Armor
+Armadura de dominador
+
+Dominator Belt
+Cinturón de dominador
+
+Dominator Boots
+Botas de dominador
+
+Dominator Leggings
+Polainas de dominador
+
+Dominator Gauntlets
+Guanteletes de dominador
+
+Dominator ring (left)
+Anillo de dominador (izquierdo)
+
+Dominator ring (right)
+Anillo de dominador (derecho)
+
+Tsunami crown
+Corona de tsunami
+
+Tsunami Pendant
+Colgante de tsunami
+
+Tsunami cape
+Capa de tsunami
+
+Tsunami Tabard
+Tabardo de tsunami
+
+Tsunami Belt
+Cinturón de tsunami
+
+Tsunami boots
+Botas de tsunami
+
+Tsunami Leggings
+Polainas de tssunami
+
+Tsunami bracelet
+Brazaletes de tsunami
+
+Tsunami ring left hand
+Anillo de tsunami (izquierdo)
+
+Tsunami ring right hand
+Anillo de tsunami (derecho)
+
+Sunfire Cap
+Gorra de fuego solar
+
+Sunfire Charm
+Amuleto de fuego solar
+
+Sunfire Cloak
+Capa de fuego solar
+
+Sunfire Robe
+Túnica de fuego solar
+
+Sunfire Belt
+Cinturón de fuego solar
+
+Sunfire boots
+Botas de fuego solar
+
+Sunfire Leggings
+Polainas de fuego solar
+
+Sunfire bracelet
+Brazaletes de fuego solar
+
+Sunfire ring (left)
+Anillo de fuego solar (izquierdo)
+
+Sunfire Ring (Right)
+Anillo de fuego solar (derecho)
+
+Celestial Halo
+Halo celestial
+
+Celestial pendant
+Colgante de los cielos
+
+Celestial Wings
+Alas celestiales
+
+Celestial robe
+Túnica de los cielos
+
+Celestial Girdle
+Cinturón de los cielos
+
+Celestial Boots
+Botas de los cielos
+
+Celestial Leggings
+Polainas de los cielos
+
+Celestial bracelet
+Brazaletes de los cielos
+
+Celestial ring (left)
+Anillo de los cielos (izquierdo)
+
+Celestial ring (right)
+Anillo de los cielos (derecho)
+
+Sacrifice Mask
+Máscara de sacrificio
+
+Sacrifice Pendant
+Colgante de sacrificio
+
+Sacrifice Cloak
+Capa de sacrificio
+
+Sacrifice Tabard
+Tabardo de sacrificio
+
+Sacrifice belt
+Cinturón de sacrificio
+
+Sacrifice boots
+Botas de sacrificio
+
+Sacrifice Leggings
+Polainas de sacrificio
+
+Sacrifice bracelet
+Brazaletes de sacrificio
+
+Sacrifice ring (left)
+Anillo de sacrificio (izquierdo)
+
+Sacrifice ring (right)
+Anillo de sacrificio (derecho)
+
+War badge {d}
+Medalla de guerra de nivel $1
+
+_Arena lzs0lzs2250lzs1lzsGold medal
+_Medalla lzs0lzs2250lzs1lzsde Oro de la Arena
+
+_Arena lzs0lzs2249lzs1lzsSilver medal
+_Medalla lzs0lzs2249lzs1lzsde Plata de la Arena
+
+_Arena lzs0lzs2248lzs1lzsBlue medal
+_Medalla lzs0lzs2248lzs1lzsAzul de la Arena
+
+_Arena lzs0lzs2247lzs1lzsWhite medal
+_Medalla lzs0lzs2247lzs1lzsBlanca de la Arena
+
+_Arena Outstanding
+_Medalla Destacada de la Arena
+
+Arena medal
+Medalla de la arena
+
+_Tactical lzs0lzs2250lzs1lzsGold medal
+_Medalla lzs0lzs2250lzs1lzsde Oro de Batalla Táctica
+
+_Tactical lzs0lzs2249lzs1lzsSilver medal
+_Medalla lzs0lzs2249lzs1lzsde plata de Batalla Táctica
+
+_Tactical lzs0lzs2248lzs1lzsBlue medal
+_Medalla lzs0lzs2248lzs1lzsAzul de Batalla Táctica
+
+_Tactical lzs0lzs2247lzs1lzsWhite medal
+_Medalla lzs0lzs2247lzs1lzsBlanca de Batalla Táctica
+
+_Tactical Outstanding
+_Medalla Destacada de Batalla Táctica
+
+Tactical medal
+Medalla de Batalla Táctica
+
+One Star Attack Medal
+Medalla de ataque de una estrella
+
+Two Star Attack Medal
+Medalla de ataque de dos estrellas
+
+Three Star Attack Medal
+Medalla de ataque de tres estrellas
+
+Four Star Attack Medal
+Medalla de ataque de cuatro estrellas
+
+Five Star Attack Medal
+Medalla de ataque de cinco estrellas
+
+Medal of the demon Hunting boy
+Medalla del cazademonios
+
+Medal of the Demon Chasing girl
+Medalla de la cazademonios
+
+Medal of adored by Female Soldiers
+Medalla del adorado por Mujeres Soldado
+
+Medal of loved by the Counts
+Medalla de la amada por los Condes
+
+Princess's Kiss
+beso de princesa
+
+Prince's Tears
+Lágrimas de príncipe
+
+White skeleton
+esqueleto blanco
+
+Bloody Skeleton
+esqueleto sangriento
+
+Undead Skeleton
+esqueleto no-muerto
+
+Demon Skeleton
+Esqueleto demoníaco
+
+Gold medal of Hunting
+Medalla de Oro de Caza
+
+Silver medal of Hunting
+Medalla de Plata de Caza
+
+Blue medal of Hunting
+Medalla Azul de Caza
+
+White medal of Hunting
+Medalla Blanca de Caza
+
+Expert of Hunting
+Experto en Caza
+
+Apprentice of Hunting
+Aprendiz de Caza
+
+gold wedding ring
+anillo de boda de oro
+
+Platinum wedding ring
+anillo de boda de platino
+
+lzs0lzs2243lzs1lzsdiamond wedding ring
+lzs0lzs2243lzs1lzsAnillo de boda de diamantes
+
+Tutor Medal
+Medalla de mentor
+
+Benevolent Medal
+Medalla del Mentor Benevolente
+
+Kindhearted Medal
+Medalla del Mentor de buen corazón
+
+Renowned Medal
+Medalla del Mentor reputado
+
+Master Medal
+Medalla de la maestría
+
+Contribution Medal
+Medalla de Contribución
+
+Mist god Emblem
+Emblema del dios de la niebla
+
+Crispy potato and vegetable pie
+Tarta crujiente de patatas y verduras
+
+concentric knot
+nudo concéntrico
+
+Five-Nuts Osmanthus Cake
+Pastel de osmanthus de cinco nueces
+
+Festival Medal
+Medalla del festival
+
+Great iron sword
+Espada de hierro grandiosa
+
+Epic iron sword
+Espada de hierro épica
+
+Heavenly iron sword
+Espada de hierro celestial
+
+Godbless iron sword
+Espada de hierro bendita
+
+Great iron hammer
+Martillo de hierro grandioso
+
+Epic iron hammer
+Martillo de hierro épico
+
+Heavenly iron hammer
+Martillo de hierro celestial
+
+Godbless iron hammer
+Martillo de hierro bendito
+
+Great dagger
+Daga grandiosa
+
+Epic dagger
+Daga épica
+
+Heavenly dagger
+Daga celestial
+
+Godbless dagger
+Daga bendita
+
+Great wooden bow
+Arco de madera grandioso
+
+Epic wooden bow
+Arco de madera épico
+
+Heavenly wooden bow
+Arco de madera celestial
+
+Godbless wooden bow
+Arco de madera bendito
+
+Great Ivy Staff
+Bastón de hiedra grandioso
+
+Epic Ivy Staff
+Bastón de hiedra épico
+
+Heavenly Ivy Staff
+Bastón de hiedra celestial
+
+Godbless Ivy Staff
+Bastón de hiedra bendito
+
+Great Ivy Scepter
+Cetro de hiedra grandioso
+
+Epic Ivy Scepter
+Cetro de hiedra épico
+
+Heavenly Ivy Scepter
+Cetro de hiedra celestial
+
+Godbless Ivy Scepter
+Cetro de hiedra bendito
+
+Great bronze Set
+Conjunto de bronce grandioso
+
+Epic bronze Set
+Conjunto de bronce épico
+
+Heavenly bronze Set
+Conjunto de bronce celestial
+
+Godbless bronze Set
+Conjunto de bronce bendito
+
+Great silk Set
+Conjunto de seda grandioso
+
+Epic silk Set
+Conjunto de seda épico
+
+Heavenly silk Set
+Conjunto de seda celestial
+
+Godbless silk Set
+Conjunto de seda bendito
+
+Great Sword of Fighter
+Espada de luchador grandiosa
+
+Epic Sword of Fighter
+Espada de luchador épica
+
+Heavenly Sword of Fighter
+Espada de luchador celestial
+
+Godbless Sword of Fighter
+Espada de luchador bendita
+
+Great machete of Berserker
+Machete de berserker grandioso
+
+Epic machete of Berserker
+Machete de berserker épico
+
+Heavenly machete of Berserker
+Machete de berserker celestial
+
+Godbless machete of Berserker
+Machete de berserker bendito
+
+Great Blade of Killer
+Cuchilla de asesino grandiosa
+
+Epic Blade of Killer
+Cuchilla de asesino épica
+
+Heavenly Blade of Killer
+Cuchilla de asesino celestial
+
+Godbless Blade of Killer
+Cuchilla de asesino bendita
+
+Great Bow of chaser
+Arco de cazador grandioso
+
+Epic Bow of chaser
+Arco de cazador épico
+
+Heavenly Bow of chaser
+Arco de cazador celestial
+
+Godbless Bow of chaser
+Arco de cazador bendito
+
+Great Staff of Wisdom
+Bastón de sabio grandioso
+
+Epic Staff of Wisdom
+Bastón de sabio épico
+
+Heavenly Staff of Wisdom
+Bastón de sabio celestial
+
+Godbless Staff of Wisdom
+Bastón de sabio bendito
+
+Great Staff of Nature
+Bastón de la naturaleza grandioso
+
+Epic Staff of Nature
+Bastón de la naturaleza épico
+
+Heavenly Staff of Nature
+Bastón de la naturaleza celestial
+
+Godbless Staff of Nature
+Bastón de la naturaleza bendito
+
+Great Scepter of Mercy
+Cetro de misericordia grandioso
+
+Epic Scepter of Mercy
+Cetro de misericordia épico
+
+Heavenly Scepter of Mercy
+Cetro de misericordia celestial
+
+Godbless Scepter of Mercy
+Cetro de misericordia bendito
+
+Great Scepter of Bones
+Cetro de huesos grandioso
+
+Epic Scepter of Bones
+Cetro de huesos épico
+
+Heavenly Scepter of Bones
+Cetro de huesos celestial
+
+Godbless Scepter of Bones
+Cetro de huesos bendito
+
+Great fighter Set
+Conjunto de luchador grandioso
+
+Epic fighter Set
+Conjunto de luchador épico
+
+Heavenly fighter Set
+Conjunto de luchador celestial
+
+Godbless fighter Set
+Conjunto de luchador bendito
+
+Great Berserker Set
+Conjunto de berserker grandioso
+
+Epic Berserker Set
+Conjunto de berserker épico
+
+Heavenly Berserker Set
+Conjunto de berserker celestial
+
+Godbless Berserker Set
+Conjunto de berserker bendito
+
+Great killer Set
+Conjunto de asesino grandioso
+
+Epic killer Set
+Conjunto de asesino épico
+
+Heavenly killer Set
+Conjunto de asesino celestial
+
+Godbless killer Set
+Conjunto de asesino bendito
+
+Great chaser Set
+Conjunto de cazador grandioso
+
+Epic chaser Set
+Conjunto de cazador épico
+
+Heavenly chaser Set
+Conjunto de cazador celestial
+
+Godbless chaser Set
+Conjunto de cazador bendito
+
+Great Wisdom Set
+Conjunto de sabio grandioso
+
+Epic Wisdom Set
+Conjunto de sabio épico
+
+Heavenly Wisdom Set
+Conjunto de sabio celestial
+
+Godbless Wisdom Set
+Conjunto de sabio bendito
+
+Great colorful Set
+Conjunto colorido grandioso
+
+Epic colorful Set
+Conjunto colorido épico
+
+Heavenly colorful Set
+Conjunto colorido celestial
+
+Godbless colorful Set
+Conjunto colorido bendito
+
+Great charity Set
+Conjunto de caridad grandioso
+
+Epic charity Set
+Conjunto de caridad épico
+
+Heavenly charity Set
+Conjunto de caridad celestial
+
+Godbless charity Set
+Conjunto de caridad bendito
+
+Great Skull Set
+Conjunto de calavera grandioso
+
+Epic Skull Set
+Conjunto de calavera épico
+
+Heavenly Skull Set
+Conjunto de calavera celestial
+
+Godbless Skull Set
+Conjunto de calavera bendito
+
+Great Ocean Roaring
+Rugido del océano grandioso
+
+Epic Ocean Roaring
+Rugido del océano épico
+
+Heavenly Ocean Roaring
+Rugido del océano celestial
+
+Godbless Ocean Roaring
+Rugido del océano bendito
+
+Great Mountain Crushing
+Alud de la montaña grandioso
+
+Epic Mountain Crushing
+Alud de la montaña épico
+
+Heavenly Mountain Crushing
+Alud de la montaña celestial
+
+Godbless Mountain Crushing
+Alud de la montaña bendito
+
+Great Shadow Kissing
+Beso de sombra grandioso
+
+Epic Shadow Kissing
+Beso de sombra épico
+
+Heavenly Shadow Kissing
+Beso de sombra celestial
+
+Godbless Shadow Kissing
+Beso de sombra bendito
+
+Great Wind Dancing
+Danza de viento grandiosa
+
+Epic Wind Dancing
+Danza de viento épica
+
+Heavenly Wind Dancing
+Danza de viento celestial
+
+Godbless Wind Dancing
+Danza de viento bendita
+
+Great Ice Sighing
+Soplo de hielo grandioso
+
+Epic Ice Sighing
+Soplo de hielo épico
+
+Heavenly Ice Sighing
+Soplo de hielo celestial
+
+Godbless Ice Sighing
+Soplo de hielo bendito
+
+Great Fire Enveloping
+Fuego envolvente grandioso
+
+Epic Fire Enveloping
+Fuego envolvente épico
+
+Heavenly Fire Enveloping
+Fuego envolvente celestial
+
+Godbless Fire Enveloping
+Fuego envolvente bendito
+
+Great Light Weaving
+Tejido de luz grandioso
+
+Epic Light Weaving
+Tejido de luz épico
+
+Heavenly Light Weaving
+Tejido de luz celestial
+
+Godbless Light Weaving
+Tejido de luz bendito
+
+Great Soul Sucking
+Succión de alma grandiosa
+
+Epic Soul Sucking
+Succión de alma épica
+
+Heavenly Soul Sucking
+Succión de alma celestial
+
+Godbless Soul Sucking
+Succión de alma bendita
+
+Great Fencer Set
+Conjunto de esgrimista grandioso
+
+Epic Fencer Set
+Conjunto de esgrimista épico
+
+Heavenly Fencer Set
+Conjunto de esgrimista celestial
+
+Godbless Fencer Set
+Conjunto de esgrimista bendito
+
+Great Gladiator Set
+Conjunto de gladiador grandioso
+
+Epic Gladiator Set
+Conjunto de gladiador épico
+
+Heavenly Gladiator Set
+Conjunto de gladiador celestial
+
+Godbless Gladiator Set
+Conjunto de gladiador bendito
+
+Great Tearer Set
+Conjunto de destripador grandioso
+
+Epic Tearer Set
+Conjunto de destripador épico
+
+Heavenly Tearer Set
+Conjunto de destripador celestial
+
+Godbless Tearer Set
+Conjunto de destripador bendito
+
+Great Windrunner Set
+Conjunto de corredor del viento grandioso
+
+Epic Windrunner Set
+Conjunto de corredor del viento épico
+
+Heavenly Windrunner Set
+Conjunto de corredor del viento celestial
+
+Godbless Windrunner Set
+Conjunto de corredor del viento bendito
+
+Great Freezing Set
+Conjunto helado grandioso
+
+Epic Freezing Set
+Conjunto helado épico
+
+Heavenly Freezing Set
+Conjunto helado celestial
+
+Godbless Freezing Set
+Conjunto helado bendito
+
+Great Flaming Set
+Conjunto llameante grandioso
+
+Epic Flaming Set
+Conjunto llameante épico
+
+Heavenly Flaming Set
+Conjunto llameante celestial
+
+Godbless Flaming Set
+Conjunto llameante bendito
+
+Great Radiant Set
+Conjunto radiante grandioso
+
+Epic Radiant Set
+Conjunto radiante épico
+
+Heavenly Radiant Set
+Conjunto radiante celestial
+
+Godbless Radiant Set
+Conjunto radiante bendito
+
+Great Ghost Set
+Conjunto fantasmal grandioso
+
+Epic Ghost Set
+Conjunto fantasmal épico
+
+Heavenly Ghost Set
+Conjunto fantasmal celestial
+
+Godbless Ghost Set
+Conjunto fantasmal bendito
+
+Great Solemn Oath
+Juramento solemne grandioso
+
+Epic Solemn Oath
+Juramento solemne épico
+
+Heavenly Solemn Oath
+Juramento solemne celestial
+
+Godbless Solemn Oath
+Juramento solemne bendito
+
+Great Savage invader
+Invasor salvaje grandioso
+
+Epic Savage invader
+Invasor salvaje épico
+
+Heavenly Savage invader
+Invasor salvaje celestial
+
+Godbless Savage invader
+Invasor salvaje bendito
+
+Great Grief Bringer
+Portador de desgracias grandioso
+
+Epic Grief Bringer
+Portador de desgracias épico
+
+Heavenly Grief Bringer
+Portador de desgracias celestial
+
+Godbless Grief Bringer
+Portador de desgracias bendito
+
+Great Mutant Slayer
+Matamutantes grandioso
+
+Epic Mutant Slayer
+Matamutantes épico
+
+Heavenly Mutant Slayer
+Matamutantes celestial
+
+Godbless Mutant Slayer
+Matamutantes bendito
+
+Great Frost Sorrow
+Lamento de escarcha grandioso
+
+Epic Frost Sorrow
+Lamento de escarcha épico
+
+Heavenly Frost Sorrow
+Lamento de escarcha celestial
+
+Godbless Frost Sorrow
+Lamento de escarcha bendito
+
+Great Scorching Torch
+Antorcha abrasiva grandiosa
+
+Epic Scorching Torch
+Antorcha abrasiva épica
+
+Heavenly Scorching Torch
+Antorcha abrasiva celestial
+
+Godbless Scorching Torch
+Antorcha abrasiva bendita
+
+Great Praying seraph
+Oración del serafín grandiosa
+
+Epic Praying seraph
+Oración del serafín épica
+
+Heavenly Praying seraph
+Oración del serafín celestial
+
+Godbless Praying seraph
+Oración del serafín bendita
+
+Great Griffin Claw
+Garra de grifo grandiosa
+
+Epic Griffin Claw
+Garra de grifo épica
+
+Heavenly Griffin Claw
+Garra de grifo celestial
+
+Godbless Griffin Claw
+Garra de grifo bendita
+
+Great Honor Set
+Conjunto de honor grandioso
+
+Epic Honor Set
+Conjunto de honor épico
+
+Heavenly Honor Set
+Conjunto de honor celestial
+
+Godbless Honor Set
+Conjunto de honor bendito
+
+Great Barbarian Set
+Conjunto de bárbaro grandioso
+
+Epic Barbarian Set
+Conjunto de bárbaro épico
+
+Heavenly Barbarian Set
+Conjunto de bárbaro celestial
+
+Godbless Barbarian Set
+Conjunto de bárbaro bendito
+
+Great ascetic Set
+Conjunto de asceta grandioso
+
+Epic ascetic Set
+Conjunto de asceta épico
+
+Heavenly ascetic Set
+Conjunto de asceta celestial
+
+Godbless ascetic Set
+Conjunto de asceta bendito
+
+Great Raider Set
+Conjunto de asaltante grandioso
+
+Epic Raider Set
+Conjunto de asaltante épico
+
+Heavenly Raider Set
+Conjunto de asaltante celestial
+
+Godbless Raider Set
+Conjunto de asaltante bendito
+
+Great Frost Set
+Conjunto de escarcha grandioso
+
+Epic Frost Set
+Conjunto de escarcha épico
+
+Heavenly Frost Set
+Conjunto de escarcha celestial
+
+Godbless Frost Set
+Conjunto de escarcha bendito
+
+Great wildfire Set
+Conjunto de fuego silvestre grandioso
+
+Epic wildfire Set
+Conjunto de fuego silvestre épico
+
+Heavenly wildfire Set
+Conjunto de fuego silvestre celestial
+
+Godbless wildfire Set
+Conjunto de fuego silvestre bendito
+
+Great angel Set
+Conjunto angelical grandioso
+
+Epic angel Set
+Conjunto angelical épico
+
+Heavenly angel Set
+Conjunto angelical celestial
+
+Godbless angel Set
+Conjunto angelical bendito
+
+Great Lich Set
+Conjunto de lich grandioso
+
+Epic Lich Set
+Conjunto de lich épico
+
+Heavenly Lich Set
+Conjunto de lich celestial
+
+Godbless Lich Set
+Conjunto de lich bendito
+
+Great Ribcracker
+Quebrantahuesos grandioso
+
+Epic Ribcracker
+Quebrantahuesos épico
+
+Heavenly Ribcracker
+Quebrantahuesos celestial
+
+Godbless Ribcracker
+Quebrantahuesos bendito
+
+Great Tornado Scourge
+Azote de tornado grandioso
+
+Epic Tornado Scourge
+Azote de tornado épico
+
+Heavenly Tornado Scourge
+Azote de tornado celestial
+
+Godbless Tornado Scourge
+Azote de tornado bendito
+
+Great Invisible Claw
+Garra invisible grandiosa
+
+Epic Invisible Claw
+Garra invisible épica
+
+Heavenly Invisible Claw
+Garra invisible celestial
+
+Godbless Invisible Claw
+Garra invisible bendita
+
+Great Heart Hitter
+cazacorazones grandioso
+
+Epic Heart Hitter
+cazacorazones épico
+
+Heavenly Heart Hitter
+cazacorazones celestial
+
+Godbless Heart Hitter
+cazacorazones bendito
+
+Great Pelting Hail
+Granizo torrencial grandioso
+
+Epic Pelting Hail
+Granizo torrencial épico
+
+Heavenly Pelting Hail
+Granizo torrencial celestial
+
+Godbless Pelting Hail
+Granizo torrencial bendito
+
+Great Thousands Blast
+Explosión expansiva grandiosa
+
+Epic Thousands Blast
+Explosión expansiva épica
+
+Heavenly Thousands Blast
+Explosión expansiva celestial
+
+Godbless Thousands Blast
+Explosión expansiva bendita
+
+Great Inspire Scepter
+Cetro inspirador grandioso
+
+Epic Inspire Scepter
+Cetro inspirador épico
+
+Heavenly Inspire Scepter
+Cetro inspirador celestial
+
+Godbless Inspire Scepter
+Cetro inspirador bendito
+
+Great Terror Scepter
+Cetro terrorífico grandioso
+
+Epic Terror Scepter
+Cetro terrorífico épico
+
+Heavenly Terror Scepter
+Cetro terrorífico celestial
+
+Godbless Terror Scepter
+Cetro terrorífico bendito
+
+Great Champion Set
+Conjunto de campeón grandioso
+
+Epic Champion Set
+Conjunto de campeón épico
+
+Heavenly Champion Set
+Conjunto de campeón celestial
+
+Godbless Champion Set
+Conjunto de campeón bendito
+
+Great Rampage Set
+Conjunto de violencia grandioso
+
+Epic Rampage Set
+Conjunto de violencia épico
+
+Heavenly Rampage Set
+Conjunto de violencia celestial
+
+Godbless Rampage Set
+Conjunto de violencia bendito
+
+Great Stealth Set
+Conjunto de sigiloso grandioso
+
+Epic Stealth Set
+Conjunto de sigiloso épico
+
+Heavenly Stealth Set
+Conjunto de sigiloso celestial
+
+Godbless Stealth Set
+Conjunto de sigiloso bendito
+
+Great sniper Set
+Conjunto de francotirador grandioso
+
+Epic sniper Set
+Conjunto de francotirador épico
+
+Heavenly sniper Set
+Conjunto de francotirador celestial
+
+Godbless sniper Set
+Conjunto de francotirador bendito
+
+Great Blizzard Set
+Conjunto de ventisca grandioso
+
+Epic Blizzard Set
+Conjunto de ventisca épico
+
+Heavenly Blizzard Set
+Conjunto de ventisca celestial
+
+Godbless Blizzard Set
+Conjunto de ventisca bendito
+
+Great Firestorm Set
+Conjunto incinerante grandioso
+
+Epic Firestorm Set
+Conjunto incinerante épico
+
+Heavenly Firestorm Set
+Conjunto incinerante celestial
+
+Godbless Firestorm Set
+Conjunto incinerante bendito
+
+Great Sermon Set
+Conjunto de orador grandioso
+
+Epic Sermon Set
+Conjunto de orador épico
+
+Heavenly Sermon Set
+Conjunto de orador celestial
+
+Godbless Sermon Set
+Conjunto de orador bendito
+
+Great Horror Set
+Conjunto de terror grandioso
+
+Epic Horror Set
+Conjunto de terror épico
+
+Heavenly Horror Set
+Conjunto de terror celestial
+
+Godbless Horror Set
+Conjunto de terror bendito
+
+Great Royal Victory
+Victoria real grandiosa
+
+Epic Royal Victory
+Victoria real épica
+
+Heavenly Royal Victory
+Victoria real celestial
+
+Godbless Royal Victory
+Victoria real bendita
+
+Great Lethal Warhammer
+Martillo de guerra letal grandioso
+
+Epic Lethal Warhammer
+Martillo de guerra letal épico
+
+Heavenly Lethal Warhammer
+Martillo de guerra letal celestial
+
+Godbless Lethal Warhammer
+Martillo de guerra letal bendito
+
+Great Bloodletting razor	
+Navaja sanguinaria grandiosa
+
+Epic Bloodletting razor	
+Navaja sanguinaria épica
+
+Heavenly Bloodletting razor	
+Navaja sanguinaria celestial
+
+Godbless Bloodletting razor	
+Navaja sanguinaria bendita
+
+Great Hydra crossbow
+Ballesta de la hydra grandiosa
+
+Epic Hydra crossbow
+Ballesta de la hydra épica
+
+Heavenly Hydra crossbow
+Ballesta de la hydra celestial
+
+Godbless Hydra crossbow
+Ballesta de la hydra bendita
+
+Great Sealing Moon
+Sello lunar grandioso
+
+Epic Sealing Moon
+Sello lunar épico
+
+Heavenly Sealing Moon
+Sello lunar celestial
+
+Godbless Sealing Moon
+Sello lunar bendito
+
+Great eruption Magma
+Erupción de magma grandiosa
+
+Epic eruption Magma
+Erupción de magma épica
+
+Heavenly eruption Magma
+Erupción de magma celestial
+
+Godbless eruption Magma
+Erupción de magma bendita
+
+Great Pure Wisdom
+Sabiduría pura grandiosa
+
+Epic Pure Wisdom
+Sabiduría pura épica
+
+Heavenly Pure Wisdom
+Sabiduría pura celestial
+
+Godbless Pure Wisdom
+Sabiduría pura bendita
+
+Great mummy Curse
+Maldición de momia grandiosa
+
+Epic mummy Curse
+Maldición de momia épica
+
+Heavenly mummy Curse
+Maldición de momia celestial
+
+Godbless mummy Curse
+Maldición de momia bendita
+
+Great hero Set
+Conjunto de héroe grandioso
+
+Epic hero Set
+Conjunto de héroe épico
+
+Heavenly hero Set
+Conjunto de héroe celestial
+
+Godbless hero Set
+Conjunto de héroe bendito
+
+Great Sentinel Set
+Conjunto de centinela grandioso
+
+Epic Sentinel Set
+Conjunto de centinela épico
+
+Heavenly Sentinel Set
+Conjunto de centinela celestial
+
+Godbless Sentinel Set
+Conjunto de centinela bendito
+
+Great Executioner Set
+Conjunto de verdugo grandioso
+
+Epic Executioner Set
+Conjunto de verdugo épico
+
+Heavenly Executioner Set
+Conjunto de verdugo celestial
+
+Godbless Executioner Set
+Conjunto de verdugo bendito
+
+Great Penetrator Set
+Conjunto de perforador grandioso
+
+Epic Penetrator Set
+Conjunto de perforador épico
+
+Heavenly Penetrator Set
+Conjunto de perforador celestial
+
+Godbless Penetrator Set
+Conjunto de Perforador Bendito
+
+Great Glacier Set
+Conjunto glaciar grandioso
+
+Epic Glacier Set
+Conjunto glaciar épico
+
+Heavenly Glacier Set
+Conjunto glaciar celestial
+
+Godbless Glacier Set
+Conjunto glaciar bendito
+
+Great Volcano Set
+Conjunto volcánico grandioso
+
+Epic Volcano Set
+Conjunto volcánico épico
+
+Heavenly Volcano Set
+Conjunto volcánico celestial
+
+Godbless Volcano Set
+Conjunto volcánico bendito
+
+Great Saint Set
+Conjunto de santo grandioso
+
+Epic Saint Set
+Conjunto de santo épico
+
+Heavenly Saint Set
+Conjunto de santo celestial
+
+Godbless Saint Set
+Conjunto de santo bendito
+
+Great Toxin Set
+Conjunto de toxinas grandioso
+
+Epic Toxin Set
+Conjunto de toxinas épico
+
+Heavenly Toxin Set
+Conjunto de toxinas celestial
+
+Godbless Toxin Set
+Conjunto de toxinas Bendito
+
+Great Broken Sky
+Trozo de cielo grandioso
+
+Epic Broken Sky
+Trozo de cielo épico
+
+Heavenly Broken Sky
+Trozo de cielo celestial
+
+Godbless Broken Sky
+Trozo de cielo bendito
+
+Great Lost Eternity
+Eternidad perdida grandiosa
+
+Epic Lost Eternity
+Eternidad perdida épica
+
+Heavenly Lost Eternity
+Eternidad perdida celestial
+
+Godbless Lost Eternity
+Eternidad perdida bendita
+
+Great Dragon Scale
+Escama de dragón grandiosa
+
+Epic Dragon Scale
+Escama de dragón épica
+
+Heavenly Dragon Scale
+Escama de dragón celestial
+
+Godbless Dragon Scale
+Escama de dragón bendita
+
+Great Star Fury
+Furia estelar grandiosa
+
+Epic Star Fury
+Furia estelar épica
+
+Heavenly Star Fury
+Furia estelar celestial
+
+Godbless Star Fury
+Furia estelar bendita
+
+Great Desolate Snow
+Nieve desolada grandiosa
+
+Epic Desolate Snow
+Nieve desolada épica
+
+Heavenly Desolate Snow
+Nieve desolada celestial
+
+Godbless Desolate Snow
+Nieve desolada bendita
+
+Great Black Smoke
+Humo negro grandioso
+
+Epic Black Smoke
+Humo negro épico
+
+Heavenly Black Smoke
+Humo negro celestial
+
+Godbless Black Smoke
+Humo negro bendito
+
+Great Redemption finger
+Dedo de la redención grandioso
+
+Epic Redemption finger
+Dedo de la redención épico
+
+Heavenly Redemption finger
+Dedo de la redención celestial
+
+Godbless Redemption finger
+Dedo de la redención bendito
+
+Great Demon Spine
+Columna vertebral demoníaca grandiosa
+
+Epic Demon Spine
+Columna vertebral demoníaca épica
+
+Heavenly Demon Spine
+Columna demoníaca vertebral celestial
+
+Godbless Demon Spine
+Columna vertebral demoníaca bendita
+
+Great Pioneer Set
+Conjunto de pionero grandioso
+
+Epic Pioneer Set
+Conjunto de pionero épico
+
+Heavenly Pioneer Set
+Conjunto de pionero celestial
+
+Godbless Pioneer Set
+Conjunto de pionero bendito
+
+Great Giant Set
+Conjunto de gigante grandioso
+
+Epic Giant Set
+Conjunto de gigante épico
+
+Heavenly Giant Set
+Conjunto de gigante celestial
+
+Godbless Giant Set
+Conjunto de gigante bendito
+
+Great Reaper Set
+Conjunto de segador grandioso
+
+Epic Reaper Set
+Conjunto de segador épico
+
+Heavenly Reaper Set
+Conjunto de segador celestial
+
+Godbless Reaper Set
+Conjunto de segador bendito
+
+Great Destroyer Set
+Conjunto de destructor grandioso
+
+Epic Destroyer Set
+Conjunto de destructor épico
+
+Heavenly Destroyer Set
+Conjunto de destructor celestial
+
+Godbless Destroyer Set
+Conjunto de destructor bendito
+
+Great Winter Set
+Conjunto invernal grandioso
+
+Epic Winter Set
+Conjunto invernal épico
+
+Heavenly Winter Set
+Conjunto invernal celestial
+
+Godbless Winter Set
+Conjunto invernal bendito
+
+Great Inferno Set
+Conjunto infernal grandioso
+
+Epic Inferno Set
+Conjunto infernal épico
+
+Heavenly Inferno Set
+Conjunto infernal celestial
+
+Godbless Inferno Set
+Conjunto infernal bendito
+
+Great Revival Set
+Conjunto de reanimador grandioso
+
+Epic Revival Set
+Conjunto de reanimador épico
+
+Heavenly Revival Set
+Conjunto de reanimador celestial
+
+Godbless Revival Set
+Conjunto de reanimador bendito
+
+Great Undead Set
+Conjunto de no muerto grandioso
+
+Epic Undead Set
+Conjunto de no muerto épico
+
+Heavenly Undead Set
+Conjunto de no muerto celestial
+
+Godbless Undead Set
+Conjunto de no muerto bendito
+
+Great Evil Purger
+Purga maldita grandiosa
+
+Epic Evil Purger
+Purga maldita épica
+
+Heavenly Evil Purger
+Purga maldita celestial
+
+Godbless Evil Purger
+Purga maldita bendita
+
+Great Thor Hammer
+Martillo de Thor grandioso
+
+Epic Thor Hammer
+Martillo de Thor épico
+
+Heavenly Thor Hammer
+Martillo de Thor celestial
+
+Godbless Thor Hammer
+Martillo de Thor bendito
+
+Great Revenge Tooth
+Talión grandioso
+
+Epic Revenge Tooth
+Talión épico
+
+Heavenly Revenge Tooth
+Talión celestial
+
+Godbless Revenge Tooth
+Talión bendito
+
+Great Phoenix Longbow
+Arco largo de fénix grandioso
+
+Epic Phoenix Longbow
+Arco largo de fénix épico
+
+Heavenly Phoenix Longbow
+Arco largo de fénix celestial
+
+Godbless Phoenix Longbow
+Arco largo de fénix bendito
+
+Great Poseidon Trident
+Tridente de Poseidón grandioso
+
+Epic Poseidon Trident
+Tridente de Poseidón épico
+
+Heavenly Poseidon Trident
+Tridente de Poseidón celestial
+
+Godbless Poseidon Trident
+Tridente de Poseidón bendito
+
+Great Burning Corona
+Corona ardiente grandiosa
+
+Epic Burning Corona
+Corona ardiente épica
+
+Heavenly Burning Corona
+Corona ardiente celestial
+
+Godbless Burning Corona
+Corona ardiente bendita
+
+Great Salvation Cross
+Cruz de salvación grandiosa
+
+Epic Salvation Cross
+Cruz de salvación épica
+
+Heavenly Salvation Cross
+Cruz de salvación celestial
+
+Godbless Salvation Cross
+Cruz de salvación bendita
+
+Great Death Scythe
+Guadaña de la muerte grandiosa
+
+Epic Death Scythe
+Guadaña de la muerte épica
+
+Heavenly Death Scythe
+Guadaña de la muerte celestial
+
+Godbless Death Scythe
+Guadaña de la muerte bendita
+
+Great Saviour Set
+Conjunto de redentor grandioso
+
+Epic Saviour Set
+Conjunto de redentor épico
+
+Heavenly Saviour Set
+Conjunto de redentor celestial
+
+Godbless Saviour Set
+Conjunto de redentor bendito
+
+Great Patronus Set
+Conjunto de patronus grandioso
+
+Epic Patronus Set
+Conjunto de patronus épico
+
+Heavenly Patronus Set
+Conjunto de patronus celestial
+
+Godbless Patronus Set
+Conjunto de patronus bendito
+
+Great Slaughterer Set
+Conjunto de ejecutor grandioso
+
+Epic Slaughterer Set
+Conjunto de ejecutor épico
+
+Heavenly Slaughterer Set
+Conjunto de ejecutor celestial
+
+Godbless Slaughterer Set
+Conjunto de ejecutor bendito
+
+Great Dominator Set
+Conjunto de dominador grandioso
+
+Epic Dominator Set
+Conjunto de dominador épico
+
+Heavenly Dominator Set
+Conjunto de dominador celestial
+
+Godbless Dominator Set
+Conjunto de dominador bendito
+
+Great Tsunami Set
+Conjunto de tsunami grandioso
+
+Epic Tsunami Set
+Conjunto de tsunami épico
+
+Heavenly Tsunami Set
+Conjunto de tsunami celestial
+
+Godbless Tsunami Set
+Conjunto de tsunami bendito
+
+Great Sunfire Set
+Conjunto de fuego de sol grandioso
+
+Epic Sunfire Set
+Conjunto de fuego de sol épico
+
+Heavenly Sunfire Set
+Conjunto de fuego de sol celestial
+
+Godbless Sunfire Set
+Conjunto de fuego de sol bendito
+
+Great Celestial Set
+Conjunto de los cielos grandioso
+
+Epic Celestial Set
+Conjunto de los cielos épico
+
+Heavenly Celestial Set
+Conjunto de los cielos celestial 
+
+Godbless Celestial Set
+Conjunto de los cielos bendito
+
+Great Sacrifice Set
+Conjunto de sacrificio grandioso
+
+Epic Sacrifice Set
+Conjunto de sacrificio épico
+
+Heavenly Sacrifice Set
+Conjunto de sacrificio celestial
+
+Godbless Sacrifice Set
+Conjunto de sacrificio bendito
+
+Arena Outstanding
+Medalla destacada de la arena
+
+Meteor Flying {d}
+Meteoro Volador $1
+
+Lucky star auspicious {d}
+Estrella de la Suerte Propicia $1
+
+White star blazing {d}
+Estrella Blanca Ardiente $1
+
+Blue Star icy {d}
+Estrella Azul Helada $1
+
+Silver Star bright {d}
+Estrella Plateada Brillante $1
+
+Gold star shines {d}
+Estrella Dorada reluciente $1
+
+crescent moon residual jade {d}
+Medialuna de jade $1
+
+Pine moon jasper {d}
+Luna de Pino Jaspeada $1
+
+White moon treasure jade {d}
+Luna blanca de jade $1
+
+Blue moon sky jade {d}
+Luna Azul de Jade $1
+
+Silver moon immortal jade {d}
+Luna plateada de jade inmortal $1
+
+Golden moon god jade {d}
+Luna Dorada del Dios de Jade $1

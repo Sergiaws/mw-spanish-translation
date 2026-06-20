@@ -1,0 +1,794 @@
+guide for new players
+guía para nuevos jugadores
+
+Karon Village
+Aldea Karon
+
+Folk house
+Casa habitada
+
+granary
+Granero
+
+well
+Pozo
+
+Mario Basin
+Cuenca de Mario
+
+Shrine
+Santuario
+
+mist stone Barrier
+Barrera de piedra mística
+
+aerial
+Aéreo
+
+central plains
+Llanuras centrales
+
+Underground of Giant rock City
+Subterráneo de Ciudad Rocagigante
+
+Cable Car No. 1
+Teleférico número 1
+
+dimensional space
+Espacio dimensional
+
+Tiger Mountain (tutor and pupil)
+Montaña del tigre (maestro y aprendíz)
+
+rolling Mountain (tutor and pupil)
+Montaña rodante (maestro y aprendíz)
+
+Trial Fantasy (tutor and pupil)
+Prueba de fantasía (maestro y aprendíz)
+
+You and tutor are separated. From now on, you will face the world by your own. In the bleak cold wind, you watched tutor depart across the ruined landscape, gradually disappear from sight. 
+Has sido separado de tu maestro. A partir de ahora, deberás enfrentarte al mundo por tu cuenta; ves partir a tu tutor bajo el sombrío paisaje.
+
+The pupil separated from you. you watched him go into the distance. Behind him, the dawn of dawn brightens the boundless wasteland. 
+Has sido separado de tu aprendiz. Lo ves partir con el amanecer a su espalda, que ilumina el sombrío paisaje.
+
+royal training ground
+Campo de entrenamiento real
+
+Fighting training Gym
+Gimnasio de lucha
+
+cable car
+Teleférico
+
+Fertile Wilds
+Tierras salvajes fértiles
+
+Gale Mountain
+Montaña del Vendaval
+
+explosive base
+Base explosiva
+
+cellar
+Sótano
+
+Tiger Mountain
+Montaña del Tigre
+
+Snow base
+Base de nieve
+
+Tuneful Wetland
+Humedal armonioso
+
+Underground of Tulip City
+Subterráneo de ciudad Tulipán
+
+Cable Car No. 2
+Teleférico número 2
+
+fighting training ground
+Campo de entrenamiento
+
+Glorious Grassland
+Pradera gloriosa
+
+rolling mountain
+Montaña rodante
+
+North Mountain Plantation
+Plantación de la montaña del norte
+
+Glorious Ranch
+Rancho glorioso
+
+High climbing grassland
+Pradera de alta escalada
+
+underground of holy blood city
+Subterráneo de ciudad Sangre Santa
+
+Cable Car No. 3
+Teleférico número 3
+
+Stone Cliff Village
+Aldea del acantilado de piedra
+
+Infernal Trial Ground
+Campo de pruebas infernal
+
+hilly terrain
+Terreno montañoso
+
+exotic space
+Espacio exótico
+
+gouging knife Dungeon
+Mazmorra del cuchillo desenterrado
+
+defense base
+Base de de defensa
+
+secluded valley
+Valle aislado
+
+Knight Proving Ground
+Campo de pruebas para caballeros
+
+alibaba village
+Aldea Alibaba
+
+quiet  Lake
+Lago tranquilo
+
+knight camp
+Campamento de caballeros
+
+black wasteland
+Páramo negro
+
+beauty of river and mountain
+Belleza del río y la montaña
+
+water curtained cave
+Cueva del velo acuático
+
+Spider cave
+Cueba de la araña
+
+graceful mountain
+Montaña elegante
+
+thousand miles of rivers
+Río de mil millas
+
+Cathy Manor
+Mansión de Cathy
+
+Mount Bear's Paw
+Monte Pata de Oso
+
+Elemental Maze
+Laberinto elemental
+
+Baru Grottoe
+Gruta de Baru
+
+dark river cave
+Cueva del río oscuro
+
+Scorpion Cave
+Cueva del escorpión
+
+far off regions
+Regiones lejanas
+
+Machining plant
+Planta Mecanizada
+
+fully mountain
+Montaña plena
+
+open sea
+Mar abierto
+
+space battleship
+Nave espacial de combate
+
+Treasure pavilion
+Pabellón del tesoro
+
+Beast Mountain
+Montaña de la Bestia
+
+dark night camp
+Campamento de la noche oscura
+
+Abundant green hills
+Colinas verdes abundantes
+
+hidden water cave
+Cueva de agua oculta
+
+death wormhole
+Agujero del gusano de la muerte
+
+wolf head mountain
+Montaña Cabeza de Lobo
+
+bubble cube
+Cubo de burbujas
+
+ice maze
+Laberinto de hielo
+
+Herbal Mountain
+Montaña herbórea
+
+Valley of Luxuriant forests
+Valle de los bosques exuberantes
+
+Dryad Jungle
+Jungla de la dríada
+
+zagrama canyon
+Cañón Zagrama
+
+Lisa's Ukulele
+El ukelele de Lisa
+
+Machine Fortress
+Fortaleza mecánica
+
+bottomless pit
+Pozo sin fondo
+
+Silver Peak
+Pico plateado
+
+forest in the deep mountain
+Bosque en lo profundo de la montaña
+
+base
+Base
+
+ghost house
+Casa fantasmal
+
+ghost hotel
+Hotel fantasmal
+
+Zombie Village
+Aldea zombi
+
+underground mine
+Mina subterránea
+
+Lifting Platform No. 1
+Plataforma Elevada número 1
+
+Lifting Platform No. 2
+Plataforma Elevada Número 2
+
+Lifting Platform No. 3
+Plataforma Elevada Número 3
+
+mine tunnel
+Túnel de la mina
+
+Black Gate Prison
+Prisión de la Puerta Negra
+
+Crimson Mausoleum
+Mausoleo carmesí
+
+underground power plant
+Planta de energía subterránea
+
+monster factory
+Fábrica de monstruos
+
+Ancient Ruins
+Ruinas ancestrales
+
+Plague Abyss
+Abismo de la plaga
+
+Guardian Stronghold
+Fortaleza del guardián
+
+bloody cave
+Cueva sangrienta
+
+amazing old city
+Antigua Ciudad Increíble
+
+Goblin excavation plant
+Planta de excavación goblin
+
+Marshall's artillery
+artillería de marshall
+
+silver flying saucer
+Platillo volante plateado
+
+Demon's Prison
+prisión del demonio
+
+Gomez manor
+Mansión Gómez
+
+Centralia
+Centralia
+
+Spiral Grottoe
+Gruta Espiral
+
+active volcano
+volcán activo
+
+ancient Sealed Land
+antigua tierra sellada
+
+portal of the demon world
+portal del mundo de los demonios
+
+Great Dragon Valley
+Gran Valle del Dragón
+
+dark monastery
+monasterio oscuro
+
+Crusader Barracks
+Cuartel de los cruzados
+
+red house
+casa Roja
+
+demon Cave
+cueva demoníaca
+
+Central Barracks
+Cuartel Central
+
+demon Mountains
+montañas demoníacas
+
+wild tribe
+tribu salvaje
+
+killer camp
+Campamento de asesinos
+
+underground base
+base subterránea
+
+demon Canyon
+cañón del demonio
+
+Hunter Canyon
+Cañón del cazador
+
+silver canyon
+cañón plateado
+
+Magical Guild
+Gremio Mágico
+
+big cave
+gran cueva
+
+Fire Tribe
+Tribu de fuego
+
+Wraith Cave
+Cueva espectral
+
+Nether Cave
+Cueva abisal
+
+Demon  Cave
+cueva demoníaca
+
+Competing Square
+Plaza de la competencia
+
+fighting arena
+arena de lucha
+
+sunshine Beach
+Playa bajo el sol
+
+volcanic cave
+cueva volcánica
+
+Starlight Martial Arts Hall
+Salón de artes marciales Starlight
+
+tropical wetlands
+humedales tropicales
+
+Prairie arena
+Arena de la pradera
+
+island in the sea
+isla marítima
+
+small town
+pequeño pueblo
+
+garden
+jardín
+
+dark cave
+cueva oscura
+
+barren land
+Tierras desérticas
+
+Mysterious Alchemy Tower
+Torre de alquimia misteriosa
+
+Cloud and Mist Peak
+Pico nebuloso
+
+Ice Cave
+Cueva de hielo
+
+woods
+bosques
+
+Underwater World
+Mundo submarino
+
+pyramid
+pirámide
+
+water town
+pueblo acuático
+
+Misty Canyon
+Cañón nebuloso
+
+hunting map
+mapa de caza
+
+Stone Pits in battle array
+Agujeros de piedra en matriz de batalla
+
+highland
+tierras altas
+
+Water Cave
+cueva acuática
+
+Ice and Snow Cave
+Cueva de hielo y nieve
+
+Pirate Ship
+Barco pirata
+
+Blood Mountain Villa
+Villa Montaña de Sangre
+
+giant puppet
+marioneta gigante
+
+test copy
+Copia de Prueba
+
+Fragrance of Grass (Gang)
+Fragancia Floral (Pandilla)
+
+water under bridge (gang)
+Agua bajo el puente (Pandilla)
+
+Fallen Leaves (Gang)
+Caída de hojas (Pandilla)
+
+Blizzard Fortress (Gang)
+Fortaleza helada (Pandilla)
+
+Boss test
+Prueba del boss
+
+industrial mine valley
+Mina industrial
+
+Construction Mine Valley
+Mina de construcción
+
+military mine valley
+Mina Militar
+
+spring garden
+jardín primaveral
+
+summer garden
+jardín veraniego
+
+autumn garden
+jardín otoñal
+
+East Fishing Lake
+Lago de pesca este
+
+South Fishing Lake
+Lago de pesca sur
+
+West Fishing Lake
+Lago de pesca oeste
+
+church (wedding)
+iglesia (boda)
+
+Spring in the Garden (Wedding)
+Jardín en primavera (boda)
+
+Gurgling water (wedding)
+Agua espumosa (Boda)
+
+Romantic Starry Sky (Wedding)
+Cielo estrellado romántico (Boda)
+
+Mutant village
+aldea mutante
+
+hidden cult
+culto oculto
+
+river gangster
+Río de pandilleros
+
+Demon Barracks
+Cuartel de demonios
+
+mist god Valley 
+Valle del dios de la niebla
+
+rain of purple grass
+Lluvia de arnebia
+
+dodge the shells
+Esquiva las conchas
+
+listen to notes
+Escucha las notas
+
+Maintenance of ancient buildings
+Mantenimiento de edificios antiguos
+
+ghost vacuum cleaner
+Aspiradora fantasmal
+
+space invaders
+invasores del espacio
+
+Undersea treasure hunt
+Búsqueda del tesoro submarino
+
+Seven Treasures
+siete tesoros
+
+black domain
+dominio negro
+
+Rosha Continent
+Continente Rosha
+
+Demon Domain
+Dominio demoníaco
+
+happy farm
+Granja feliz
+
+Sky
+Cielo
+
+cattles Mountain
+Montaña de ganado
+
+Courtyard Dwelling
+Vivienda con patio
+
+land of ice and snow
+tierra de hielo y nieve
+
+circus
+Circo
+
+restaurant
+restaurante
+
+Alien space
+Espacio Alienígena
+
+Brute Valley
+Valle Brutal
+
+Pull Cave
+Cueva del Arrastre
+
+Karst cave
+Cueva Kárstica
+
+Fred Forest
+Bosque Fred
+
+Wolf Prairie
+pradera del lobo
+
+Polson Wetland
+Humedal Polson
+
+Underground Water Cave
+Cueva de agua subterránea
+
+sailing port
+Puerto Velero
+
+Carter Plain
+Llanura de carter
+
+Carter tribe
+tribu de carter
+
+Villa of the cat king
+Villa del rey gato
+
+Domi Wasteland
+Páramo de Domi
+
+abandoned factory
+fábrica abandonada
+
+corpse cave
+Cueva del Cadáver
+
+mysterious tomb
+tumba misteriosa
+
+Flaming Mountain
+montaña llameante
+
+Flame Cave
+cueva llameante
+
+Marion Sea
+Mar Marion
+
+finger hill
+Colina del Dedo
+
+Margit Rainforest
+Selva tropical Margit
+
+Great Eucalyptus House
+Gran Casa de Eucalipto
+
+big eucalyptus
+gran eucalipto
+
+Orcus Tribe
+Tribu de los Orcos
+
+turkey cave
+Cueva de los pavos
+
+turkey mountain
+Montaña de los pavos
+
+skeleton basin
+Cuenca esqueleto
+
+Skull Cave
+Cueva Calavera
+
+spectre wilderness
+desierto espectral
+
+old house
+casa antigua
+
+Crystal Palace
+Palacio de Cristal
+
+Blood Wasteland
+Páramo sangriento
+
+blood red castle
+castillo de la sangre carmesí
+
+takama desert
+Desierto Takama
+
+Vincent Snowfields
+Campos nevados de Vincent
+
+Dark pit City
+Ciudad Agujero Oscuro
+
+Earles Palace
+Palacio Earles
+
+Magnet Hill
+Colina magnética
+
+secret laboratory
+laboratorio secreto
+
+main control room
+sala de control principal
+
+Devil's Valley
+valle del diablo
+
+Thunder Cave
+Cueva del Trueno
+
+Thunder Mountain
+montaña del trueno
+
+night sky plain
+llanura Cielo Nocturno
+
+Blackfall Palace
+Palacio Caída Negra
+
+black forest
+bosque Negro
+
+dark shrine
+santuario oscuro
+
+Central Kingdom
+Reino central
+
+Trial Fantasy
+Prueba de fantasía
+
+Loki Union
+Federación Loki
+
+Garth Empire
+Imperio Garth
+
+bright land
+Tierras iluminadas
+
+Soul Realm
+reino del alma
+
+Dawn Village
+aldea del amanecer
+
+ancient mausoleum
+mausoleo antiguo
+
+Fantasy of dreams
+Fantasía onírica
+
+skull mountain
+Montaña calavera
+
+Dark Demon Tower
+Torre del demonio oscuro
+
+Calabash Mountain
+Montaña Calabash
+
+Autumn Moon Pond
+Estanque de luna otoñal
+
+Continental frontier
+frontera continental
+
+gouging  knife  Dungeon
+Calabozo de Cuchillo Desenterrado
+
+autumn moon pond
+Estanque de la luna otoñal
+
+Elven Forest
+Bosque Élfico

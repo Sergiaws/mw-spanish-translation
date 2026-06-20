@@ -1,0 +1,112 @@
+*20/11/2024
+Corregida la traducción de la descripción de las botas de sacerdote nivel 30, había un error de sintaxis y no leía nada cuando pulsabas G.
+Traducida la misión de Ciudad de la Noche Oscura "Entregar el amuleto mágico en el Campamento sin Sol".
+Traducido el grito de muerte de la princesa sirena en el canal global.
+Traducidos todos los diálogos de los NPC's del Campamento sin Sol.
+Traducidas las misiones de matar bichos en Llanura Cielo Nocturno y en Desierto Espectral.
+Traducidos todos los NPC's del Campamento sin Sol
+Añadidos algunos lugares que todavía no se traducían, a la hora de elegir dónde teletransportarse con algunas piedras.
+Traducido un mensaje que faltaba de la mazmorra de pandilla "Barco Pirata".
+Traducido un monstruo que faltaba del Mundo Submarino.
+Traducidas todas las descripciones de las mazmorras 95: Hotel fantasma, Aldea Zombi, Casa Perdida, Cuartel de los Cruzados, Arsenal Oscuro, Biblioteca Oscura y Catedral de la Oscuridad. También sus círculos de teletransportación.
+Corregidos algunos nombres de monstruos del Mundo Submarino para que tengan más sentido.
+Ahora se traducen los colores cuando se le hacen engarces a piezas de equipo de nivel 90.
+Traducidos todos los npc's y las interacciones de la mazmorra "Casa Perdida".
+Traducidos todos los npc's y las interacciones de la mazmorra "Cuartel de los Cruzados".
+Corregido el objeto palo de desminado de la mazmorra "Casa Perdida" cuya traducción anterior no tenía sentido.
+Traducidas  las salas de nivel 90  en la lista para entrar a la sala secreta de entrenamiento.
+Traducidos todos los NPC's y las interacciones de la mazmorra "Aldea Zombi".
+Traducido todo el equipo de nivel 90! Si algo no funciona avisad, no puedo probar todos los sets, aunque lo intentaré.
+Corregido el fragmento de piedra de ojo de tigre que tenía mayúscula en el inventario o el almacén, pero no en la lista del mercado de fragmentos (gracias a Moonprincess).
+Ahora se traducen las descripciones de todos los equipos cuando pulsas sobre una pieza de equipo en la pantalla de información de cualquier personaje.
+Traducida la opción del menú para abandonar las distintas salas secretas.
+
+*20/10/2024
+Corregida la traducción de la descripción de las botas 30 de sacerdote
+Arreglada la prenita en el inventario y almacenes, tenía una h por ahí perdida
+Se vuelven a traducir las distintas salas secretas en la lista, y ahora se indica si dan fragmentos o equipo
+Añadidos algunos mensajes que faltaban del sistema de inicio de sesión, cuando alguien inicia sesión en tu cuenta o cuando tu cuenta es baneada.
+
+*06/10/2024
+Traducidos los paquetes de gemas de los eventos y los cofres de la suerte en la tienda.
+Traducido el nuevo sistema de inicio de sesión.
+Traducido todo el nuevo sistema de la sala secreta de entrenamiento
+
+*01/10/2024
+Traducidas las descripciones de todas las mazmorras 90.
+Añadidos los círculos de teletransportación de las mazmorras 90.
+Corregida la esencia del demonio medio (ahora es esencia de demonio mediana) y el salto de zanco (ahora es resorte de salto).
+Traducida la nueva opción de configurar los canales grupales.
+Traducidos los mensajes y npc's de las mazmorras "Piedra de hierro", "Base de Restos" y "Bosque del tigre rugiente".
+Corregido un pequeño error con la descripción de la cueva abisal, no se traducía la última línea si consultabas la descripción en la opción de 2 jugadores.
+Traducidos los mensajes y npc's de las mazmorras "Casa encantada" y "Paganos Sangrientos".
+Traducidos los mensajes y npc's de la mazmorra "Podría ser un dinosaurio".
+Traducido el aviso cuando has completado la cueva demoníaca esa semana.
+Traducidos un par de mensajes que aparecen cuando el canal privado ha caducado (gracias a atlas).
+Traducidos mensajes de mago (la información que da el anciano celestial sobre su habilidad de apoyo, los mensajes cuando completas la misión para obtener el cristal de la habilidad 20, etc).
+Añadidos 2 npc's de la mazmorra "Piedra de ierro".
+Traducidas las descripciones de las mascotas de nivel 90.
+He empezado con la traducción del equipo 90, la iré completando poco a poco porque aparte de traducir hay que corregir y mejorar, esas traducciones al inglés son un puto desastre.
+Actualizada la ayuda, vuelve a estar toda traducida.
+
+*10/05/2024
+Añadidos algunos mensajes que faltaban del nuevo sistema de amigos.
+Corregido el diálogo de una de las misiones del valle misterioso.
+Añadido el nombre y la descripción de la medalla conmemorativa de oro de tácticas.
+Traducido el diálogo del barman en el pub de la torre antigua y el diálogo del fonógrafo, y traducidos los npc correspondientes.
+Traducidos los gritos de muerte de los bosses 90 por el canal global.
+Corregido el nombre del material para la bestia 85 espíritu de la sangre.
+Traducidos todos los npc's de Ciudad Noche Oscura, y sus diálogos.
+Actualizados los basic.txt, tanto el de la carpeta raíz como el de la carpeta More.
+Traducido todo el nuevo sistema de chat y su configuración.
+Traducido el nuevo sistema de bloqueo de mensajes.
+Traducida la opción de reproducir sonido en segundo plano del menú de f1.
+
+*30/03/2024
+Corregidos los primeros mensajes del anciano sacerdote y la bruja negra en la guía del novato para que se traduzcan
+Añadidos mensajes del sacerdote y la bruja negra referentes a las guías del sacerdote y hechicero
+Traducidas las descripciones de todas las medallas conmemorativas de tácticas excepto la de oro
+Traducidos todos los nombres de las medallas conmemorativas de tácticas excepto la de oro.
+Traducido el mensaje para abandonar el dominio demoníaco.
+Traducido un mensaje que aparece rara vez, cuando pulsas en la lista de solicitudes para unirse al equipo y justo desaparecen las que hubiese.
+Traducido el mensaje que te indica que has superado los caracteres permitidos al enviar feedback en la sección de soporte.
+Traducida la opción del dirigible para ir a Ciudad Violeta.
+Corregida la descripción de la habilidad "Purificación del alma".
+Traducido todo el nuevo sistema de amigos e invitaciones a equipos.
+
+*29/02/2024
+Corregidas las descripciones del arma de hechicero nivel 80 y de los brazales de orco nivel 80.
+Corregida la descripción de la habilidad de orco recuperación furiosa.
+Traducidas las mazmorras "Reparación de la presa", "Nave de combate Chronos" y "Pabellón del Tesoro", y añadidos sus círculos de teletransportación.
+Traducidas las nuevas mazmorras de gang de nivel 4, "marioneta gigante" y "complot de ataque furtivo".
+
+*21/02/2024
+Traducidas las mazmorras "Culto en el Pequeño Pueblo, "Gruta Espiral" y "Volcán Activo".
+Añadidos los círculos de teletransportación de las mazmorras "Gruta Espiral", "Culto en el Pequeño Pueblo" y "Volcán Activo".
+Traducidas las misiónes "solicitud de Rakke" y "Entregar el Pararrayos".
+Añadidos algunos diálogos de npc's de Ciudad Violeta.
+Traducidos los avisos del mundo demoniaco por el canal global.
+Traducido el grito de muerte del rey exánime por el canal global.
+Traducida la descripción del dominio demoniaco.
+Añadidos muchos npc's de Ciudad Violeta.
+Traducidas las misiones "Recolectar fósiles mágicos" y "Eliminar 100 esqueletos en la Cuenca del Esqueleto".
+Traducidas las descripciones de las mascotas de nivel 80.
+
+*16/02/2024
+-¡Por fin se traducen las explicaciones de los sonidos en la ayuda! También se ha mejorado un poco la traducción de las mismas (solo escucharás los sonidos si tu voz principal no es NVDA).
+-Corregidos pequeños detalles en los diálogos de los NPC's.
+-Ahora se traducen todos los buffs de las batallas tácticas en el canal cercano. También los gritos de muerte de los bosses 80 en el canal global.
+-Corregidos algunos errores menores en los nombres de los mapas.
+-Traducido el menú para canjear fichas de la arena por medallas.
+-Traducidas las fichas de la arena.
+-Traducidas la mayoría de las medallas conmemorativas que se consiguen al canjear las fichas de la arena (faltan algunas)
+-Traducidas las descripciones de algunas de las medallas conmemorativas que se consiguen al canjear fichas de la arena (faltan bastantes)
+-Modificado el basic.txt para que se traduzca el guión chino, ahora ya no será necesario traducir los números oscilantes como "entre 430 y 520", se traducirá automáticamente como "430 a 520". Esto era necesario para que la traducción de las medallas conmemorativas quedase más limpia.
+-Corregida la descripción de la mazmorra semanal de gang nivel 3, estaba traducido seal como foca cuando en realidad es sello.
+-Corregido el premio de 4 a 6 de arena de dobles, había un error con las variables y no se mostraba ningún mensaje
+-Corregida la descripción de desollar cuando estaba en gran maestro.
+-Corregido un error ortográfico en los rangos de mentor.
+-Traducido el mensaje de error al intentar teletransportarte al líder de equipo cuando éste no está en el mapa.
+-Añadidos varios mensajes de las bodas que estaban sin traducir y corregido algún otro que no se traducía correctamente.
+-Corregido el mensaje cuando añades un contacto a tu lista de contactos.
+-¡Traducidas todas las descripciones del equipo 80! Si algo no está bien por favor avisar, no puedo probar todos los sets.

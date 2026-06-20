@@ -1,0 +1,659 @@
+Enter the competition
+Entrar a la competencia
+
+Rankings
+Clasificaciones
+
+Rewards and Claims
+Reclamar recompensas
+
+Rules Description
+Descripción y reglas.
+
+auto-matchmaking; not started
+Emparejamiento automático; No iniciado
+
+Solo Arena Fight ranking
+Clasificación de arena individual
+
+Duo Arena Fight ranking
+Clasificación de arena en parejas
+
+level {d}
+Nivel $1
+
+Trio Tactical Battle ranking
+Clasificación de batalla táctica de 3 jugadores
+
+5-player Tactical Battle ranking
+Clasificación de batalla táctica de 5 jugadores
+
+Please select a level
+Por favor selecciona un nivel
+
+Level {d} Player Ranking
+Clasificación de nivel $1 de jugadores
+
+Level {d} Gang Ranking
+Clasificación de nivel $1 de pandillas
+
+current weekAbove level {d}Player Ranking of Solo Arena Fight
+Clasificación de la semana en curso de jugadores superiores a nivel $1 de arena individual
+
+current weekAbove level {d}Gang Ranking of Solo Arena Fight
+Clasificación de pandillas de la semana en curso de jugadores superiores a nivel $1 de arena individual
+
+a week before
+Semana anterior
+
+{d};{c};level {d} gang;Win {d}; Attend {d}
+$1; $2; pandilla de nivel $3; ganó $4; participó en $5
+
+{d} weeks beforeAbove level {d}Player Ranking of Duo Arena Fight
+Clasificación de $1 semanas anteriores de jugadores superiores a nivel $2 de arena en parejas
+
+Return to current week;a week before
+Volver a la semana actual; semana anterior
+
+Return to current week
+Volver a la semana actual
+
+{d};{c};{s};level {d};Win {d}; Attend {d}
+$1; $2; {sub2{$3}sub2}; nivel $4; ganó $5; participó en $6
+
+You win {d} times, Attend {d} times, are {d}th
+Ganaste $1 veces, participaste $2 veces, estás en la posición $3
+
+{d};{c};{s};level {d}
+$1; $2; {sub2{$3}sub2}; nivel $4
+
+{d} weeks beforeAbove level {d}Player Ranking of Solo Arena Fight
+Clasificación de $1 semanas anteriores de jugadores superiores a nivel $2 de arena individual
+
+1st month in {d}Above level {d}Player Ranking of Trio Tactical Battle
+Clasificación del primer mes del $1 de jugadores superiores a nivel $2 de la batalla táctica de 3 jugadores
+
+{d}rd month in {d}Above level {d}Player Ranking of Trio Tactical Battle
+Clasificación del $1º mes del $2 de jugadores superiores a nivel $3 de la batalla táctica de 3 jugadores
+
+a month before
+Mes anterior
+
+1st month in {d}Above level {d}Player Ranking of 5-player Tactical Battle
+Clasificación del primer mes del $1 de jugadores superiores a nivel $2 de la batalla táctica de 5 jugadores
+
+{d}rd month in {d}Above level {d}Player Ranking of 5-player Tactical Battle
+Clasificación del $1º mes del $2 de jugadores superiores a nivel $3 de la batalla táctica de 5 jugadores
+
+1st month in {d}Above level {d}Gang Ranking of Trio Tactical Battle
+Clasificación de pandillas del primer mes del $1 de jugadores superiores a nivel $2 de la batalla táctica de 3 jugadores
+
+{d}rd month in {d}Above level {d}Gang Ranking of Trio Tactical Battle
+Clasificación de pandillas del $1º mes del $2 de jugadores superiores a nivel $3 de la batalla táctica de 3 jugadores
+
+1st month in {d}Above level {d}Gang Ranking of 5-player Tactical Battle
+Clasificación de pandillas del primer mes del $1 de jugadores superiores a nivel $2 de la batalla táctica de 5 jugadores
+
+{d}rd month in {d}Above level {d}Gang Ranking of 5-player Tactical Battle
+Clasificación de pandillas del $1º mes del $2 de jugadores superiores a nivel $3 de la batalla táctica de 5 jugadores
+
+Return to current month;a month before
+Volver al mes actual; Mes anterior
+
+Return to current month
+Volver al mes actual
+
+Receive ranking rewards
+Recibir recompensas por tu posición en la clasificación
+
+Prize Details
+Información sobre los premios
+
+Solo Fighting Ranking Prizes
+Premios de arenas individuales
+
+Duo Fighting Ranking Prizes
+Premios de arenas en pareja
+
+Trio Battle Ranking Prizes
+Premios de batallas tácticas de 3 jugadores
+
+5-player Battle Ranking Prizes
+Premios de batallas tácticas de 5 jugadores
+
+A list of your last week's Arena Fight rewards and last month's Tactical Battle rewards
+Lista de tus premios por las arenas de la semana pasada y las batallas tácticas del mes pasado
+
+Currently {d} player searching teams
+Actualmente $1 jugadores buscan equipo
+
+Currently {d} player searching teams, {d} team accepting members
+Actualmente $1 jugadores buscan equipo y $2 equipos aceptan miembros
+
+Currently {d} team accepting members
+Actualmente $1 equipos aceptan miembros
+
+Auto-matchmaking for competition
+Emparejamiento automático
+
+time of duo arena fight; {s}
+Arena en parejas; {sub2{$1}sub2}
+
+time of trio tactical battle; {s}
+Batalla táctica de 3 jugadores; {sub2{$1}sub2}
+
+time of 5-player tactical battle; {s}
+Batalla táctica de 5 jugadores; {sub2{$1}sub2}
+
+Search for a team
+Buscar equipo
+
+Recruit Team Members
+Reclutar miembros para tu equipo
+
+Currently {d} player searching teams
+Actualmente $1 jugadores buscan equipo
+
+Currently {d} player searching teams, {d} team accepting members
+Actualmente $1 jugadores buscan equipo y $2 equipos aceptan miembros
+
+Currently {d} team accepting members
+Actualmente $1 equipos aceptan miembros
+
+Leave the Competing Square
+Abandonar la plaza de la competencia
+
+1 Arena Gold medal, {d} Resurrection Crystals, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Una medalla de oro de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+1 Arena silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Una medalla de plata de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+1 Arena Blue medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Una medalla azul de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+1 Arena White medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, 1 Memory Butterfly, and {d} battlefield merit points
+Una medalla blanca de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una mariposa de memoria y $2 puntos de mérito del campo de batalla
+
+1 Arena Outstanding medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 Memory Butterfly, and {d} battlefield merit points
+Una medalla destacada de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una mariposa de memoria y $1 puntos de mérito del campo de batalla
+
+1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5 y $1 puntos de mérito del campo de batalla
+
+1 Arena medal, 1 Resurrection Crystal, 1 Memory Butterfly, and {d} battlefield merit points
+Una medalla de la arena, un cristal de resurrección, una mariposa de memoria y $1 puntos de mérito del campo de batalla
+
+2 Memory Butterflies, and 2 battlefield merit points
+2 mariposas de memoria y 2 puntos de mérito del campo de batalla
+
+2 area Teleportation stones, and 1 battlefield merit points
+Dos piedras de teletransportación de área y un punto de mérito del campo de batalla
+
+{d}th place in the level {d} Solo Arena Fight{s}  press to receive reward{s} the prize is {s}
+$1º lugar de la arena individual de nivel $2$3 presiona para recibir la recompensa$4 tu premio es {sub2{$5}sub2}
+
+{d}th place in the level {d} Duo Arena Fight{s} press to receive reward{s} the prize is {s}
+$1º lugar de la arena en parejas de nivel $2$3 presiona para recibir la recompensa$4 tu premio es {sub2{$5}sub2}
+
+{d}th place in the level {d} Solo Arena Fight{s} has received the award{s} the prize is {s}
+$1º lugar de la arena individual de nivel $2$3 recibiste la recompensa$4 tu premio fue {sub2{$5}sub2}
+
+{d}th place in the level {d} Duo Arena Fight{s} has received the award{s} the prize is {s}
+$1º lugar de la arena en parejas de nivel $2$3 recibiste la recompensa$4 tu premio fue {sub2{$5}sub2}
+
+{d}th place in the level {d} Solo Arena Fight{s}  press to receive reward{s} the prize is {s}
+$1º lugar de la arena individual de nivel $2$3 presiona para recibir la recompensa$4 tu premio es {sub2{$5}sub2}
+
+1thth: 1 Arena Gold medal, {d} Resurrection Crystals, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Primer lugar: Una medalla de oro de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+2th-3th: 1 Arena silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Segundo y tercer lugar: Una medalla de plata de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+4th-6th: 1 Arena Blue medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Del cuarto al sexto lugar: Una medalla azul de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+7th-10th: 1 Arena White medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, 1 Memory Butterfly, and {d} battlefield merit points
+Del séptimo al décimo lugar: Una medalla blanca de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una mariposa de memoria y $2 puntos de mérito del campo de batalla
+
+11th-30th: 1 Arena Outstanding medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 Memory Butterfly, and {d} battlefield merit points
+Del undécimo al trigésimo lugar: Una medalla destacada de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una mariposa de memoria y $1 puntos de mérito del campo de batalla
+
+31th-60th: 1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Del trigésimo primero al sexagésimo lugar: Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5 y $1 puntos de mérito del campo de batalla
+
+61th-100th: 1 Arena medal, 1 Resurrection Crystal, 1 Memory Butterfly, and {d} battlefield merit points
+Del sexagésimo primero al centésimo lugar: Una medalla de la arena, un cristal de resurrección, una mariposa de memoria y $1 puntos de mérito del campo de batalla
+
+101th-150th: {s}
+Del centésimo primero al centésimo quincuagésimo lugar: {sub2{$1}sub2}
+
+151th-200th: {s}
+Del centésimo quincuagésimo primero al ducentésimo lugar: {sub2{$1}sub2}
+
+2th-3th: 1 Arena silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 2x experience acceleration card, and {d} battlefield merit points
+Segundo y tercer lugar: Una medalla de plata de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una tarjeta de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+4th-6th: 1 Arena Blue medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 2x experience acceleration card, and {d} battlefield merit points
+Del cuarto al sexto lugar: Una medalla azul de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una tarjeta de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+7th-10th: 1 Arena White medal, {d} Resurrection Crystals, {d} 1.75x experience acceleration cards, and {d} battlefield merit points
+Del séptimo al décimo lugar: Una medalla blanca de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.75 y $3 puntos de mérito del campo de batalla
+
+11th-30th: 1 Arena Outstanding medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Del undécimo al trigésimo lugar: Una medalla destacada de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+31th-60th: 1 Arena medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Del trigésimo primero al sexagésimo lugar: Una medalla de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5 y $2 puntos de mérito del campo de batalla
+
+61th-100th: 1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 area Teleportation stone, and {d} battlefield merit points
+Del sexagésimo primero al centésimo lugar: Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+101th-150th: 1 Resurrection Crystal, {d} area Teleportation stones, and {d} battlefield merit points
+Del centésimo primero al centésimo quincuagésimo lugar: Un cristal de resurrección, $1 piedras de teletransportación de área y $2 puntos de mérito del campo de batalla
+
+1 Arena silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 2x experience acceleration card, and {d} battlefield merit points
+Una medalla de plata de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una tarjeta de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+1 Arena Blue medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 2x experience acceleration card, and {d} battlefield merit points
+Una medalla azul de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una tarjeta de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+1 Arena White medal, {d} Resurrection Crystals, {d} 1.75x experience acceleration cards, and {d} battlefield merit points
+Una medalla blanca de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.75 y $3 puntos de mérito del campo de batalla
+
+1 Arena Outstanding medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Una medalla destacada de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+1 Arena medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Una medalla de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5 y $2 puntos de mérito del campo de batalla
+
+1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 area Teleportation stone, and {d} battlefield merit points
+Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+1 Resurrection Crystal, {d} area Teleportation stones, and {d} battlefield merit points
+Un cristal de resurrección, $1 piedras de teletransportación de área y $2 puntos de mérito del campo de batalla
+
+{d} Memory Butterflies, and {d} battlefield merit points
+$1 mariposas de memoria y $2 puntos de mérito del campo de batalla
+
+Daily number of entries exceeded
+Excediste el número de entradas diarias
+
+1thth: 1 Arena Gold medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Primer lugar: Una medalla de oro de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+2th-3th: 1 Arena silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 area Teleportation stone, and {d} battlefield merit points
+Segundo y tercer lugar: Una medalla de plata de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una piedra de teletransportación de área y $3 puntos de mérito del campo de batalla
+
+7th-10th: 1 Arena White medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 City Teleportation stone, and {d} battlefield merit points
+Del séptimo al décimo lugar: Una medalla blanca de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una piedra de teletransportación de una ciudad y $2 puntos de mérito del campo de batalla
+
+11th-30th: 1 Arena Outstanding medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Del undécimo al trigésimo lugar: Una medalla destacada de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5 y $2 puntos de mérito del campo de batalla
+
+31th-60th: 1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 area Teleportation stone, and {d} battlefield merit points
+Del trigésimo primero al sexagésimo lugar: Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+61th-100th: 1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Del sexagésimo primero al centésimo lugar: Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5 y $1 puntos de mérito del campo de batalla
+
+101th-150th: 1 Resurrection Crystal, 1 area Teleportation stone, and {d} battlefield merit points
+Del centésimo primero al centésimo quincuagésimo lugar: Un cristal de resurrección, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+1 Arena Gold medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Una medalla de oro de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+1 Arena silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 area Teleportation stone, and {d} battlefield merit points
+Una medalla de plata de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una piedra de teletransportación de área y $3 puntos de mérito del campo de batalla
+
+1 Arena White medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 City Teleportation stone, and {d} battlefield merit points
+Una medalla blanca de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una piedra de teletransportación de una ciudad y $2 puntos de mérito del campo de batalla
+
+1 Arena Outstanding medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Una medalla destacada de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5 y $2 puntos de mérito del campo de batalla
+
+1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 area Teleportation stone, and {d} battlefield merit points
+Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+1 Arena medal, 1 Resurrection Crystal, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Una medalla de la arena, un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5 y $1 puntos de mérito del campo de batalla
+
+1 Resurrection Crystal, 1 area Teleportation stone, and {d} battlefield merit points
+Un cristal de resurrección, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+1 Resurrection Crystal, and 1 battlefield merit points
+Un cristal de resurrección y un punto de mérito del campo de batalla
+
+1thth: 1 Arena Gold medal, {d} Resurrection Crystals, {d} 1.75x experience acceleration cards, 1 2x experience acceleration card, and {d} battlefield merit points
+Primer lugar: una medalla de oro de la arena, $2 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.75, una tarjeta de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+2th-3th: 1 Arena silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 Memory Butterfly, and {d} battlefield merit points
+Segundo y tercer lugar: Una medalla de plata de la arena, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, una mariposa de memoria y $3 puntos de mérito del campo de batalla
+
+7th-10th: 1 Arena White medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, 1 2x experience acceleration card, and {d} battlefield merit points
+Del séptimo al décimo lugar: Una medalla blanca de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una tarjeta de aumento de experiencia por 2 y $2 puntos de mérito del campo de batalla
+
+11th-30th: 1 Arena Outstanding medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, 1 1.75x experience acceleration card, and {d} battlefield merit points
+Del undécimo al trigésimo lugar: Una medalla destacada de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una tarjeta de aumento de experiencia por 1.75 y $2 puntos de mérito del campo de batalla
+
+31th-60th: 1 Arena medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, 1 Memory Butterfly, and {d} battlefield merit points
+Del trigésimo primer lugar al sexagésimo lugar: Una medalla de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una mariposa de memoria y $2 puntos de mérito del campo de batalla
+
+61th-100th: 1 Arena medal, {d} Resurrection Crystals, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Del sexagésimo primer lugar al centésimo lugar: Una medalla de la arena, $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5 y $2 puntos de mérito del campo de batalla
+
+1thth: 1 Tactical Gold medal, {d} Resurrection Crystals, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Primer lugar: Una medalla de oro de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+2th-3th: 1 Tactical silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Segundo y tercer lugar: Una medalla de plata de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 tarjetas de aumento de experiencia por 2 y $4 puntos de mérito del campo de batalla
+
+4th-6th: 1 Tactical Blue medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Del cuarto al sexto lugar: Una medalla azul de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 tarjetas de aumento de experiencia por 2 y $4 puntos de mérito del campo de batalla
+
+7th-10th: 1 Tactical White medal, {d} Resurrection Crystals, {d} 1.75x experience acceleration cards, and {d} battlefield merit points
+Del séptimo al décimo lugar: Una medalla blanca de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.75 y $3 puntos de mérito del campo de batalla
+
+11th-30th: 1 Tactical Outstanding medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} Area Teleportation stones, and {d} battlefield merit points
+Del undécimo al trigésimo lugar: Una medalla destacada de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 piedras de teletransportación de área y $4 puntos de mérito del campo de batalla
+
+31th-60th: 1 Tactical medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Del trigésimo primero al sextagésimo lugar: Una medalla de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+61th-100th: 1 Tactical medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} Area Teleportation stones, and {d} battlefield merit points
+Del sexagésimo primero al centésimo lugar: Una medalla de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 piedras de teletransportación de área y $4 puntos de mérito del campo de batalla
+
+101th-150th: {d} Resurrection Crystals, 1 1.5x experience acceleration card, 1 Memory Butterfly, and {d} battlefield merit points
+Del centésimo primero al centésimo quincuagésimo lugar: $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una mariposa de memoria y $2 puntos de mérito del campo de batalla
+
+151th-200th: 1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 Area Teleportation stone, and {d} battlefield merit points
+Del centésimo quincuajésimo primero al ducentésimo lugar: Un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+1 Tactical Gold medal, {d} Resurrection Crystals, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Una medalla de oro de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 2 y $3 puntos de mérito del campo de batalla
+
+1 Tactical silver medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Una medalla de plata de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 tarjetas de aumento de experiencia por 2 y $4 puntos de mérito del campo de batalla
+
+1 Tactical Blue medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Una medalla azul de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 tarjetas de aumento de experiencia por 2 y $4 puntos de mérito del campo de batalla
+
+1 Tactical White medal, {d} Resurrection Crystals, {d} 1.75x experience acceleration cards, and {d} battlefield merit points
+Una medalla blanca de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.75 y $3 puntos de mérito del campo de batalla
+
+1 Tactical Outstanding medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} Area Teleportation stones, and {d} battlefield merit points
+Una medalla destacada de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 piedras de teletransportación de área y $4 puntos de mérito del campo de batalla
+
+1 Tactical medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Una medalla de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+1 Tactical medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} Area Teleportation stones, and {d} battlefield merit points
+Una medalla de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 piedras de teletransportación de área y $4 puntos de mérito del campo de batalla
+
+{d} Resurrection Crystals, 1 1.5x experience acceleration card, 1 Memory Butterfly, and {d} battlefield merit points
+$1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una mariposa de memoria y $2 puntos de mérito del campo de batalla
+
+1 Resurrection Crystal, 1 1.5x experience acceleration card, 1 Area Teleportation stone, and {d} battlefield merit points
+Un cristal de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de área y $1 puntos de mérito del campo de batalla
+
+{d}th place in the level {d} Trio Tactical Battle{s} has received the award{s} the prize is {s}
+$1º lugar de la batalla táctica de 3 jugadores de nivel $2$3 recibiste la recompensa$4 tu premio fue {sub2{$5}sub2}
+
+{d}th place in the level {d} trio Tactical Battle{s}  press to receive reward{s} the prize is {s}
+$1º lugar de la batalla táctica de 3 jugadores de nivel $2$3 presiona para recibir la recompensa$4 tu premio es {sub2{$5}sub2}
+
+2th-3th: 1 Tactical silver medal, {d} Resurrection Crystals, {d} 1.75x experience acceleration cards, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Segundo y tercer lugar: Una medalla de plata de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.75, $3 tarjetas de aumento de experiencia por 2 y $4 puntos de mérito del campo de batalla
+
+7th-10th: 1 Tactical White medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Del séptimo al décimo lugar: Una medalla blanca de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+11th-30th: 1 Tactical Outstanding medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} 1.75x experience acceleration cards, and {d} battlefield merit points
+Del undécimo al trigésimo lugar: Una medalla destacada de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 tarjetas de aumento de experiencia por 1.75 y $4 puntos de mérito del campo de batalla
+
+31th-60th: 1 Tactical medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} Memory Butterflies, and {d} battlefield merit points
+Del trigésimo primero al sextagésimo lugar: Una medalla de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 mariposas de memoria y $4 puntos de mérito del campo de batalla
+
+101th-150th: {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 City Teleportation stone, and {d} battlefield merit points
+Del centésimo primero al centésimo quincuagésimo lugar: $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de ciudad y $2 puntos de mérito del campo de batalla
+
+151th-200th: {d} Resurrection Crystals, 1 1.5x experience acceleration card, and {d} battlefield merit points
+Del centésimo quincuajésimo primero al ducentésimo lugar: $1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5 y $2 puntos de mérito del campo de batalla
+
+1 Tactical silver medal, {d} Resurrection Crystals, {d} 1.75x experience acceleration cards, {d} 2x experience acceleration cards, and {d} battlefield merit points
+Una medalla de plata de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.75, $3 tarjetas de aumento de experiencia por 2 y $4 puntos de mérito del campo de batalla
+
+1 Tactical White medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, and {d} battlefield merit points
+Una medalla blanca de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5 y $3 puntos de mérito del campo de batalla
+
+1 Tactical Outstanding medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} 1.75x experience acceleration cards, and {d} battlefield merit points
+Una medalla destacada de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 tarjetas de aumento de experiencia por 1.75 y $4 puntos de mérito del campo de batalla
+
+1 Tactical medal, {d} Resurrection Crystals, {d} 1.5x experience acceleration cards, {d} Memory Butterflies, and {d} battlefield merit points
+Una medalla de batalla táctica, $1 cristales de resurrección, $2 tarjetas de aumento de experiencia por 1.5, $3 mariposas de memoria y $4 puntos de mérito del campo de batalla
+
+{d} Resurrection Crystals, {d} 1.5x experience acceleration cards, 1 City Teleportation stone, and {d} battlefield merit points
+$1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5, una piedra de teletransportación de ciudad y $2 puntos de mérito del campo de batalla
+
+{d} Resurrection Crystals, 1 1.5x experience acceleration card, and {d} battlefield merit points
+$1 cristales de resurrección, una tarjeta de aumento de experiencia por 1.5 y $2 puntos de mérito del campo de batalla
+
+{d}th place in the level {d} 5-player Tactical Battle{s} has received the award{s} the prize is {s}
+$1º lugar de la batalla táctica de 5 jugadores de nivel $2$3 recibiste la recompensa$4 tu premio fue {sub2{$5}sub2}
+
+{d}th place in the level {d} 5-player Tactical Battle{s} press to receive reward{s} the prize is {s}
+$1º lugar de la batalla táctica de 5 jugadores de nivel $2$3 presiona para recibir la recompensa$4 tu premio es {sub2{$5}sub2}
+
+Are you sure to forfeit and leave the Competing Square? If you leave, this entry is also wasted.
+¿Estás seguro de rendirte y abandonar la plaza de la competencia? Si te vas habrás gastado esta entrada.
+
+A team with {d} present team members is required
+Se necesita un equipo con $1 miembros presentes
+
+Team match to receive members; press to cancel
+Tu equipo está recibiendo miembros; presiona para cancelar
+
+current weekAbove level {d}Player Ranking of Duo Arena Fight
+Clasificación de la semana en curso de jugadores superiores a nivel $1 de arena en parejas
+
+current weekAbove level {d}Gang Ranking of Duo Arena Fight
+Clasificación de la semana en curso de pandillas de jugadores superiores a nivel $1 de arena en parejas
+
+This round of Trio Tactical Battle will begin at {d}:{d}. After {d}:{d}, the participants can enter and wait; Trio Tactical Battles can be played 2 times a day. You have already participated in the competition {d} times.
+Esta ronda de batalla táctica de 3 jugadores comenzará a las $1:$2; después de las $3:$4, los participantes pueden entrar y esperar; puedes hacer las batallas tácticas de 3 jugadores 2 veces al día, y ya las has hecho $5 veces.
+
+This round of Duo Arena Fight will begin at {d}:{d}. After {d}:{d}, the participants can enter and wait; Duo Arena Fights can be played 2 times a day. You have already participated in the competition {d} times.
+Esta ronda de arena en parejas comenzará a las $1:$2; después de las $3:$4, los participantes pueden entrar y esperar; puedes hacer la arena en parejas 2 veces al día, y ya la has hecho $5 veces.
+
+This round of 5-player Tactical Battle will begin at {d}:{d}. After {d}:{d}, the participants can enter and wait; 5-player Tactical Battles can be played 2 times a day. You have already participated in the competition {d} times.
+Esta ronda de batalla táctica de 5 jugadores comenzará a las $1:$2; después de las $3:$4, los participantes pueden entrar y esperar; puedes hacer la batalla táctica de 5 jugadores 2 veces al día, y ya la has hecho $5 veces.
+
+This round of Solo Arena Fight will begin at {d}:{d}. After {d}:{d}, the participants can enter and wait; Solo Arena Fights can be played 2 times a day. You have already participated in the competition {d} times.
+Esta ronda de arena individual comenzará a las $1:$2; después de las $3:$4, los participantes pueden entrar y esperar; puedes hacer la arena individual 2 veces al día, y ya la has hecho $5 veces.
+
+Registration Information and Qualification Bidding
+Información de inscripción y registro
+
+{d} gangs have participated in the {d}th gang tournament
+$1 pandillas han pujado para registrarse en el $2º torneo de pandillas
+
+The gang leaders or elders of each gang can fill in the number of arnebia to sign up for free registration here. After the registration, the 6 gangs with the highest bid and enough gang arnebia to pay the bid will be successfully shortlisted and have their bidding fees deducted from their gang funds.
+Los líderes de pandillas o mayores de cada pandilla pueden completar gratuitamente la cantidad de arnebia para registrarse aquí. Después del registro, las 6 pandillas con la oferta más alta y suficiente arnebia en sus fondos para pagar la oferta serán preseleccionadas y se les deducirán sus tarifas de registro de los fondos de su pandilla.
+
+Each gang can also change the bidding fee of their Gang after registration, and the player who changed it needs to pay 50000 Arnebia personally for modification.
+Cada pandilla también puede cambiar la tarifa de registro de su pandilla aunque la pandilla ya haya pujado para registrarse, pero el jugador que cambie la tarifa deberá pagar 50000 Arnebia personalmente por la modificación.
+
+Your gang has signed up, the current bid is {d} arnebia, you can revise the bid after paying the revision fee
+Tu pandilla ya está pujando, la oferta actual es $1 arnebia, puedes modificar la oferta después de pagar la tarifa de modificación
+
+Your gang hasn't registered yet
+Tu pandilla aún no se ha registrado
+
+Click here to fill in the bid to be modified, the minimum 500000 gang arnebia
+Pulsa  aquí para modificar la oferta, el mínimo es 500000 arnebia
+
+Press here to fill in the bid, the minimum 500000 gang arnebia
+Pulsa aquí para completar la oferta, el mínimo es 500000 arnebia
+
+Only gang leaders and elders can sign up
+Solo los líderes de pandillas y los mayores pueden inscribirse
+
+submitted
+Enviado
+
+Non registration time
+El registro no está abierto
+
+Enter the Tournament
+Entrar al torneo
+
+Non competition time
+No es la hora del torneo
+
+Current Schedule
+Calendario actual
+
+The number of shortlisted gangs is {d}, which are ;{s}
+El número de pandillas seleccionadas es $1, las cuales son: $2
+
+Round 1: Wednesday  20:0
+Ronda 1: miércoles 20:00
+
+Round 2: Friday  20:0
+Ronda 2: viernes 20:00
+
+Round 3: Sunday  20:0
+Ronda 3: domingo 20:00
+
+No schedule yet
+Sin calendario todavía
+
+{d}th Gang Tournament Ranking
+Clasificación del $1º torneo de pandillas
+
+No record yet
+Sin registro todavía
+
+Ranking of the previous gang tournament
+Clasificación del torneo de pandillas anterior
+
+{d};{c};Points {d};killed {d};Cumulative average player level {d}
+$1; $2; puntos $3; asesinatos $4; nivel medio acumulado  de los jugadores $5
+
+View the battle record
+Ver el registro de batalla
+
+The {d}th gang tournament competition record
+El registro de batalla del $1º torneo de pandillas
+
+Round {d}: {c} defeated {c};at {c} {d}, {d}:{d}, {d}
+Ronda $1: $2 derrotó a $3; el $5 de {sub2{$4}sub2} de $8 a las $6:$7
+
+Round {d}: {c} lost to {c};at {c} {d}, {d}:{d}, {d}
+Ronda $1: $2 perdió contra $3; el $5 $4 de $8 a las $6:$7
+
+View ranking statistics
+Ver estadísticas de clasificación
+
+Record of the Ranking of the previous gang tournament
+Registro del torneo de pandillas anterior
+
+{c};average level is {d};killed {d}
+$1; nivel medio de los jugadores $2; asesinatos $3
+
+takes {d} minutes and {d} seconds; {c} gang won
+Duró $1 minutos y $2 segundos, la pandilla $3 ganó
+
+takes {d} seconds; {c} gang won
+Duró $1 segundos, la pandilla $2 ganó
+
+Rewards for players of the 1th gang:1000000 arnebia, 3Gang Tournament Chests, 1 Hexagram Key
+Recompensas para los jugadores de la  pandilla clasificada en primera posición: 1000000 arnebia, 3 cofres de torneo de pandillas, 1 llave hexagrama
+
+Rewards for players of the 2th gang:800000 arnebia, 2Gang Tournament Chests
+Recompensas para los jugadores de la pandilla clasificada en segunda posición: 800000 arnebia, 2 cofres de torneo de pandillas
+
+Rewards for players of the 3th gang:600000 arnebia, 1Gang Tournament Chest
+Recompensas para los jugadores de la pandilla clasificada en tercera posición: 600000 arnebia, un cofre de torneo de pandillas
+
+Rewards for players of the 4th gang:600000 arnebia
+Recompensas para los jugadores de la pandilla clasificada en cuarta posición: 600000 arnebia
+
+Rewards for players of the 5th gang:500000 arnebia
+Recompensas para los jugadores de la pandilla clasificada en quinta posición: 500000 arnebia
+
+Rewards for players of the 6th gang:400000 arnebia
+Recompensas para los jugadores de la pandilla clasificada en sexta posición: 400000 arnebia
+
+The leader of the first gang can also obtain:{s}
+El líder de la pandilla ganadora también obtiene: {sub2{$1}sub2}
+
+You already have a team and cannot apply for personal matching
+Ya tienes un equipo y no puedes aplicar para autoemparejamiento.
+
+You have killed {d} people; the enemy has killed {d} people
+Tu bando ha matado a $1 personas; el enemigo ha matado $2
+
+Take the reward of the {d}th Gang Tournament
+Tomar la recompensa del $1º torneo de pandillas
+
+you did not get a reward
+No obtuviste ninguna recompensa
+
+Today's competitions are all over
+Las competencias de hoy han terminado
+
+Win {d}; Attend {d}
+Ganó $1; participó en $2
+
+One of your team members has already participated in Duo Arena Fights 2 times, no entry
+Un miembro de tu equipo ya participó 2 veces en la arena en parejas, por lo que no pueden entrar.
+
+auto-Match for joining a team; press to cancel
+Estás buscando unirte a un equipo; presiona para cancelar
+
+time of duo arena fight
+arena en parejas
+
+Are you sure you want to cancel the auto-matchmaking?
+¿Confirmas que quieres cancelar el emparejamiento automático?
+
+time of trio tactical battle
+Batalla táctica de 3 jugadores
+
+time of 5-player tactical battle
+Batalla táctica de 5 jugadores
+
+You have participated in Duo Arena Fight twice today and cannot apply again
+Has participado 2 veces en la arena en parejas hoy. Ya no puedes entrar.
+
+{d} weeks beforeAbove level {d}Gang Ranking of Solo Arena Fight
+Clasificación de pandillas de $1 semanas atrás de la arena individual de nivel $2
+
+{d};{c};level {d} gang
+$1; $2; pandilla de nivel $3
+
+Points {d}
+Puntos $1
+
+killed {d}
+Asesinatos $1
+
+Cumulative average player level {d}
+Nivel medio acumulado de los jugadores $1
+
+{d} weeks beforeAbove level {d}Gang Ranking of Duo Arena Fight
+Clasificación de $1 semanas anteriores de pandillas de jugadores superiores a nivel $2 de arena en parejas
+
+{d}th place in the level {d} Trio Tactical Battle{s} award expired{s} the prize is {s}
+$1º lugar de la batalla táctica de tres jugadores de nivel $2$3 expiró la recompensa$4 tu premio fue {sub2{$5}sub2}
+
+{d}th place in the level {d} 5-player Tactical Battle{s} award expired{s} the prize is {s}
+$1º lugar de la batalla táctica de cinco jugadores de nivel $2$3 expiró la recompensa$4 tu premio fue {sub2{$5}sub2}
+
+Round {d}: {c} defeated {c}
+Ronda $1: $2 derrotó a $3
+
+at {s} {d}, {d}:{d}, {d}
+El $2 de {sub2{$1}sub2} de $5, a las $3:$4

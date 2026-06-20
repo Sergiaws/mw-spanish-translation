@@ -1,0 +1,233 @@
+Crafting {s}
+Fabricar el equipo {sub2{$1}sub2}
+
+needs{s}
+Se necesitan {sub2{$1}sub2}
+
+{n} can use
+puede ser usado por un {sub2{$1}sub2}
+
+Crafting {s};needs{s};{n} can use
+Fabricar el equipo {sub2{$1}sub2}; Se necesitan {sub2{$2}sub2}; puede ser usado por un {sub2{$3}sub2}
+
+{d} Bactrian camel's metatarsal;{d} Vulture's Claw
+$1 metatarsos de camello bactriano; $2 garras de buitre
+
+{s}  quality 's {n}
+{sub2{$2}sub2}; {sub2{$1}sub2}
+
+{d} Sand Snake's Scales;{d} Bactrian camel's metatarsal;{d} Vulture's Claw
+$1 escamas de serpiente de arena; $2 metatarsos de camello bactriano; $3 garras de buitre
+
+{d} Death Worm's Horn;{d} Death Worm's Venom Sac;{d} Bactrian camel's metatarsal;{d} Vulture's Claw
+$1 cuerno del gusano de la muerte; $2 saco de veneno del gusano de la muerte; $3 metatarsos de camello bactriano; $4 garras de buitre
+
+{d} Bactrian camel's metatarsal;{d} Alpaca's Pelt
+$1 metatarsos de camello bactriano; $2 pieles de alpaca
+
+{d} Sand Snake's Scales;{d} Bactrian camel's metatarsal;{d} Alpaca's Pelt
+$1 escamas de serpiente de arena; $2 metatarsos de camello bactriano; $3 pieles de alpaca
+
+{d} Death Worm's Horn;{d} Bactrian camel's metatarsal;{d} Alpaca's Pelt
+$1 cuernos del gusano de la muerte; $2 metatarsos de camello bactriano; $3 pieles de alpaca
+
+{d} Bactrian camel's metatarsal;{d} Alpaca's Pelt;{d} Vulture's Claw
+$1 metatarsos de camello bactriano; $2 pieles de alpaca; $3 garras de buitre
+
+{d} Sand Snake's Scales;{d} Bactrian camel's metatarsal;{d} Alpaca's Pelt;{d} Vulture's Claw
+$1 escamas de serpiente de arena; $2 metatarsos de camello bactriano; $3 pieles de alpaca; $4 garras de buitre
+
+{d} Death Worm's Horn;{d} Bactrian camel's metatarsal;{d} Alpaca's Pelt;{d} Vulture's Claw
+$1 cuernos del gusano de la muerte; $2 metatarsos de camello bactriano; $3 pieles de alpaca; $4 garras de buitre
+
+{s} Death Worm's Horn;{s} Death Worm's Venom Sac;{s} Bactrian camel's metatarsal;{s} Alpaca's Pelt;{s} Vulture's Claw
+$1 cuerno del gusano de la muerte; $2 saco de veneno del gusano de la muerte; $3 metatarsos de camello bactriano; $4 pieles de alpaca; $5 garras de buitre
+
+Are you sure you want to Craft {s}  quality's {s}, it will costs {d} arnebia{s}
+El equipo {sub2{$2}sub2}; {sub2{$1}sub2} te costará $3 arnebia. ¿Confirmas que quieres fabricarlo$4
+
+Are you sure you want to Craft {s}, it will costs {d} arnebia{s}
+el equipo {sub2{$1}sub2} te costará $2 arnebia. ¿Confirmas que quieres fabricarlo$3
+
+{d} Bactrian camel's metatarsal;{d} Golden Eagle's Wings;{d} Alpaca's Pelt
+$1 metatarsos de camello bactriano; $2 alas de águila dorada; $3 pieles de alpaca
+
+{d} Sand Snake's Fang;{d} Bactrian camel's metatarsal;{d} Golden Eagle's Wings;{d} Alpaca's Pelt
+$1 colmillos de serpiente de arena; $2 metatarsos de camello bactriano; $3 alas de águila dorada; $4 pieles de alpaca
+
+{d} Death Worm's Venom Sac;{d} Bactrian camel's metatarsal;{d} Golden Eagle's Wings;{d} Alpaca's Pelt
+$1 sacos de veneno del gusano de la muerte; $2 metatarsos de camello bactriano; $3 alas de águila dorada; $4 pieles de alpaca
+
+{d} Bactrian camel's metatarsal;{d} Golden Eagle's Wings;{d} Vulture's Claw
+$1 metatarsos de camello bactriano; $2 alas de águila dorada; $3 garras de buitre
+
+{d} Sand Snake's Fang;{d} Bactrian camel's metatarsal;{d} Golden Eagle's Wings;{d} Vulture's Claw
+$1 colmillos de serpiente de arena; $2 metatarsos de camello bactriano; $3 alas de águila dorada; $4 garras de buitre
+
+{d} Death Worm's Venom Sac;{d} Bactrian camel's metatarsal;{d} Golden Eagle's Wings;{d} Vulture's Claw
+$1 sacos de veneno del gusano de la muerte; $2 metatarsos de camello bactriano; $3 alas de águila dorada; $4 garras de buitre
+
+{d} Death Worm's Horn;{d} Death Worm's Venom Sac;{d} Bactrian camel's metatarsal;{d} Golden Eagle's Wings;{d} Vulture's Claw
+$1 colmillo del gusano de la muerte; $2 saco de veneno del gusano de la muerte; $3 metatarsos de camello bactriano; $4 alas de águila dorada; $5 garras de buitre
+
+{d} Golden Eagle's Wings;{d} Alpaca's Pelt
+$1 alas de águila dorada; $2 pieles de alpaca
+
+{d} Sand Snake's Fang;{d} Golden Eagle's Wings;{d} Alpaca's Pelt
+$1 colmillos de serpiente de arena; $2 alas de águila dorada; $3 pieles de alpaca
+
+{d} Death Worm's Horn;{d} Death Worm's Venom Sac;{d} Golden Eagle's Wings;{d} Alpaca's Pelt
+$1 cuerno del gusano de la muerte; $2 saco de veneno del gusano de la muerte; $3 alas de águila dorada; $4 pieles de alpaca
+
+{d} Snow Leopard's Tail;{d} Crested Penguin's Wings
+$1 colas de leopardo de las nieves; $2 alas de pingüino crestado
+
+{d} Ring Seal's Paws;{d} Sea Lion's Whiskers
+$1 patas de foca anillada; $2 bigotes de león marino
+
+{d} Ice Lizard's Tail;{d} Ice Lizard's Tongue;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings
+$1 colas de lagarto de hielo; $2 lenguas de lagarto de hielo; $3 colas de leopardo de las nieves; $4 alas de pingüino crestado
+
+{d} Ice Lizard's Tail;{d} Ice Lizard's Tongue;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers
+$1 colas de lagarto de hielo; $2 lenguas de lagarto de hielo; $3 patas de foca anillada; $4 bigotes de león marino
+
+{d} Handmaiden's bracelet;{d} Handmaiden's hairpin;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings
+$1 pulceras de doncella; $2 orquillas de doncella; $3 colas de leopardo de las nieves; $4 alas de pingüino crestado
+
+{d} Handmaiden's bracelet;{d} Handmaiden's hairpin;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers
+$1 pulceras de doncella; $2 orquillas de doncella; $3 patas de foca anillada; $4 bigotes de león marino
+
+{d} Queen's Ice Orb;{d} Queen's Cold Jade;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings
+$1 orbe de hielo de la reina; $2 jade frío de la reina; $3 colas de leopardo de las nieves; $4 alas de pingüino crestado
+
+{d} Queen's Ice Orb;{d} Queen's Cold Jade;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers
+$1 orbe de hielo de la reina; $2 jade frío de la reina; $3 patas de foca anillada; $4 bigotes de león marino
+
+{d} Handmaiden's hairpin;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings
+$1 orquillas de doncella; $2 colas de leopardo de las nieves; $3 alas de pingüino crestado
+
+{d} Handmaiden's hairpin;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers
+$1 orquillas de doncella; $2 patas de foca anillada; $3 bigotes de león marino
+
+{d} Queen's Cold Jade;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings
+$1 jades fríos de la reina; $2 colas de leopardo de las nieves; $3 alas de pingüino crestado
+
+{d} Queen's Cold Jade;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers
+$1 jades fríos de la reina; $2 patas de foca anillada; $3 bigotes de león marino
+
+{d} Snow Leopard's Tail;{d} Crested Penguin's Wings;{d} White Bear's Gall
+$1 colas de leopardo de las nieves; $2 alas de pingüino crestado; $3 vesículas biliares de oso polar
+
+{d} Ring Seal's Paws;{d} Sea Lion's Whiskers;{d} White Bear's Gall
+$1 patas de foca anillada; $2 bigotes de león marino; $3 vesículas biliares de oso polar
+
+{d} Ice Lizard's Tail;{d} Ice Lizard's Tongue;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings;{d} White Bear's Gall
+$1 colas de lagarto de hielo; $2 lenguas de lagarto de hielo; $3 colas de leopardo de las nieves; $4 alas de pingüino crestado; $5 vesículas biliares de oso polar
+
+{d} Ice Lizard's Tail;{d} Ice Lizard's Tongue;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers;{d} White Bear's Gall
+$1 colas de lagarto de hielo; $2 lenguas de lagarto de hielo; $3 patas de foca anillada; $4 bigotes de león marino; $5 vesículas biliares de oso polar
+
+{d} Handmaiden's bracelet;{d} Handmaiden's hairpin;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings;{d} White Bear's Gall
+$1 pulceras de doncella; $2 orquillas de doncella; $3 colas de leopardo de las nieves; $4 alas de pingüino crestado; $5 vesículas biliares de oso polar
+
+{d} Handmaiden's bracelet;{d} Handmaiden's hairpin;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers;{d} White Bear's Gall
+$1 pulceras de doncella; $2 orquillas de doncella; $3 patas de foca anillada; $4 bigotes de león marino; $5 vesículas biliares de oso polar
+
+{d} Queen's Ice Orb;{d} Queen's Cold Jade;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings;{d} White Bear's Gall
+$1 orbe de hielo de la reina; $2 jade frío de la reina; $3 colas de leopardo de las nieves; $4 alas de pingüino crestado; $5 vesículas biliares de oso polar
+
+{d} Queen's Ice Orb;{d} Queen's Cold Jade;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers;{d} White Bear's Gall
+$1 orbe de hielo de la reina; $2 jade frío de la reina; $3 patas de foca anillada; $4 bigotes de león marino; $5 vesículas biliares de oso polar
+
+{d} Handmaiden's bracelet;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings;{d} White Bear's Gall
+$1 pulceras de doncella; $2 colas de leopardo de las nieves; $3 alas de pingüino crestado; $4 vesículas biliares de oso polar
+
+{d} Handmaiden's bracelet;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers;{d} White Bear's Gall
+$1 pulceras de doncella; $2 patas de foca anillada; $3 bigotes de león marino; $4 vesículas biliares de oso polar
+
+{d} Queen's Ice Orb;{d} Snow Leopard's Tail;{d} Crested Penguin's Wings;{d} White Bear's Gall
+$1 orbes de hielo de la reina; $2 colas de leopardo de las nieves; $3 alas de pingüino crestado; $4 vesículas biliares de oso polar
+
+{d} Queen's Ice Orb;{d} Ring Seal's Paws;{d} Sea Lion's Whiskers;{d} White Bear's Gall
+$1 orbes de hielo de la reina; $2 patas de foca anillada; $3 bigotes de león marino; $4 vesículas biliares de oso polar
+
+{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Gnome's pocket;{d} Dark elf's dagger
+$1 bastones del elfo enano; $2 martillos del enano; $3 bolsillos del gnomo; $4 dagas del elfo oscuro
+
+{d} Dwarf elf elder's staff;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Gnome's pocket;{d} Dark elf's dagger
+$1 bastones del elfo enano anciano; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 bolsillos del gnomo; $6 dagas del elfo oscuro
+
+{d} Elven King's Arrows;{d} Elven King's Phalanx;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Gnome's pocket;{d} Dark elf's dagger
+$1 flechas del rey elfo; $2 falanges del rey elfo; $3 bastones del elfo enano; $4 martillos del enano; $5 bolsillos del gnomo; $6 dagas del elfo oscuro
+
+{d} Dwarf Leader's Hammer;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Gnome's pocket;{d} Dark elf's dagger
+$1 martillos del líder enano; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 bolsillos del gnomo; $6 dagas del elfo oscuro
+
+{d} Elven King's Phalanx;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Gnome's pocket;{d} Dark elf's dagger
+$1 falanges del rey elfo; $2 bastones del elfo enano; $3 martillos del enano; $4 bolsillos del gnomo; $5 dagas del elfo oscuro
+
+{d} Dark Elf Leader's Dagger;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Gnome's pocket;{d} Dark elf's dagger
+$1 dagas del líder elfo oscuro; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 bolsillos del gnomo; $6 dagas del elfo oscuro
+
+{d} Goblin Leader's Bamboo Bow;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Gnome's pocket;{d} Dark elf's dagger
+$1 arcos de bambú del líder goblin; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 bolsillos del gnomo; $6 dagas del elfo oscuro
+
+{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Goblin's Bamboo Bow;{d} Dark elf's dagger
+$1 bastones del elfo enano; $2 martillos del enano; $3 arcos de bambú del goblin; $4 dagas del elfo oscuro
+
+{d} Dwarf elf elder's staff;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Goblin's Bamboo Bow;{d} Dark elf's dagger
+$1 bastones del elfo enano anciano; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 arcos de bambú del goblin; $6 dagas del elfo oscuro
+
+{d} Elven King's Arrows;{d} Elven King's Phalanx;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Goblin's Bamboo Bow;{d} Dark elf's dagger
+$1 flechas del rey elfo; $2 falanges del rey elfo; $3 bastones del elfo enano; $4 martillos del enano; $5 arcos de bambú del goblin; $6 dagas del elfo oscuro
+
+{d} Dark Elf Leader's Dagger;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Goblin's Bamboo Bow;{d} Dark elf's dagger
+$1 dagas del líder elfo oscuro; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 arcos de bambú del goblin; $6 dagas del elfo oscuro
+
+{d} Elven King's Arrows;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Goblin's Bamboo Bow;{d} Dark elf's dagger
+$1 flechas del rey elfo; $2 bastones del elfo enano; $3 martillos del enano; $4 arcos de bambú del goblin; $5 dagas del elfo oscuro
+
+{d} Goblin Leader's Bamboo Bow;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Goblin's Bamboo Bow;{d} Dark elf's dagger
+$1 arcos de bambú del líder goblin; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 arcos de bambú del goblin; $6 dagas del elfo oscuro
+
+{d} Dwarf Leader's Hammer;{d} Gnome Leader's Pocket;{d} Dwarf elf's staff;{d} Dwarf's Hammer;{d} Goblin's Bamboo Bow;{d} Dark elf's dagger
+$1 martillos del líder enano; $2 bolsillos del líder gnomo; $3 bastones del elfo enano; $4 martillos del enano; $5 arcos de bambú del goblin; $6 dagas del elfo oscuro
+
+{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Fly's Antenna
+$1 colas del perro robótico; $2 orejas del gato robótico; $3 dientes del dinosaurio robótico; $4 antenas de la mosca robótica
+
+{d} Robot Guard's Arm;{d} Robot Guard's Breastplate;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Fly's Antenna
+$1 brazos del guardia robótico; $2 petos del guardia robótico; $3 colas del perro robótico; $4 orejas del gato robótico; $5 dientes del dinosaurio robótico; $6 antenas de la mosca robótica
+
+Crafting {s}  quality 's {s};needs{s};{s}  level {d} can use
+Fabricar el equipo {sub2{$2}sub2}; {sub2{$1}sub2}; se necesitan {sub2{$3}sub2}; puede ser usado por un {sub2{$4}sub2} de nivel $5
+
+{d} Flame Researcher's Nozzle;{d} Bomb Researcher's Detonator;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Fly's Antenna
+$1 boquillas del investigador de llamas; $2 detonadores del investigador de llamas; $3 colas del perro robótico; $4 orejas del gato robótico; $5 dientes del dinosaurio robótico; $6 antenas de la mosca robótica
+
+{d} The Doctor's Brain-Computer Chip;{d} The Doctor's Motor Runner;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Fly's Antenna
+$1 chips del cerebro del ordenador del doctor; $2 corredores motorizados del doctor; $3 colas del perro robótico; $4 orejas del gato robótico; $5 dientes del dinosaurio robótico; $6 antenas de la mosca robótica
+
+{d} The Doctor's Motor Runner;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Fly's Antenna
+$1 corredores motorizados del doctor; $2 colas del perro robótico; $3 orejas del gato robótico; $4 dientes del dinosaurio robótico; $5 antenas de la mosca robótica
+
+{d} The Doctor's Brain-Computer Chip;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Fly's Antenna
+$1 chips del cerebro del ordenador del doctor; $2 colas del perro robótico; $3 orejas del gato robótico; $4 dientes del dinosaurio robótico; $5 antenas de la mosca robótica
+
+{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Bird's Wings
+$1 colas del perro robótico; $2 orejas del gato robótico; $3 dientes del dinosaurio robótico; $4 alas del pájaro robótico
+
+{d} Robot Guard's Arm;{d} Robot Guard's Breastplate;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Bird's Wings
+$1 brazos del guardia robótico; $2 petos del guardia robótico; $3 colas del perro robótico; $4 orejas del gato robótico; $5 dientes del dinosaurio robótico; $6 alas del pájaro robótico
+
+{d} Flame Researcher's Nozzle;{d} Bomb Researcher's Detonator;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Bird's Wings
+$1 boquillas del investigador de llamas; $2 detonadores del investigador de llamas; $3 colas del perro robótico; $4 orejas del gato robótico; $5 dientes del dinosaurio robótico; $6 alas del pájaro robótico
+
+{d} The Doctor's Brain-Computer Chip;{d} The Doctor's Motor Runner;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Bird's Wings
+$1 chips del cerebro del ordenador del doctor; $2 corredores motorizados del doctor; $3 colas del perro robótico; $4 orejas del gato robótico; $5 dientes del dinosaurio robótico; $6 alas del pájaro robótico
+
+{d} The Doctor's Motor Runner;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Bird's Wings
+$1 corredores motorizados del doctor; $2 colas del perro robótico; $3 orejas del gato robótico; $4 dientes del dinosaurio robótico; $5 alas del pájaro robótico
+
+{d} The Doctor's Brain-Computer Chip;{d} Robot Dog's Tail;{d} Robot Cat's Ears;{d} Robot Dinosaur's Tooth;{d} Robot Bird's Wings
+$1 chips del cerebro del ordenador del doctor; $2 colas del perro robótico; $3 orejas del gato robótico; $4 dientes del dinosaurio robótico; $5 alas del pájaro robótico

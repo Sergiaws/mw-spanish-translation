@@ -1,0 +1,3470 @@
+Gold Coin
+Monedas de oro
+
+Arnebia
+Arnebia
+
+Resurrection Crystal
+Cristal de resurrección
+
+Skill Protection Stone
+Piedra de protección de habilidades
+
+Hexagram Key
+Llave hexagrama
+
+Romance Stone
+Piedra del romance
+
+Lovebird Stone
+Piedra del amor
+
+Eternity Stone
+Piedra de la eternidad
+
+Value Monthly Card
+Targeta de valor mensual
+
+VIP And Income monthly card
+Targeta de valor mensual
+
+{d}x experience acceleration card
+Tarjeta de aumento de experiencia por $1
+
+Channel Card
+Tarjeta de canal
+
+Channel group rename card
+Tarjeta de cambio de nombre del grupo del canal
+
+Yin-Yang Water
+Agua Yin-Yang
+
+Blessed Pet Reset and Transfer Card
+Tarjeta de reinicio y transferencia de mascotas benditas
+
+Player Rename Card
+Tarjeta de cambio de nombre de jugador
+
+Pet rename card
+Tarjeta de cambio de nombre de mascota
+
+Gang Rename Card
+Tarjeta de cambio de nombre de pandilla
+
+Gang Kill Order Token
+Ficha de orden de asesinato de pandilla
+
+Gang Token
+Ficha de pandilla
+
+Gang Environment Card-Greenery
+Tarjeta de ambiente de pandilla: Fragancia Floral
+
+Gang Environment Card-Bridge and Stream
+Tarjeta de ambiente de Pandilla: Agua bajo el puente
+
+Gang Environment Card-Falling Leaves
+Tarjeta de Ambiente de Pandilla: Hojas cayendo
+
+Gang Environment Card-Snowy Fortress
+Tarjeta de ambiente de pandilla: Fortaleza Nevada
+
+Worthless Blood
+Sangre sin valor
+
+Lesser Blood
+Sangre de mala calidad
+
+medium Blood
+Sangre de calidad media
+
+Higher blood
+Sangre de buena calidad
+
+Excellent Blood
+Sangre de excelente calidad
+
+Premium Blood
+Sangre de calidad premium
+
+Worthless Jerky
+Carne sin valor
+
+Lesser Jerky
+Carne de mala calidad
+
+Medium Jerky
+Carne de calidad media
+
+Higher Jerky
+Carne de buena calidad
+
+Excellent Jerky
+Carne de excelente calidad
+
+Premium Jerky
+Carne de calidad premium
+
+Worthless Pelt
+Piel sin valor
+
+Lesser Pelt
+Piel de mala calidad
+
+Medium Pelt
+Piel de calidad media
+
+Higher Pelt
+Piel de buena calidad
+
+Excellent Pelt
+Piel de excelente calidad
+
+Premium Pelt
+Piel de calidad premium
+
+Snakeskin
+Piel de serpiente
+
+Anaconda's Gall
+Vesícula biliar de anaconda
+
+Insulating glue
+Pegamento aislante
+
+Ironclad crystal
+Cristal acorazado
+
+Glowstone
+Fluorita
+
+Ebony Metal
+Metal de ébano
+
+Suspicious Plating
+Enchapado sospechoso
+
+Green cotton yarn
+Hilo de algodón verde
+
+Red velvet
+Terciopelo rojo
+
+Crystal Wolf Teeth
+Diente de cristal de lobo
+
+Werewolf Soul Orb
+Orbe de alma del hombre lobo
+
+Crystal coral
+Coral de cristal
+
+Sea Spirit Soul Orb
+Orbe de alma del espíritu marino
+
+Turquoise Metal
+Metal Turquesa
+
+White Bone Piece
+Pedazo de hueso blanco
+
+Nether Fire
+Fuego abisal
+
+Lesser Demon Core
+Núcleo de demonio inferior
+
+Glazed Diamond
+Diamante vidriado
+
+Crystal horn
+Cuerno de cristal
+
+Minotaur Soul Orb
+Orbe de alma del minotauro
+
+Blood of Source
+Fuente de sangre
+
+Blood Spirit Soul Orb
+Orbe de alma del espíritu de sangre
+
+Powerful magnet
+Imán potente
+
+Liquid metal
+Metal líquido
+
+Silver white metal
+Metal blanco plateado
+
+Gel essence
+Esencia de Gel
+
+Horseshoe stone
+Herradura de piedra
+
+Wind Chaser Soul Orb
+Orbe del alma del cazador del viento
+
+Medium Demon Essence
+Esencia de demonio mediana
+
+Lake Blue Diamond
+Diamante azul del lago
+
+Crystal ivory
+Marfil de cristal
+
+Mammoth Soul Orb
+Orbe de alma delmamut
+
+Seed of Blaze
+Semilla de fuego
+
+Flame Spirit Soul Orb
+Orbe del Alma del Espíritu de la Llama
+
+Bright Yellow Metal
+Metal amarillo brillante
+
+Dark matter crystal
+Cristal de materia oscura
+
+Flame Feather
+Pluma llameante
+
+Fire-capped tit soul orb
+Orbe de alma de gorrión de cabeza llameante
+
+Earth Center Diamond
+Diamante del Centro de la Tierra
+
+Eternal Star
+Estrella eterna
+
+Higher Demon Core
+Núcleo de demonio Superior
+
+Dark Purple Gold
+Oro púrpura oscuro
+
+Spiral Golden Horn
+Cuerno espiral de Oro
+
+Unicorn Soul Orb
+Orbe del alma del unicornio
+
+Polar Ice
+Hielo polar
+
+Glacier Giant Bear Soul Fragment
+Fragmento de alma del oso glacial gigante
+
+Hexagon ice crystal
+Cristal de hielo hexagonal
+
+Frost Spirit Soul Orb
+Orbe del alma del espíritu de la escarcha
+
+Orb of Space-Time
+Orbe del espacio-tiempo
+
+Dimension Key
+Llave dimensional
+
+Bactrian camel's metatarsal
+Metatarso de camello bactriano
+
+Alpaca's Pelt
+Piel de alpaca
+
+Vulture's Claw
+Garra de buitre
+
+Golden Eagle's Wings
+Alas de águila dorada
+
+Sand Snake's Fang
+Colmillo de serpiente de arena
+
+Sand Snake's Scales
+Escamas de serpiente de arena
+
+Death Worm's Horn
+Cuerno del gusano de la muerte
+
+Death Worm's Venom Sac
+Saco de veneno del gusano de la muerte
+
+Crested Penguin's Wings
+Alas de pingüino crestado
+
+Ring Seal's Paws
+Pata de foca anillada
+
+Sea Lion's Whiskers
+Bigotes de león marino
+
+Snow Leopard's Tail
+Cola de leopardo de las nieves
+
+White Bear's Gall
+Vesícula biliar de oso polar
+
+Ice Lizard's Tail
+Cola de lagarto de hielo
+
+Ice Lizard's Tongue
+Lengua de lagarto de hielo
+
+Handmaiden's bracelet
+Pulsera de doncella
+
+Handmaiden's hairpin
+Horquilla de doncella
+
+Queen's Ice Orb
+Orbe de hielo de la reina
+
+Queen's Cold Jade
+Jade frío de la reina
+
+Gnome's pocket
+Bolsillo del gnomo
+
+Goblin's Bamboo Bow
+Arco de bambú del goblin
+
+Dwarf elf's staff
+Bastón del elfo enano
+
+Dark elf's dagger
+Daga del elfo oscuro
+
+Dwarf's Hammer
+Martillo del enano
+
+Gnome Leader's Pocket
+Bolsillo del líder gnomo
+
+Goblin Leader's Bamboo Bow
+Arco de bambú del líder goblin
+
+Dwarf elf elder's staff
+Bastón del elfo enano anciano
+
+Dark Elf Leader's Dagger
+Daga del líder elfo oscuro
+
+Dwarf Leader's Hammer
+Martillo del líder enano
+
+Elven King's Arrows
+Flechas del Rey Elfo
+
+Elven King's Phalanx
+Falange del Rey Elfo
+
+Robot Fly's Antenna
+Antena de la mosca robótica
+
+Robot Bird's Wings
+Alas del pájaro robótico
+
+Robot Dog's Tail
+Cola del perro robótico
+
+Robot Cat's Ears
+Orejas del gato robótico
+
+Robot Dinosaur's Tooth
+Diente del dinosaurio robótico
+
+Robot Guard's Arm
+Brazo del guardia robótico
+
+Robot Guard's Breastplate
+Peto del guardia robótico
+
+Flame Researcher's Nozzle
+Boquilla del investigador de llamas
+
+Bomb Researcher's Detonator
+Detonador del investigador de bombas
+
+The Doctor's Brain-Computer Chip
+Chip del cerebro del ordenador del doctor
+
+The Doctor's Motor Runner
+Corredor motorizado del doctor
+
+Cannibal's Skull's
+Cráneo de Caníbal
+
+Cannibal Tooth
+Diente de caníbal
+
+Bloodthirsty Demon's Blood Core
+Núcleo de sangre del demonio sanguinario
+
+Bloodthirsty Demon's Spirit Orb
+Orbe del espíritu del demonio sanguinario
+
+Little Devil's Tears
+Lágrimas del pequeño diablo
+
+Little Devil's Wings
+Alas del pequeño diablo
+
+Lightning Spirit's Electric Orb
+Orbe eléctrico del espíritu del relámpago
+
+Lightning Spirit's yin-yang Charm
+Encanto yin-yang del Espíritu del Rayo
+
+Thunder Beast's Thunder Core
+Núcleo de Trueno de la Bestia del Trueno
+
+Thunder Beast's Thunder Charm
+Encanto del Trueno de la Bestia del Trueno
+
+Two-Faced Demon's Man Face
+Cara de hombre del demonio de dos caras
+
+Two-Faced Demon's Woman Face
+Cara de mujer del demonio de dos caras
+
+Succubus's Eyeball
+Globo ocular de súcubo
+
+Succubus's Tongue
+Lengua de súcubo
+
+Thunder Lord's Broken palm
+Palma rota del Señor del Trueno
+
+Thunder Lord's Patella
+Rótula del Señor del Trueno
+
+Masked Knifeman's Machete
+Machete del Cuchillero Enmascarado
+
+Masked Knifeman's Mask
+Máscara del Cuchillero Enmascarado
+
+Masked Thrower's Boomerang
+Boomerang del lanzador enmascarado
+
+Masked Thrower's Mask
+Máscara de lanzador enmascarado
+
+Aqua Witch's Crystal Staff
+Báculo de cristal de la bruja del agua
+
+Aqua Witch's Dress
+Vestido de la bruja del agua
+
+Fire Witch's Flame Staff
+Báculo de llamas de la bruja del fuego
+
+Fire Witch's Skirt
+Falda de la bruja del fuego
+
+Temptress's Scepter
+Cetro de la tentadora
+
+Temptress's Cape
+Capa de la tentadora
+
+Nightmare's Soul
+Alma de la pesadilla
+
+Nightmare's Gemstone
+Gema de la pesadilla
+
+Meteor Witch's Leather Vest
+Chaleco de cuero de la bruja de los Meteoritos
+
+Meteor Witch's Leather Dress
+Vestido de cuero de la Bruja de los Meteoritos
+
+Meteor Queen's Black Ribbon
+Cinta negra de la reina de los meteoritos
+
+Meteor Queen's Luminous Pearl
+Perla luminosa de la reina de los meteoritos
+
+Apostle's Ears
+Orejas de apóstol
+
+Apostle's Nose
+Nariz de apóstol
+
+Harpy's Wings
+Alas de arpía
+
+Harpy's Claws
+Garras de arpía
+
+Hag's Tongue
+Lengua de la bruja
+
+Hag's Eyeball
+Globo ocular de la Bruja
+
+Black Witcher's Ribs
+Costillas del Brujo Negro
+
+Black Witcher's Kidney
+Riñón del Brujo Negro
+
+Death Knight's Leg Bone
+Hueso de la pierna del Caballero de la Muerte
+
+Death Knight's Liver
+Hígado del Caballero de la Muerte
+
+Dark Messenger's Spine
+Espina dorsal del Mensajero Oscuro
+
+Dark Messenger's Shoulder Bone
+Hueso de hombro del Mensajero Oscuro
+
+Altar Guard's Heart
+Corazón del Guardia del Altar
+
+Alter Guard's Head
+Cabeza de guardia del altar
+
+Dark Priest's Magic Core
+Núcleo mágico del Sacerdote Oscuro
+
+Dark Priest's Wand
+Varita del Sacerdote Oscuro
+
+Greenleaf Fish
+Pez Hoja
+
+Bigmouth Fish
+Pez de Boca Grande
+
+Red Shrimp
+Camarón Rojo
+
+Crystal Fish
+Pez de Cristal
+
+Scallop
+Vieira
+
+Pink Fish
+Pez Rosado
+
+Barracuda
+Barracuda
+
+Rice Shrimp
+Camarón de Río
+
+Ice Crab
+Cangrejo de Hielo
+
+Milkfish
+Sabalote
+
+Bullfrog
+Rana toro
+
+Blue Goldfish
+Pez dorado azul
+
+Long-age Turtle
+Tortuga vieja
+
+Mitten Crab
+Cangrejo manopla
+
+Flying Fish
+Pez Volador
+
+Lobster
+Langosta
+
+Map Turtle
+Tortuga Mapa
+
+Puffer Fish
+Pez Globo
+
+Swallowtail Fish
+Pez cola de Espada
+
+Butterfly shell
+Pez mariposa
+
+Crystal shrimp
+Camarón de cristal
+
+Saw-Edged Blue Crab
+Cangrejo azul de caparazón aserrado
+
+Water Rabbit
+Conejo de agua
+
+Rainbow Fish
+Pez Arcoíris
+
+General Crab
+Cangrejo común
+
+Long-snouted Alligator
+Caimán de hocico largo
+
+Golden Dragonfish
+Pez dragón dorado
+
+Silver Dragonfish
+Pez dragón plateado
+
+Big black shark
+Gran tiburón negro
+
+Ghost Octopus
+Pulpo fantasma
+
+Wine Glass Jellyfish
+Medusa de Campana Flotante
+
+Flame Starfish
+Pez de fuego
+
+Yellow pearl
+Perla amarilla
+
+Green Pearl
+Perla verde
+
+Blue pearl
+Perla azul
+
+Licorice
+Regaliz
+
+Destruction Weeds
+Maleza destructiva
+
+Wild Chrysanthemum
+Crisantemo salvaje
+
+Spring grass
+Césped primaveral
+
+Acacia Bean
+Aba de acacias
+
+Lantern Flower
+Linterna china
+
+Dancing Grass
+Césped danzarín
+
+Albizia Flower
+Acacia de flores sedosas
+
+Edelweiss
+Flor de las nieves
+
+Vigna umbellata
+Judía de careta
+
+Snowflake Bean
+Alfalfa
+
+Centenarian Orchid
+Orquídea centenaria
+
+Sunflower
+Girasol
+
+Rose
+Rosa
+
+Mimosa
+Mimosa
+
+Golden bean
+Frijol pinto
+
+Maltiflower
+Margarita
+
+Honeysuckle
+Madreselva
+
+Immy Flower
+Flor de hibisco
+
+Prunella
+Prunella
+
+Saffron
+Safra
+
+Ghost Needle
+Aguja de pastor
+
+Devil flower
+Flor del diablo
+
+Fox charm flower
+Epazote de zorrillo
+
+Trumpet Creeper
+Enredadera de trompeta
+
+Snake Vine
+Sansevieria
+
+Ice Flake Grass
+Clavel antártico
+
+Flame Flower
+Flor de fuego
+
+Twin Flower
+Flor Gemela
+
+Soul Revival Grass
+Hierba revivealmas
+
+Blood Vine
+Vid de sangre
+
+Ice Nine-Leaf Lotus
+Loto de hielo de nueve hojas
+
+Sugar-loving Earthworm
+Lombriz del azúcar
+
+Destiny Cicada
+Cigarra del destino
+
+Music Bamboo Worm
+Gusano de bambú musical
+
+Iron ore
+Mineral de hierro
+
+Copper ore
+Mineral de cobre
+
+Silica ore
+Mineral de silicio
+
+Flint
+Pedernal
+
+Green Crystal ore
+Mineral de cristal verde
+
+Primal Stone
+Piedra primigenia
+
+Silver ore
+Mineral de plata
+
+Flame ore
+Mineral de llama
+
+Blue crystal ore
+Mineral de cristal azul
+
+Ice ore
+Mineral de hielo
+
+Lanthanum ore
+Mineral de lantano
+
+Red Crystal ore
+Mineral de cristal rojo
+
+Dark Green ore
+Mineral de oscuridad verde
+
+Gold ore
+Mineral de oro
+
+Vajra Ore
+Mineral de vajra
+
+Thorium ore
+Mineral de torio
+
+Black Crystal ore
+Mineral de cristal negro
+
+Black Iron ore
+Mineral de hierro negro
+
+Mythril ore
+Mineral de mithril
+
+Purple Crystal ore
+Mineral de cristal morado
+
+Violet Gold ore
+Mineral de oro violeta
+
+Magic Iron ore
+Mineral de hierro mágico
+
+Fine Gold ore
+Mineral de oro fino
+
+Rainbow Crystal ore
+Mineral de cristal arcoíris
+
+Blood ore
+Mineral de sangre
+
+White Crystal ore
+Mineral de cristal blanco
+
+Fire Crystal
+Cristal de fuego
+
+Ambergris Crystal
+Cristal de ámbar gris
+
+Elven Tear
+Lágrima élfica
+
+Seabed Cloud Iron
+Nube de hierro del fondo del mar
+
+Ice Stone
+Piedra de hielo
+
+Elemental Crystal
+Cristal elemental
+
+Primordial Iron
+Hierro primigénio
+
+Chaos Stone
+Piedra del caos
+
+Heaven Jade
+Jade celestial
+
+Compensation Chest
+Cofre de recompensa
+
+Black Shipwreck Chest
+Cofre negro de barco a la deriva
+
+Green Shipwreck Chest
+Cofre verde de barco a la deriva
+
+Red Shipwreck Chest
+Cofre rojo de barco a la deriva
+
+blue Shipwreck Chest
+Cofre azul de barco a la deriva
+
+purple Shipwreck Chest
+Cofre morado de barco a la deriva
+
+Gang Tournament Chest
+Cofre del torneo de pandillas
+
+Black Herbal Chest
+Cofre herbal negro
+
+Green Herbal Chest
+Cofre herbal verde
+
+red Herbal Chest
+Cofre herbal rojo
+
+blue Herbal Chest
+Cofre herbal azul
+
+Purple Herbal Chest
+Cofre herbal morado
+
+Contribution Chest
+Cofre de contribución
+
+Black Earth God Chest
+Cofre negro de la tierra de Dios
+
+Green Earth God Chest
+Cofre verde de la tierra de Dios
+
+Red Earth God Chest
+Cofre rojo de la tierra de Dios
+
+Blue Earth God Chest
+Cofre azul de la tierra de Dios
+
+Purple Earth God Chest
+Cofre morado de la tierra de Dios
+
+Level 15 New Year Chest
+Cofre del año nuevo de nivel 15
+
+Level 3 Mystery Chest
+Cofre misterioso del nivel 3
+
+Festive Silver-Silk Red Envelope
+Sobre festivo de plata y seda rojiza
+
+Festive Gold-Foil Red Envelope
+Sobre festivo rojo de oro
+
+Festive Diamond-Inlaid Red Envelope
+Sobre festivo rojo con incrustaciones de diamantes
+
+Wedding Gift Package
+Paquete de regalo de boda
+
+Exquisite Wedding Gift Package
+Paquete exquisito de regalo de boda
+
+Deluxe Wedding Gift Package
+Paquete de lujo de regalo de boda
+
+Firecracker
+Petardo
+
+Gift Balloon
+Globo de regalo
+
+Fun Capsule Toy
+Cápsula de juguete graciosa
+
+Birthday Music Box
+Caja musical de cumpleaños
+
+Church Large Fireworks
+Grandes fuegos artificiales de la iglesia
+
+Noble Large Fireworks
+Grandes fuegos articiales de la nobleza
+
+Royal Large Fireworks
+Grandes fuegos artificiales de la realeza
+
+Church Fireworks
+Fuegos artificiales de la iglesia
+
+Noble Fireworks
+Fuegos artificiales de la nobleza
+
+Royal Fireworks
+Fuegos artificiales de la realeza
+
+New Year Fireworks
+Fuegos artificiales de año nuevo
+
+Beautiful Gift Box
+Bonita caja de regalo
+
+Team Gift Box
+Caja de regalo del equipo
+
+Gang Gift Box
+Caja de regalo de la pandilla
+
+Mist God's Blessing
+Bendición de los dioses de la niebla
+
+Red Envelope
+Sobre rojo
+
+Large Red Envelope
+Sobre rojo grande
+
+New Year Gift Box
+Caja de regalo de año nuevo
+
+Spring Festival Gift Box
+Caja de regalo del festival de primavera
+
+Festival Gift Box
+Caja de regalo del festival
+
+Glazed Treasure Box
+Caja del tesoro de vidrio
+
+Moonlight Treasure Box
+Caja del tesoro lunar
+
+Temple Treasure Box
+Caja del tesoro del templo
+
+Abyss Demon Box
+Caja del demonio abismal
+
+Sealed Demon Box
+Caja del demonio sellada
+
+Universe Bag
+Bolsa del universo
+
+Enhanced Lucky Chest
+Cofre de la suerte potenciada
+
+Gem Shard Pack
+Paquete de fragmentos de gemas
+
+Level {d} Bash Skill Crystal
+cristal de Golpetazo de nivel $1
+
+Level {d} Cleave Crystal
+cristal de Rajar de nivel $1
+
+Level {d} Sweep Attack Crystal
+cristal de Ataque de barrido de nivel $1
+
+Level {d} Armor Break Crystal
+cristal de Romper armadura de nivel $1
+
+Wind Step Crystal
+cristal de Paso del viento
+
+Swallow Dance Crystal
+cristal de Danza de la golondrina
+
+Level {d} Execute Crystal
+cristal de Ejecución de nivel $1
+
+Level {d} Taunt Attack Crystal
+cristal de Mofa de nivel $1
+
+Level {d} Rupture Crystal
+cristal de Ruptura de nivel $1
+
+Level {d} Lethal Strike Crystal
+cristal de Golpe letal de nivel $1
+
+Command Cry Crystal
+cristal de Grito de comandante
+
+Level {d} Valiant Strike Crystal
+cristal de Golpe valiente de nivel $1
+
+Level {d} Reckless Strike Crystal
+cristal de Golpe Imprudente de nivel $1
+
+Level {d} Flesh Cleave Crystal
+cristal de Corte de Carne de nivel $1
+
+Level {d} Giant Strike Crystal
+cristal de Golpe de Gigante de nivel $1
+
+Level {d} Thunderous Blow Crystal
+cristal de Golpe Atronador de nivel $1
+
+Haste Crystal
+cristal de Estampida furiosa
+
+Level {d} Bloodthirsty Crystal
+cristal de Sed de sangre de nivel $1
+
+Taunt Crystal
+cristal de Burla
+
+Ignore the Pain Crystal
+cristal de Ignorar el dolor
+
+Reckless Crystal
+cristal de Imprudencia
+
+Challenge Cry Crystal
+cristal de Grito Desafiante
+
+Level {d} Vengeance Crystal
+cristal de Venganza de nivel $1
+
+Battle Roar Crystal
+cristal de Rugido de Batalla
+
+Level {d} Blade Strike Crystal
+cristal de Golpe de Cuchilla de nivel $1
+
+Level {d} Rapid Sting Crystal
+cristal de Puñalada Rápida de nivel $1
+
+Level {d} Fan of Knives Crystal
+cristal de Abanico de Cuchillos de nivel $1
+
+Level {d} Puncture Crystal
+cristal de Pinchazo de nivel $1
+
+Level {d} Leap Gouge Crystal
+cristal de Salto de Gubia de nivel $1
+
+Shadow Steps Crystal
+cristal de Pasos de la Sombra
+
+Level {d} Kidney Strike Crystal
+cristal de Golpe de Riñón de nivel $1
+
+Level {d} Kidney Strike Crystal
+cristal de Golpe de Riñón de nivel $1
+
+Scorn Crystal
+cristal de Desdén
+
+Level {d} Shattering Moon Crystal
+cristal de Luna destrozada de nivel $1
+
+Void Shift Crystal
+cristal de Transferencia del Vacío
+
+Level {d} Arcane Shot Crystal
+cristal de Disparo Arcano de nivel $1
+
+Level {d} Aimed Shot Crystal
+cristal de Disparo Preciso de nivel $1
+
+Level {d} Multi Shot Crystal
+Cristal de Disparo Múltiple de nivel $1
+
+Vine Trap Crystal
+Cristal de Trampa de Vid
+
+Level {d} Marked Shot Crystal
+Cristal de Disparo Marcado de nivel $1
+
+Level {d} Concussive Shot Crystal
+Cristal de Disparo de Conmoción de nivel $1
+
+Turtle Guardian Crystal
+Cristal de Guardián de la Tortuga
+
+Level {d} Rapid Arrows Crystal
+Cristal de Flechas Rápidas de nivel $1
+
+Level {d} Burst Shot Crystal
+Cristal de Ráfaga de Disparos de nivel $1
+
+Tranquility Aura Crystal
+Cristal de Aura de Templanza
+
+Level {d} Magic Sphere Crystal
+Cristal de Esfera Mágica de nivel $1
+
+Level {d} Ice Lance Crystal
+Cristal de Lanza de Hielo de nivel $1
+
+Level {d} Ice Storm Crystal
+Cristal de Tormenta de Hielo de nivel $1
+
+Level {d} Ice Arrow Crystal
+Cristal de Flecha de Hielo de nivel $1
+
+Level {d} Frost Nova Crystal
+Cristal de Nova de Escarcha de nivel $1
+
+Icicle Crystal
+Cristal de Cono de Hielo
+
+Teleportation Crystal
+Cristal de Teletransportación
+
+Blizzard Crystal
+Cristal de Ventisca
+
+Chilling Frost Crystal
+Cristal de Escarcha Gélida
+
+Cold Winter Crystal
+Cristal de Frío invernal
+
+Level {d} Fireball Crystal
+Cristal de Bola de Fuego de nivel $1
+
+Level {d} Fire Impact Crystal
+Cristal de Impacto de Fuego de nivel $1
+
+Level {d} Fire Surge Crystal
+Cristal de Oleada de Fuego de nivel $1
+
+Invisibility Crystal
+Cristal de Invisibilidad
+
+Level {d} Pyroblast Crystal
+Cristal de Pyroexplosión de nivel $1
+
+Ignition Crystal
+Cristal de Ignición
+
+Level {d} Blazing Storm Crystal
+Cristal de Tormenta de Llamas de nivel $1
+
+Level {d} Sear Crystal
+Cristal de Abrasar de nivel $1
+
+Scorch Crystal
+Cristal de Quemar
+
+Level {d} Retribution Crystal
+Cristal de Retribución de nivel $1
+
+Level {d} Mind Whip Crystal
+Cristal de Látigo Mental de nivel $1
+
+Level {d} Holy Light Wave Crystal
+Cristal de Ola de Luz Sagrada de nivel $1
+
+Recover Crystal
+Cristal de Recuperación
+
+Level {d} Divine Fire Crystal
+Cristal de Fuego divino de nivel $1
+
+Divine Protection Crystal
+Cristal de Protección divina
+
+Holy Light Crystal
+Cristal de Luz Sagrada
+
+Level {d} Divine Nova Crystal
+Cristal de Nova Divina de nivel $1
+
+Group Dispel Crystal
+Cristal de Disipación Grupal
+
+Resurrection Skill Crystal
+Cristal de Resurrección
+
+Level {d} Shadow Arrow Crystal
+Cristal de Flecha de Sombra de nivel $1
+
+Level {d} Corrosion Spell Crystal
+Cristal de Corrosión de nivel $1
+
+Level {d} Skeleton Explosion Crystal
+Cristal de Explosión de Esqueleto de nivel $1
+
+Healing Surge Crystal
+Cristal de Oleada Curativa
+
+Level {d} Incessant Pain Crystal
+Cristal de Dolor Incesante de nivel $1
+
+Break the Chain Crystal
+Cristal de Romper la Cadena
+
+Soul Purify Crystal
+Cristal de Purificación del Alma
+
+Level {d} Dead Toxin Crystal
+Cristal de Explosión de Toxinas mortales de nivel $1
+
+Spiritual Totem Crystal
+Cristal de Tótem Espiritual
+
+Soul Returnal Crystal
+Cristal de Retorno del Alma
+
+Bash Skill Crystal Shard
+Fragmento de cristal de Golpetazo
+
+Execute Crystal Shard
+Fragmento de cristal de Ejecutar
+
+Sweep Attack Skill Crystal Shard
+Fragmento de cristal de Ataque de Barrido
+
+Rupture Skill Crystal Shard
+Fragmento de cristal de ruptura
+
+Valiant Strike Skill Crystal Shard
+Fragmento de cristal de Golpe Valiente
+
+Bloodthirsty Skill Crystal Shard
+Fragmento de cristal de Sed de Sangre
+
+Flesh Cleave Skill Crystal Shard
+Fragmento de cristal de corte de carne
+
+Thunderous Blow Skill Crystal Shard
+Fragmento de cristal de Golpe Atronador
+
+Blade Strike Skill Crystal Shard
+Fragmento de cristal de Golpe de Cuchilla
+
+Fan of Knives Skill Crystal Shard
+Fragmento de cristal de Abanico de Cuchillos
+
+Leap Gouge Skill Crystal Shard
+Fragmento de cristal de Salto de Gubia
+
+Kidney Strike Skill Crystal Shard
+Fragmento de cristal de Golpe de Riñón
+
+Arcane Shot Skill Crystal Shard
+Fragmento de cristal de Disparo Arcano
+
+Multi Shot Skill Crystal Shard
+Fragmento de cristal de Disparo Múltiple
+
+Rapid Arrows Skill Crystal Shard
+Fragmento de cristal de Flechas Rápidas
+
+Marked Shot Skill Crystal Shard
+Fragmento de cristal de Disparo Marcado
+
+Magic Sphere Skill Crystal Shard
+Fragmento de cristal de Esfera Mágica
+
+Ice Storm Skill Crystal Shard
+Fragmento de cristal de Tormenta de Hielo
+
+Ice Arrow Skill Crystal Shard
+Fragmento de cristal de Flecha de Hielo
+
+Frost Nova Skill Crystal Shard
+Fragmento de cristal de Nova de Escarcha
+
+Fireball Skill Crystal Shard
+Fragmento de cristal de Bola de Fuego
+
+Fire Surge Skill Crystal Shard
+Fragmento de cristal de Oleada de Fuego
+
+Pyroblast Skill Crystal Shard
+Fragmento de cristal de Pyroexplosión
+
+Blazing Storm Skill Crystal Shard
+Fragmento de cristal de Tormenta de Llamas
+
+Retribution Skill Crystal Shard
+Fragmento de cristal de Retribución
+
+Holy Light Wave Skill Crystal Shard
+Fragmento de cristal de Ola de Luz Sagrada
+
+Divine Nova Skill Crystal Shard
+Fragmento de cristal de Nova Divina
+
+Divine Fire Skill Crystal Shard
+Fragmento de cristal de Fuego Divino
+
+Shadow Arrow Skill Crystal Shard
+Fragmento de cristal de Flecha de Sombra
+
+Skeleton Explosion Skill Crystal Shard
+Fragmento de cristal de Explosión de Esqueleto
+
+Dead Toxin Skill Crystal Shard
+Fragmento de cristal de Explosión de Toxinas mortales
+
+Incessant Pain Skill Crystal Shard
+Fragmento de cristal de Dolor Incesante
+
+Level {d} Ruby Shard
+Fragmento de rubí de nivel $1
+
+Level {d} Ruby
+Rubí de nivel $1
+
+Level {d} Sapphire Shard
+Fragmento de zafiro de nivel $1
+
+Level {d} Sapphire
+Zafiro de nivel $1
+
+Level {d} Tiger Eye Stone Shard
+Fragmento de Piedra de ojo de tigre de nivel $1
+
+Level {d} Tiger Eye Stone
+Piedra de ojo de tigre de nivel $1
+
+Level {d} Opal Shard
+Fragmento de ópalo de nivel $1
+
+Level {d} Opal
+Ópalo de nivel $1
+
+Level {d} Spinel Shard
+Fragmento de espinela de nivel $1
+
+Level {d} Spinel
+Espinela de nivel $1
+
+Level {d} Aquamarine Shard
+Fragmento de aguamarina de nivel $1
+
+Level {d} Aquamarine
+Aguamarina de nivel $1
+
+Level {d} Garnet Shard
+Fragmento de granate de nivel $1
+
+Level {d} Garnet
+Granate de nivel $1
+
+Level {d} Blond Jade Shard
+Fragmento de jade de nivel $1
+
+Level {d} Blond Jade
+Jade de nivel $1
+
+Level {d} Grape Stone Shard
+Fragmento de prenita de nivel $1
+
+Level {d} Grape Stone
+Prenita de nivel $1
+
+Level {d} Olivine Shard
+Fragmento de olivino de nivel $1
+
+Level {d} Olivine
+Olivino de nivel $1 
+
+Level {d} Topaz Shard
+Fragmento de topacio de nivel $1
+
+Level {d} Topaz
+Topacio de nivel $1
+
+Level {d} Obsidian Shard
+Fragmento de obsidiana de nivel $1
+
+Level {d} Obsidian
+Obsidiana de nivel $1
+
+Level {d} Sunlight Stone Shard
+Fragmento de piedra solar de nivel $1
+
+Level {d} Sunlight Stone
+Piedra solar de nivel $1
+
+Level {d} Moonstone Shard
+Fragmento de piedra lunar de nivel $1
+
+Level {d} Moonstone
+Piedra lunar de nivel $1
+
+Level {d} Turquoise Shard
+Fragmento de turquesa de nivel $1
+
+Level {d} Turquoise
+Turquesa de nivel $1
+
+Weapon Enhance Crystal Shard
+Fragmento de cristal de mejora de arma
+
+Level {d} Weapon Enhance Crystal
+Cristal de mejora de arma de nivel $1
+
+{d}Level 1 Weapon Enhance Crystal
+Cristal de mejora de arma de nivel $1
+
+Equipment Enhance Crystal Shard
+Fragmento de cristal de mejora de equipo
+
+Level {d} Equipment Enhance Crystal
+Cristal de mejora de equipo de nivel $1
+
+Gem Protection Rune
+Runa de protección de gemas
+
+Socket Protection Stone
+Piedra de protección de engarces
+
+Weapon Enhance Boost Rune
+Runa potenciadora de arma
+
+Equipment Enhance Boost Rune
+Runa potenciadora de equipo
+
+Weapon Enhance Protection Rune
+Runa de protección de arma
+
+Equipment Enhance Protection Rune
+Runa de protección de equipo
+
+Pale Jade Crystal
+Cristal de jade pálido
+
+Violet Haze Crystal
+Cristal de niebla violeta
+
+Cannonball
+Bala de cañón
+
+Key
+Llave
+
+Metal Plate
+Placa de metal
+
+Enchanted Bead
+Perla encantada
+
+Kumiss
+Kumis
+
+Ore
+Mineral
+
+Barr's Letter
+Carta de Barr
+
+Silk
+Seda
+
+Merlin's Letter
+Carta de Merlin
+
+Snow Leopard Leather Coat
+Abrigo de piel de leopardo de las nieves
+
+Tiger Mountain Pass
+Pase de la Montaña del Tigre
+
+Bandit Hideout Key
+Llave del escondite de los bandidos
+
+Octorium
+Octorium
+
+Fruit of the Wisdom Tree
+Fruto del Árbol de la Sabiduría
+
+Seed of the Wisdom Tree
+Semilla del Árbol de la Sabiduría
+
+Potions
+pociones
+
+Weapon
+Arma
+
+White Bear's Pelt
+Piel de oso polar
+
+Wolf's Head
+cabeza de lobo
+
+Frostbite Ointment
+Ungüento de congelación
+
+Packed Licorice
+Regaliz empacado
+
+Water of Moonlight River
+Agua del Pozo a la luz de la luna
+
+Stone Ball
+bola de piedra
+
+Wedding Dress
+Vestido de novia
+
+Cicada Robe
+Túnica de cigarra
+
+Antidote
+Antídoto
+
+Empty iron bucket
+Balde de hierro vacío
+
+Iron Bucket
+Balde de hierro
+
+wound-healing powder
+polvo cicatrizante
+
+Clay Block
+bloque de arcilla
+
+Raw Milk
+leche cruda 
+
+Forage
+Forraje
+
+Raw Milk
+Leche cruda
+
+Blue key
+Llave azul
+
+Yellow key
+Llave amarilla
+
+White key
+Llave blanca
+
+Black key
+Llave negra
+
+Red crystal stone
+piedra de cristal roja
+
+Green crystal stone
+piedra de cristal verde
+
+Blue crystal stone
+piedra de cristal azul
+
+Penetration Ring
+Anillo de penetración
+
+Reward order
+orden de recompensa
+
+Punishment order
+orden de castigo
+
+Fertilizer
+Fertilizante
+
+C4 Explosive
+Explosivo C4
+
+magnetic card
+tarjeta magnética
+
+Beast's head
+cabeza de bestia
+
+Beast's Leg
+Pierna de bestia
+
+Probe Stick
+palo de sondeo
+
+Spirit Crystal
+Cristal espiritual
+
+Orb of Benevolence
+Orbe de la Benevolencia
+
+Magic Stand
+Soporte mágico
+
+Secret Letter of the Moon Princess
+Carta secreta de la Princesa de la Luna
+
+Carpenter's family letter
+Carta de la familia del carpintero
+
+Secret Letter of the Master Antino
+Carta Secreta del Maestro Antino
+
+Lord Garcina's Token
+Ficha de la Señora Garcina
+
+Ice bead
+perla de hielo
+
+Peach
+Durazno
+
+Black Comb
+Peine negro
+
+Stallone's Head
+Cabeza de Stallone
+
+Secret Letter of the High Priest Theo
+Carta secreta del Sumo Sacerdote Theo
+
+Purchase order
+Orden de compra
+
+Contract
+Contrato
+
+Family Letter to Sailor Ron
+Carta familiar para el marinero Ron
+
+Wheat Head
+Espiga de trigo
+
+Bait
+Cebo
+
+Rice Spikelet
+Espiga De Arroz
+
+Grass carp
+Carpa herbívora
+
+Medical Supply
+Suministros medicinales
+
+Large brick
+ladrillo grande
+
+Unprocessed brick
+Ladrillo sin procesar
+
+Perfect brick
+ladrillo perfecto
+
+Unidentified cannonball
+Bala de cañón desconocida
+
+Water Monster's Egg
+Huevo de monstruo acuático
+
+Water Convex Lens
+Lente convexa de agua
+
+Full Note
+Nota completa
+
+Semi Note
+Seminota
+
+Loofah seedling
+Planta de lufa
+
+Pea seed
+semilla de guisante
+
+Cross
+Cruz
+
+Shining Cross
+cruz brillante
+
+Canned spinach
+espinacas enlatadas
+
+Rice Cracker
+Galleta de arroz
+
+potatoes
+patatas
+
+Tomato
+Tomate
+
+Chestnut
+castaña
+
+Mashed potatoes
+Puré de patatas
+
+Tomato juice
+Jugo de tomate
+
+Chestnut powder
+polvo de castañas
+
+Crispy potato and vegetable pie
+Tarta crujiente de verduras y patata
+
+Bronze fruit
+Fruta de bronce
+
+Silver fruit
+Fruta plateada
+
+Gold Fruit
+Fruta dorada
+
+Platinum fruit
+Fruta de platino
+
+Star Diamond Fruit
+Fruta de diamante estelar
+
+Dough
+Masa
+
+Pie
+Tarta
+
+Festive Bronze Gift Package
+Paquete de regalo festivo de bronce
+
+Festive Silver Gift Package
+Paquete de regalo festivo de plata
+
+Festive Gold Gift Package
+Paquete de regalo festivo de oro
+
+Festive Platinum Gift Package
+Paquete de regalo festivo de platino
+
+Festive Star Diamond Gift Package
+Paquete de regalo festivo de diamante estelar
+
+Dragon-Moth Double Jade
+Polilla dragón de doble Jade
+
+lightning rod
+Pararrayos
+
+Magic Fossil
+Fósil mágico
+
+Identification Scroll
+Pergamino de identificación
+
+Common fossil
+fósil común
+
+Damaged Cube
+Cubo dañado
+
+Interdimensional Cube
+Cubo interdimensional
+
+Golden Rice dumpling seed
+Semilla de bola de masa hervida con arroz dorado
+
+Colorful Golden Rice Dumpling
+Bola De Masa Colorida Con Arroz Dorado
+
+BBQ Pork Seed
+Semilla de cerdo a la barbacoa
+
+BBQ Pork bun
+Cerdo a la barbacoa
+
+Phantom Ice Crystal
+Cristal de hielo fantasmal
+
+Time Bomb
+Bomba de Relojería
+
+Godmother Zoira's Magic Charm
+Encanto Mágico de la Madrina Zoira
+
+Godmother Zoira's Seal Letter
+Carta Sellada de la Madrina Zoira
+
+Templar Knight's Letter
+Carta del Caballero Templario
+
+Exploration data
+Datos de exploración
+
+Hunting net
+Red de caza
+
+Mojito
+Mojito
+
+Delicate Fruit
+Fruta delicada
+
+Hunting Medal
+Medalla de caza
+
+Hunting Gift Package
+Paquete de regalo de la caza
+
+Hunting Pass
+Pase de caza
+
+Samael Emblem
+Emblema de Samael
+
+Fish Gelatin
+gelatina de pescado
+
+Five-Nuts Filling
+Relleno de Cinco Nueces
+
+Crust
+Corteza
+
+Egg
+Huevo
+
+Osmanthus wine
+Vino de Osmanthus
+
+Five-Nuts Mooncake
+Pastel lunar de cinco nueces
+
+Wind Chaser Soul Fragment
+Fragmento de alma de cazador del viento
+
+Knight Code
+Código de caballería
+
+Refined Iron
+Hierro refinado
+
+Spear
+Lanza
+
+Shield
+Escudo
+
+Armor
+Armadura
+
+Equipment
+Equipo
+
+Tinder
+Yesca
+
+Silver Cross
+Cruz plateada
+
+Flash Bomb
+Bomba relámpago
+
+Great Dragon Valley Bar
+Barra del grandioso valle del dragón
+
+Dragon Village Token
+Ficha de la Aldea del Dragón
+
+Christmas stockings
+Calcetines Navideños
+
+Colorful Shard Pack
+Paquete de fragmentos coloridos
+
+Snowball
+Bola de nieve
+
+Hat
+Sombrero
+
+Scarf
+Bufanda
+
+Broom
+Escoba
+
+Marbles
+Canicas
+
+Button
+Botón
+
+Stones
+piedras
+
+Little snowman
+pequeño muñeco de nieve
+
+Christmas gift box
+caja de regalo navideña
+
+Magnet
+Imán
+
+Dragon Power Stone
+Piedra de poder de dragón
+
+Remote Control Bomb
+bomba a control remoto
+
+Remote Control
+Control remoto
+
+Energy Shield
+Escudo de energía
+
+Apple
+Manzana
+
+Chocolate Popsicle
+paleta de hielo de chocolate
+
+Butter Popsicle
+paleta de hielo de mantequilla
+
+Chocolate ice cream
+Helado de chocolate
+
+Butter ice cream
+helado de mantequilla
+
+Candy
+Caramelo
+
+Rat Tooth Shovel
+Pala de dientes de rata
+
+Jumping Spring
+Resolte de salto
+
+dumpling
+bola de masa hervida
+
+Cat ears
+Orejas de gato
+
+Nian Monster's Demon Crystal
+Cristal demoníaco de monstruo Nian
+
+Wish Blessing
+Bendición de los deseos
+
+Fortune Blessing
+Bendición de la fortuna
+
+Peace Blessing
+Bendición de la paz
+
+Luck Blessing
+Bendición de la suerte
+
+Happiness Blessing
+Bendición de la felicidad
+
+Packaged Rice Ball
+Bola de arroz empaquetada
+
+sesame rice ball
+bola de arroz con sésamo
+
+peanut rice ball
+bola de arroz con maní
+
+Zoira's earring
+Pendiente de Zoira
+
+Zoira's earring
+Pendiente de Zoira
+
+Purified water
+Agua purificada
+
+Earth Magic Stone
+Piedra Mágica de la Tierra
+
+Water Magic Stone
+Piedra Mágica de Agua
+
+Fire Magic Stone
+Piedra Mágica de Fuego
+
+Wind Magic Stone
+Piedra Mágica de Viento
+
+Wood
+Madera
+
+Insecticide
+Insecticida
+
+Ghost vacuum cleaner
+aspiradora fantasmal
+
+Control Button
+Botón de control
+
+Time Bomb
+Bomba de relojería
+
+Fatal Tenderness
+Afecto fatal
+
+Beauty of the Forest
+Belleza del Bosque
+
+Midnight Kiss
+Beso de medianoche
+
+Satisfied Morning
+mañana satisfactoria
+
+Bones of the mutant skeleton
+Huesos del esqueleto mutante
+
+Black Magic Antidote
+Antídoto de magia negra
+
+Ghost
+Fantasma
+
+Intelligence letter
+carta Con información
+
+Rock
+Roca
+
+Clown Box
+caja de payaso
+
+Grimace Cookie
+Galleta de animalito
+
+Bookmark Badge
+Insignia de marcado
+
+Sabre Badge
+Insignia de sable
+
+Cross Badge
+Insignia de cruz
+
+Soul Bottle
+Botella de almas
+
+Axe
+Hacha
+
+Divine Light Orb
+Orbe de luz divina
+
+Iron Wire
+Alambre de hierro
+
+Black Rock
+Roca Negra
+
+White Rock
+roca blanca
+
+Remote Control Bomb
+bomba a control remoto
+
+Remote Control
+Control remoto
+
+Demining Stick
+Pala de minería
+
+Scissors
+Tijeras
+
+Note
+Nota
+
+Note
+Nota
+
+Master's Pendant
+Collar del Maestro
+
+Cherub Illustration
+Ilustración de querubín
+
+Colorful Golden Rice Dumpling
+Bola De Masa Colorida Con Arroz Dorado
+
+Beast King Demon General's Blood
+Sangre del Rey General Demonio Bestia
+
+Candy
+Caramelo
+
+Blue Ice Crystal
+Cristal de hielo azul
+
+Werebear Commander's Head
+Cabeza del comandante hombre oso
+
+Concentrated Fire Source Crystal
+Fuente de Cristal de fuego concentrado
+
+Silver Cross
+Cruz de plata
+
+Small Red Potion
+Poción roja pequeña
+
+Medium Red Potion
+Poción roja mediana
+
+Large Red Potion
+Poción roja grande
+
+Super Red Potion
+Súper poción roja
+
+Potent Plasma
+Plasma potente
+
+Serum Protein
+Proteína sérica
+
+Hemoglobin
+Hemoglobina
+
+Small Blue Potion
+Poción azul pequeña
+
+Medium Blue Potion
+Poción azul mediana
+
+Large Blue Potion
+Poción azul grande
+
+Super Blue Potion
+Súper poción azul
+
+Magic Potion
+Poción mágica
+
+Potent Magic Potion
+Poción mágica potente
+
+Mist Potion
+Poción de niebla
+
+Mist Essence
+Esencia de niebla
+
+Chicken Drumstick
+Muslo de pollo
+
+Steak
+Filete
+
+Ham
+jamón
+
+Pie
+Tarta
+
+Burrito
+Burrito
+
+Pizza
+Pizza
+
+Hot Dog
+Hot Dog
+
+Sandwich
+Sándwich
+
+Hamburger
+Hamburguesa
+
+Coco
+Coco
+
+Coffee
+Café
+
+Tea
+Té
+
+Orange Juice
+Jugo de naranja
+
+Grapefruit Juice
+Jugo de uva
+
+Lemonade
+Limonada
+
+Raspberry Juice
+Jugo de frambuesa
+
+Plum Juice
+Jugo De Ciruela
+
+Blueberry Juice
+Jugo de arándano
+
+Arena Power Pill
+Píldora de energía de la Arena
+
+Arena Iron Stone Pill
+Píldora de hierro de la Arena
+
+Tactical Power Pill
+Píldora de energía táctica
+
+Tactical Iron Stone Pill
+Píldora de hierro táctica
+
+Pet Small Red Potion
+Poción roja pequeña para mascotas
+
+Pet Medium Red Potion
+Poción roja mediana para mascotas
+
+Pet Large Red Potion
+Poción roja grande para mascotas
+
+Pet Super Red Potion
+Súper poción roja para mascotas
+
+Pet Plasma
+Plasma para mascotas
+
+Pet Potent Plasma
+Plasma potente para mascotas
+
+Pet Albumin
+Albúmina para mascotas
+
+Pet globulin
+Globulina para mascotas
+
+Pet Small Blue Potion
+Poción azul pequeña para mascotas
+
+Pet Medium Blue Potion
+Poción azul mediana para mascotas
+
+Pet Large Blue Potion
+Poción azul grande para mascotas
+
+Pet Super Blue Potion
+Súper poción azul para mascotas
+
+Bone Cookie
+Galleta de Hueso
+
+Fine Bone Cookie
+Galleta de Hueso refinada
+
+Bone Marrow Soup
+Sopa De Tuétano
+
+Potent Bone Marrow Soup
+Sopa De Tuétano potente
+
+Pet Meat Cube
+Cubo de carne para mascotas
+
+Pet Jerky
+Cecina para mascotas
+
+Pet Sausage
+salchicha para mascotas
+
+Pet Pie
+pastel para mascotas
+
+Pet Burrito
+Burrito para mascotas
+
+Pet Pizza
+Pizza para mascotas
+
+Pet Hot Dog
+Hot Dog para mascotas
+
+Pet Sandwich
+Sándwich para mascotas
+
+Pet Hamburger
+Hamburguesa para mascotas
+
+Pet Peach Juice
+Jugo de durazno para mascotas
+
+Pet Mango Juice
+Jugo de mango para mascotas
+
+Pet Apple Juice
+Jugo de manzana para mascotas
+
+Pet Orange Juice
+Jugo de naranja para mascotas
+
+Pet Grapefruit Juice
+Jugo de toronja para mascotas
+
+Pet Lemonade
+limonada para mascotas
+
+Pet Raspberry Juice
+Jugo de frambuesa para mascotas
+
+Pet Plum Juice
+Jugo de ciruela para mascotas
+
+Pet Blueberry Juice
+Jugo de arándano para mascotas
+
+Pet Rice Roll
+Rollitos de arroz para mascotas
+
+Lesser Frog Soul Stone
+Piedra menor de alma de rana
+
+Medium Frog Soul Stone
+Piedra media de alma de rana
+
+Higher Frog Soul Stone
+Piedra mayor de alma de rana
+
+Pure Frog Soul Stone
+Piedra pura de alma de rana
+
+Brilliant Frog Soul Stone
+Piedra brillante de alma de rana
+
+Lesser Beetle Soul Stone
+Piedra menor de alma de escarabajo
+
+Medium Beetle Soul Stone
+Piedra media de alma de escarabajo
+
+Higher Beetle Soul Stone
+Piedra mayor de alma de escarabajo
+
+Pure Beetle Soul Stone
+Piedra pura de alma de escarabajo
+
+Brilliant Beetle Soul Stone
+Piedra brillante de alma de escarabajo
+
+Lesser Golden Rooster Soul Stone
+Piedra menor de alma de gallo
+
+Medium Golden Rooster Soul Stone
+Piedra media de alma de gallo
+
+Higher Golden Rooster Soul Stone
+Piedra mayor de alma de gallo
+
+Pure Golden Rooster Soul Stone
+Piedra pura de alma de gallo
+
+Brilliant Golden Rooster Soul Stone
+Piedra brillante de alma de gallo
+
+Lesser Duck Soul Stone
+Piedra menor de alma de pato
+
+Medium Duck Soul Stone
+Piedra media de alma de pato
+
+Higher Duck Soul Stone
+Piedra mayor de alma de pato
+
+Pure Duck Soul Stone
+Piedra pura de alma de pato
+
+Brilliant Duck Soul Stone
+Piedra brillante de alma de pato
+
+Lesser Donkey Soul Stone
+Piedra menor de alma de burro
+
+Medium Donkey Soul Stone
+Piedra media de alma de burro
+
+Higher Donkey Soul Stone
+Piedra mayor de alma de burro
+
+Pure Donkey Soul Stone
+Piedra pura de alma de burro
+
+Brilliant Donkey Soul Stone
+Piedra brillante de alma de burro
+
+Lesser Goat Soul Stone
+Piedra menor de alma de cabra
+
+Medium Goat Soul Stone
+Piedra media de alma de cabra
+
+Higher Goat Soul Stone
+Piedra mayor de alma de cabra
+
+Pure Goat Soul Stone
+Piedra pura de alma de cabra
+
+Brilliant Goat Soul Stone
+Piedra brillante de alma de cabra
+
+Lesser Steed Soul Stone
+Piedra menor de alma de caballo
+
+Medium Steed Soul Stone
+Piedra media de alma de caballo
+
+Higher Steed Soul Stone
+Piedra mayor de alma de caballo
+
+Pure Steed Soul Stone
+Piedra pura de alma de caballo
+
+Brilliant Steed Soul Stone
+Piedra brillante de alma de caballo
+
+Lesser Cattle Soul Stone
+Piedra menor de alma de vaca
+
+Medium Cattle Soul Stone
+Piedra media de alma de vaca
+
+Higher Cattle Soul Stone
+Piedra mayor de alma de vaca
+
+Pure Cattle Soul Stone
+Piedra pura de alma de vaca
+
+Brilliant Cattle Soul Stone
+Piedra brillante de alma de vaca
+
+Lesser Shorthair Cat Soul Stone
+Piedra menor de alma de gato de pelo corto
+
+Medium Shorthair Cat Soul Stone
+Piedra media de alma de gato de pelo corto
+
+Higher Shorthair Cat Soul Stone
+Piedra mayor de alma de gato de pelo corto
+
+Pure Shorthair Cat Soul Stone
+Piedra pura de alma de gato de pelo corto
+
+Brilliant Shorthair Cat Soul Stone
+Piedra brillante de alma de gato de pelo corto
+
+Lesser Hound Soul Stone
+Piedra menor de alma de sabueso
+
+Medium Hound Soul Stone
+Piedra media de alma de sabueso
+
+Higher Hound Soul Stone
+Piedra mayor de alma de sabueso
+
+Pure Hound Soul Stone
+Piedra pura de alma de sabueso
+
+Brilliant Hound Soul Stone
+Piedra brillante de alma de sabueso
+
+Lesser Curly Cat Soul Stone
+Piedra menor de alma de gato de pelo rizado
+
+Medium Curly Cat Soul Stone
+Piedra media de alma de gato de pelo rizado
+
+Higher Curly Cat Soul Stone
+Piedra mayor de alma de gato de pelo rizado
+
+Pure Curly Cat Soul Stone
+Piedra pura de alma de gato de pelo rizado
+
+Brilliant Curly Cat Soul Stone
+Piedra brillante de alma de gato de pelo rizado
+
+Lesser Shepard Dog Soul Stone
+Piedra menor de alma de perro pastor
+
+Medium Shepard Dog Soul Stone
+Piedra media de alma de perro pastor
+
+Higher Shepard Dog Soul Stone
+Piedra mayor de alma de perro pastor
+
+Pure Shepard Dog Soul Stone
+Piedra pura de alma de perro pastor
+
+Brilliant Shepard Dog Soul Stone
+Piedra brillante de alma de perro pastor
+
+Lesser Parrot Soul Stone
+Piedra menor de alma de loro
+
+Medium Parrot Soul Stone
+Piedra media de alma de loro
+
+Higher Parrot Soul Stone
+Piedra mayor de alma de loro
+
+Pure Parrot Soul Stone
+Piedra pura de alma de loro
+
+Brilliant Parrot Soul Stone
+Piedra brillante de alma de loro
+
+LesserLizard Soul Stone
+Piedra menor de alma de lagarto
+
+Medium Lizard Soul Stone
+Piedra media de alma de lagarto
+
+Higher Lizard Soul Stone
+Piedra mayor de alma de lagarto
+
+Pure Lizard Soul Stone
+Piedra pura de alma de lagarto
+
+Brilliant Lizard Soul Stone
+Piedra brillante de alma de lagarto
+
+Lesser Monkey Soul Stone
+Piedra menor de alma de mono
+
+Medium Monkey Soul Stone
+Piedra media de alma de mono
+
+Higher Monkey Soul Stone
+Piedra mayor de alma de mono
+
+Pure Monkey Soul Stone
+Piedra pura de alma de mono
+
+Brilliant Monkey Soul Stone
+Piedra brillante de alma de mono
+
+Lesser Eagle Soul Stone
+Piedra menor de alma de águila
+
+Medium Eagle Soul Stone
+Piedra media de alma de águila
+
+Higher Eagle Soul Stone
+Piedra mayor de alma de águila
+
+Pure Eagle Soul Stone
+Piedra pura de alma de águila
+
+Brilliant Eagle Soul Stone
+Piedra brillante de alma de águila
+
+Lesser Hippo Soul Stone
+Piedra menor de alma de hipopótamo
+
+Medium Hippo Soul Stone
+Piedra media de alma de hipopótamo
+
+Higher Hippo Soul Stone
+Piedra mayor de alma de hipopótamo
+
+Pure Hippo Soul Stone
+Piedra pura de alma de hipopótamo
+
+Brilliant Hippo Soul Stone
+Piedra brillante de alma de hipopótamo
+
+Lesser Boar Soul Stone
+Piedra menor de alma de jabalí
+
+Medium Boar Soul Stone
+Piedra media de alma de jabalí
+
+Higher Boar Soul Stone
+Piedra mayor de alma de jabalí
+
+Pure Boar Soul Stone
+Piedra pura de alma de jabalí
+
+Brilliant boar Soul Stone
+Piedra brillante de alma de jabalí
+
+Lesser Elephant Soul Stone
+Piedra menor de alma de elefante
+
+Medium Elephant Soul Stone
+Piedra media de alma de elefante
+
+Higher Elephant Soul Stone
+Piedra mayor de alma de elefante
+
+Pure Elephant Soul Stone
+Piedra pura de alma de elefante
+
+Brilliant Elephant Soul Stone
+Piedra brillante de alma de elefante
+
+Lesser Brown Bear Soul Stone
+Piedra menor de alma de oso pardo
+
+Medium Brown Bear Soul Stone
+Piedra media de alma de oso pardo
+
+Higher Brown Bear Soul Stone
+Piedra mayor de alma de oso pardo
+
+Pure Brown Bear Soul Stone
+Piedra pura de alma de oso pardo
+
+Brilliant Brown Bear Soul Stone
+Piedra brillante de alma de oso pardo
+
+Lesser Snow Wolf Soul Stone
+Piedra menor de alma de lobo de las nieves
+
+Medium Snow Wolf Soul Stone
+Piedra media de alma de lobo de las nieves
+
+Higher Snow Wolf Soul Stone
+Piedra mayor de alma de lobo de las nieves
+
+Pure Snow Wolf Soul Stone
+Piedra pura de alma de lobo de las nieves
+
+Brilliant Snow Wolf Soul Stone
+Piedra brillante de alma de lobo de las nieves
+
+Lesser Lion Soul Stone
+Piedra menor de alma de león
+
+Medium Lion Soul Stone
+Piedra media de alma de león
+
+Higher Lion Soul Stone
+Piedra mayor de alma de león
+
+Pure Lion Soul Stone
+Piedra pura de alma de león
+
+Brilliant Lion Soul Stone
+Piedra brillante de alma de león
+
+Lesser Cheetah Soul Stone
+Piedra menor de alma de guepardo
+
+Medium Cheetah Soul Stone
+Piedra media de alma de guepardo
+
+Higher Cheetah Soul Stone
+Piedra mayor de alma de guepardo
+
+Pure Cheetah Soul Stone
+Piedra pura de alma de guepardo
+
+Brilliant Cheetah Soul Stone
+Piedra brillante de alma de guepardo
+
+Lesser Tiger Soul Stone
+Piedra menor de alma de tigre
+
+Medium Tiger Soul Stone
+Piedra media de alma de tigre
+
+Higher Tiger Soul Stone
+Piedra mayor de alma de tigre
+
+Pure Tiger Soul Stone
+Piedra pura de alma de tigre
+
+Brilliant Tiger Soul Stone
+Piedra brillante de alma de tigre
+
+Wild Frog Soul Stone
+Piedra de alma de rana salvaje
+
+Wild Beetle Soul Stone
+Piedra de alma de escarabajo salvaje
+
+Wild Golden Rooster Soul Stone
+Piedra de alma de gallo dorado salvaje
+
+Wild Duck Soul Stone
+Piedra de alma de pato salvaje
+
+Wild Donkey Soul Stone
+Piedra de alma de burro salvaje
+
+Wild Goat Soul Stone
+Piedra de alma de cabra salvaje
+
+Wild Steed Soul Stone
+Piedra de alma de caballo salvaje
+
+Wild Cattle Soul Stone
+Piedra de alma de vaca salvaje
+
+Wild Shorthair Cat Soul Stone
+Piedra de alma de gato de pelo corto salvaje
+
+Wild Hound Soul Stone
+Piedra de alma de sabueso salvaje
+
+Wild Curly Cat Soul Stone
+Piedra de alma de gato de pelo rizado salvaje
+
+Wild Shepard Dog Soul Stone
+Piedra de alma de perro pastor salvaje
+
+Wild Parrot Soul Stone
+Piedra de alma de loro salvaje
+
+Wild Lizard Soul Stone
+Piedra de alma de lagarto salvaje
+
+Wild Monkey Soul Stone
+Piedra de alma de mono salvaje
+
+Wild Eagle Soul Stone
+Piedra de alma de águila salvaje
+
+Wild Hippo Soul Stone
+Piedra de alma de hipopótamo salvaje
+
+Wild Boar Soul Stone
+Piedra de alma de jabalí salvaje
+
+Wild Elephant Soul Stone
+Piedra de alma de elefante salvaje
+
+Wild Brown Bear Soul Stone
+Piedra de alma de oso pardo salvaje
+
+Wild Snow Wolf Soul Stone
+Piedra de alma de lobo de las nieves salvaje
+
+Wild Lion Soul Stone
+Piedra de alma de león salvaje
+
+Wild Cheetah Soul Stone
+Piedra de alma de guepardo salvaje
+
+Wild Tiger Soul Stone
+Piedra de alma de tigre salvaje
+
+Ice Tiger Soul Stone
+Piedra de alma de tigre de hielo
+
+Pixie Super Soul Stone
+Superpiedra de alma de hada
+
+Sprite Super Soul Stone
+Superpiedra de alma de duendecillo
+
+Goblin Super Soul Stone
+Superpiedra de alma de goblin
+
+Slime Super Soul Stone
+Superpiedra de alma de slime
+
+Night Cat Soul Stone
+Piedra de alma de gato nocturno
+
+Cherub Super Soul Stone
+Superpiedra de alma de querubín
+
+Primary Warpath
+deseo de guerra primario
+
+Medium Warpath
+deseo de guerra intermedio
+
+Advanced Warpath
+deseo de guerra avanzado
+
+Super Warpath
+deseo de guerra extremo
+
+Primary Determination
+Determinación primaria
+
+Medium Determination
+Determinación intermedia
+
+Advanced Determination
+Determinación avanzada
+
+Super Determination
+Determinación extrema
+
+Primary Focus
+Enfoque primario
+
+Medium Focus
+Enfoque intermedio
+
+Advanced Focus
+Enfoque avanzado
+
+Super Focus
+Enfoque extremo
+
+Primary Spirit Lock
+Bloqueo de espíritu primario
+
+Medium Spirit Lock
+Bloqueo de espíritu intermedio
+
+Advanced Spirit Lock
+Bloqueo de espíritu avanzado
+
+Super Spirit Lock
+Bloqueo de espíritu extremo
+
+Primary Destruction
+Destrucción primaria
+
+Medium Destruction
+Destrucción intermedia
+
+Advanced Destruction
+Destrucción avanzada
+
+Super Destruction
+Destrucción extrema
+
+Primary Soul Turmoil
+Turbación del alma primaria
+
+Medium Soul Turmoil
+Turbación del alma intermedia
+
+Advanced Soul Turmoil
+Turbación del alma avanzada
+
+Super Soul Turmoil
+Turbación del alma extrema
+
+Primary Ferocious
+Ferocidad primaria
+
+Medium Ferocious
+Ferocidad intermedia
+
+Advanced Ferocious
+Ferocidad avanzada
+
+Super Ferocious
+Ferocidad extrema
+
+Primary Demonize
+Demonización primaria
+
+Medium Demonize
+Demonización intermedia
+
+Advanced Demonize
+Demonización avanzada
+
+Super Demonize
+Demonización extrema
+
+Primary Fury
+Furia primaria
+
+Medium Fury
+Furia intermedia
+
+Advanced Fury
+Furia avanzada
+
+Super Fury
+Furia extrema
+
+Primary Magic Maniac
+Manía mágica primaria
+
+Medium Magic Maniac
+Manía mágica intermedia
+
+Advanced Magic Maniac
+Manía mágica avanzada
+
+Super Magic Maniac
+Manía mágica extrema
+
+Primary Fighter Form
+forma de luchador primaria
+
+Medium Fighter Form
+forma de luchador intermedia
+
+Advanced Fighter Form
+forma de luchador avanzada
+
+Super Fighter Form
+forma de luchador extrema
+
+Primary Energy Form
+forma de energía primaria
+
+Medium Energy Form
+forma de energía intermedia
+
+Advanced Energy Form
+forma de energía avanzada
+
+Super Energy Form
+forma de energía extrema
+
+Primary Unbreakable Form
+forma de irrompibilidad primaria
+
+Medium Unbreakable Form
+forma de irrompibilidad intermedia
+
+Advanced Unbreakable Form
+forma de irrompibilidad avanzada
+
+Super Unbreakable Form
+forma de irrompibilidad extrema
+
+Primary Spiritual Form
+Forma espiritual primaria
+
+Medium Spiritual Form
+Forma espiritual intermedia
+
+Advanced Spiritual Form
+Forma espiritual avanzada
+
+Super Spiritual Form
+Forma espiritual extrema
+
+Primary Steady Form
+forma de firmeza primaria
+
+Medium Steady Form
+forma de firmeza intermedia
+
+Advanced Steady Form
+forma de firmeza avanzada
+
+Super Steady Form
+forma de firmeza extrema
+
+Primary Concentration Form
+forma de concentración primaria
+
+Medium Concentration Form
+forma de concentración intermedia
+
+Advanced Concentration Form
+forma de concentración avanzada
+
+Super Concentration Form
+forma de concentración extrema
+
+Primary Hunt Form
+forma de caza primaria
+
+Medium Hunt Form
+forma de caza intermedia
+
+Advanced Hunt Form
+forma de caza avanzada
+
+Super Hunt Form
+forma de caza extrema
+
+Primary Soul Chaser Form
+Forma de perseguidor de almas primaria
+
+Medium Soul Chaser Form
+Forma de perseguidor de almas intermedia
+
+Advanced Soul Chaser Form
+Forma de perseguidor de almas avanzada
+
+Super Soul Chaser Form
+Forma de perseguidor de almas extrema
+
+Primary Berserk Form
+Forma de berserk primaria
+
+Medium Berserk Form
+Forma de berserk intermedia
+
+Advanced Berserk Form
+Forma de berserk avanzada
+
+Super Berserk Form
+Forma de berserk extrema
+
+Primary Demon Form
+Forma de demonio primaria
+
+Medium Demon Form
+Forma de demonio intermedia
+
+Advanced Demon Form
+Forma de demonio avanzada
+
+Super Demon Form
+Forma de demonio extrema
+
+Small Plier
+Alicate pequeño
+
+Large Plier
+Alicate grande
+
+Alloy Plier
+Alicate de aleación
+
+Small Toolbox
+Caja de herramientas pequeña
+
+Large Toolbox
+Caja de herramientas grande
+
+Alloy Toolbox
+Caja de herramientas de aleación
+
+Repair Scroll
+Pergamino de reparación
+
+Advanced Repair Scroll
+Pergamino de reparación avanzada
+
+Super Repair Scroll
+Súper Pergamino de reparación
+
+Iron Crystal Water
+Agua cristalina de hierro
+
+Iron Crystal Water (Condensed)
+Agua cristalina de hierro (condensada)
+
+Iron Crystal Water (Essence)
+Agua cristalina de hierro (esencia)
+
+World Broadcast Card
+Tarjeta de transmisión mundial
+
+Map Broadcast Card
+Tarjeta de transmisión de mapa
+
+Nearby Broadcast Card
+Tarjeta de transmisión cercana
+
+Gang Broadcast Card
+Tarjeta de transmisión de pandilla
+
+New Year Greeting Card
+Tarjeta de felicitación de año nuevo
+
+Christmas Greeting Card
+Tarjeta de felicitación navideña
+
+Spring Festival Greeting Card
+Tarjeta de felicitación del festival de Primavera
+
+Greeting Card
+Tarjeta de felicitación
+
+Wedding Vow Card
+Tarjeta de Votos de matrimonio
+
+Wedding Blessing Card
+Tarjeta de bendición a los casados
+
+Hearthstone
+Piedra de Hogar
+
+Memory Butterfly
+Mariposa de memoria
+
+Karon Village Teleportation stone
+Piedra de teletransportación de la Aldea Karon
+
+Sunset City Teleportation stone
+Piedra de teletransportación de Ciudad del Atardecer
+
+Giant rock City Teleportation stone
+Piedra de teletransportación de Ciudad Rocagigante
+
+White Sands City Teleportation stone
+Piedra de teletransportación de Ciudad Arena Blanca
+
+Tulip City Teleportation stone
+Piedra de teletransportación de Ciudad Tulipán
+
+Moon City Teleportation stone
+Piedra de teletransportación de Ciudad Lunar
+
+holy blood city Teleportation stone
+Piedra de teletransportación de Ciudad Sangre Santa
+
+gouging knife City Teleportation stone
+Piedra de teletransportación de Ciudad Cuchillo Desenterrado
+
+Violet City Teleportation stone
+Piedra de teletransportación de Ciudad Violeta
+
+Night City Teleportation stone
+Piedra de teletransportación de Ciudad Noche Oscura
+
+Soul Burial Village Teleportation stone
+Piedra de teletransportación de Aldea Descanso de las Almas
+
+Plague Abyss Teleportation stone
+Piedra de teletransportación del Abismo de la plaga
+
+Orchid woods Village Teleportation stone
+Piedra de teletransportación de Aldea de los Bosques Orquídea
+
+City of the Ancient tower Teleportation stone
+Piedra de teletransportación de Ciudad de la Torre ancestral
+
+mist gods Ruins Teleportation stone
+Piedra de teletransportación de Ruinas de los dioses de la niebla
+
+West Sealing Tower Teleportation stone
+Piedra de teletransportación de Torre de Sellado Oeste
+
+Hermit Camp Teleportation stone
+Piedra de teletransportación de campamento ermitaño
+
+East Sealing Tower Teleportation stone
+Piedra de teletransportación de Torre de Sellado Este
+
+portal of the demon world Teleportation stone
+Piedra de teletransportación de portal del mundo de los demonios
+
+Central Kingdom Teleportation stone
+Piedra de teletransportación del Reino Central
+
+Loki Union Teleportation stone
+Piedra de teletransportación de la Federación Loki
+
+Garth Empire Teleportation stone
+Piedra de teletransportación del Imperio Garth
+
+Spirit Teleportation stone
+Piedra de teletransportación espiritual
+
+Ruins Teleportation stone
+Piedra de teletransportación de las Ruinas
+
+seal Teleportation stone
+Piedra de teletransportación sellada
+
+Platinum Teleportation stone
+Piedra de teletransportación de platino
+
+Black Gold Teleportation stone
+Piedra de teletransportación de oro negro
+
+Cherry Wedding Candy
+Caramelo de boda de cereza
+
+Strawberry Wedding Candy
+Caramelo de boda de fresa
+
+Pearl Wedding Candy
+Caramelo de boda perlado
+
+Milk Wedding Candy
+Caramelo de boda de leche
+
+White Chocolate Candy
+Caramelo De Chocolate Blanco
+
+Chocolate Candy
+Caramelo de chocolate
+
+Gouging Knife Strike Force
+Fuerza de ataque de Cuchillo Desenterrado
+
+Innocent Moon
+Luna inocente
+
+Bloody Holy Blood
+Sangre santa sangrienta
+
+Free White Sand
+Arena blanca libre
+
+Princess William
+Princesa William
+
+White Tulip
+Tulipán blanco
+
+Pet Experience Pill (small)
+Píldora de experiencia para mascotas (pequeña)
+
+Pet Experience Pill (medium)
+Píldora de experiencia para mascotas (mediana)
+
+Pet Experience Pill (large)
+Píldora de experiencia para mascotas (grande)
+
+Pet Experience Pill (potent)
+Píldora de experiencia para mascotas (potente)
+
+Skill Proficiency Pill (small)
+Píldora de competencia de habilidad (pequeña)
+
+Skill Proficiency Pill (medium)
+Píldora de competencia de habilidad (mediana)
+
+Skill Proficiency Pill (large)
+Píldora de competencia de habilidad (grande)
+
+Behemoth Beast Crystal
+Cristal de Bestia Behemoth
+
+Behemoth Lord Beast Crystal
+Cristal de Bestia Behemoth Lord
+
+Thunderbird Crystal
+Cristal de Thunderbird
+
+Thunderbird Lord Crystal
+Cristal de Thunderbird Lord
+
+Wind Spirit Crystal
+Cristal de Espíritu guardián del viento
+
+Super Wind Spirit Crystal
+Cristal de Súper Espíritu guardián del viento
+
+Phantom Wyvern Crystal
+Cristal de Wyvern fantasmal
+
+Bluish White Horse Crystal
+Cristal de Caballo blanco azulado
+
+Bluish White Horse—Cloud Crystal
+Cristal de Caballo blanco azulado: nube
+
+Nightmare Beast Crystal
+Cristal de Bestia de Pesadilla
+
+Nightmare of Ice Crystal
+Cristal de Pesadilla de hielo
+
+Nightmare of Fire Crystal
+Cristal de Pesadilla de fuego
+
+Nightmare of Blood Crystal
+Cristal de Pesadilla de la sangre
+
+Wind Chaser Crystal
+Cristal de cazador del viento
+
+Wind Chaser-Precipice Crystal
+Cristal de Cazador del viento-Precipicio
+
+Wind Chaser-Shadow Crystal
+Cristal de Cazador del viento-Sombra
+
+Wind Chaser-Mist Crystal
+Cristal de Cazador del viento-bruma
+
+Small Wind Chaser Crystal
+Cristal de Pequeño Cazador del viento
+
+Fire-Capped Tit Crystal
+Cristal de Gorrión de Cabeza Llameante
+
+Blue fire plume Crystal
+Cristal de Pájaro con Plumas de fuego azul
+
+Black fire plume Crystal
+Cristal de Pájaro con Plumas de fuego negro 
+
+White fire plume Crystal
+Cristal de Pájaro con Plumas de fuego blanco
+
+Unicorn Crystal
+Cristal de Unicornio
+
+Unicorn—Lightning Crystal
+Cristal de Unicornio-Relámpago
+
+Unicorn—Light Chaser Crystal
+Cristal de Unicornio-Cazador de Luz
+
+Unicorn Lord Crystal
+Cristal de Unicornio Lord
+
+Rock Spirit Beast Crystal
+Cristal de espíritu guardián de la roca
+
+Ice Scale Leopard Crystal
+Cristal de Leopardo de escamas de hielo
+
+Ghost baby Crystal
+Cristal de Guardián bebé fantasma
+
+Shadow Wolf Crystal
+Cristal de Lobo de las sombras
+
+Angel Baby Crystal
+Cristal de ángel bebé guardián
+
+Iron Beetle Crystal
+Cristal de escarabajo de hierro
+
+Firefly Crystal
+Cristal de luciérnaga
+
+Werewolf Crystal
+Cristal de hombre lobo
+
+Sea Spirit Crystal
+Cristal de Espíritu guardián del mar
+
+Minotaur Crystal
+Cristal de Minotauro
+
+Blood spirit Crystal
+Cristal de Espíritu guardián de LA sangre
+
+Mammoth Crystal
+Cristal de mamut
+
+Flame Spirit Crystal
+Cristal de Espíritu guardián de las llamas
+
+Glacier Giant Bear Crystal
+Cristal de Oso gigante glaciar
+
+Polar Ice Bear Crystal
+Cristal de Oso polar de hielo
+
+Frost Spirit Crystal
+Cristal de espíritu guardián de la escarcha
+
+Invisibility Skill Crystal
+Cristal de la habilidad Invisibilidad
+
+Level {d} upgrade gift bag
+Bolsa de regalo de nivel $1
+
+Hairy crabs
+Cangrejo peludo
+
+Golden Moon Token
+Ficha de Luna Dorada
+
+Silver Moon Token
+Ficha de Luna Plateada
+
+blue moon token
+Ficha de Luna Azul
+
+White Moon Token
+Ficha de Luna Blanca
+
+Pine Moon Token
+Ficha de Luna de Pino
+
+crescent token
+Ficha de Medialuna
+
+gold star token
+Ficha de Estrella Dorada
+
+Gold Star token
+Ficha de Estrella Dorada
+
+Silver Star Token
+Ficha de Estrella Plateada
+
+blue star token
+Ficha de estrella azul
+
+white star token
+Ficha de Estrella Blanca
+
+lucky star token
+Ficha de Estrella de la Suerte
+
+meteor token
+Ficha de Meteoro

@@ -1,0 +1,128 @@
+Behemoth Beast; speed 6.2; strengthen HP 10100 MP 13700 physical Defense 53 magic Defense 51; plus: Disable Skill; level 40;Transform into a Behemoth with a large stature and can travel very fast.
+Bestia Behemoth; velocidad 6.2; aumenta 10100 puntos de salud, 13700 puntos de mana, 53 defensa física y 51 Defensa mágica; Efecto adicional: Habilidades desactivadas; nivel 40; Te transformas en un Behemoth con una gran estatura que te permite viajar muy rápido.
+
+Behemoth Lord Beast; speed 6.2; strengthen HP 10100 MP 13700 physical Defense 53 magic Defense 51; plus: Disable Skill; level 40;The transformation does not cost any fusion power; A rare breed of behemoth with a giant golden body.
+Bestia Behemoth Lord; velocidad 6.2; aumenta 10100 puntos de salud, 13700 puntos de mana, 53 defensa física y 51 Defensa mágica; Efecto adicional: Habilidades desactivadas; nivel 40; La transformación no consume poder de fusión; Una raza rara de behemoth con un cuerpo dorado gigante.
+
+Thunderbird; speed 7.0; strengthen HP 14500 MP 19600 physical Defense 75 magic Defense 73; plus: Disable Skill; level 70;Transform into a Thunderbird with the speed of lightning.
+Thunderbird; Velocidad 7.0; Aumenta 14500 puntos de salud, 19600 puntos de mana, 75 defensa física y 73 defensa mágica; Efecto adicional: habilidades desactivadas; nivel 70; Te transformas en un Thunderbird y te mueves a la velocidad del rayo.
+
+Thunderbird Lord; speed 7.0; strengthen HP 14500 MP 19600 physical Defense 75 magic Defense 73; plus: Disable Skill; level 70;The transformation does not cost any fusion power; A rare breed of Thunderbird; a flashing electric spirit.
+Thunderbird Lord; velocidad 7.0; Aumenta 14500 puntos de salud, 19600 puntos de mana, 75 defensa física y 73 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70 ;La transformación no consume poder de fusión; Una raza rara de Thunderbird; un espíritu eléctrico destellante.
+
+Wind Spirit Guardian; speed 7.8; strengthen HP 20300 MP 27400 physical Defense 105 magic Defense 102; plus: Disable Skill; level 90;There are soft little whirlwinds blowing around the wind spirit. Its wind elemental blessing will grant you wind-like speed.
+Espíritu Guardián del Viento; velocidad 7.8; Aumenta 20300 puntos de salud, 27400 puntos de mana, 105 defensa física y 102 defensa mágica; efecto adicional: habilidades desactivadas; nivel 90; Hay pequeños torbellinos suaves que soplan alrededor del espíritu del viento. Su bendición elemental de viento te otorgará una velocidad tan rápida como el viento.
+
+Super Wind Spirit Guardian; speed 7.8; strengthen HP 20300 MP 27400 physical Defense 105 magic Defense 102; plus: Disable Skill; level 90;The transformation does not cost any fusion power; There are soft little whirlwinds blowing around the super wind spirit. Its wind elemental blessing will grant you wind-like speed.
+Súper Espíritu Guardián del Viento; velocidad 7.8; aumenta 20300 puntos de salud, 27400 puntos de mana, 105 defensa física y 102 defensa mágica; efecto adicional: habilidades desactivadas; nivel 90;La transformación no consume poder de fusión; Hay pequeños torbellinos suaves que soplan alrededor del súper espíritu del viento. Su bendición elemental de viento te otorgará una velocidad tan rápida como el viento.
+
+Phantom Wyvern; speed 7.6; strengthen HP 18600 MP 25100 physical Defense 105 magic Defense 102; plus: Disable Skill; level 1;The transformation does not cost any fusion power; The Lord of the Sky with extremely fast flight speed.
+Wivern Fantasmal; velocidad 7.6; aumenta 18600 puntos de salud, 25100 puntos de mana, 105 defensa física y 102 defensa mágica; efecto adicional: habilidades desactivadas; nivel 1; La transformación no consume poder de fusión; El Señor del Cielo, tiene una velocidad de vuelo extremadamente rápida.
+
+Bluish White Horse; speed 4.8; strengthen HP 3000 MP 4000 physical Defense 19 magic Defense 18; plus: Disable Skill; level 40;A horse with a mixed color of blue and white.
+Caballo Blanco Azulado; velocidad 4.8; aumenta 3000 puntos de salud, 4000 puntos de mana, 19 defensa física y 18 defensa mágica; efecto adicional: habilidades desactivadas; nivel 40; Un caballo de color mezcla de azul y blanco.
+
+Bluish White Horse—Cloud; speed 4.9; strengthen HP 3000 MP 4000 physical Defense 19 magic Defense 18; plus: Disable Skill; level 45;It has flowing green mane and a snow-white body.
+Caballo Blanco Azulado: Nube; velocidad 4.9; aumenta 3000 puntos de salud, 4000 puntos de mana, 19 defensa física y 18 defensa mágica; efecto adicional: habilidades desactivadas; nivel 45; Tiene una suave crin verde y un cuerpo blanco como la nieve.
+
+Nightmare Beast; speed 5.2; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43; plus: Disable Skill; level 70;An undead creature from hell.
+Bestia de Pesadilla; velocidad 5.2; aumenta 7130 puntos de salud, 9650 puntos de mana, 44 defensa física y 43 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; Una criatura no muerta del infierno.
+
+Nightmare of Ice; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43; plus: Disable Skill; level 70;An undead creature from hell. Its dark eye sockets are glowing with two rays of blue light.
+Pesadilla de Hielo; velocidad 5.3; aumenta 7130 puntos de salud, 9650 puntos de mana, 44 defensa física y 43 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; Una criatura no muerta del infierno. Las oscuras cuencas de sus ojos brillan con dos rayos de luz azul.
+
+Nightmare of Fire; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43; plus: Disable Skill; level 70;An undead creature from hell. Its dark eye sockets are glowing with two rays of red light.
+Pesadilla de Fuego; velocidad 5.3; aumenta 7130 puntos de salud, 9650 puntos de mana, 44 defensa física y 43 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; Una criatura no muerta del infierno. Las oscuras cuencas de sus ojos brillan con dos rayos de luz roja.
+
+Nightmare of Blood; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43; plus: Disable Skill; level 70;An undead creature from hell. There is a blood-red pattern on its white skeleton of a body.
+Pesadilla de la Sangre; velocidad 5.3; aumenta 7130 puntos de salud, 9650 puntos de mana, 44 defensa física y 43 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; Una criatura no muerta del infierno. Hay un patrón rojo sangre en el esqueleto blanco de su cuerpo.
+
+Wind Chaser; speed 5.6; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73; plus: Disable Skill; level 70;A tall horse with black and bright hair.
+Cazador del Viento; velocidad 5.6; aumenta 12000 puntos de salud, 16300 puntos de mana, 75 defensa física y 73 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; Un caballo alto de pelaje negro y brillante.
+
+Wind Chaser—Precipice; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73; plus: Disable Skill; level 70;It has curly golden hair all over its body without any mottled color, and can run without trampling on the ground.
+Cazador del Viento—Precipicio; velocidad 5.7; aumenta 12000 puntos de salud, 16300 puntos de mana, 75 defensa física y 73 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; Todo su cuerpo está cubierto por pelaje rizado de color dorado sin motas de ningún otro color, puede correr sin pisar el suelo.
+
+Wind Chaser—Shadow; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73; plus: Disable Skill; level 70;It has black and bright hair and a white crescent on its forehead. Its speed allows it to race with the sun.
+Cazador del Viento—Sombra; velocidad 5.7; aumenta 12000 puntos de salud, 16300 puntos de mana, 75 defensa física y 73 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; Su cuerpo está cubierto por un brillante pelaje de color negro, en su frente destaca una media luna blanca. Su velocidad le permite competir con el sol.
+
+Wind Chaser—Mist; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73; plus: Disable Skill; level 70;The transformation does not cost any fusion power; It has a snow-white body, and can run as if riding on clouds.
+Cazador del Viento—Bruma; velocidad 5.7; aumenta 12000 puntos de salud, 16300 puntos de mana, 75 defensa física y 73 defensa mágica; efecto adicional: habilidades desactivadas; nivel 70; La transformación no consume poder de fusión; Tiene un cuerpo blanco como la nieve y puede correr como si cabalgara sobre las nubes.
+
+Small Wind Chaser; speed 5.0; strengthen HP 6000 MP 8000 physical Defense 37 magic Defense 36; plus: Disable Skill; level 55;It has black and bright hair and a nimble body.
+Pequeño Cazador del Viento; velocidad 5.0; aumenta 6000 puntos de salud, 8000 puntos de mana, 37 defensa física y 36 defensa mágica; efecto adicional: habilidades desactivadas; nivel 55; Su ágil cuerpo está cubierto por un pelaje negro brillante.
+
+Fire-Capped Tit; speed 6.0; strengthen HP 16800 MP 22800 physical Defense 105 magic Defense 102; plus: Disable Skill; level 90;Its whole body is fiery red, has a red plume on the top of its head, and can produce flame around it.
+Gorrión de Cabeza Llameante; velocidad 6.0; aumenta 16800 puntos de salud, 22800 puntos de mana, 105 defensa física y 102 defensa mágica; efecto adicional: habilidades desactivadas; nivel 90; Todo su cuerpo es de color rojo fuego, tiene una pluma roja en la parte superior de la cabeza y puede producir llamas a su alrededor.
+
+Blue fire plume; speed 6.1; strengthen HP 16900 MP 22900 physical Defense 107 magic Defense 104; plus: Disable Skill; level 90;Its whole body is fiery blue, has a red plume on the top of its head, and can produce flame around it.
+Pájaro con Plumas de fuego azul; velocidad 6.1; aumenta 16900 puntos de salud, 22900 puntos de mana, 107 defensa física y 104 defensa mágica; efecto adicional: habilidades desactivadas; nivel 90; Todo su cuerpo es de color azul fuego, tiene una pluma roja en la parte superior de la cabeza y puede producir llamas a su alrededor.
+
+Black fire plume; speed 6.2; strengthen HP 17000 MP 27000 physical Defense 109 magic Defense 104; plus: Disable Skill; level 90;Its whole body is fiery black, has a red plume on the top of its head, and can produce flame around it.
+Pájaro con Plumas de Fuego Negro; velocidad 6.2; aumenta 17000 puntos de salud, 27000 puntos de mana, 109 defensa física y 104 defensa mágica; efecto adicional: habilidades desactivadas; nivel 90; Todo su cuerpo es de color negro fuego, tiene una pluma roja en la parte superior de la cabeza y puede producir llamas a su alrededor.
+
+White fire plume; speed 6.2; strengthen HP 17000 MP 27000 physical Defense 109 magic Defense 106; plus: Disable Skill; level 90;The transformation does not cost any fusion power; Its whole body is fiery white, has a red plume on the top of its head, and can produce flame around it.
+Pájaro con Plumas de Fuego Blanco; velocidad 6.2; aumenta 17000 puntos de salud, 27000 puntos de mana, 109 defensa física y 106 defensa mágica; efecto adicional: habilidades desactivadas; nivel 90; La transformación no consume poder de fusión; Todo su cuerpo es de color blanco fuego, tiene una pluma roja en la parte superior de la cabeza y puede producir llamas a su alrededor.
+
+Unicorn; speed 6.6; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123; plus: Disable Skill; level 100;A sacred creature with a snow-white body.
+Unicornio; velocidad 6.6; aumenta 20200 puntos de salud, 27400 puntos de mana, 126 defensa física y 123 defensa mágica; efecto adicional: habilidades desactivadas; nivel 100; Una criatura sagrada con un cuerpo blanco como la nieve.
+
+Unicorn—Lightning; speed 6.7; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123; plus: Disable Skill; level 100;A sacred creature with a snow-white body that runs like a white lightning.
+Unicornio—Relámpago; velocidad 6.7; aumenta 20200 puntos de salud, 27400 puntos de mana, 126 defensa física y 123 defensa mágica; efecto adicional: habilidades desactivadas; nivel 100; Una criatura sagrada con un cuerpo blanco como la nieve que corre como el rayo.
+
+Unicorn—Light Chaser; speed 6.8; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123; plus: Disable Skill; level 100;A sacred creature with a snow-white body; a light chaser from heaven.
+Unicornio—Cazador de Luz; velocidad 6.8; aumenta 20200 puntos de salud, 27400 puntos de mana, 126 defensa física y 123 defensa mágica; efecto adicional: habilidades desactivadas; nivel 100; Una criatura sagrada con un cuerpo blanco como la nieve; un cazador de luz del cielo.
+
+Unicorn Lord; speed 6.8; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123; plus: Disable Skill; level 100;The transformation does not cost any fusion power; A sacred creature with a snow-white body; has a taller and stronger body than its kind.
+Unicornio Lord; velocidad 6.8; aumenta 20200 puntos de salud, 27400 puntos de mana, 126 defensa física y 123 defensa mágica; adicional: habilidades desactivadas; nivel 100; La transformación no consume poder de fusión; Una criatura sagrada con un cuerpo blanco como la nieve; tiene un cuerpo más alto y más fuerte que el estándar de su especie.
+
+Rock Spirit Beast Guardian; speed 3.6; strengthen HP 4300 MP 5800 physical attack 33 magic attack 32 physical Defense 22 magic Defense 21; plus: ; level 40;Rock Spirits like to bump their fists to show their strength.
+Espíritu Guardián de la Roca; velocidad 3.6; aumenta 4300 puntos de salud, 5800 puntos de mana, 33 ataque físico, 32 ataque mágico, 22 defensa física y 21 defensa mágica; nivel 40; A los Espíritus de la Roca les gusta entrechocar sus puños para mostrar su fuerza.
+
+Ice Scale Leopard; speed 3.6; strengthen HP 7200 MP 9900 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37; plus: ; level 65;A mighty demon clad in ice scales.
+Leopardo de Escamas de Hielo; velocidad 3.6; aumenta 7200 puntos de salud, 9900 puntos de mana, 57 ataque físico 56 ataque mágico 38 defensa física y 37 defensa mágica; nivel 65; Un poderoso demonio vestido con escamas de hielo.
+
+Ghost baby Guardian; speed 3.6; strengthen HP 12100 MP 16400 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61; plus: ; level 80;Ghost babies think they are adorable, yet they always scare people away when they try to play with humans. If you are willing to be friends with it, it will surely help you as much as it can.
+Guardián Fantasma Bebé; velocidad 3.6; aumenta 12100 puntos de salud, 16400 puntos de mana, 95 ataque físico 92 ataque mágico 63 defensa física y 61 defensa mágica; nivel 80; Los bebés fantasmas piensan que son adorables, pero siempre asustan a las personas cuando intentan jugar con los humanos. Si estás dispuesto a ser su amigo, seguramente te ayudará tanto como pueda.
+
+Shadow Wolf; speed 3.6; strengthen HP 17100 MP 23200 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87; plus: ; level 90;A terrifying killer that lurks in the dark.
+Lobo de las Sombras; velocidad 3.6; aumenta 17100 puntos de salud, 23200 puntos de mana, 134 ataque físico 131 ataque mágico 89 defensa física y 87 defensa mágica; nivel 90; Un asesino aterrador que acecha en la oscuridad.
+
+Angel Baby Guardian; speed 3.6; strengthen HP 24300 MP 32900 physical attack 189 magic attack 185 physical Defense 126 magic Defense 123; plus: ; level 100;The cute Angel Baby will emit holy light and gather the holy light energy scattered around to help you.
+Ángel Bebé Guardián; velocidad 3.6; aumenta 24300 puntos de salud, 32900 puntos de mana, 189 ataque físico 185 ataque mágico 126 defensa física y 123 defensa mágica; nivel 100; El lindo Ángel Bebé emitirá luz sagrada y reunirá la energía esparcida para ayudarte.
+
+Iron Beetle; speed 3.6; strengthen HP 3000 MP 4000 physical attack 29 magic attack 27 physical Defense 19 magic Defense 18; plus: ; level 45;When fused with Iron Beetle, you will turn into insectoid form.
+Escarabajo de Hierro; velocidad 3.6; aumenta 3000 puntos de salud, 4000 puntos de mana, 29 ataque físico, 27 ataque mágico, 19 defensa física y 18 defensa mágica; nivel 45; Cuando te fusiones con el escarabajo de hierro adquirirás una forma insectoide.
+
+Firefly; speed 3.6; strengthen HP 3500 MP 4800 physical attack 33 magic attack 32 physical Defense 22 magic Defense 21; plus: ; level 50;When fused with Firefly, you will turn into insectoid form.
+Luciérnaga; velocidad 3.6; aumenta 3500 puntos de salud, 4800 puntos de mana, 33 ataque físico, 32 ataque mágico, 22 defensa física y 21 defensa mágica; nivel 50; Cuando te fusiones con la luciérnaga adquirirás una forma insectoide.
+
+Werewolf; speed 3.6; strengthen HP 6000 MP 8100 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37; plus: ; level 65;Transform into a werewolf and obtain an incredible physique.
+Hombre-Lobo; velocidad 3.6; aumenta 6000 puntos de salud, 8100 puntos de mana, 57 ataque físico, 56 ataque mágico, 38 defensa física y 37 defensa mágica; nivel 65; Transfórmate en un hombre-lobo para obtener una fuerza increíble.
+
+Sea Spirit Guardian; speed 3.6; strengthen HP 6000 MP 8100 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37; plus: ; level 65;Sea Spirit will sometimes wield its water-condensed whip to show the power of the sea.
+Espíritu Guardián del Mar; velocidad 3.6; aumenta 6000 puntos de salud, 8100 puntos de mana, 57 ataque físico, 56 ataque mágico, 38 defensa física y 37 defensa mágica; nivel 65; El espíritu del mar empuñará de vez en cuando su látigo de agua condensada para mostrar el poder del mar.
+
+Minotaur; speed 3.6; strengthen HP 10000 MP 13600 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61; plus: ; level 85;Transform into a Minotaur and obtain unparalleled strength.
+Minotauro; velocidad 3.6; aumenta 10000 puntos de salud, 13600 puntos de mana, 95 ataque físico, 92 ataque mágico, 63 defensa física y 61 defensa mágica; nivel 85; Transfórmate en un Minotauro y obtén una fuerza sin igual.
+
+Blood spirit guardian; speed 3.6; strengthen HP 10000 MP 13600 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61; plus: ; level 85;Blood Spirits love to play with their daggers. As guardian spirits, they cannot attack enemies, but they can give you all their power.
+Espíritu Guardián de la Sangre; velocidad 3.6; aumenta 10000 puntos de salud, 13600 puntos de mana, 95 ataque físico, 92 ataque mágico, 63 defensa física y 61 defensa mágica; nivel 85; A los espíritus de sangre les encanta jugar con sus dagas. Como espíritus guardianes, no pueden atacar a los enemigos, pero pueden darte todo su poder.
+
+Mammoth; speed 3.6; strengthen HP 14200 MP 19300 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87; plus: ; level 95;Ancient creatures that are brave and skilled in battle.
+Mamut; velocidad 3.6; aumenta 14200 puntos de salud, 19300 puntos de mana, 134 ataque físico, 131 ataque mágico, 89 defensa física y 87 defensa mágica; nivel 95; Criaturas antiguas que son valientes y hábiles en la batalla.
+
+Flame Spirit Guardian; speed 3.6; strengthen HP 14200 MP 19300 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87; plus: ; level 95;The lively and active flame spirits love to play with fireballs.
+Espíritu Guardián de las Llamas; velocidad 3.6; aumenta 14200 puntos de salud, 19300 puntos de mana, 134 ataque físico, 131 ataque mágico, 89 defensa física y 87 defensa mágica; nivel 95; A los espíritus de las llamas, vivaces y traviesos, les encanta jugar con bolas de fuego.
+
+Glacier Giant Bear; speed 3.6; strengthen HP 14400 MP 19500 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87; plus: ; level 85;A giant creature from the depths of the Silver Snow Mountain.
+Oso Glaciar Gigante; velocidad 3.6; aumenta 14400 puntos de salud, 19500 puntos de mana, 134 ataque físico, 131 ataque mágico, 89 defensa física y 87 defensa mágica; nivel 85; Una criatura gigante proveniente de las profundidades de la Montaña de la Nieve Plateada.
+
+Polar Ice Bear; speed 3.6; strengthen HP 10200 MP 13800 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61; plus: ; level 70;The Great White Bear from the Extremely Cold Lands.
+Oso de Hielo Polar; velocidad 3.6; aumenta 10200 puntos de salud, 13800 puntos de mana, 95 ataque físico, 92 ataque mágico, 63 defensa física y 61 defensa mágica; nivel 70; El Gran Oso Blanco proveniente de las Tierras Extremadamente Frías.
+
+Frost Spirit Guardian; speed 3.6; strengthen HP 20000 MP 27000 physical attack 189 magic attack 185 physical Defense 126 magic Defense 123; plus: ; level 100;Frost Spirits have magnificent ice blue bodies. These beautiful creatures are not easy to approach.
+Espíritu Guardián de la Escarcha; velocidad 3.6; aumenta 20000 puntos de salud, 27000 puntos de mana, 189 ataque físico, 185 ataque mágico, 126 defensa física y 123 defensa mágica; nivel 100; Los espíritus de la escarcha tienen magníficos cuerpos azul hielo. No es fácil acercarse a estas hermosas criaturas.
+
+Radiation-proof armor; speed 3.6; plus: ; level 1;Grants you immunity to radiation damage
+Armadura a prueba de radiación; velocidad 3.6; nivel 1; adicional: Te brinda inmunidad al daño por radiación

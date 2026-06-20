@@ -1,0 +1,812 @@
+{s};{c} and got {s}
+{sub1{$1}sub1}; $2 obtuvo {sub2{$3}sub2}
+
+{s}; gang reward {s} in {s}
+{sub1{$1}sub1}; La pandilla obtuvo {sub2{$2}sub2} en {sub2{$3}sub2}
+
+{s};Competition Host;The Solo Arena Fight will start in two minutes. Please wait at the Competing Square
+{sub1{$1}sub1}; Anfitrión de la competencia; La arena individual comenzará en dos minutos. Por favor esperen en la plaza de la competencia
+
+{s};Competition Host;The Duo Arena Fight will start in two minutes. Please wait at the Competing Square
+{sub1{$1}sub1}; Anfitrión de la competencia; La arena en parejas comenzará en dos minutos. Por favor esperen en la plaza de la competencia
+
+{s};Competition Host;The Trio Tactical Battle will start in two minutes. Please wait at the Competing Square
+{sub1{$1}sub1}; Anfitrión de la competencia; La batalla táctica de 3 jugadores comenzará en dos minutos. Por favor esperen en la plaza de la competencia
+
+{s};Competition Host;The 5-player Tactical Battle will start in two minutes. Please wait at the Competing Square
+{sub1{$1}sub1}; Anfitrión de la competencia; La batalla táctica de 5 jugadores comenzará en dos minutos. Por favor esperen en la plaza de la competencia
+
+{s};Pig-Face Bat King: {c}, sooner or later your blood will be my luscious drink!
+{sub1{$1}sub1}; Rey Murciélago Caradecerdo: $2, ¡tarde o temprano me beberé tu deliciosa sangre!
+
+{s};{c} got the  {s}; {s}  
+{sub1{$1}sub1}; $2 obtuvo el equipo {sub2{$3}sub2}; {sub2{$4}sub2}
+
+{s};{c} opened {s} and got {s}
+{sub1{$1}sub1}; $2 abrió un {sub2{$3}sub2} y obtuvo {sub2{$4}sub2}
+
+{s};{d} Cockroaches
+{sub1{$1}sub1}; $2 cucarachas
+
+{s};A loud noise has echoed from the undergrounds of Takama Desert. It turns out that {c} has destroyed the terrible Death Worm.
+{sub1{$1}sub1}; Se ha escuchado el eco de un fuerte ruido desde el subsuelo del Desierto Takama. Resulta que $2 ha destruido al terrible gusano de la muerte.
+
+{s};Man-wolf Caesar: Owooo...next time, I'll rip out {c}'s heart!
+{sub1{$1}sub1}; Hombre Lobo Caesar: Ahuuuu... la próxima vez, ¡le arrancaré el corazón a $2!
+
+{s};{c} dead; Congratulations to {c} for winning this competition
+{sub1{$1}sub1}; $2 murió. Felicitaciones a $3 por ganar esta competencia.
+
+{s};{s} team dead; congratulations to {s} team for winning this competition
+{sub1{$1}sub1}; El equipo $2 fue derrotado; felicitaciones al equipo $3 por ganar esta competencia.
+
+{s};Congratulations to {s} team for winning this competition
+{sub1{$1}sub1}; Felicitaciones al equipo $2 por ganar esta competencia
+
+{s}; competition begins
+{sub1{$1}sub1}; Comienza la competencia
+
+{s};The competition is about to start
+{sub1{$1}sub1}; La competencia está por iniciar
+
+{s};Competition team {d} has been established
+{sub1{$1}sub1}; Se ha establecido el equipo de competencia $2
+
+{s};{d} monsters
+{sub1{$1}sub1}; $2 monstruos
+
+{s};{d} Monsters
+{sub1{$1}sub1}; $2 monstruos
+
+{s};{c} has quit the team
+{sub1{$1}sub1}; $2 ha abandonado el equipo
+
+{s};{c} in competition  and got {s}
+{sub1{$1}sub1}; En competencia, $2 obtuvo {sub2{$3}sub2}
+
+{s};Cat King Carter: Don't get too cocky, {c}! You humans only deserve to be canned food!
+{sub1{$1}sub1}; Rey Gato Carter: Deja de ser tan arrogante, ¡$2! ¡Todos los humanos merecen convertirse en comida enlatada!
+
+{s};{c}'s team  and got {s}
+{sub1{$1}sub1}; El equipo de $2 obtuvo {sub2{$3}sub2}
+
+{s};{c} set up a team named {c}
+{sub1{$1}sub1}; $2 creó un equipo llamado $3
+
+{s};Fallen Pinocchio: I hate humans, especially {c}!
+{sub1{$1}sub1}; Pinocho Depravado: Odio a todos los humanos, ¡especialmente a $2!
+
+{s};{c} of the {c} gang entered the gang mining area
+{sub1{$1}sub1}; $2 de la pandilla $3 entró a la mina de la pandilla
+
+{s};{c} joined the team
+{sub1{$1}sub1}; $2 se unió al equipo
+
+{s};{s}'s Hostile; {s}
+{sub1{$1}sub1}; hostilidad de {sub2{$2}sub2}: $3
+
+{s};Pharaoh Tar: {c}, come to hell and be my servant!
+{sub1{$1}sub1}; Faraón Tar; $2, ¡ven al infierno y sé mi sirviente!
+
+{s};Elven King Erth: Damn humans, wait for me, a man named {c} completely offended me!
+{sub1{$1}sub1}; Rey élfico Erth: Malditos humanos, prepárense para mi regreso. ¡Una persona llamada $2 me ofendió por completo!
+
+{s};priest Michel;{c} and {c} are now officially a couple, and are about to commence their float parade and wedding ceremony. Distinguished warriors, please come and celebrate with them!
+{sub1{$1}sub1}; Sacerdote Michelle: $2 y $3 ahora son oficialmente una pareja, ¡y están a punto de iniciar su desfile y su boda! Guerreros, ¡por favor vengan a celebrar con ellos!
+
+{s};Millennium Dryad King: Damn you, {c}, Don't let me see you in the great forest next time!
+{sub1{$1}sub1}; Rey Dríada Milenario: maldita sea, $2, ¡espero no volverte a ver en el gran bosque la próxima vez!
+
+{s};{c} kneeled on the ground, put right hand against his chest, looked up at his bride, and said affectionately:{s}
+{sub1{$1}sub1}; $2 se arrodilla en el suelo, pone su mano derecha contra su pecho, mira a su novia y le dice cariñosamente: $3
+
+{s};{c} opened a luxurious wedding blessing card with gold border and said:{n}
+{sub1{$1}sub1}; $2 abrió una lujosa tarjeta de bendición a los casados con bordes dorados y dijo: $3
+
+{s};The lucky adventurer has opened the treasure chest in {s}.
+{sub1{$1}sub1}; Un afortunado aventurero acaba de abrir el cofre en {sub2{$2}sub2}.
+
+{s};There's a Shining Small Chest in {s}. Go find it and see what's inside!
+{sub1{$1}sub1}; hay un pequeño cofre brillante en {sub2{$2}sub2}. ¡Encuéntralo y ve qué hay en su interior!
+
+{s};Emcee said: Now, the wedding begins. Newlyweds, please come forward, take your vow cards and deliver your vow of love to your partner. 
+{sub1{$1}sub1}; La maestra de ceremonias dice: Ahora, la boda comienza. Recién casados, por favor sigan adelante, tomen las tarjetas de votos y exprésenle sus votos de amor a su pareja.
+
+{s};{c} picked up a small loudspeaker and announced in the map:{s}
+{sub1{$1}sub1}; $2 tomó un micrófono y anunció en el mapa: $3
+
+{s};{c} opened a wedding blessing card and said:{s}
+{sub1{$1}sub1}; $2 abrió una tarjeta de bendición a los casados y dijo: $3
+
+{s};{c} reached out and took the bridegroom, clasped her hands with him, stood close together, looked at him affectionately and said:{s}
+{sub1{$1}sub1}; $2 extiende su mano y toma al novio, junta sus manos con las suyas, y manteniéndolas unidas lo mira con cariño y le dice: $3
+
+{s};The Piggy Rush session now begins! The festive clay pigs are about to appear. Please eliminate them as fast as you can, don't hold back!
+{sub1{$1}sub1}; ¡Comienza la sesión de cerdos descontrolados! Los cerdos festivos de arcilla están a punto de aparecer. Por favor elimínalos lo más rápido que puedas. ¡No te detengas!
+
+{s};The Piggy Rush session now begins! The festive Golden Pig are about to appear. Please eliminate them as fast as you can, don't hold back!
+{sub1{$1}sub1}; ¡Comienza la sesión de cerdos descontrolados! Los cerdos festivos dorados  están a punto de aparecer. Por favor elimínalos lo más rápido que puedas. ¡No te detengas!
+
+{s};Clay Pig's Hostile; {n}
+{sub1{$1}sub1}; hostilidad del cerdo de arcilla: $2
+
+{s};The second wave of clay pigs is  coming!
+{sub1{$1}sub1}; ¡Ahí viene la segunda oleada de cerdos de arcilla!
+
+{s};The third wave of clay pigs is coming!
+{sub1{$1}sub1}; ¡Ahí viene la tercera oleada de cerdos de arcilla!
+
+{s};Emcee said: The newlyweds are going to thank the guests, and random gift boxes will drop from the hall. 
+{sub1{$1}sub1}; La maestra de ceremonias dice: Los recién casados van a agradecer a los invitados lanzando cajas de forma aleatoria por todo el salón.
+
+{s};Emcee said: Now it's time for the new couple to express their love. Please snuggle 100 times in front of the guests as a testament that you two will live happily ever after.
+{sub1{$1}sub1}; La maestra de ceremonias dice: Ahora es tiempo de que la nueva pareja exprese su amor. Por favor tengan intimidad 100 veces delante de los invitados, para que quede como testimonio de que ustedes vivirán felices para siempre.
+
+{s};Emcee said: {d}!
+{sub1{$1}sub1}; La maestra de ceremonias dice: ¡$2!
+
+{s};Emcee said: The wedding ceremony has been fulfilled. Everyone, please collect the wedding gift package from the usherette before leaving.
+{sub1{$1}sub1}; La maestra de ceremonias dice: La boda ha terminado. Por favor todos vayan con cualquiera de las damas de honor y tomen un paquete de regalo antes de irse.
+
+{s};Ice Queen Los: {c}, you will be my next ice sculpture!
+{sub1{$1}sub1}; Reina del Hielo Los: $2, ¡serás mi próxima escultura de hielo!
+
+{s};Team disbanded
+{sub1{$1}sub1}; Equipo disuelto
+
+{s};{c} picked up a huge loudspeaker and announced to the world:{s}
+{sub1{$1}sub1}; $2 tomó un gran altoparlante y anunció al mundo: $3
+
+{s};{c} used one {s}, send {c} {d} Arnebia and {s} and {d} Gold Coin and {s} and {s}
+{sub1{$1}sub1}; $2 usó una {sub2{$3}sub2} y le envió a $4 $5 arnebia, {sub2{$6}sub2}, $7 monedas de oro, {sub2{$8}sub2} y {sub2{$9}sub2}
+
+{s};{c} has been removed from the team
+{sub1{$1}sub1}; $2 ha sido eliminado del equipo
+
+{s};{c} has become the team leader
+{sub1{$1}sub1}; $2 se ha convertido en líder del equipo
+
+{s};{s} is completed
+{sub1{$1}sub1}; Se ha completado la {sub2{$2}sub2}
+
+{s};{s} started
+{sub1{$1}sub1}; Se ha iniciado la {sub2{$2}sub2}
+
+{s};The {d}th Gang Tournament bidding has begun. Gangs wanting to participate can sign up at the tournament messenger.
+{sub1{$1}sub1}; La puja para el $2º Torneo de Pandillas ha comenzado. Las pandillas que deseen participar pueden registrarse en el mensajero del torneo.
+
+{s};The {d}th Gang Tournament bidding will end in {d} hours and {d} minutes. For gangs who want to participate, please sign up at the tournament messenger before the bidding end.
+{sub1{$1}sub1}; La puja para el $2º torneo de pandillas terminará en $3 horas y $4 minutos. Para las pandillas que quieran participar, registren su oferta en el mensajero del torneo antes de que finalice el tiempo.
+
+{s};{c} used one {s}, send all online players {d} Arnebia and {s} and {d} Gold Coin and {s} and {s}
+{sub1{$1}sub1}; $2 usó una {sub2{$3}sub2} y le envió a todos los jugadores conectados $4 arnebia, {sub2{$5}sub2}, $6 monedas de oro, {sub2{$7}sub2} y {sub2{$8}sub2}.
+
+{s};Has become an allied gang with {c}
+{sub1{$1}sub1}; se han convertido en aliados de la pandilla $2
+
+{s};Priest Michel;The newlyweds {c} and {c}'s float has left Holy Light Cathedral!
+{sub1{$1}sub1}; Sacerdote Michelle; ¡La carroza de los recién casados, $2 y $3, ha salido de la Catedral de la Luz Sagrada!
+
+{s};The sign up of the Gang Tournament is completed, the minimum entry fund this time is {d} arnebia, gangs such as {c},{c},{c},{c},{c},{c} were successfully shortlisted, please prepare  to participate in this Gang Tournament
+{sub1{$1}sub1}; Ha terminado el registro del torneo de pandillas, el fondo de entrada mínimo en esta ocasión fue de $2 arnebia; pandillas como $3, $4, $5, $6, $7 y $8 fueron seleccionadas. Por favor prepárense para participar en este torneo de pandillas.
+
+{s};Emcee said: Congratulations on becoming a couple, may the Mist Gods be witness to your love! Now, the guests can collect a blessing card from the usherette, and give the newlyweds your blessings.
+{sub1{$1}sub1}; La maestra de ceremonias dice: ¡Felicitaciones por convertirse en pareja, que los Dioses de la Niebla sean testigos de su amor! Ahora, los invitados pueden recoger una tarjeta de bendición de la dama de honor y dar sus bendiciones a los recién casados.
+
+{s};Emcee said: 100! Congratulations to the new couple! Please come forward and receive the blessing of the priest. This marks the end of the wedding ceremony. Distinguished guests, friends and family, thank you for your participation. Please go to the usherette to collect a wedding gift package before exiting the hall, thank you!
+{sub1{$1}sub1}; La maestra de ceremonias dice: 100! ¡Felicitaciones a la nueva pareja! Por favor, acérquense y reciban la bendición del sacerdote. Esto marca el final de la ceremonia de la boda. Distinguidos invitados, amigos y familiares, gracias por su participación. Diríjanse a la dama de honor para recoger un paquete de regalo de bodas antes de salir del salón, ¡gracias!
+
+{s};The {s} elder has been dismissed
+{sub1{$1}sub1}; El mayor de {sub2{$2}sub2} ha sido despedido
+
+{s};{c} becomes {s} elder
+{sub1{$1}sub1}; $2 se convierte en mayor de {sub2{$3}sub2}
+
+{s};Shape-shifting Slime: Damn {c}, how could you do this to a cute thing like me...
+{sub1{$1}sub1}; Slime metamórfico: Maldición $2, cómo pudiste hacerle esto a una cosa tan linda como yo...
+
+{s};The round {d} of the Gang Tournament will start in  {d} minutes 
+{sub1{$1}sub1}; La ronda $2 del torneo de pandillas comenzará en $3 minutos
+
+{s};Team name changed to {c}
+{sub1{$1}sub1}; Nombre del equipo cambiado a $2
+
+{s};priest Michel;{c} and {c} are now officially a couple, and are about to commence their parade around the city on a luxurious royal float! Distinguished warriors, please come and celebrate with them!
+{sub1{$1}sub1}; Sacerdote Michelle: $2 y $3 ahora son oficialmente una pareja, ¡y están a punto de iniciar su desfile en una lujosa carroza real! Guerreros, ¡por favor vengan a celebrar con ellos!
+
+{s};Priest Michel;The newlyweds {c} and {c}'s royal float has left Holy Light Cathedral! The luxurious float, full of their lifelong happiness, moves joyfully in the land of love!
+{sub1{$1}sub1}; Sacerdote Michelle; la carroza real de los recién casados, $2 y $3, ¡ha dejado la Catedral de la Luz Sagrada! La lujosa carroza, llena de vitalidad y eterna felicidad, ¡avanza con regocijo por la tierra del amor!
+
+{s};Priest Michel;{c} and {c}'s wedding has begun! The luxurious, dazzling hall has attracted the attention of the entire Mist World! The King has ordered his ministers to prepare marvelous gifts. Loki Union and Garth Empire have also sent envoys to celebrate the occasion. Let us give our blessings to the newlyweds!
+{sub1{$1}sub1}; Sacerdote Michelle; ¡La boda de $2 y $3 ha comenzado! ¡El lujoso y deslumbrante festín ha atraído la atención de todo Mist World! El Rey ha ordenado a sus ministros que preparen obsequios maravillosos. La Federación Loki y el Imperio Garth también han enviado representantes para celebrar la ocasión. ¡Demos nuestras bendiciones a los recién casados!
+
+{s};{c} gang's {c} entered the gang outer hall
+{sub1{$1}sub1}; $3 de la pandilla $2 entró al salón exterior
+
+{s};{c} bravely assassinated the gang's enemy target {c}; Get 1000 gang tribute and 5000 gang points
+{sub1{$1}sub1}; $2 asesinó valientemente al objetivo de la pandilla, $3, y obtuvo 1000 tributos de pandilla y 5000 puntos de pandilla
+
+{s};The hunt for {c} has been completed!
+{sub1{$1}sub1}; La cacería de $2 se ha completado!
+
+{s};priest Michel;{c} and {c} are now officially a couple, and are about to commence their parade around the city on an ornate noble float! Distinguished warriors, please come and celebrate with them!
+{sub1{$1}sub1}; Sacerdote Michelle: $2 y $3 ahora son oficialmente una pareja, ¡y están a punto de iniciar su desfile en una vistosa carroza noble! Guerreros, ¡por favor vengan a celebrar con ellos!
+
+{s};{c} was expelled from the gang by gang leader {c}
+{sub1{$1}sub1}; $2 fue expulsado de la pandilla por el líder $3
+
+{s};{c} joined a gang
+{sub1{$1}sub1}; $2 se unió a la pandilla
+
+{s};gang reward one  {s} in {s}
+{sub1{$1}sub1}; la pandilla obtuvo un {sub2{$2}sub2} en {sub2{$3}sub2}
+
+{s};The gang Mining Area has been blown up
+{sub1{$1}sub1}; la mina de la pandilla ha sido explotada
+
+{s};{c} was appointed gang mining area administrator
+{sub1{$1}sub1}; $2 fue designado como administrador de la mina de la pandilla
+
+{s};{c} was appointed gang herbal garden administrator
+{sub1{$1}sub1}; $2 fue designado como administrador del jardín de la pandilla
+
+{s};{c} was appointed Tax officer
+{sub1{$1}sub1}; $2 fue designado como oficial de impuestos
+
+{s};{c} was appointed breeder
+{sub1{$1}sub1}; $2 fue designado como criador
+
+{s};{c} was appointed medicine storehouse administrator
+{sub1{$1}sub1}; $2 fue designado como administrador del almacén de medicina
+
+{s};{c} was appointed material storehouse administrator
+{sub1{$1}sub1}; $2 fue designado como administrador del almacén de materiales
+
+{s};{c} was appointed armory administrator
+{sub1{$1}sub1}; $2 fue designado como administrador de la armería
+
+{s};{c} was appointed tower keeper
+{sub1{$1}sub1}; $2 fue designado como guardián de la torre
+
+{s};The gang leader has launched an equipment auction of gang points for {n};{c} . If you need it, please find the Head of inner hall to bid.
+{sub1{$1}sub1}; El líder de la pandilla lanzó una subasta de puntos de pandilla por el equipo {sub2{$2}sub2};{sub2{$3}sub2}. Si lo necesitas, busca al Jefe del salón interior para ofertar.
+
+{s};{c} was expelled from the gang by internal affairs elder {c}
+{sub1{$1}sub1}; $2 fue expulsado de la pandilla por el mayor de asuntos internos $3
+
+{s};Novice guide: Welcome to the Mist World! I am a novice guide and my task is to guide you throughout the game's world. If you don't need my help, press CTRL+ENTER to open the Action menu, and disable the guidance from there. Happy gaming!
+{sub1{$1}sub1}; Guía del novato: ¡Bienvenido a MistWorld! Soy la guía del novato y mi misión es guiarte por el mundo del juego. Si no necesitas mi ayuda, presiona Control Enter para abrir el menú de acciones y deshabilitarla desde allí. ¡Feliz juego!
+
+{s};Old Mage said: Sigh, The barrier of the human sanctuary is weakening against the beasts. I fear that Matthew and Sison will abandon us. When will there be another great mage like the ancestors, who can establish connection with the two Mist Gods...Hey, young one, aren't you supposed to be studying magic? Why are you here?
+{sub1{$1}sub1}; Mago viejo dice: *Suspiro*. La barrera del santuario humano está siendo debilitada por las bestias. Me da pavor pensar que Matthew y Sison nos abandonen. Cuándo volverá a haber un mago grandioso como nuestros ancestros, que pueda establecer una conexión con los dos dioses de la niebla... Eh, joven, ¿no se supone que estás estudiando la magia? ¿Por qué estás aquí?
+
+{s};Novice guide: The K, L, Semicolon and O keys are used to view available targets in the 180 degree radius (West, South, East and north, respectively). Now, please press L to view the target which is south to you. After hearing the sound and name of the target, press ENTER to begin interaction.
+{sub1{$1}sub1}; Guía del novato: Las teclas K, L, Acento grave o Agudo (dependiendo de tu distribución, tecla al lado de la P) y O se usan para rastrear los objetivos visibles en un radio de 180 grados (oeste, sur, este y norte respectivamente). Ahora, por favor presiona L para seleccionar al objetivo que tienes al sur. Después de escuchar el sonido y el nombre del objetivo, presiona Enter para interactuar con él.
+
+{s};Old Mage said: That's a nice thought. But I gotta see if you have what it takes first, young one. Break the stake on the north side to prove yourself. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Mago viejo dice: Esa es una interesante forma de pensar, pero primero déjame ver si tienes lo que se necesita, joven. Rompe la estaca que está al norte y pruébate a ti mismo. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Old Mage said: Not bad, but not enough. You should have another try with weapon and outfit equipped. Here, take it.
+{sub1{$1}sub1}; Mago viejo dice: No está mal, pero no es suficiente. Deberías intentarlo de nuevo equipándote con armas y ropa. Acá, toma.
+
+{s};Old Mage said: Good, put them on. Novice guide: Now, please use the left and right arrow keys to switch between backpack categories. When you switch to the "Equipment" category you can use up and down arrow keys to move arround your equipment. You can also use the G key to view a description of the current item, and you can also press the Right CTRL key to equip or unequip the current item.
+{sub1{$1}sub1}; Mago viejo dice: Bien, póntelo. Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+
+{s};Novice guide: Now, please use the left and right arrow keys to switch between backpack categories. When you switch to the "Equipment" category you can use up and down arrow keys to move arround your equipment. You can also use the G key to view a description of the current item, and you can also press the Right CTRL key to equip or unequip the current item.
+{sub1{$1}sub1}; Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+
+{s};Old Mage said: There's a bigger movable stake to the west, go break it. Novice guide: The W, S, A and D keys are used to control your character's movement. Now please hold the A key in order to move West and pay close attention to the sound of your target. When you come close enough, press the K key to choose the target and then launch an attack on it.
+{sub1{$1}sub1}; Mago viejo dice: Hay una estaca más grande y móvil al oeste, ve a romperla. Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque.
+
+{s}Novice guide: The W, S, A and D keys are used to control your character's movement. Now please hold the A key in order to move West and pay close attention to the sound of your target. When you come close enough, press the K key to choose the target and then launch an attack on it.
+{sub2{$1}sub2}Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque.
+
+{s};Old Mage said: That's more like it. Come here, I have two more equipments for you.
+{sub1{$1}sub1}; Mago viejo dice: Así está mejor. Ven aquí, tengo algo más de equipo para ti.
+
+{s};Novice Guide: Now, please hold down the D key in order to move east. You can interact with a target only if the distance is 5 yards or less. Please pay attention to the distances reported while switching the targets. You can use the P key to make your character automatically move towards your target.
+{sub1{$1}sub1}; Guía del novato: Ahora, por favor mantén presionada la tecla D para moverte al este. Puedes interactuar con un objetivo solo si la distancia es de 5 metros o menos. Préstale atención a la distancia que se te verbaliza al momento de seleccionar un objetivo. Puedes usar la tecla P para hacer que tu personaje se mueva automáticamente hacia el objetivo.
+
+{s};Old Mage said: Did you get it? Put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. Now the real test begins. There's a bunch of mutants in the northeast training room. Defeat them, and I'll give you my permission to leave. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Mago viejo dice: ¿Lo tienes? Ponte ese par de sandalias. También te di un cofre. Mira bien en su interior y recuerda abrirlo a tiempo. Ahora comienza la prueba real. Hay un montón de mutantes al noreste de la sala de entrenamiento. Derrótalos y tendrás mi permiso para irte. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s}Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub2{$1}sub2}Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Novice Guide: Now, please press L to view the target which is south to you. After hearing the sound and name of the target, press ENTER to begin interaction.
+{sub1{$1}sub1}; Guía del novato: Ahora, por favor presiona L para seleccionar el objetivo que tienes al sur. Después de escuchar el sonido y el nombre del objetivo, presiona Enter para interactuar con él.
+
+{s};Old Mage said: Put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. Now the real test begins. There's a bunch of mutants in the northeast training room. Defeat them, and I'll give you my permission to leave. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Mago viejo dice: Ponte ese par de sandalias. También te di un cofre. Mira bien en su interior y recuerda abrirlo a tiempo. Ahora comienza la prueba real. Hay un montón de mutantes al noreste de la sala de entrenamiento. Derrótalos y tendrás mi permiso para irte. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Shadow Assassin said: My child, I'm dying. but Death is our fate. As an assassin, you should have known that very well. So don't be sad, for life is evanescent like lightning. Let me give you one last lesson, while my fire still burns. Do you remember the soul of Assassins?
+{sub1{$1}sub1}; Asesina de las sombras dice: Hijo mío... estoy muriendo. Pero la muerte es nuestro destino como asesinos, lo deberías de saber muy bien. No quiero que estés triste, ya que la vida es evanescente como un relámpago. Déjame darte una última lección ahora que mi llama sigue encendida. ¿Recuerdas el propósito de los asesinos?
+
+{s};Shadow Assassin said: My child, words possess no power. Show me your training. Go break the stake to the north. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Asesina de las sombras dice: Hijo mío, las palabras no tienen poder alguno. Muéstrame tu entrenamiento rompiendo la estaca que tienes al norte. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Shadow Assassin said: Go break the stake to the north. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Asesina de las sombras dice: Ve a romper la estaca que tienes al norte. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Shadow Assassin said: Good. Here, take it, the basic weapon and outfit for you on your journey.
+{sub1{$1}sub1}; Asesina de las sombras dice: Bien. Aquí tienes el equipo y el arma indispensables para tu viaje. Tómalos
+
+{s};Shadow Assassin said: Good, put them on. Novice guide: Now, please use the left and right arrow keys to switch between backpack categories. When you switch to the "Equipment" category you can use up and down arrow keys to move arround your equipment. You can also use the G key to view a description of the current item, and you can also press the Right CTRL key to equip or unequip the current item.
+{sub1{$1}sub1}; Asesina de las sombras dice: Bien, póntelo. Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+
+{s};Shadow Assassin said: There's a tougher movable stake to the west, go break it. Novice guide: The W, S, A and D keys are used to control your character's movement. Now please hold the A key in order to move West and pay close attention to the sound of your target. When you come close enough, press the K key to choose the target and then launch an attack on it.
+{sub1{$1}sub1}; Asesina de las sombras dice: Hay una estaca más dura y móvil al oeste, ve a romperla. Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque.
+
+{s};Shadow Assassin said: Nicely done. Come here, I have two more equipments for you.
+{sub1{$1}sub1}; Asesina de las sombras dice: Bien hecho. Ven aquí, tengo algo más de equipo para ti.
+
+{s};Shadow Assassin said: My child, these are a pair of shoes and a chest. Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Finally, let me see if you've mastered the martial arts I've taught you. there are mutants in a secret room to the northeast. Your final test is to defeat them. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Asesina de las sombras dice: Hijo mío, aquí tienes un par de sandalias y un cofre. Ponte las sandalias y mira bien en el interior del cofre. Podrás abrirlo cuando seas lo suficientemente fuerte. Finalmente, demuéstrame que has aprendido las artes marciales que te enseñé. Hay mutantes en una sala secreta al noreste. Tu prueba final es derrotarlos. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Shadow Assassin said: Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Finally, let me see if you've mastered the martial arts I've taught you. there are mutants in a secret room to the northeast. Your final test is to defeat them. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Asesina de las sombras dice: Ponte las sandalias y mira bien en el interior del cofre. Podrás abrirlo cuando seas lo suficientemente fuerte. Finalmente, demuéstrame que has aprendido las artes marciales que te enseñé. Hay mutantes en una sala secreta al noreste. Tu prueba final es derrotarlos. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Shadow Assassin said: My child, looks like I've taught you everything I can. You've obtained a Skill Crystal, use it to learn the Rapid Sting Skill. It will make you become a better Assassin.
+{sub1{$1}sub1}; Asesina de las sombras dice: Hijo mío, creo que te he enseñado todo lo que pude. Has obtenido un cristal de habilidad, úsalo para aprender la habilidad de puñalada rápida, que te hará un mejor asesino.
+
+{s};Novice Guide: Kill one now! Pay attention though, as monsters there are aggressive and so they will attack you too. You can use the R key to view your health and mana, and the F key to view the health and mana of your target.
+{sub1{$1}sub1}; Guía del novato: ¡Ya mataste a una! Presta atención, ya que hay monstruos que son agresivos y que te atacarán también. Puedes usar la R para ver tu salud y tu mana, y la F para ver la salud y mana de tu objetivo.
+
+{s};Novice Guide: Now you killed four of them! However mutant beasts there will become stronger and stronger each time, so please be careful. Before you go, you can open the treasure chest which contains precious medicine and equipment. You can use the medicine when your health is low, and the equipment when your level is sufficient. Please use up, down, left and right arrow keys, as well as the G and Right Control key to interact with your equipment.
+{sub1{$1}sub1}; Guía del novato: ¡Ya mataste a 4 de ellos! Sin embargo las bestias mutantes se volverán cada vez más fuertes, así que ten cuidado. Antes de irte, puedes abrir el cofre del tesoro, que contiene medicina y equipo valiosos. Puedes usar la medicina cuando tu salud sea baja, y el equipo cuando alcances el nivel requerido. Por favor usa las flechas arriba, abajo, izquierda y derecha, así como Control Derecho para interactuar con el equipo y los objetos.
+
+{s};Novice Guide: Killed ten of them! Now you have the last one batch of monsters to defeat. If you need to see the information and hostile list about your target, you can use either the G or the Tab key.
+{sub1{$1}sub1}; ¡Ya mataste a 10 de ellos! Ahora te falta derrotar a un último grupo de monstruos. Si quieres ver la información y la lista de hostilidad de tu objetivo, puedes presionar G y Tabulador respectivamente.
+
+{s};Old Mage said: Well done, young one! Looks like you've obtained a Skill Crystal. You should use it to learn the Ice Lance Skill, which will make your spells stronger.
+{sub1{$1}sub1}; mago viejo dice: Bien hecho, ¡joven! Parece que has obtenido un cristal de habilidad. Deberías usarlo para aprender la habilidad Lanza de Hielo, que hará que tus hechizos sean más fuertes.
+
+{s};Novice guide: After using the crystal and learning the skill, please use the left and right arrows to move to the Combat Skills category. Then, find your new skill with the down arrow key, and press CTRL+ALT+H key combination in order to bind your new skill to the H key. After that, you can use the basic attack and H key to use your new skill interchangeably. Pay attention though, as every skill has a different cooldown. To view such information, press the G key while a skill is selected.
+{sub1{$1}sub1}; Guía del novato: Después de usar el cristal y aprender la habilidad, usa las flechas izquierda y derecha para moverte a la categoría Habilidades de combate. Luego encuentra tu nueva habilidad con la flecha abajo y presiona las teclas Control+Alt+H para poder vincular tu nueva habilidad a la tecla H. Después de eso, puedes usar el ataque básico y la tecla H para usar tu nueva habilidad en conjunto con la anterior. Por favor presta atención porque cada habilidad tiene un enfriamiento determinado. Para ver esta información presiona G mientras una habilidad esté seleccionada.
+
+{s};Old Mage said: Go, the gate is to the north. I hope you'll find a way to communicate with the Mist Gods. Monsters are coming, but the Mist Gods' protection is weakening. Humanity is at stake.
+{sub1{$1}sub1}; Mago viejo dice: Ve, la reja está al norte. Espero que encuentres la forma de comunicarte con los dioses de la niebla. Los monstruos están avanzando mientras la protección de los dioses de la niebla se debilita. La humanidad está en juego.
+
+{s};Shadow Assassin said: I'm at my last breath. Now, head out through the north. I don't want you to see my embarassing corpse. You don't have to avenge me, just live your own life. Remember, don't get emotionally attached to anyone. Solitude is your only friend, and only in darkness can you grow.
+{sub1{$1}sub1}; Asesina de las sombras dice: Estoy pronta a emanar mi último suspiro. Ahora, dirígete al norte. No quiero que veas mi abyecto cadáver. No tienes que vengarme, solo vive tu propia vida. Recuerda, no te vincules emocionalmente con nadie. La soledad es tu única amiga y solo en la oscuridad puedes crecer.
+
+{s};Novice guide: There is a python ahead. It is a very dangerous creature! If you need to replenish your health in combat, you can bind small red bottle to a quick key. Please switch to the item you want to bind, and then press CTRL+a number in order to bind the item. Once bound, the item can be used by just pressing the associated number key.
+{sub1{$1}sub1}; Guía del novato: Hay una pitón delante. ¡Es una criatura muy peligrosa! Si necesitas reponer tu salud en combate, puedes vincular la poción pequeña a una tecla rápida. Por favor selecciona el objeto que quieras vincular y presiona Control y un número, o las teclas más o guion, para vincularlo. Una vez vinculado, el objeto se puede usar presionando la tecla asociada a este.
+
+{s};Path Keeper said: Woah, you were amazing! Now the road is finally safe without the giant snake. Thank you, foreign warrior.
+{sub1{$1}sub1}; Guardián del camino dice: Ooo, ¡eres grande! Ahora el camino es más seguro sin esa serpiente gigante. Gracias, guerrero extranjero.
+
+{s};Novice guide: Forward is the Kalong village. If there are too many targets in the village, you can use the V key to display only NPCs, and you can go back to the "all targets" mode if you need to fight monsters.
+{sub1{$1}sub1}; Guía del novato: Al norte está la Aldea Karon. Si hay muchos objetivos en la aldea, puedes presionar V para elegir que solo se muestren NPC's. Con la misma tecla puedes elegir distintos filtros para cuando tengas que volver a pelear con monstruos.
+
+{s};{c} Gang has been renamed {c}
+{sub1{$1}sub1}; La pandilla $2 ha sido renombrada como $3
+
+{s};{c} set up a team named {s}
+{sub1{$1}sub1}; $2 creó un equipo llamado {sub2{$3}sub2}
+
+{s};The gang leader has launched an item auction of gang points for {s}. If you need it, please find the Head of inner hall to bid.
+{sub1{$1}sub1}; El líder de la pandilla ha lanzado una subasta de puntos de pandilla por {sub2{$2}sub2}. Si lo necesitas, busca al Jefe del salón interior para ofertar.
+
+{s};Congratulations to {c} for winning {s} with {d} gang points in the gang auction
+{sub1{$1}sub1}; Felicitaciones a $2 por ganar {sub2{$3}sub2} con $4 puntos de pandilla en la subasta de la pandilla
+
+{s};The round {d} of the Gang Tournament will start in {d} hours  
+{sub1{$1}sub1}; La ronda $2 del torneo de pandillas comenzará en $3 horas
+
+{s};Gang Tournament round {d} begins
+{sub1{$1}sub1}; Comienza la ronda $2 del torneo de pandillas
+
+{s};The {d}th Gang Tournament is over, congratulations to {c} gang for winning the championship
+{sub1{$1}sub1}; El torneo de pandillas número $2 ha finalizado. Felicidades a la pandilla $3 por ganar el campeonato
+
+{s};abdicated successfully, {c} becomes gang leader
+{sub1{$1}sub1}; abdicado con éxito. $2 se convierte en el líder de la pandilla
+
+{s};{c},{c} joined the team
+{sub1{$1}sub1}; $2 y $3 se unieron al equipo
+
+{s};There are 2 remaining on the {c} team; 1 remaining on the {c} team; Congratulations to {c} team for winning this competition
+{sub1{$1}sub1}; Quedan en pie 2 integrantes del equipo $2 y 1 del equipo $3; felicidades al equipo $4 por ganar esta competencia
+
+{s};{c} HP {d}/{d}; {c} HP {d}/{d}; Congratulations to {c} for winning this competition
+{sub1{$1}sub1}; Salud de $2 $3 de $4; salud de $5 $6 de $7; felicidades a $8 por ganar esta competencia.
+
+{s};{c} has higher damage output; Congratulations to {c} for winning this competition
+{sub1{$1}sub1}; $2 tiene más daño saliente. Felicitaciones a $3 por ganar esta competencia.
+
+{s};Fire Lord: Damn... I want to vaporize the person named {c}!
+{sub1{$1}sub1}; Señor del Fuego: Maldición... ¡Quiero vaporizar a la persona llamada $2!
+
+{s};The second wave of Golden Pig is coming!
+{sub1{$1}sub1}; ¡Ahí viene la segunda oleada de cerdos dorados!
+
+{s};The third wave of Golden Pig is coming!
+{sub1{$1}sub1}; ¡Ahí viene la tercera oleada de cerdos dorados!
+
+{s};Emcee said: Thank you, esteemed envoys. Now, the guests can collect a blessing card from the usherette, and give the newlyweds your blessings.
+{sub1{$1}sub1}; La maestra de ceremonias dice: Gracias, estimados embajadores. Ahora los invitados pueden recolectar una tarjeta de bendición con las damas de honor y darles su bendición a los recién casados.
+
+{s};{c} opened a delicate wedding blessing card and said:{s}
+{sub1{$1}sub1}; $2 abrió una delicada tarjeta de bendición a los casados y dijo: $3
+
+{s};{s} is cancelled
+{sub1{$1}sub1}; Se ha cancelado la {sub2{$2}sub2}
+
+{s};Priest said: The world used to be so beautiful when human beings could be in close contact with the Mist Gods. Now that we are under attack from mutants and demons, nowhere is safe. Perhaps in difficult times like this, our minds can be sharpened. But I can't help thinking back to the good old days. My child, you've been praying less. Have you lost faith in the Mist Gods{s}
+{sub1{$1}sub1}; Sacerdote dice: El mundo solía ser un lugar hermoso cuando los humanos se mantenían en estrecho contacto con los Dioses de la Niebla. Ahora que estamos bajo el ataque de mutantes y demonios, nadie está seguro. Quizá en tiempos tan difíciles como este nuestras mentes puedan agudizarse, pero no puedo dejar de pensar en los viejos tiempos. Mi niño, has estado orando menos. ¿Has perdido la fe en los Dioses de la Niebla$2
+
+{s};Priest said: Child, you have a loving heart. But your wish requires powerful light magic. Show me the results of your training. See that stake to the north{s} Go break it with magic. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Sacerdote dice: Tienes un corazón amoroso, mi niño. Pero para cumplir tu deseo necesitas una luz mágica poderosa. Enséñame los resultados de tu entrenamiento. ¿Ves esa estaca al norte$2 Rómpela con magia. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Priest said: Nicely done. Now let's see how well you perform with equipment. Here are the weapon and outfit, take it.
+{sub1{$1}sub1}; Sacerdote dice: Muy bien hecho. Ahora vamos a ver cómo lo haces con equipo. Aquí está el arma y la ropa, toma.
+
+{s};Priest said: Good, put them on. Novice guide: Now, please use the left and right arrow keys to switch between backpack categories. When you switch to the "Equipment" category you can use up and down arrow keys to move arround your equipment. You can also use the G key to view a description of the current item, and you can also press the Right CTRL key to equip or unequip the current item.
+{sub1{$1}sub1}; Sacerdote dice: Bien, póntelo. Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+
+{s};Priest said: There's a movable stake to the west, go break it. Novice guide: The W, S, A and D keys are used to control your character's movement. Now please hold the A key in order to move West and pay close attention to the sound of your target. When you come close enough, press the K key to choose the target and then launch an attack on it.
+{sub1{$1}sub1}; Sacerdote dice: Hay una estaca al oeste, ve a romperla. Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque.
+
+{s};Priest said: Much better. Come here, I have two more equipment for you.
+{sub1{$1}sub1}; Sacerdote dice: Mucho mejor. Ven aquí, tengo otros dos equipos para ti.
+
+{s};Priest said: Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Now, I'll give you the true test. There's a bunch of mutants in the northeast confession room. Go wipe them out. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Sacerdote dice: Ponte esas sandalias y observa detenidamente el cofre. Lo podrás abrir cuando seas lo suficientemente fuerte. Ahora te pondré la verdadera prueba: hay varios mutantes en el confesionario al este. Ve a acabar con ellos. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Priest said: Here you go, these are a pair of shoes and a chest. Put those shoes on, and take a good look at the chest. You can open it when you're strong enough. Now, I'll give you the true test. There's a bunch of mutants in the northeast confession room. Go wipe them out. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Sacerdote dice: Aquí tienes, son un par de sandalias y un cofre. Ponte las sandalias y observa detenidamente el cofre. Lo podrás abrir cuando seas lo suficientemente fuerte. Ahora te pondré la verdadera prueba: hay varios mutantes en el confesionario al este. Ve a acabar con ellos. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Priest said: Very good, you are well-trained in magic. Looks like you've obtained a Skill Crystal, use it to learn the Mind Whip Skill. It will help you fight better against evil.
+{sub1{$1}sub1}; Sacerdote dice: Excelente, ya estás bien instruido en magia. Parece que has obtenido un cristal de habilidad, úsalo para aprender la habilidad de Látigo Mental. Te ayudará a pelear mejor contra el mal.
+
+{s};Priest said: Go, child, leave the church through the north. Go and purge the world of evil! May the Mist Gods bless you with strength.
+{sub1{$1}sub1}; Sacerdote dice: Ve, niño, sal de la iglesia por el norte. ¡Ve y purga al mundo del mal! Que los Dioses de la Niebla te bendigan con fuerza.
+
+{s};Priest Michel;The newlyweds {c} and {c}'s noble float has left Holy Light Cathedral! The beautiful float will take care of them on their journey of love!
+{sub1{$1}sub1}; Sacerdote Michelle; la noble carroza de los recién casados, $2 y $3, ¡ha dejado la Catedral de la Luz Sagrada! ¡La bonita carroza cuidará de ellos en su camino hacia el amor!
+
+{s};Silver Pig's Hostile; {s}
+{sub1{$1}sub1}; Hostilidad del cerdo plateado: $2
+
+{s};Novice guide: Congratulations on defeating the anaconda! If you want to continue wiping out the snakes, please exit the well and reenter.
+{sub1{$1}sub1}; Guía del novato: ¡Felicidades por derrotar a la anaconda! Si quieres seguir eliminando serpientes, sal del pozo y vuelve a entrar.
+
+{s};The anaconda is slain, please leave the well.
+{sub1{$1}sub1}; Asesinaste a la anaconda, por favor abandona el pozo.
+
+{s};{c},{c},{c} joined the team
+{sub1{$1}sub1}; $2, $3 y $4 se unieron al equipo
+
+{s};{c} quit the gang
+{sub1{$1}sub1}; $2 salió de la pandilla
+
+{s};Senior Huntress said: Savage beasts have deadly fangs and claws, which can tear humans apart. However, the mightiest beast cannot survive from our long-range shots. Before they can get closer, they are killed by our bows and arrows, which is why hunters like us are popular in the mercenary bands. There's a team recruiting right now. I'm gonna join them, are you coming?
+{sub1{$1}sub1}; Cazadora mayor dice: Las bestias salvajes tienen colmillos y garras mortales, que pueden destrozar a los humanos. Sin embargo, ni las bestias más poderosas pueden sobrevivir a nuestros disparos de larga distancia. Antes de que puedan acercarse son asesinadas por nuestros arcos y flechas, lo que nos hace a los cazadores populares en las bandas de mercenarios. Hay un equipo reclutando ahora al que me uniré. ¿Vas a venir?
+
+{s};Senior Huntress said: So, are you gonna join the mercenary band with me?
+{sub1{$1}sub1}; Cazadora mayor dice: Entonces, ¿te vas a unir a la banda junto conmigo?
+
+{s};Senior Huntress said: Quite an idea. Hmm, then show me you've got what it takes. The stake to the north, go break it. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Cazadora mayor dice: Vaya idea. Hmm, entonces muéstrame que tienes lo que se necesita. Ve a romper la estaca que está al norte. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Senior Huntress said: The stake to the north, go break it. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Cazadora mayor dice: Ve a romper la estaca que está al norte. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Senior Huntress said: You were pretty good at throwing stones. But let's see how well you handle a bow. Here are the bow and arrows, as well as your outfit, take it.
+{sub1{$1}sub1}; Cazadora mayor dice: Has estado muy bien lanzando piedras, pero vamos a ver cómo te las arreglas con un arco. aquí están el arco, las flechas y el resto de tu vestimenta. Tómalo.
+
+{s};Senior Huntress said: What, don't wanna show me your skills?
+{sub1{$1}sub1}; Cazadora mayor dice: Qué, ¿no quieres mostrarme tus habilidades?
+
+{s};Senior Huntress said: Alright, put them on. Novice guide: Now, please use the left and right arrow keys to switch between backpack categories. When you switch to the "Equipment" category you can use up and down arrow keys to move arround your equipment. You can also use the G key to view a description of the current item, and you can also press the Right CTRL key to equip or unequip the current item.
+{sub1{$1}sub1}; Cazadora mayor dice: Bien, póntelo. Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+
+{s};Senior Huntress said: There's a movable stake to the west, go break it. Novice guide: The W, S, A and D keys are used to control your character's movement. Now please hold the A key in order to move West and pay close attention to the sound of your target. When you come close enough, press the K key to choose the target and then launch an attack on it.
+{sub1{$1}sub1}; Cazadora mayor dice: Hay una estaca móvil al oeste, ve a romperla. Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque.
+
+{s};Senior Huntress said: Nice shots, you make a fine archer. Come here, I have two more equipments for you.
+{sub1{$1}sub1}; Cazadora mayor dice: Buenos tiros. Eres buen arquero. Ven aquí, tengo algo más de equipo para ti.
+
+{s};Senior Huntress said: Here, put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. It's good you want to go out on your own. But there are some prey in the dungeon to the northeast. Defeat them, and I'll give you my permission. Now go. 
+{sub1{$1}sub1}; Cazadora mayor dice: Listo. Ponte ese par de sandalias. También te di un cofre. Mira bien en su interior y recuerda abrirlo a tiempo. Está bien si quieres seguir tu propio camino, pero hay algunas presas en la mazmorra al noreste. Derrótalas y te daré mi permiso. Ahora ve.
+
+{s};Senior Huntress said: put those shoes on. There's also a chest, take a good look inside, and remember to open it in time. It's good you want to go out on your own. But there are some prey in the dungeon to the northeast. Defeat them, and I'll give you my permission. Now go. 
+{sub1{$1}sub1}; Cazadora mayor dice: Ponte ese par de sandalias. También te di un cofre. Mira bien en su interior y recuerda abrirlo a tiempo. Está bien si quieres seguir tu propio camino, pero hay algunas presas en la mazmorra al noreste. Derrótalas y te daré mi permiso. Ahora ve.
+
+{s};Senior Huntress said: There are some prey in the dungeon to the northeast. Defeat them, and I'll give you my permission. Now go. 
+{sub1{$1}sub1}; Cazadora mayor dice: Hay algunas presas en la mazmorra al noreste. Derrótalas y te daré mi permiso. Ahora ve.
+
+{s};Senior Huntress said: Nice work, you are a true Hunter! Looks like you've obtained a Skill Crystal, use it to learn the Aimed Shot Skill. It will greatly enhance your attack power.
+{sub1{$1}sub1}; Cazadora mayor dice: Buen trabajo. ¡Eres un verdadero cazador! Parece que has obtenido un cristal de habilidad, úsalo para aprender la habilidad Disparo Preciso, que mejorará enormemente tu poder de ataque.
+
+{s};Senior Huntress said: Go, the exit is to the north. Farewell, little Hunter.
+{sub1{$1}sub1}; Cazadora mayor dice: Ve, la salida está al norte. Adiós, pequeño cazador.
+
+{s};The server is about to restart. Please do not perform important operations before restarting to avoid losing items. Thank You for Your Cooperation.
+{sub1{$1}sub1}; El servidor está a punto de reiniciarse. No realices operaciones importantes antes de reiniciar para evitar perder elementos. Gracias por tu colaboración.
+
+{s};The server is about to shut down
+{sub1{$1}sub1}; El servidor está a punto de apagarse
+
+{s};Novice guide: You are in a dungeon. To view the time remaining for this dungeon, please use the Q key.
+{sub1{$1}sub1}; Guía del novato: Estás en una mazmorra. Para ver el tiempo restante para terminarla presiona la tecla Q
+
+{s};{c} was appointed highland {d}'s Turret keeper
+{sub1{$1}sub1}; $2 fue designado como guardián de la torreta de las Tierras Altas $3
+
+{s};{c} shelled the Wall barricade of Highland {d}
+{sub1{$1}sub1}; $2 bombardeó la barricada de las tierras altas $3
+
+{s};{c} shelled the crystal turret of Highland {d}
+{sub1{$1}sub1}; $2 bombardeó la torreta de cristal de las tierras altas $3
+
+{s};The crystal turret of highland {d} was shelled by the {c} gang
+{sub1{$1}sub1}; La torreta de cristal de las tierras altas $2 ha sido bombardeada por la pandilla $3
+
+{s};The Wall barricade of highland {d} was shelled by the {c} gang
+{sub1{$1}sub1}; La barricada de las tierras altas $2 ha sido bombardeada por la pandilla $3
+
+{s};{c} gang has refused the highland war against highland {d}
+{sub1{$1}sub1}; La pandilla $2 rechazó mantener una guerra en las Tierras Altas $3
+
+{s};The highland was unguarded, {c} Gang successfully occupied it
+{sub1{$1}sub1}; Las tierras altas no estaban vigiladas, la pandilla $2 las conquistó con éxito
+
+{s};Elf Elder said: Can you feel it, the pulsing of dark energy? The Demon World is expanding. Soon, it will encroach on human territory. It would be dangerous for you to go out now, we are only living here temporarily, you don't have to fight for humanity, sooner or later we will have to leave. Go back.
+{sub1{$1}sub1}; Anciana Elfa dice: ¿Puedes sentirlo, el pulso de la energía oscura? El mundo de los demonios se está expandiendo. Pronto invadirá el territorio humano. Sería peligroso para ti salir ahora, solo estamos viviendo aquí temporalmente, no tienes que luchar por la humanidad, tarde o temprano tendremos que irnos. Regresa.
+
+{s};Elf Elder said: Sigh, I only want to avoid the meaningless death of elves. But you've got a point. Well, let me see your control over the fire element. If you prove yourself, I'll let you go. See that stake to the north? Go break it. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Anciana Elfa dice:  *suspiro*. Solo quiero evitar la muerte sin sentido de los elfos. Pero tienes algo de razón. Bueno, déjame ver tu control sobre el elemento fuego. Si eres capaz de demostrar tu fuerza, te dejaré ir. ¿Ves esa estaca al norte? Ve a romperla. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Elf Elder said: You really know your way around the Fire Ball spell. Here's the weapon and outfit. Equip them, and we'll have another go.
+{sub1{$1}sub1}; Anciana Elfa dice: Realmente dominas el hechizo Bola de fuego. Aquí está un arma y el equipo. Equípalo y continuaremos.
+
+{s};Elf Elder said: Good, put them on. Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+{sub1{$1}sub1}; Anciana Elfa dice: Bien, póntelo. Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+
+{s};Elf Elder said: Weapons can increase fire damage. There's a movable stake to the west, go break it. Novice guide: The W, S, A and D keys are used to control your character's movement. Now please hold the A key in order to move West and pay close attention to the sound of your target. When you come close enough, press the K key to choose the target and then launch an attack on it.
+{sub1{$1}sub1}; Anciana Elfa dice: Las armas pueden aumentar el daño de fuego. Hay una estaca móvil al oeste, ve a romperla. Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque.
+
+{s};Elf Elder said: You're on fire! Come here, I have two more equipment for you.
+{sub1{$1}sub1}; Anciana Elfa dice: ¡Estás que ardes! Ven aquí, tengo dos equipos más para ti.
+
+{s};Elf Elder said: Did you get it? Put those shoes on. There's also a chest, it's in the inventory, remember to open it in time. Now the real test begins. There's a bunch of mutants in the northeast training room. Go wipe them out. If you can pass this test, then you can leave. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Anciana Elfa dice: ¿Lo tienes? Bien, ponte esas sandalias. También te di un cofre, está en el inventario, recuerda abrirlo a tiempo. Ahora comienza la verdadera prueba. Hay un montón de mutantes en la sala de entrenamiento del noreste. Ve a acabar con ellos. Si puedes pasar esta prueba, entonces puedes irte. Guía del novato: puedes usar la tecla Ñ para abrir el perfil de tu personaje. Una vez que hayas terminado de verlo, puedes usar la tecla ESCAPE para salir. Pulsa ENTER si necesitas que se te repita este mensaje.
+
+{s};Elf Elder said: Good work! Looks like you've obtained a Skill Crystal, use it to learn the Fire Impact Skill, which is a stronger fire elemental manipulation skill.
+{sub1{$1}sub1}; Anciana Elfa dice: ¡Buen trabajo! Parece que has obtenido un Cristal de habilidad, úsalo para aprender la habilidad Impacto de fuego, que es una habilidad más fuerte de manipulación del elemento fuego.
+
+{s};Elf Elder said: Go, the exit is to the north. Danger lurks everywhere outside, so be careful. The future of Elves depend on young ones like you.
+{sub1{$1}sub1}; Anciana Elfa dice: Ve, la salida está al norte. El peligro acecha en todas partes afuera, así que ten cuidado. El futuro de los Elfos depende de jóvenes como tú.
+
+{s};Novice guide: The dryad in this house is very strong! Please be sure to stand no closer than 3 yards from it. When you are in your attacking distance, you can use a skill key together with the Alt key, in order to launch the in-place attack from 3 yard away, therefor, the dryad cannot harm you. 
+{sub1{$1}sub1}; Guía del novato: ¡La dríada en esta casa es muy fuerte! Asegúrate de no estar a menos de 3 metros de ella. Cuando estás a tu distancia de ataque, puedes usar una tecla de habilidad junto con la tecla Alt, para lanzar el ataque sin acercarte. De esa forma, la dríada no podrá hacerte daño.
+
+{s};{c} picked up a mini speaker and announced to the nearby:{s}
+{sub1{$1}sub1}; $2 tomó un megáfono y anunció a las personas cercanas: $3
+
+{s};Auto teaming has ended
+{sub1{$1}sub1}; Se ha terminado el tiempo de formación automática de equipos
+
+{s};{c} gang declared war on Highland {d} which has been occupied by {c} gang. Time: {d}:{d} {s} 
+{sub1{$1}sub1}; La pandilla $2 declaró la guerra en las tierras altas $3, ocupadas por la pandilla $4, hora de inicio el {sub2{$7}sub2} a las $5:$6
+
+{s};{c} gangs successfully occupied the highland
+{sub1{$1}sub1}; La pandilla $2 conquistó con éxito las tierras altas
+
+{s};{c} released {s}
+{sub1{$1}sub1}; $2 soltó la bestia {sub2{$3}sub2}
+
+{s};{c} opened a luxurious wedding blessing card with gold border and said:{s}
+{sub1{$1}sub1}; $2 abrió una lujosa tarjeta de bendición a los casados con bordes dorados y dijo: $3
+
+{s};{c} opened a wedding blessing card and said:{n}
+{sub1{$1}sub1}; $2 abrió una tarjeta de bendición a los casados y dijo: $3
+
+{s};{c} opened a delicate wedding blessing card and said:{n}
+{sub1{$1}sub1}; $2 abrió una delicada tarjeta de bendición a los casados y dijo: $3
+
+{s};{c} reached out and took the bridegroom, clasped her hands with him, stood close together, looked at him affectionately and said:{s}
+{sub1{$1}sub1}; $2 extiende su mano y toma al novio, junta sus manos con las suyas, y manteniéndolas unidas lo mira con cariño y le dice: $3
+
+{s};{c} kneeled on the ground, put right hand against his chest, looked up at his bride, and said affectionately:{n}
+{sub1{$1}sub1}; $2 se arrodilla en el suelo, pone su mano derecha contra su pecho, mira a su novia y le dice cariñosamente: $3
+
+{s};{c} picked up a small loudspeaker and announced in the map:{n}
+{sub1{$1}sub1}; $2 tomó un micrófono y anunció en el mapa: $3
+
+{s};{c} picked up a huge loudspeaker and announced to the world:{n}
+{sub1{$1}sub1}; $2 tomó un gran altoparlante y anunció al mundo: $3
+
+{s};{c} picked up a mini speaker and announced to the nearby:{n}
+{sub1{$1}sub1}; $2 tomó un megáfono y anunció a las personas cercanas: $3
+
+{s};killed {d}
+{sub1{$1}sub1}; eliminados $2
+
+{s};HP percentage and damage  output are the same; randomly judged; Congratulations to {c} for winning this competition
+{sub1{$1}sub1}; El porcentaje de salud y de daño saliente es igual con ambos. Se ha juzgado de manera aleatoria. Felicitaciones a $2 por ganar esta competencia.
+
+{s};{c} gang founded
+{sub1{$1}sub1}; Fundada la pandilla $2
+
+{s};{c} created private channel: {c}
+{sub1{$1}sub1}; $2 creó el canal privado $3
+
+{s};The {c} gang and the {c} gang's battle begins{s} 
+{sub1{$1}sub1}; Comienza la batalla entre las pandillas $2 y $3$4
+
+{s};{c} placed Level {d} Magic Cannon
+{sub1{$1}sub1}; $2 colocó un cañón mágico de nivel $3
+
+{s};Black Witch said: Hahaha, we've got ten more corpses, This is truly the best of times! Well, let's check this one. Look at this tooth mark, and the corrosion...It was bitten to death by demons. How rarely seen, and it's very valuable. Help me remove this heart...hey, where do you think you're going{s}
+{sub1{$1}sub1}; Bruja negra dice: Jajaja, hemos obtenido 10 cadáveres más, ¡parece que corren buenos tiempos! Bueno, vamos a ver este. Mira esta marca de diente, y la corrosión... parece que fue mordido por los demonios hasta que murió. Raramente visto, y por ello es muy valioso. Ayúdame a quitarle el corazón... eh, ¿a dónde crees que vas$2
+
+{s};Black Witch said: Little bastard{s} Do you really hate your master that much{s} Fine, then I'll give you a test. If you prove you can protect yourself out there, I'll let you go. At least you won't be here to annoy me anymore. See that stake to the north{s} Go break it. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Bruja negra dice: ¡Pequeño bastardo$2 ¿De verdad odias tanto a tu maestra$3 Bien, entonces te haré una prueba. Si pruebas que puedes protegerte a ti mismo allá afuera, te dejaré ir. Al menos ya no estarás aquí para seguirme molestando. ¿Ves esa estaca al norte$4 Rómpela. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Black Witch said: It took you forever to break that stake, not so good. Now let's see how well you perform with equipment. Here are the weapon and outfit, take it.
+{sub1{$1}sub1}; Bruja negra dice: Tardaste siglos en romper esa estaca, eso no estuvo nada bien. Vamos a ver cómo lo haces con equipo. Aquí está el arma y la vestimenta, tómalo.
+
+{s};Black Witch said: Alright, put them on. Novice guide: Now, please use the left and right arrow keys to switch between backpack categories. When you switch to the "Equipment" category you can use up and down arrow keys to move arround your equipment. You can also use the G key to view a description of the current item, and you can also press the Right CTRL key to equip or unequip the current item.
+{sub1{$1}sub1}; Bruja negra dice: Bien, póntelo. Guía del novato: Ahora, por favor usa las flechas izquierda y derecha para cambiar entre las categorías de la mochila. Cuando cambies a la categoría de equipo, puedes usar las flechas arriba y abajo para moverte por tu equipo. También puedes usar la tecla G para ver la descripción del objeto actual, y puedes presionar Control Derecho para ponerte o quitarte el objeto seleccionado.
+
+{s};Black Witch said: There's a movable stake to the west, go break it. Novice guide: The W, S, A and D keys are used to control your character's movement. Now please hold the A key in order to move West and pay close attention to the sound of your target. When you come close enough, press the K key to choose the target and then launch an attack on it.
+{sub1{$1}sub1}; Bruja negra dice: Hay una estaca móvil al oeste, ve a romperla. Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque. Guía del novato: Las teclas W, S, A y D se usan para controlar el movimiento de tu personaje. Ahora, por favor mantén presionada la tecla A para moverte al oeste, y ponle mucha atención al sonido de tu objetivo. Cuando te acerques lo suficiente, presiona K para seleccionar el objetivo y después lánzale un ataque.
+
+{s};Black Witch said: Wow! You barely passed. Come back, I have two more equipment for you.
+{sub1{$1}sub1}; Bruja negra dice; ¡Ah! Apenas lo lograste. Ven, tengo algo más de equipo para ti.
+
+{s};Black Witch said: Here you go, these are a pair of shoes and a chest. Put those shoes on. There's also a chest in your backpack. Take a good look at it. You can open it when you're strong enough. Now the real test begins. There's a bunch of mutants in the northeast research room. If you want to leave, then go wipe them out. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Bruja negra dice: Ahí está. Son un par de sandalias y un cofre. Ponte las sandalias, y guarda el cofre en la mochila. Échale un vistazo. Lo podrás abrir cuando seas lo suficientemente fuerte. Ahora comienza la prueba real. Hay un montón de mutantes al noreste de la sala de análisis. Si te quieres ir, elimínalos. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Black Witch said: Hahaha, like master, like pupil. I've taught you well! Looks like you've obtained a Skill Crystal, use it to learn the Corrosion Spell Skill. Don't call yourself a wizard if you can't use that skill.
+{sub1{$1}sub1}; Bruja negra dice: De tal maestro, tal pupilo. ¡Se ve que te enseñé bien! Parece que obtuviste un cristal de habilidad. Úsalo para aprender la habilidad de Corrosión. No puedes llamarte un hechicero si no sabes usar esa habilidad.
+
+{s};Black Witch said: Alright, head to the north if you want to leave. If you find any good corpses out there, remember to bring back a few. Don't forget about your master.
+{sub1{$1}sub1}; Bien, anda hacia el norte si quieres irte. Si encuentras buenos cadáveres por allí, recuerda traer algunos. No te olvides de tu maestra.
+
+{s};Path Keeper said: {s}, please help us slay the giant snake in the cave north of the road. We were afraid that it would get in the village and eat people, so we had to block this road.
+{sub1{$1}sub1}; Guardián del camino dice; {sub2{$2}sub2}, por favor ayúdanos a matar a la serpiente gigante de la cueva del norte. Tenemos miedo de que entre a la aldea y se coma a la gente, por eso tuvimos que bloquear este camino.
+
+{s};Whale Monster Bigger: Damn {c} doesn't even let go of rare and protected animals!
+{sub1{$1}sub1}; Monstruo Ballena Gigante: No puede ser, ¡$2 ni siquiera respeta a los animales raros y protegidos!
+
+{s};Doctor Meow Meow: Damn {c}, do you think this is the only robot I have{s}
+{sub1{$1}sub1}; Doctor Meow Meow: Maldita sea, $2, ¿crees que este es el único robot que tengo$3
+
+{s};{c} placed Level {d} supply camp
+{sub1{$1}sub1}; $2 colocó un campamento de suministros de nivel $3
+
+{s};{c} was expelled from the gang by development elder {c}
+{sub1{$1}sub1}; $2 fue expulsado de la pandilla por el mayor de desarrollo $3
+
+{s};Emcee said: Congratulations on becoming a couple, may the Mist Gods be witness to your love! The Central Kingdom, the Loki Union and the Garth Empire have all sent envoys to celebrate this special moment. Please welcome them to the stage to deliver their gifts to the new couple!
+{sub1{$1}sub1}; La maestra de ceremonias dice: Felicitaciones por convertirse en pareja, ¡que los Dioses de la Niebla sean testigos de su amor! El Reino Central, la Federación Loki y el Imperio Garth han enviado embajadores para celebrar esta ocasión especial. ¡Por favor démosles la bienvenida al escenario para que entreguen regalos a la nueva pareja!
+
+{s};{c} team HP {d}/{d}; {c} team HP {d}/{d}; Congratulations to {c} team for winning this competition
+{sub1{$1}sub1}; Salud del equipo $2 $3 de $4; salud del equipo $5 $6 de $7; felicidades al equipo $8 por ganar esta competencia.
+
+{s};Monkey King Wukong: {c}, You monster, do you think I am only a mountain Monkey{s} Ah{s}
+{sub1{$1}sub1}; Rey Mono Wukong: $2, ¡eres un monstruo! ¿Crees que solo soy un mono de montaña$3 Ah$4
+
+{s};Congratulations to the {c} gang for winning this battle
+{sub1{$1}sub1}; Felicitaciones a la pandilla $2 por haber ganado esta batalla
+
+{s};{c} of the {c} gang has dug the fish reef
+{sub1{$1}sub1}; $2 de la pandilla $3 cavó el arrecife de peces
+
+{s};All team members are invincible for {d} seconds{s}
+{sub1{$1}sub1}; Todos los miembros del equipo son invencibles por $2 segundos$3
+
+{s} ;The dodge of members nearby {c}{s}s team will be increased for {d} seconds{s}
+{sub1{$1}sub1}; La evasión de los miembros del equipo que estén cerca de $2 aumentará por $4 segundos$5
+
+{s} ;{c}{s}s nearby members' skills are free of chanting, lasting {d} seconds{s}
+{sub1{$1}sub1}; Los miembros del equipo que estén cerca de $2 podrán canalizar sus habilidades libremente por $4 segundos$5
+
+{s} ;{c} The damage taken by nearby members of the team to which {c} belongs is reduced for {d} seconds{s}
+{sub1{$1}sub1}; $2; el daño de los miembros que pertenecen al equipo de $3 se reducirá por $4 segundos$5
+
+{s} ;The movement speed of members nearby {c}{s}s team is increased for {d} seconds{s}
+{sub1{$1}sub1}; La velocidad de movimiento de los miembros del equipo que estén cerca de $2 aumentará por $4 segundos $5
+
+{s};{c} used one Gang Gift Box, send {c} gang every online player {d} Arnebia and {s} and {d} Gold Coin and {s} and {s}
+{sub1{$1}sub1}; $2 usó una caja de regalo de la pandilla y le envió a todos los jugadores conectados de la pandilla $3 $4 arnebia, {sub2{$5}sub2}, $6 monedas de oro, {sub2{$7}sub2} y {sub2{$8}sub2}
+
+{s};The rioting prisoners have all been wiped out, please return to the city through the portal.
+{sub1{$1}sub1}; Todos los prisioneros amotinados han sido eliminados. Por favor regresa a la ciudad usando el portal.
+
+{s};gang reward a pair of  {s}; {s}  in {s}
+{sub1{$1}sub1}; La pandilla obtuvo un par de {sub2{$2}sub2}; {sub2{$3}sub2} en {sub2{$4}sub2}
+
+{s};{c} of the {c} gang has dug the magnetic car
+{sub1{$1}sub1}; $2 de la pandilla $3 desenterró el carro magnético
+
+{s};After the battle, you have fully understood the combat characteristics of the robot monsters. Please return to the city through the portal and report the situation to the High Inquisitor Shawi.
+{sub1{$1}sub1}; Después de la batalla, has comprendido completamente las características de combate de los monstruos robóticos. Por favor regresa a la ciudad por el portal y repórtale la situación al Inquisidor Superior Shawi
+
+{s}{c} entered the gang herbal garden
+{sub1{$1}sub1}; $2 entró al jardín de la pandilla
+
+{s};{c} entered the gang mining area
+{sub1{$1}sub1}; $2 entró a la mina de la pandilla
+
+{s}{c} of the {c} gang entered the gang herbal garden
+{sub1{$1}sub1}; $2 de la pandilla $3 entró al jardín de la pandilla
+
+{s};Marshall said: Leo, are you scared to come over? Listen! Who is this!
+{sub1{$1}sub1}; Marshall dice: Leo, ¿te da miedo venir? Escucha. ¡Quién es esta!
+
+{s};Girl said: Ahhh...ahhh!
+{sub1{$1}sub1}; Chica dice: Ay... ¡ay!
+
+{s};Marshall said: You guessed it! It's your sweet Nina, and it's time for her to meet her maker!
+{sub1{$1}sub1}; Marshall dice: Lo adivinaste. ¡Es tu dulce nina! ¡Y es hora de que conozca al creador!
+
+{s};Marshall said: Hahaha, you had it coming, Leo.  I've never meet no Nina, but only knew you were looking for a woman. So I just grabbed a random woman and killed her. You were so easily fooled, hahahaha!
+{sub1{$1}sub1}; Marshall dice: Jajajajaja, sabría que vendrías, Leo. Nunca conocí a Nina, pero sabía que estabas buscando a una chica. Así que conseguí a una chica cualquiera y la maté. Qué fácil fue engañarte. ¡Jajajajaja!
+
+{s};{c} gang disbanded
+{sub1{$1}sub1}; Se disolvió la pandilla $2
+
+{s};An unwilling cry came from turkey mountain. It turned out that it was {c} who once again ended the rule of the barbarian tyrant!
+{sub1{$1}sub1}; Se escuchó un grito involuntario proveniente de la montaña de los pavos. ¡Resultó que fue $2 quien una vez más puso fin al gobierno del tirano bárbaro!
+
+{s};Thunder Lord: {c}, I will arrest you in my Shock Room 13, and make your life worse than death!
+{sub1{$1}sub1}; Señor del Trueno: $2, ¡te encerraré en mi Sala de Choque número 13 para torturarte hasta que desees la muerte!
+
+{s};The attack damage of members nearby {c}'s team is increased for 20 seconds.
+{sub1{$1}sub1}; El daño de ataque de los miembros cercanos del equipo de $2 se incrementa durante 20 segundos.
+
+{s};The movement speed of members nearby {c}'s team is increased for 40 seconds.
+{sub1{$1}sub1}; La velocidad de movimiento de los miembros cercanos del equipo de $2 se incrementa durante 40 segundos.
+
+{s};{c} The damage taken by nearby members of the team to which {c} belongs is reduced for 20 seconds.
+{sub1{$1}sub1}; El daño recibido por los miembros cercanos del equipo de $2 se reduce durante 20 segundos.
+
+{s};The attack speed of members nearby {c}'s team is increased for 20 seconds.
+{sub1{$1}sub1}; La velocidad de ataque de los miembros cercanos del equipo de $2 se incrementa durante 20 segundos.
+
+{s};The dodge of members nearby {c}'s team will be increased for 20 seconds.
+{sub1{$1}sub1}; La evasión de los miembros cercanos del equipo de $2 se incrementa durante 20 segundos.
+
+{s};The accuracy of members nearby {c}’s team will increase for 20 seconds.
+{sub1{$1}sub1}; La precisión de los miembros cercanos del equipo de $2 se incrementa durante 20 segundos.
+
+{s};{c}'s nearby members' skills Exempt from chanting, lasting 20 seconds.
+{sub1{$1}sub1}; Los miembros cercanos del equipo de $2 tienen sus habilidades libres de canalización durante 20 segundos.
+
+{s};Lich King: Ah, {c}! This small victory will not change your situation!
+{sub1{$1}sub1}; Rey Exánime; ¡Ah, $2! ¡Esta pequeña victoria no cambiará tu situación!
+
+{s};Pope Saxon;The entrance to the Demon World will open at {s}, demon Hunters, please prepare.
+{sub1{$1}sub1}; Papa Saxon; La entrada al Mundo Demoniaco se abrirá a las $2, cazademonios, preparaos.
+
+{s};Pope Saxon;The entrance to the Demon World has opened and will close at {s}. demon Hunters, please hurry to enter.
+{sub1{$1}sub1}; Papa Saxon; La entrada al Mundo Demoniaco se ha abierto y se cerrará a las $2. Cazademonios, apresuraos a entrar.
+
+{s};Pope Saxon;The entrance to the Demon World has been closed.
+{sub1{$1}sub1}; Papa Saxon; La entrada al Mundo Demoniaco se ha cerrado.
+
+{s};{c} eliminate {s}
+{sub1{$1}sub1}; $2 ha eliminado a {sub2{$3}sub2}
+
+{s};Priest said: See that stake to the north{s} Go break it with magic. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Sacerdote dice: ¿Ves esa estaca al norte? Rómpela con magia. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Black Witch said: See that stake to the north{s} Go break it. Novice guide: Now, please press O to choose a target that is located north. When you hear the sound and name, please hold the J key to launch a continuous attack on the target.
+{sub1{$1}sub1}; Bruja negra dice: ¿Ves esa estaca al norte$2 Ve a romperla. Guía del novato: Ahora, por favor presiona O para seleccionar el objetivo que se encuentra al norte. Cuando escuches el nombre y el sonido, mantén presionada la J para lanzar un ataque continuo sobre este.
+
+{s};Black Witch said: Put those shoes on. There's also a chest in your backpack. Take a good look at it. You can open it when you're strong enough. Now the real test begins. There's a bunch of mutants in the northeast research room. If you want to leave, then go wipe them out. Novice guide: You can use the backquote key on your keyboard to open your character's profile. After you're done viewing it, you can use the ESCAPE key to exit it. Please press ENTER if you need this message repeated.
+{sub1{$1}sub1}; Bruja negra dice: Ponte esas sandalias. También hay un cofre en tu mochila. Revísalo bien. Podrás abrirlo cuando seas lo suficientemente fuerte. Ahora comienza la prueba real. Hay un montón de mutantes al noreste de la sala de análisis. Si te quieres ir, elimínalos. Guía del novato: Puedes usar la tecla Ñ para abrir la ficha de tu personaje. Después de que termines de verla, puedes presionar Escape para cerrarla. Por favor presiona Enter si necesitas escuchar este mensaje de nuevo.
+
+{s};Meteor Queen Elsa: {c}, do you think you can stop me from turning this world into night{s}
+{sub1{$1}sub1}; Elsa; reina de los meteoritos: $2, ¿crees que puedes evitar que convierta este mundo en noche$3
+
+{s};evil spirit: {c}, I'm waiting for you in hell!
+{sub1{$1}sub1}; Espíritu maligno: ¡$2, te esperaré en el infierno!
+
+{s}; posted at {s}
+{sub2{$1}sub2}; publicado a las $2

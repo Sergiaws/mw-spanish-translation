@@ -1,0 +1,1709 @@
+{d} {s}; Unit price {d} arnebia
+$1 {sub2{$2}sub2}; precio por unidad: $3 arnebia
+
+successfully Sold
+Vendido
+
+successfully Purchased
+Comprado
+
+Wild 
+ salvaje
+
+; restricted from trading
+; no se puede comerciar
+
+; bound
+; Binculado
+
+You have no fish and shrimp to sell
+No tienes peces ni camarones para vender
+
+You have no herbs to sell
+No tienes hierbas para vender
+
+You have no ore to sell
+No tienes minerales para vender
+
+lack of vitality
+Te falta vitalidad
+
+item storage
+Almacén de objetos
+
+deposit item
+Depositar objetos
+
+equipment storage
+Almacén de equipos
+
+deposit equipment
+Depositar equipo
+
+fusion beast storage
+Almacén de bestias de fusión
+
+deposit fusion beast
+Depositar bestia de fusión
+
+Welcome, the soul storage can only store soul-bound equipment, mall fusion beasts and special commemorative fusion beasts. All characters under the same account can use it after storage.
+Bienvenido, el almacén de almas solo puede almacenar equipos vinculados, bestias de fusión de la tienda y bestias de fusión conmemorativas especiales. Todos los personajes en la misma cuenta pueden usar lo que esté depositado en el almacén de almas.
+
+take out
+Retirar
+
+deposited
+Depositado
+
+taken out
+Retirado
+
+CD {d} sec remaining for pickup
+$1 segundos de enfriamiento para volver a recoger
+
+Collect the wedding gift package and leave the hall
+Tomar el paquete de regalo de boda y abandonar el salón
+
+Do you want to rename the character?
+¿Quieres renombrar a este personaje?
+
+{d} seconds; {s}
+$1 segundos; {sub2{$2}sub2}
+
+Please select the equipment to be repaired
+Selecciona el equipo a reparar
+
+{s};{s} ;durability {d} of {d}
+{sub2{$1}sub2}; {sub2{$2}sub2}; durabilidad $3 de $4
+
+ {s};Durability {d} of {d};cost {d} Arnebia
+{sub2{$1}sub2}; durabilidad $2 de $3; cuesta $4 arnebia
+
+{s};{s};Durability {d} of {d};cost {d} Arnebia
+{sub2{$1}sub2}; {sub2{$2}sub2}; durabilidad $3 de $4; cuesta $5 arnebia
+
+confirm
+confirmar
+
+cancel
+cancelar
+
+Not enough gang contributions
+No tienes suficiente tributo de pandilla
+
+Please select your respawn method
+Por favor elige dónde reaparecer
+
+Respawn On-Spot with Resurrection Crystal; Costs {d} Resurrection Crystals
+Reaparecer en el lugar con cristal de resurrección. Cuesta $1 cristales de resurrección
+
+Map Respawn with Resurrection Crystal; Costs {d} Resurrection Crystals
+Reaparecer en el mapa con cristal de resurrección. Cuesta $1 cristales de resurrección
+
+Respawn back to the City (Giant rock square)
+Reaparecer en la ciudad (plaza de Rocagigante)
+
+Purchase Resurrection Crystal in the mall
+Comprar un cristal de resurrección en la tienda
+
+Are you sure you want to respawn back to the city?
+¿Confirmas que quieres reaparecer en la ciudad?
+
+Please select the coordinates to transfer to or select the memory unit to save the current coordinates
+Por favor selecciona las coordenadas a las que quieres teletransportarte o selecciona una unidad de memoria para guardar las coordenadas actuales
+
+unit {d}: {s};{d};{d}
+Unidad $1: {sub2{$2}sub2}; $3;$4
+
+unit {d}: none
+Unidad $1: ninguna
+
+Save the current coordinate to unit {d}
+Guarda las coordenadas actuales en la unidad $1
+
+No equipments or fusion beasts
+No hay equipo ni bestias de fusión
+
+Respawn back to the City (starlight Village)
+Reaparecer en la ciudad (Aldea Starlight)
+
+Successfully saved
+Guardado
+
+Are you sure you want to respawn with Resurrection Crystal?
+¿Confirmas que quieres reaparecer con cristales de resurrección?
+
+Respawn back to the City (mettle village)
+Reaparecer en la ciudad (Aldea Mettle)
+
+You have had {d} Talent points; currently can Cultivate up to {d} points
+Has cultivado $1 puntos, actualmente puedes cultivar hasta $2
+
+You have reached the Cultivating  limit for your current level.
+Alcanzaste el límite de cultivo para tu nivel actual
+
+This Cultivating  requires {d} arnebia and {d} gang contributions
+Este punto cuesta $1 arnebia y $2 tributo de pandilla
+
+{c} and {c} want to invite you to their wedding. The wedding will take place in the {s}, do you accept this invite {s} 
+$1 y $2 quieren invitarte a su boda, que se llevará a cabo en el {sub2{$3}sub2}. ¿Quieres asistir$4
+
+Map Respawn
+Reaparecer en el mapa
+
+Respawn back to the City (tulip square)
+Reaparecer en la ciudad (Plaza de Tulipanes)
+
+Elevate to {s}, need {d} Violet Haze Crystal and {d} arnebia
+Elevarlo a {sub2{$1}sub2}, necesitas $2 cristales de niebla violeta y $3 arnebia
+
+Price has expired, elevation failed
+El precio expiró, elevación fallida
+
+Respawn On-Spot with Resurrection Crystal; Costs {d} Resurrection Crystals; You have used Resurrection Crystals {d} times in this map
+Reaparecer en el lugar con cristal de resurrección. Cuesta $1 cristales de resurrección. Ya usaste $2 cristales en este mapa
+
+Map Respawn with Resurrection Crystal; Costs {d} Resurrection Crystals; You have used Resurrection Crystals {d} times in this map
+Reaparecer en el mapa con cristal de resurrección. Cuesta $1 cristales de resurrección. Ya usaste $2 cristales en este mapa
+
+not enough resurrection crystals
+No tienes suficientes cristales de resurrección
+
+Respawn back to the City (White Sand square)
+Reaparecer en la ciudad (Plaza de Arena Blanca)
+
+Respawn back to the City (Sunset Square)
+Reaparecer en la ciudad (Plaza del Atardecer)
+
+Please select; Novice guide: The W, S, A and D keys are used to move arround the menus (Up, Down, Left and Right respectively). Now please use the W and S keys to choose an option.
+Por favor selecciona. Guía del novato: las teclas W, S, A y D se utilizan para moverte por los menús (arriba, abajo, izquierda y derecha respectivamente). Ahora usa W y la S para elegir una opción.
+
+Take weapons and clothing
+Tomar el arma y la ropa
+
+I don't need weapons and clothes
+No necesito arma ni ropa
+
+Don't be naughty, take it. Novice guide: The W, S, A and D keys are used to move arround the menus (Up, Down, Left and Right respectively). Now please use the W and S keys to choose an option.
+No seas malagradecido, tómalo. Guía del novato: las teclas W, S, A y D se utilizan para moverte por los menús (arriba, abajo, izquierda y derecha respectivamente). Ahora usa W y la S para elegir una opción.
+
+Are equipment ready?
+¿Ya te pusiste el equipo?
+
+Not yet, please teach me how to wear
+No, por favor enséñeme cómo usarlo
+
+yes, already dressed
+Sí, ya me lo puse
+
+Have you learned how to use new skills?
+¿Ya aprendiste a usar nuevas habilidades?
+
+No, please teach me how
+No, por favor enséñeme cómo
+
+Yes, I know how to use new skills
+Sí, ya sé cómo usar nuevas habilidades
+
+Respawn back to the City (traveler camp)
+Reaparecer en la ciudad (Campamento Errante)
+
+Not enough Arnebia
+No tienes arnebia suficiente
+
+Hello {c}, please select the service you want
+Hola $1, por favor elige el servicio que quieres
+
+Registration of marriage
+Registrar matrimonio
+
+hold float parade
+Realizar el desfile de la carroza
+
+hold a wedding
+Realizar una boda
+
+change wedding ring
+Cambiar el anillo de bodas
+
+file for divorce
+Divorciarte
+
+Young man, propose to the girl of your choice here. Please select the wedding you want to hold first, different weddings will have different effects and rewards.
+Joven, proponle matrimonio a la chica que quieras aquí. Primero elige la boda que quieras; cada boda tiene distintos efectos y recompensas
+
+Common Wedding; Press for details
+Boda común; pulsa para ver los detalles
+
+Noble Wedding; Press for details
+Boda noble; pulsa para ver los detalles
+
+Royal Wedding; Press for details
+Boda real; pulsa para ver los detalles
+
+At the beginning of the Royal Wedding, the newlyweds will each receive a diamond wedding ring as a testimony of your love. In addition, the royal orchestra will present exclusive music to the newlyweds. Then, you can take a parade around the city on a royal float pulled by unicorns. After the parade, you can apply for a magnificent wedding with Priest MichelleOne hour wedding time limit. Up to 50 players can be invited to the hall of the wedding ceremony. And there will be royal envoys to congratulate you with their gifts. Diamond Wedding Ring: {d}/99.0 Durability; increase {d} HP, {d}MP, {d} physical attack, {d} magic attack, {d} physical defense, {d} magic defense; Level 1; Weight 2; An impeccable aquamarine diamond ring inlaid with a heart-shaped ruby. It is a testament of your undying love.
+Al inicio de la boda real, los recién casados recibirán cada uno un anillo de diamantes como muestra de su amor. Como extra, la orquesta real ofrecerá música exclusiva para los recién casados. Posteriormente podrán desfilar en una carroza tirada por unicornios alrededor de la ciudad. Después del desfile pueden solicitar con el sacerdote Michelle una magnífica boda, que tendrá una hora como límite, y donde podrán invitar hasta a 50 jugadores al salón de bodas, y en donde habrá embajadores de la realeza para felicitarlos y obsequiarles regalos. Anillo de boda de diamantes; durabilidad $1 de 99.0; mejora $2 puntos de salud, $3 puntos de mana, $4 ataque físico, $5 ataque mágico, $6 defensa física y $7 defensa mágica; nivel 1; peso 2; Un impecable anillo de diamantes azul aguamarina engastado con un rubí en forma de corazón, que es testigo de vuestro amor inquebrantable.
+
+Please choose which method to use to start the wedding service
+Por favor elige el método que utilizarán para realizar la boda
+
+You provide two {s} alone as material for the wedding rings
+Tú proporcionas dos {sub2{$1}sub2} como material para los anillos de boda
+
+You and your lover provide one {s} each as material for the wedding rings
+Tú y tu enamorada proporcionan una {sub2{$1}sub2} como material para los anillos de boda
+
+The wedding requires a pair of {s} to start. Your lover can buy two {s} from the mall to propose to you, or after you and him buy one {s} each, your lover can propose to you. With your consent, you and he can become partners for life.
+La boda requiere un par de {sub2{$1}sub2} para comenzar. Tu enamorado puede comprar dos {sub2{$2}sub2} en la tienda para proponerte matrimonio, o después de que él y tu hayan comprado una {sub2{$3}sub2} cada uno, él puede proponerte matrimonio. Cuando aceptes, tú y él se convertirán en esposos de por vida.
+
+you have no {s}
+No tienes {sub2{$1}sub2}
+
+You are going to propose to {c}, and when the proposal is successful you will consume one {s} and marry her. Are you sure you want to propose{s}
+Vas a proponerle matrimonio a $1, y cuando la propuesta sea aceptada entregarás una {sub2{$2}sub2} y te casarás con ella. ¿Estás seguro de continuar$3
+
+You are going to propose to {c}, and when the proposal is successful you will consume two {s} and marry her. Are you sure you want to propose{s}
+Vas a proponerle matrimonio a $1, y cuando la propuesta sea aceptada entregarás dos {sub2{$2}sub2} y te casarás con ella. ¿Estás seguro de continuar$3
+
+successfully proposed
+Le propusiste matrimonio
+
+He has applied to Priest Michelle to hold a Royal Wedding, he will provide a Eternity Stone, and you need to provide  the  same as well, together to make a pair of diamond wedding ring to witness your love, do you accept his proposal{s}
+Él le ha pedido al Sacerdote Michelle realizar una boda real. Va a entregar una piedra de la eternidad y tú deberás entregar una también para hacer un par de anillos de diamantes como muestra de su amor. ¿Aceptas su propuesta$1
+
+{c} is proposing to you, hoping to travel the world with you and grow old together.
+$1 te está proponiendo matrimonio, para viajar juntos por el mundo y envejecer junto a ti.
+
+Description: At the beginning of the Royal Wedding, the newlyweds will each receive a diamond wedding ring as a testimony of your love. In addition, the royal orchestra will present exclusive music to the newlyweds. Then, you can take a parade around the city on a royal float pulled by unicorns. After the parade, you can apply for a magnificent wedding with Priest MichelleOne hour wedding time limit. Up to 50 players can be invited to the hall of the wedding ceremony. And there will be royal envoys to congratulate you with their gifts. Diamond Wedding Ring: {d}/99.0 Durability; increase {d} HP, {d}MP, {d} physical attack, {d} magic attack, {d} physical defense, {d} magic defense; Level 1; Weight 2; An impeccable aquamarine diamond ring inlaid with a heart-shaped ruby. It is a testament of your undying love.
+Descripción: Al inicio de la boda real, los recién casados recibirán cada uno un anillo de diamantes como muestra de su amor. Como extra, la orquesta real ofrecerá música exclusiva para los recién casados. Posteriormente podrán desfilar en una carroza tirada por unicornios alrededor de la ciudad. Después del desfile pueden solicitar con el sacerdote Michelle una magnífica boda, que tendrá una hora como límite, y donde podrán invitar hasta a 50 jugadores al salón de bodas, y en donde habrá embajadores de la realeza para felicitarlos y obsequiarles regalos. Anillo de boda de diamantes; durabilidad $1 de 99.0; mejora $2 puntos de salud, $3 puntos de mana, $4 ataque físico, $5 ataque mágico, $6 defensa física y $7 defensa mágica; nivel 1; peso 2; Un impecable anillo de diamantes azul aguamarina engastado con un rubí en forma de corazón, que es testigo de vuestro amor inquebrantable.
+
+Congratulations, you and {c} are now husband and wife, and have learned the Snuggle Skill. Within the next 24 hours, you can request a float parade from priest Michelle.
+Felicidades, tú y $1 ahora son marido y mujer y han aprendido la habilidad Intimidad. Durante las próximas 24 horas, pueden solicitar un desfile de boda al sacerdote Michelle.
+
+Would you like to go on a float parade now? The royal float will take you and your partner around the city to distribute wedding packages
+¿Quieres hacer un desfile en la carroza? La carroza real te llevará a ti y a tu pareja a través de la ciudad y arrojará paquetes de boda.
+
+start parading
+Comenzar desfile
+
+close
+Cerrar
+
+Please select a wedding hall
+Por favor elige un salón de bodas
+
+Rippling Love; Press for details
+Amor en el aire; presiona para más detalles
+
+Passionate Spring; Press for details
+Primavera apasionante; presiona para más detalles
+
+Divine Love; Press for details
+Amor divino; presiona para más detalles
+
+Romantic Stars; Press for details
+Romance bajo las estrellas; presiona para más detalles
+
+Hold your wedding on the streaming river.
+Realiza la boda en una corriente de río
+
+Enter the wedding hall; after entering, you can go to the receptionist to invite friends to the wedding
+Entrar al salón de bodas; una vez dentro, puedes hablar con el mensajero para invitar a tus amigos a la boda
+
+Hold your wedding in the springtime garden.
+Realiza la boda en el jardín primaveral
+
+Hold your wedding in the solemn and sacred church.
+Realiza la boda en la iglesia sagrada y solemne
+
+Hold your wedding under the starry night sky.
+Realiza la boda bajo el cielo estrellado
+
+Wedding Site
+Salón de bodas
+
+Please let Ms. {c}, the woman of the hour, come up to the stage and prepare{s}
+Por favor deja que $1, la novia, venga al escenario y se prepare$2
+
+{d} minutes left until the end of the wedding
+$1 minutos para terminar la boda
+
+Clock
+Reloj
+
+Clock; Clock
+Reloj; reloj
+
+{c}, have all your guests arrived{s} The honor guards have {d} large fireworks, which can be lit after the guests arrive. {d} large fireworks have been lit, {d} remaining.
+$1, ¿ya llegaron todos tus invitados$2 Los guardias de honor tienen $3 grandes fuegos artificiales que pueden ser encendidos al arrivar los invitados, $4 grandes fuegos articiales han sido encendidos, todavía quedan $5
+
+The honor guards also have small fireworks for the guests to set off. You can tell them to go light them up. Each person can light up 1 firework.
+Los guardias de honor también tienen pequeños fuegos artificiales, para que les digas a tus invitados que los recolecten y los enciendan. Cada persona puede encender uno.
+
+Press to start the wedding
+Pulsa para iniciar la boda
+
+every online player of your gang
+Todos los jugadores conectados de tu pandilla
+
+select to invite allied gang players
+Selecciona para invitar a jugadores de pandillas aliadas.
+
+Specific player
+Jugador específico
+
+Please let Mr. {c}, the man of the hour, come up to the stage and prepare{s}
+Por favor deja que $1, el novio, venga al escenario y se prepare$2
+
+{c} My large fireworks is ready, please light it{s}
+$1, mi gran fuego artificial está listo, por favor enciéndelo$2
+
+Light the large fireworks
+Encender los grandes fuegos artirficiales
+
+central plains every online player
+Todos los jugadores de las Llanuras Centrales
+
+Mario Basin every online player
+Todos los jugadores de la Cuenca de Mario
+
+Fertile Wilds every online player
+Todos los jugadores de las Tierras Salvajes Fértiles
+
+Tuneful Wetland every online player
+Todos los jugadores del Humedal Armonioso
+
+Glorious Grassland every online player
+Todos los jugadores de la Pradera Gloriosa
+
+secluded valley every online player
+Todos los jugadores de la Montaña Aislada
+
+High climbing grassland every online player
+Todos los jugadores de la Pradera de Alta Escalada
+
+hilly terrain every online player
+Todos los jugadores del Terreno Montañoso
+
+black wasteland every online player
+Todos los jugadores del Páramo Negro
+
+I'm so sorry, I don't have any large fireworks.
+Lo siento, ya no tengo grandes fuegos artificiales
+
+are you sure you want to end the fireworks and move on to the next stage of the wedding?
+¿Confirmas que quieres terminar con el encendido de fuegos artificiales y continuar a la siguiente etapa?
+
+Hey, you can't start by yourself, where's the groom?
+Eh, no puedes empezar sola. ¿Dónde está el novio?
+
+The groom should collect the vow card and use it to deliver his vow to the bride.
+El novio debe recolectar la tarjeta de votos y hacerle el voto a su novia
+
+Collect
+Recolectar
+
+The newlyweds shall accept the envoys' gifts
+Los recién casados deben aceptar los regalos de los embajadores.
+
+Kid, this is a gift from Garth Empire, take it.
+chico, este es un regalo del Imperio Garth, por favor tómalo.
+
+Take the gift
+Tomar el regalo
+
+Young man, this is a gift from Loki Union, please take it.
+Joven, este es un regalo de la Federación Loki, por favor tómalo.
+
+Lad, this is a gift from Central Kingdom, please take it.
+Muchacho, este es un regalo del Reino Central, por favor tómalo.
+
+I wish you a happy life!
+¡Te deseo una vida feliz!
+
+You have been blessed by {d} guests, each of the couple will receive {d} gold coins.
+La pareja ha sido bendecida por $1 invitados, y cada uno de ustedes recibirá $2 oro.
+
+Stop guests from receiving blessing cards and newlyweds from receiving envoy gifts. Move on to the next step
+Detener el recibimiento de bendiciones de los invitados y el recibimiento de regalos por parte de los embajadores y continuar a la siguiente etapa.
+
+Now comes the "Piggy Rush" session. The newlyweds shall release Golden Pig for everyone to chase and hit. Those who hit the pigs will receive drop rewards.
+Ahora viene la sesión de cerdos descontrolados. Los recién casados deben soltar a los cerdos para que todos los cacen y los hieran, y quien más daño les haga recibirá recompensas.
+
+{d} Golden Pig released; {d} Golden Pig can be released; {d} Golden Pig have been released; {d} Golden Pig slain.
+$1 cerdos sueltos. Se pueden soltar $2 cerdos. $3 cerdos han sido soltados y $4 asesinados.
+
+You've released all the Golden Pig.
+Ya soltaste a todos los cerdos.
+
+End the "Piggy Rush" session and move on to the next step.
+Terminar la sesión de cerdos descontrolados y continuar con la siguiente etapa.
+
+Send out gift boxes; {d} gift boxes in total; {d} gift boxes sent out; {d} gift boxes remaining; the guests have collected {d} gift boxes
+Enviar las cajas de regalo; $1 cajas en total; han enviado $2; quedan $3; los invitados han tomado $4
+
+Sent out; press to return
+Enviada. Presiona para continuar.
+
+The newlyweds can let gift boxes drop from random places in the hall for the guests to collect.
+Los recién casados pueden dejar caer cajas de regalo en lugares aleatorios del salón para que los invitados las recojan.
+
+The couple cannot collect the gift boxes
+La pareja no puede atrapar cajas de regalo
+
+End the gift box session and move on to the next step
+Terminar la sesión de las cajas de regalo y continuar con el siguiente paso.
+
+Collect Coins
+Recolectar las monedas
+
+Already collected; press to return
+Ya las recolectaste; presiona para continuar
+
+Already accepted; Press to return
+Ya aceptaste; presiona para continuar
+
+Now, the newlyweds shall snuggle with each other, then receive the priest's blessing.
+Ahora la pareja debe compartir intimidad, para luego recibir la bendición del sacerdote.
+
+You have already received the priest's blessing
+Ya recibiste la bendición del sacerdote
+
+Accept the blessing; the blessing will increase 100 intimacy between you and your partner
+Aceptar la bendición; la bendición aumentará 100 puntos de  intimidad entre tú y tu pareja
+
+send things between husband and wife
+Enviarle cosas a tu pareja
+
+Potion and Food
+Pociones y comida
+
+{s}, you have: {d}
+{sub2{$1}sub2}, tienes $2
+
+sent out
+Enviado
+
+Start a nearby chat;private chat;add to contacts
+Iniciar un chat cercano; chat privado; agregar a contactos
+
+Start a nearby chat
+Iniciar un chat cercano
+
+private chat
+Chat privado
+
+add to contacts
+Agregar a contactos
+
+No equipment to give away
+No tienes equipo para dar
+
+Your wedding ring is already the best, no need to change it
+Tu anillo ya es el mejor, no necesitas cambiarlo
+
+you have had a wedding
+Ya tuviste una boda
+
+You are married, don't be a playboy.
+Ya estás casado, no seas mujeriego
+
+You've already had a wedding and can no longer hold float parade
+Ya tuviste una boda, por lo que no puedes realizar un desfile.
+
+Marriage needs to be Cultivated, please don't give up easily. But if you are determined to divorce, please choose one of the following divorce methods
+El matrimonio necesita cultivarse, por favor no te rindas tan fácilmente. Si aún así quieres divorciarte, selecciona uno de los siguientes métodos de divorcio
+
+Negotiated divorce; free
+Divorcio negociable; gratis
+
+Forced Divorce; consumes {d} gold coins
+Divorcio forzado; cuesta $1 monedas de oro
+
+Are you sure you want to buy this point product?
+¿Confirmas que quieres comprar este producto de puntos?
+
+Are you sure you want to submit feedback?
+¿Confirmas que quieres enviar retroalimentación?
+
+A negotiated divorce requires your partner to be present and agree to your divorce petition. After the divorce, both of your wedding rings will be taken back. Are you sure you want to negotiate a divorce?
+Un divorcio negociado requiere que tu pareja esté presente y acepte la petición de divorcio. Después de divorciarse los anillos se les serán retirados. ¿Confirmas que quieres continuar?
+
+Force to divorce requires a processing fee of {d} gold coins, after the divorce you and your partner will return to single status and the wedding ring will be taken back. Are you sure you want to force a divorce?
+Un divorcio forzado requiere una transacción de $1 monedas de oro por el trámite, que hará que tú y tu pareja se divorcien, recuperen el estado cibil de soltero y que se les retire el anillo. ¿Confirmas que quieres continuar?
+
+Central Kingdom Teleportation stone select teleport location
+Piedra de teletransportación del Reino Central. Selecciona la ubicación
+
+Sunset Square
+Plaza del Atardecer
+
+Giant rock square
+Plaza de la Roca
+
+White Sand square
+Plaza de Arena Blanca
+
+reset talent skills
+Restablecer habilidades de talento
+
+You have {d} talent points, now it will take {d} points, it costs {d} arnebia for every point taking
+Tienes $1 puntos, esto tomará $2 puntos, cuesta $3 arnebia por cada punto tomado
+
+Are you sure you want to reset?
+¿Confirmas que quieres restablecer?
+
+not enough talent points
+No tienes suficientes puntos de talento
+
+You have reached the upper limit of Cultivating  at the current level
+Alcanzaste el límite de cultivo para tu nivel actual
+
+{d} seconds, wear cooldown
+$1 segundos de enfriamiento de uso
+
+No repairable equipment
+Sin equipo reparable
+
+{s}, what can I do for you{s}
+{sub2{$1}sub2}, ¿qué puedo hacer por ti$2
+
+Reset Talents
+Restablecer talentos
+
+Collect hunting bountie
+Recoger recompensas de caza
+
+Exchange Contribution Chest
+Cangear cofre de contribución
+
+Each contribution chest requires 5000 contributions to exchange, and can be exchanged up to twice a day. Are you sure you want to exchange a chest with your contributions?
+Cada cange de un cofre de contribución cuesta 5000 puntos de contribución y puedes cangear dos cofres por día. ¿Quieres continuar?
+
+Confirm
+Confirmar
+
+Cancel
+Cancelar
+
+reset complete
+Restablecimiento finalizado
+
+Go to white sand City; VIP are free
+Ir a Ciudad Arena Blanca; los VIP viajan gratis
+
+Go to white sand City; Costs {d} Arnebia
+Ir a Ciudad Arena Blanca. Cuesta $1 arnebia
+
+Are you sure you want to go to white sand City?
+¿Confirmas que quieres ir a ciudad Arena Blanca?
+
+Go to Giant Rock City; Members are free
+Ir a Ciudad Rocagigante. Los VIP viajan gratis
+
+Go to Giant Rock City; VIP are free
+Ir a Ciudad Rocagigante. Los VIP viajan gratis
+
+Go to Giant Rock City; Costs {d} Arnebia
+Ir a Ciudad Rocagigante. Cuesta $1 arnebia
+
+Are you sure you want to go to Giant Rock City?
+¿Confirmas que quieres ir a Ciudad Rocagigante?
+
+Requirements not met
+No cumples las condiciones requeridas
+
+Exceeded times
+Alcanzaste el límite
+
+The character is not online
+Ese personaje no está conectado
+
+Respawn back to the City (Aria Village)
+Reaparecer en la ciudad (Aldea Aria)
+
+cannot open
+No se puede abrir
+
+Name changed successfully
+Nombre cambiado con éxito
+
+Open the treasure chest and return
+Abrir el cofre del tesoro y regresar
+
+Open the chest
+Abrir el cofre
+
+Go to Lifting Platform No. {d}
+Ir a la plataforma elevada número $1
+
+Are you sure you want to go to Lifting Platform No. {d}{s}
+¿Confirmas que quieres ir a la plataforma elevada número $1$2
+
+Go to Tulip City
+Ir a Ciudad Tulipán
+
+Are you sure you want to go to Tulip City?
+¿Confirmas que quieres ir a Ciudad Tulipán?
+
+Go to giant rock city
+Ir a Ciudad Rocagigante
+
+{s}, are you here to reset your Talents or collect rewards{s}
+{sub2{$1}sub2}, viniste a restablecer talentos o a obtener recompensas$2
+
+Collect Hunting Bounty
+Recoger recompensas de caza
+
+Exchange Battlefield feats
+Intercambiar méritos de batalla por objetos
+
+Respawn back to the City (North Mountain  Plantation)
+Reaparecer en la ciudad (Plantación de la Montaña del Norte)
+
+Collect Long Pants
+Recoger pantalones largos
+
+Learn Supporting skill
+Aprender habilidad de apoyo
+
+Supporting Skill and Skill Keys Instruction
+Instrucciones sobre las habilidades de apoyo y las teclas de las habilidades
+
+The Orc's supporting skill is Berserk Roar, which increases your critical hit by 30 points over the next two minutes with each cast. It is more effective in team battles, as it can increase the critical hit of all team members.
+La habilidad de apoyo del orco es Rugido Berserk, que aumenta tu golpe crítico en 30 puntos durante los próximos dos minutos con cada lanzamiento. Es más eficaz en las batallas en equipo, ya que puede aumentar el golpe crítico de todos los miembros del equipo.
+
+This skill costs 250 Rage. You can gain rage by hitting enemies with common attack skills. Press T to check your rage at any time. When you've accumulated enough rage, you can cast Berserk Roar.
+Esta habilidad cuesta 250 de ira. Puedes ganar ira al golpear a los enemigos con habilidades de ataque básicas. Pulsa T para comprobar tu ira en cualquier momento. Cuando hayas acumulado suficiente ira, puedes lanzar Rugido Berserk.
+
+The Witcher's Supporting skill is Healing Wave, which can restore HP to yourself or your ally during battle.
+La habilidad de apoyo del hechicero es Ola Curativa, que puede restaurar tu salud o la de un aliado durante una batalla.
+
+To heal yourself, you need to switch the target to a non-ally target and use the skill, or use the skill while holding down SHIFT.
+Para curarte a ti mismo debes cambiar el objetivo a un objetivo no aliado, o presionar Shift + la tecla de la habilidad y lanzarla.
+
+The Elf's supporting skill is Critical Blaze, which increases your critical hit by 50% over the next 30 seconds with each cast. It is more effective in team battles, as it can increase the critical hit of all magic classes in your team.
+La habilidad de apoyo del Elfo es Resplandor Crítico, que aumenta tu golpe crítico en un 50 % durante los siguientes 30 segundos con cada lanzamiento. Es más eficaz en las batallas en grupo, ya que puede aumentar el golpe crítico de todas las clases mágicas de tu equipo.
+
+This skill only buffs magic classes, so it can play the most advantage when you have many magic classes in your team.
+Esta habilidad solo mejora a las clases mágicas, por lo que se le puede sacar mayor ventaja cuando tienes muchos personajes mágicos en tu equipo.
+
+The Hunter's supporting skill is Strong-Arm Aura, which increases your attack damage by 25% over the next two minutes with each cast. It is more effective in team battles, as it can increase the attack damage of all team members.
+La habilidad de apoyo del cazador es Aura de poder , que aumenta el daño de ataque en un 25 % durante los siguientes dos minutos con cada lanzamiento. Es más efectivo en batallas en equipo, ya que puede aumentar el daño de ataque de todos los miembros.
+
+It is the most powerful team damage supporting skill across all classes, but it has a long CD, and needs to be cast at the right moment.
+Es la habilidad de apoyo de daño de equipo más poderosa de todas las clases, pero tiene un enfriamiento largo y debe lanzarse en el momento adecuado.
+
+The Mage's supporting skill is Winter Horn, which increases your attack damage by 30% over the next 30 seconds with each cast. It is more effective in team battles, as it can increase the attack damage of all magic classes in your team.
+La habilidad de apoyo del mago es Cuerno de Invierno, que aumenta el daño de ataque en un 30% durante los siguientes 30 segundos. Es más efectivo en batallas en equipo, ya que puede aumentar el daño de ataque de todas las clases mágicas de tu equipo.
+
+It is the most powerful team damage supporting skill, but it only buffs magic classes, so it can play the most advantage when you have many magic classes in your team.
+Es la habilidad de apoyo de daño en equipo más poderosa, pero solo afecta a las clases mágicas, por lo que se le sacará más ventaja cuando tengas muchas clases mágicas en tu equipo.
+
+Supporting skills also need to be bound to Skill Keys. You can do so by holding down left CTRL+ALT and pressing a skill key. There is a total of 10 skill keys: in addition to the two keys in the middle, there are three keys starting from Y to the right and five keys starting from N to the right.
+Las habilidades de apoyo también deben vincularse a las teclas de habilidad. Puedes hacerlo manteniendo pulsadas las teclas CTRL+ALT izquierda y pulsando una tecla de habilidad. Hay un total de 10 teclas de habilidad: además de las dos teclas del medio H y J, hay una fila superior de tres teclas, Y; U e I, y una fila inferior de 4 teclas, N; M; coma y punto. Por último hay una tecla extra, situada 2 teclas a la derecha de la letra Ñ.
+
+To check the skill already bound to a certain skill key, hold down left CTRL+SHIFT+ALT and then press that skill key.
+Para verificar qué habilidad está asignada a una determinada tecla de habilidad, mantén pulsadas las teclas CTRL+SHIFT+ALT izquierda y luego pulsa la tecla de habilidad.
+
+How to team up and fight as a team
+Cómo hacer equipo y luchar en equipo
+
+To team up in battles, you can approach a player already in a team and press ENTER to join their team via the dialog menu; or you can press left CTRL+ENTER to open the Action Menu and create your own team for other players to join.
+Para formar equipos, puedes acercarte a un jugador que ya está en un equipo y pulsar ENTER para unirte a su equipo a través del menú de diálogo; o puedes pulsar CTRL izquierdo+ENTER para abrir el Menú de acción y crear tu propio equipo para que se unan otros jugadores.
+
+When you're in a team, you can head out and fight monsters with your friends. At this time, press SHIFT+QUOTATION to switch your target to the team leader, or view the team leader's location. To communicate with your team members, open the chat window by pressing BACKSLASH, switch to team channel at the channel list, then type in what you want to say.
+Cuando estás en un equipo, puedes salir y luchar contra monstruos con tus amigos. En este momento, puedes pulsar SHIFT+acento agudo para cambiar tu objetivo al líder del equipo o ver la ubicación del líder del equipo. Para comunicarte con los miembros de tu equipo, abre la ventana de chat presionando ordinal masculino, cambia al canal del equipo en la lista de canales y luego escribe lo que deseas decir. Nota del traductor: Las teclas pueden cambiar dependiendo de tu distribución de teclado. Para aclarar, el acento agudo es la tecla situada directamente a la derecha de la Ñ, y el ordinal masculino es la tecla situada directamente a la izquierda del número 1 del teclado alfanumérico.
+
+When following the team, if you're worried about getting separated, you can double press P to follow a team member. You will approach the member you are following as long as you two are within 20 yards. Press P to cancel following.
+Al seguir al equipo, si te preocupa separarte, puedes pulsar dos veces P para seguir a un miembro del equipo. Te acercarás al miembro que estás siguiendo siempre que no estés a más de 20 metros de distancia. Pulsa P para cancelar el seguimiento.
+
+If you are already far away from the team leader, you can quickly teleport to him/her by pressing Shift+P, but you can only do this when out of combat, and the distance between you and the team leader cannot exceed 60 yards. Every teleportation has a 1-minute CD.
+Si ya estás lejos del líder del equipo, puedes teletransportarte rápidamente hacia él presionando Shift+P, pero solo puedes hacer esto cuando estás fuera de combate, y la distancia entre tú y el líder del equipo no puede superar los 60 metros. Cada teletransportación tiene un enfriamiento de 1 minuto.
+
+When your team is skilled in cooperation, you can leave the village and head north to adventure more dangerous places.
+Cuando tu equipo sea hábil en la cooperación, puedes abandonar el pueblo y dirigirte al norte para aventurarte en lugares más peligrosos.
+
+Purchase Level 5 Skill Crystal
+Comprar el cristal de la habilidad de nivel 5
+
+I can teach you nothing, please go seek Ecilian.
+No te puedo enseñar nada, por favor busca a Ecilian
+
+Respawn back to the City (Soul Burial Village)
+Reaparecer en la ciudad (Aldea Descanso de las Almas)
+
+Insufficient contributions
+Contribución insuficiente
+
+Attack from {c}; ID({d}
+Ataque de $1; ID ($2)
+
+You were killed by {s}
+Te ha matado {sub2{$1}sub2}
+
+Your pet was killed by {c}; ID({d}
+Tu mascota ha sido asesinada por $1; ID ($2)
+
+appear {d} {s} ; restricted
+Aparecen $1 {sub2{$2}sub2}; restringido
+
+appear {d} {s} 
+Aparecen $1 {sub2{$2}sub2}
+
+Welcome to Lucky Draw. You have {d} luck points
+Bienvenido a la ruleta de la suerte; tienes $1 puntos de suerte
+
+Refresh limit reached today
+Alcanzaste el límite de actualizaciones por hoy
+
+Current item: {d} {s}; restricted from trading
+Objeto actual: $1 {sub2{$2}sub2}; no se puede comerciar
+
+Current item: {d} {s}
+Objeto actual: $1 {sub2{$2}sub2}
+
+Current item: none
+Objeto actual: ninguno
+
+Press to refresh the item, the cost is 10 diamonds; {d} times remaining today
+Pulsa para actualizar el artículo, el coste es 10 diamantes; Quedan $1 veces hoy
+
+You still have {d} free item refreshes today; Press here to refresh
+Todavía tienes $1 actualizaciones gratuitas hoy; pulsa aquí para actualizar
+
+take the item, use 10 Bless Points, you have a total of {d} Bless Points
+toma el artículo, usa 10 puntos de bendición, tienes un total de $1 puntos de bendición
+
+take the item, cost 10 diamonds
+toma el artículo, cuesta 10 diamantes
+
+take the item, use {d} diamonds and {d} Bless Points, you have a total of 2 Bless Points
+toma el artículo, usa $1 diamantes y $2 puntos de bendición, tienes un total de $3 puntos de bendición
+
+Rule Description
+Descripción de la ruleta
+
+Respawn back to the City (Boarding entrance {d})
+Reaparecer en la ciudad (Entrada de abordaje $1)
+
+{s}, do you need special equipment{s} If you work hard enough, you can exchange fusion beasts, medals of honor and backpacks with me{s}
+{sub2{$1}sub2}, ¿necesitas equipo especial$2 Si te esfuerzas lo suficiente, puedes intercambiar bestias de fusión, medallas de honor y mochilas conmigo$3
+
+Exchange Fusion Beast Crystal
+Intercambiar cristal de bestia de fusión
+
+Exchange Medal
+Intercambiar medalla
+
+Exchange Backpack
+Intercambiar mochila
+
+soft pouch; limited to Level 40 exchange; requires 5 Insulating glue; 8 Worthless Blood; 5 Worthless Jerky; 6 Worthless Pelt; 15.0/15.0 Durability; increases 10 physical defense10 magic defense Load 1000; Level 30; It has excellent toughness, can disperse the load pressure, and fully expand the storage capacity of the backpack.
+Bolsa Ligera; intercambio limitado a jugadores de nivel 40 y superior; requiere 5 pegamento aislante, 8 sangre sin valor, 5 carne sin valor y 6 pieles sin valor; 15.0 de 15.0 durabilidad; aumenta la defensa física en 10, la defensa mágica en 10 y la carga en 1000. Nivel 30; Tiene una dureza excelente y puede dispersar la presión de carga, lo que hace que la capacidad de almacenamiento de la mochila se expanda.
+
+Central Kingdom: {s} {d}, {d} {d}:{d}; Real time: {s} {d}, {d}:{d}:{d}, {d}
+Reino central: $2 de {sub2{$1}sub2} de $3, $4:$5. Hora real: $8:$9:$10, $7 de {sub2{$6}sub2} de $11
+
+join
+Unirte
+
+private chat to the leader
+Enviarle mensaje privado al líder
+
+Nether Cave floor {d}
+Piso $1 de la Cueva Abisal
+
+Loki Union: {s} {d}, {d} {d}:{d}; Real time: {s} {d}, {d}:{d}:{d}, {d}
+Federación Loki: $2 de {sub2{$1}sub2} de $3, $4:$5. Hora real: $8:$9:$10, $7 de {sub2{$6}sub2} de $11
+
+Jan
+Ene
+
+Apr
+Abr
+
+Aug
+Ago
+
+Dec
+Dic
+
+Go to Moon city; VIP are free
+Ir a Ciudad Lunar; los VIP viajan gratis
+
+Go to Moon city; Costs {d} Arnebia
+Ir a Ciudad Lunar; cuesta $1 arnebia
+
+Are you sure you want to go to Moon City?
+¿Confirmas que quieres ir a Ciudad Lunar?
+
+Respawn back to the City (Moon Square)
+Reaparecer en la ciudad (Plaza de la Luna)
+
+Cannot be used until level {d}
+No se puede usar hasta ser nivel $1
+
+accept
+Aceptar
+
+ignore
+Ignorar
+
+Ms. {c}, would you like to light the fireworks{s} Everyone can collect one before the wedding officially begins{s}
+Señorita $1, ¿quiere encender los fuegos artificiales$2 Cada persona puede recolectar uno antes de que la boda inicie oficialmente$3
+
+Collect the fireworks; Please use it within 30 seconds after collection
+Recolectar los fuegos artificiales; por favor úsalos 30 segundos después de que los recolectes
+
+Collect the blessing card
+Tomar la tarjeta de bendición
+
+Collect action in CD
+Enfriamiento; espera para recolectar
+
+Go to Tulip City; VIP are free
+Ir a Ciudad Tulipán; los VIP viajan gratis
+
+Go to Tulip City; Costs {d} Arnebia
+Ir a Ciudad Tulipán; cuesta $1 arnebia
+
+the fusion power is too low
+No tienes suficiente poder de fusión
+
+overweight
+Sobrecargado
+
+ {s};durability {d} of {d}
+{sub2{$1}sub2}; durabilidad $2 de $3
+
+have no {s}
+No tienes {sub2{$1}sub2}
+
+{s} ; locked
+{sub2{$1}sub2}; bloqueado
+
+treasure hunt in Wonderland
+búsqueda del tesoro en el país de las maravillas
+
+Open the portal to the Wonderland, and use your lucky hands to grasp the treasures scattered there! You can get precious mall items and equipment boosting items.
+¡Abre el portal al País de las Maravillas y usa tus manos afortunadas para agarrar los tesoros esparcidos allí! Puedes obtener artículos preciosos de la tienda y artículos de refuerzo de equipos.
+
+press to purchase treasure hunts
+Pulsa para comprar búsquedas del tesoro
+
+start a treasure hunt
+iniciar una búsqueda del tesoro
+
+Please select the number of times to purchase
+Selecciona el número de veces a comprar
+
+{d} times, fee {d} diamonds
+$1 veces, cuesta $2 diamantes
+
+Not enough diamonds
+No tienes suficientes diamantes
+
+treasure hunt under the sea
+búsqueda del tesoro bajo el mar
+
+Open the portal to the deep sea, and use your lucky hands to grasp the treasures scattered there! You can get precious mall items and equipment boosting items.
+¡Abre el portal a las profundidades del mar y usa tus manos afortunadas para agarrar los tesoros esparcidos allí! Puedes obtener artículos preciosos de la tienda y artículos de refuerzo de equipos.
+
+Purchase completed
+Compra completada
+
+You have {d} treasure hunts, press to buy more
+Tienes $1 búsquedas del tesoro, pulsa para comprar más
+
+Received {d} {s} from {c} ({d})
+Recibiste $1 {sub2{$2}sub2} de $3 ($4)
+
+Do you want to repair all the equipment that is already equipped{s}Restrict repairable equipment level: {d} 
+¿Quieres reparar todo el equipo en uso$1 Nivel máximo de equipo reparable: $2
+
+Outsider, do you wish to reset your talents? Or are you here to collect bounties?
+Extranjero, ¿estás aquí para restablecer tus talentos, o quieres recoger recompensas de caza?
+
+Hunt down {s}; Bounty: {d} Arnebia
+Recompensa por cazar a {sub2{$1}sub2}; $2 arnebia
+
+Do you want to repair all the equipments in your backpack{s} Restrict repairable equipment level: {d} 
+¿Quieres reparar todo el equipo en la mochila$1 Nivel máximo de equipo reparable: $2
+
+Respawn back to the City (breezy Village)
+Reaparecer en la ciudad (Aldea Ventosa)
+
+refuse
+Rechazar
+
+cannot enter, the wedding hall is full
+Ya no puedes entrar, el salón de bodas está lleno
+
+{d}; {s}; {s} ; bound
+$1; {sub2{$2}sub2}; {sub2{$3}sub2}; vinculado
+
+{s};{s} ; bound
+{sub2{$1}sub2}; {sub2{$2}sub2}; vinculado
+
+Outlander, happy to be at your service. Are you here to reset your Talents or collect boss-killing bounties?
+Forastero, feliz de estar a tu servicio. ¿Estás aquí para restablecer tus talentos o recolectar recompensas por matar jefes?
+
+tulip square
+Plaza de Tulipanes
+
+Moon Square
+Plaza de la Luna
+
+You have {n} battlefield merit points, do you want to exchange for any precious materials{s}
+Tienes $1 puntos de batalla, ¿quieres intercambiarlos por algún material valioso$2
+
+team leader cannot teleport
+El líder del equipo no puede teletransportarse
+
+Respawn back to the City (northern town)
+Reaparecer en la ciudad (Pueblo Septentrional)
+
+Do you have any worthless blood, jerky or pelt? I can trade good things for them if you have some.
+¿Tienes algo de sangre, piel o carne sin valor? Podría intercambiarte algo de eso por buen equipo.
+
+Deliver 20 worthless blood; receive a Right Hand Jade Ring
+Entregar 20 sangre sin valor; recibirás un anillo de jade para la mano derecha
+
+Deliver 20 worthless jerky; receive a Right Hand Jade Ring
+Entregar 20 carne sin valor; recibirás un anillo de jade para la mano derecha
+
+Deliver 20 worthless pelts; receive a Right Hand Jade Ring
+Entregar 20 pieles sin valor; recibirás un anillo de jade para la mano derecha
+
+Come back when you've collected enough worthless blood.
+Regresa cuando hayas recolectado suficiente sangre sin valor
+
+Come back when you've collected enough worthless jerky.
+Regresa cuando hayas recolectado suficiente carne sin valor
+
+Come back when you've collected enough worthless pelt.
+Regresa cuando hayas recolectado suficientes pieles sin valor
+
+cannot private chat until level 6
+No puedes mantener un chat privado hasta el nivel 6.
+
+Why are you here, instead of studying magic? Novice guide: S and W keys are used to navigate the menu. Now press S or W to choose your answer, and press ENTER to confirm.
+¿Por qué estás aquí, en vez de estudiando la magia? Guía del novato: Se usa S y W para navegar por los menús. Ahora usa estas teclas para elegir tu respuesta y presiona Enter para confirmar.
+
+Little brat! Where do you think you're going? Novice guide: S and W keys are used to navigate the menu. Now press S or W to choose your answer, and press ENTER to confirm.
+¡Mocoso! ¿A dónde crees que vas? Guía del novato: Se usa S y W para navegar por los menús. Ahora usa estas teclas para elegir tu respuesta y presiona Enter para confirmar.
+
+{s} Novice guide: S and W keys are used to navigate the menu. Now press S or W to choose your answer, and press ENTER to confirm.
+$1 Guía del novato: Se usa S y W para navegar por los menús. Ahora usa estas teclas para elegir tu respuesta y presiona Enter para confirmar.
+
+We keep studying spells in the Magic Association all day, why don't you let me go out and search for lost magic? Maybe there is information hidden out there related to the Mist Gods.
+Nos la pasamos estudiando hechizos en la sociedad mágica todo el día. ¿Por qué no me dejas ir afuera y buscar la magia perdida? Probablemente hay información oculta allí sobre los dioses de la niebla.
+
+Perhaps the reason we cannot communicate with the Mist Gods is that we're too weak. So I wanna venture out and improve myself in battle.
+Quizá la razón por la que no nos podemos comunicar con los dioses de la niebla es porque somos demasiado débiles, así que quiero aventurarme y mejorar en batalla.
+
+Never underestimate the power of items. Novice guide: The W, S, A and D keys are used to move arround the menus (Up, Down, Left and Right respectively). Now please use the W and S keys to choose an option.
+Nunca subestimes el poder de los objetos. Guía del novato: las teclas W, S, A y D se utilizan para moverte por los menús (arriba, abajo, izquierda y derecha respectivamente). Ahora usa W y la S para elegir una opción.
+
+{s}Novice guide: The W, S, A and D keys are used to move arround the menus (Up, Down, Left and Right respectively). Now please use the W and S keys to choose an option.
+{sub2{$1}sub2}Guía del novato: las teclas W, S, A y D se utilizan para moverte por los menús (arriba, abajo, izquierda y derecha respectivamente). Ahora usa W y la S para elegir una opción.
+
+Cannot be used until level {d} 
+No se puede usar hasta nivel $1
+
+Turn off the novice guide
+Desactivar la guía del novato
+
+Tell me, what is the soul of Assassins? Novice guide: S and W keys are used to navigate the menu. Now press S or W to choose your answer, and press ENTER to confirm.
+Dime, ¿cuál es el propósito de los asesinos? Guía del novato: Se usa S y W para navegar por los menús. Ahora usa estas teclas para elegir tu respuesta y presiona Enter para confirmar.
+
+Master, you said Assassins hunt in the shadows, and solitude is our only friend. I've taken this to heart. I will become stronger, and someday I'll avenge you!
+Maestra, me dijiste que los asesinos cazan en las sombras y que la soledad es nuestra única amiga, y me lo he tomado en serio. ¡Me volveré más fuerte y te vengaré!
+
+Of course I remember. But how did they find this place? Look what they've done to you! I'll avenge you! I'll kill them all when I'm strong enough! 
+Por supuesto que lo recuerdo. ¿Pero cómo pudieron encontrar este lugar? ¡Mira lo que te han hecho! ¡Te vengaré! ¡Los mataré cuando sea lo suficientemente fuerte!
+
+No matter how tough you think you are, your body is no match for a blade. Assassins must become masters of weapons. Novice guide: The W, S, A and D keys are used to move arround the menus (Up, Down, Left and Right respectively). Now please use the W and S keys to choose an option.
+No importa lo duro que creas que eres, tu cuerpo no es rival para una espada. Los asesinos deben convertirse en maestros de las armas. Guía del novato: las teclas W, S, A y D se utilizan para moverte por los menús (arriba, abajo, izquierda y derecha respectivamente). Ahora usa W y la S para elegir una opción.
+
+The gang is full
+La pandilla está llena
+
+Respawn back to the City (shaft)
+Reaparecer en la ciudad (Subterráneo)
+
+Channeling {s}
+Canalizando {sub2{$1}sub2}
+
+Not enough
+Insuficiente
+
+Go to white sand City requires Level 36 or above. Go to white sand City when you're stronger.
+Ir a Ciudad Arena Blanca requiere que seas nivel 36 o superior. Ve cuando seas más fuerte
+
+Greetings, {s}, are you here to reset your Talents or collect bounties{s}
+Saludos {sub2{$1}sub2}, ¿estás aquí para restablecer talentos o para recolectar recompensas$2
+
+You can't hunt players of your own gang
+No puedes cazar jugadores de tu propia pandilla
+
+durability {d} of {d}
+Durabilidad $1 de $2
+
+Greetings, Mr. {c}, thank you for coming to the wedding{s} You can collect a blessing card from me later and send your blessings to the new couple{s}
+Saludos señor $1, ¡gracias por venir a la boda$2 Puede recolectar una tarjeta de bendición conmigo más tarde, y así enviarle sus bendiciones a la nueva pareja$3
+
+holy blood square
+Plaza del Emperador
+
+Does not meet entry requirements
+No cumples los requisitos de entrada
+
+Go to holy blood city
+Ir a Ciudad Sangre Santa
+
+You have already exchanged {s}
+Intercambiaste el objeto {sub2{$1}sub2}
+
+Respawn back to the City (holy blood square)
+Reaparecer en la ciudad (Plaza del Emperador)
+
+Go to gouging knife city; requires Level 66 or above, Go to gouging knife city when you're stronger.
+Ir a Ciudad Cuchillo Desenterrado requiere que seas nivel 66 o superior. Ve cuando seas más fuerte
+
+Are you sure you want to go to holy blood city?
+¿Confirmas que quieres ir a Ciudad Sangre Santa?
+
+Respawn back to the City (Stone Cliff Village)
+Reaparecer en la ciudad (Aldea Acantilado de Piedra)
+
+relationship established
+Relación establecida
+
+your pupil {c} sent you {d}  {s}
+Tu pupilo $1 te envió $2 {sub2{$3}sub2}
+
+Does not meet exchange requirements
+No cumples los requisitos para intercambiar
+
+Garth Empire: {s} {d}, {d} {d}:{d}; Real time: {s} {d}, {d}:{d}:{d}, {d}
+Imperio Garth: $2 de {sub2{$1}sub2} de $3, $4:$5. Hora real: $8:$9:$10, $7 de {sub2{$6}sub2} de $11
+
+cost {d} Arnebia
+Cuesta $1 arnebia
+
+blessed pet
+mascota bendita
+
+Your level is too low to exchange any medal. Please keep up the good work; press to return
+Tu nivel es muy bajo como para intercambiar alguna medalla. ¡Sigue trabajando duro! Presiona para regresar.
+
+Deliver 20 worthless blood; receive a Right Hand Gold Ring
+Entregar 20 sangre sin valor; recibirás un anillo de oro para la mano derecha
+
+Deliver 20 worthless jerky; receive a Right Hand Gold Ring
+Entregar 20 carne sin valor; recibirás un anillo de oro para la mano derecha
+
+Deliver 20 worthless pelts; receive a Right Hand Gold Ring
+Entregar 20 pieles sin valor; recibirás un anillo de oro para la mano derecha
+
+{d}; {s}; members {d}; leader is {c}
+$1; {sub2{$2}sub2}; miembros $3; el líder es $4
+
+The item is empty and cannot be claimed
+No hay ningún artículo para tomar.
+
+Go to tulip city; VIP are free
+Ir a Ciudad Tulipán. Los VIP viajan gratis
+
+Go to tulip city; Costs {d} Arnebia
+Ir a Ciudad Tulipán. cuesta $1 arnebia
+
+Are you sure you want to go to tulip City?
+¿Confirmas que quieres ir a Ciudad Tulipán?
+
+Go to holy blood city; VIP are free
+Ir a Ciudad Sangre Santa; los VIP viajan gratis
+
+Go to holy blood city; Costs {d} Arnebia
+Ir a Ciudad Sangre Santa; cuesta $1 arnebia
+
+Are you sure you want to take this item?
+¿Confirmas que quieres tomar este objeto?
+
+Young one, you must train yourself if you want to serve your country. Do you wish to enter the Royal training ground or Fighting training Gym?
+Joven, debes entrenarte si quieres servir a tu país. ¿Quieres entrar al campo de entrenamiento o al gimnasio de lucha?
+
+Enter Royal training ground; requires Level 30 or above
+Entrar al campo de entrenamiento. Requiere nivel 30 o superior
+
+already applied, can apply again after one hour
+Ya aplicaste, no puedes aplicar de nuevo hasta dentro de una hora
+
+Team leader is beyond 60 yards and cannot teleport
+El líder del equipo está a más de 60 metros y no te puedes teletransportar
+
+are you sure you want to accept?
+¿Confirmas que quieres aceptarla?
+
+leave Infernal Trial Ground
+Salir del Campo de Pruebas Infernal
+
+A true warrior is never afraid to die in battle. Are you going to enter the Infernal Trial Ground or the Fighting training Gym?
+Un guerrero verdadero no le teme a la muerte en batalla. ¿Vas a entrar al Campo de Pruebas Infernal o al Gimnasio de lucha?
+
+Entering the Infernal Trial Ground; Level 30 or above is required
+Entrar al Campo de Pruebas Infernal; requiere nivel 30 o superior
+
+HERETIC, what do you want?
+¿Qué quieres, hereje?
+
+If you want to be invincible, hard training is essential.
+Si quieres ser invencible, el entrenamiento duro es esencial
+
+Go to dark night City; requires Level 86 or above, Go to dark night City when you're stronger.
+Ir a Ciudad Noche Oscura requiere que seas nivel 86 o superior. Ve cuando seas más fuerte
+
+Go to Sunset city; VIP are free
+Ir a Ciudad del Atardecer; los VIP viajan gratis
+
+Go to Sunset city; Costs {d} Arnebia
+Ir a Ciudad del Atardecer; cuesta $1 arnebia
+
+Are you sure you want to go to Sunset City?
+¿Confirmas que quieres ir a Ciudad del Atardecer?
+
+Enter Fighting training Gym; requires a team of at least 2 players.
+Entrar al gimnasio de lucha; requiere un equipo con al menos dos personas.
+
+Not enough players, cannot enter.
+No hay suficientes jugadores, no puedes entrar.
+
+Chat
+Charlar
+
+{d};New; Congratulations, you have received {d} gold coin..; Press to see the full text
+$1; Nuevo; Felicidades, has recibido $2 monedas de oro... presiona para ver el mensaje completo
+
+Congratulations, you have received 500 gold coins and Level 30 upgrade gift bag! Gold coins can be used to buy and sell items in space-time marketplaces of various cities in order to exchange resources with other players.
+¡Felicidades, has recibido 500 monedas de oro y una bolsa de regalo de mejora de nivel 30! Las monedas de oro se pueden usar para comprar y vender artículos en los mercados espaciotemporales de varias ciudades para intercambiar recursos con otros jugadores.
+
+You can now wear Level 15 Equipment. You can also forge and socket equipment, which can greatly increase your power. Enhance Crystal Shards and Gem Shards can be traded in Shard Marketplaces of various cities.
+Ahora puedes usar equipo de nivel 15. También puedes forjar y engarzar tu equipo, lo que aumentará considerablemente tu poder. Los fragmentos de cristal de mejora y los fragmentos de gemas se pueden intercambiar en los mercados de fragmentos de varias ciudades.
+
+Congratulations, you have received 1500 gold coins! We're unlocked the Newcomer Value Product for players of Level 30. By recharging $1.5, you can collect $20 worth of diamonds and Arnebia.
+Felicidades, ¡has recibido 1500 monedas de oro! Te hemos desbloqueado el paquete de bienvenida para recién llegados, hecho para jugadores de nivel 30. Al recargar 1.5 dólares en diamantes puedes recolectar diamantes y arnebia por un valor de 20 dólares.
+
+This product is sold in the Value Mall, and is limited to 1 purchase per character. After purchase, you can claim the corresponding income at the Royal Bank in any city. This Value Product is an exclusive bonus for new players, and can be purchased as long as your character is between Level 30 and level 40.
+Este producto se vende en la tienda de productos de valor y está limitado a una compra por personaje. Después de comprarlo, puedes reclamar el ingreso correspondiente en el Banco Real de cualquier ciudad. Este producto de valor es un bonus exclusivo para jugadores nuevos, y se puede comprar tan pronto como tu personaje sea nivel 30 y hasta el nivel 40.
+
+{d};Congratulations, you have received {d} gold coi..; Press to see the full text
+$1; Felicidades, has recibido $2 monedas de or... presiona para ver el mensaje completo
+
+Congratulations, you have received 1000 gold coins! We've also prepared a Super Newcomer Package worthy of $30, including a cute baby frog pet, 20000 gold coins, 1 million Arnebia, and a variety of useful paid items. You can get it by purchasing $0.6 worth of diamonds.
+Felicidades, ¡has recibido 1000 monedas de oro! Te hemos preparado también un súper paquete de bienvenida con un valor de 30 dólares que incluye una enternecedora rana bebé, que es una mascota; 20000 monedas de oro, un millón de arnebia y una variedad de objetos útiles de paga. Lo puedes obtener comprando 0.6 dólares en diamantes.
+
+The Newcomer Package is in the Value Mall. You can enter the Mall via the Action Menu, then move to the right and enter the Value Mall, where you can see the details of the package. This Package is an exclusive bonus for new players, and can be purchased as long as your character is below Level 35.
+Este paquete de bienvenida está en la tienda de productos de valor. Puedes entrar a la tienda desde el menú de acciones, después moverte a la derecha y elegir Entrar a la tienda de productos de valor. Ahí podrás ver los detalles de este paquete, que es un bonus exclusivo para nuevos jugadores, y se puede comprar mientras tu jugador sea nivel 35 o inferior.
+
+Requires {d} Battlefield Merit points
+Requiere $1 puntos de mérito del campo de batalla
+
+{s};Requires {d} Battlefield Merit points
+{sub2{$1}sub2}; requiere $2 puntos de mérito del campo de batalla
+
+Not enough Merits
+No tienes suficientes puntos
+
+Exchange successfully
+Intercambiados con éxito
+
+{d};{c} has become your apprentice, try to upgrad..; Press to see the full text
+$1; $2 se ha convertido en tu pupilo, trata de enseñ... presiona para ver el mensaje completo
+
+{d};New; {c} has become your apprentice, try to upgrad..; Press to see the full text
+$1; Nuevo; $2 se ha convertido en tu pupilo, trata de enseñ... presiona para ver el mensaje completo
+
+{d};{c} has become your apprentice, try to upgra..; Press to see the full text
+$1; $2 se ha convertido en tu pupilo, trata de enseña... presiona para ver el mensaje completo
+
+{d};New; {c} has become your apprentice, try to upgra..; Press to see the full text
+$1; Nuevo; $2 se ha convertido en tu pupilo, trata de enseña... presiona para ver el mensaje completo
+
+{c} has become your apprentice, try to upgrade him or her! After the pupil Graduates, you can obtain the Mentorship Points from this pupil and the corresponding Mentorship reward.
+$1 se ha convertido en tu pupilo. ¡Trata de enseñarle bien! Después de que el pupilo se gradúe, podrás obtener los puntos de mentoría y la recompensa correspondiente de este pupilo.
+
+{d};{c} has become your apprentice, try to upgr..; Press to see the full text
+$1; $2 se ha convertido en tu pupilo, trata de ens... presiona para ver el mensaje completo
+
+{d};New; {c} has become your apprentice, try to upgr..; Press to see the full text
+$1; Nuevo; $2 se ha convertido en tu pupilo, trata de ens... presiona para ver el mensaje completo
+
+Congratulations, you have received 5000 gold coins! You are a hardcore player ready to take in pupils! You can recruit pupils by approaching a new player and recruit him as your pupil in the dialog menu. Or you can find pupils directly in the Action Menu. The system will recommend new players for you.
+Felicidades, ¡has recibido 5000 monedas de oro! ¡Ya eres un jugador avanzado listo para tomar pupilos! Puedes reclutar pupilos acercándote a un jugador nuevo y eligiendo la opción correspondiente en el menú. También puedes encontrar pupilos directamente en el menú de acciones. El sistema te recomendará a jugadores nuevos.
+
+A tutor can have up to 5 pupils. A pupil can have up to 2 tutors. When your pupil graduates, you will receive a generous reward, as well as all the Mentorship Points that the pupil has accumulated. Once you've earned Mentor Achievements, you can wear exclusive Mentor Achievement Medals.
+Un mentor puede tener hasta 5 pupilos, y un pupilo puede tener hasta 2 mentores. Cuando un pupilo se gradúe recibirás una generosa recompensa, además de los puntos de mentoría que se hayan acumulado con el pupilo en cuestión. Una vez hayas obtenido logros de mentor, podrás usar medallas exclusivas de mentor obtenidas gracias a estos.
+
+Would you like to mentor new players? Are you willing to take him into dungeons and let him call you his mentor? Then recruit them and take them to the mysterious elder at the side of rushing river.
+¿Te gustaría enseñar a nuevos jugadores? ¿Estás preparado para irte a mazmorras con ellos y para escuchar cómo te llaman mentor? Entonces reclútalos y vayan con el Anciano Misterioso a la orilla del Río Bravo.
+
+relationship established
+Relación establecida
+
+your pupil {c} sent you {s}
+Tu pupilo $1 te envió {sub2{$2}sub2}
+
+no treasure hunts
+Sin búsquedas del tesoro
+
+Respawn back to the City (center of the Karon Village)
+Reaparecer en la ciudad (Centro de la Aldea Karon)
+
+Are you sure you want to Return to Main mansion?
+¿Confirmas que quieres regresar al salón principal?
+
+Learn now
+Aprender ahora
+
+skill description: {s}
+Descripción de la habilidad: {sub2{$1}sub2}
+
+This learning has {d}% chance of replacing existing skills and {d}% chance of adding new skills. Here are the skills the {n} {s} already has
+Al aprender esta habilidad existe un $1% de probabilidad de que se reemplacen otras habilidades y un $2% de probabilidad de añadirla como una habilidad nueva. Aquí están las habilidades que tiene tu {sub2{$3}sub2} $4
+
+{s};skill description: {s}
+{sub2{$1}sub2}; descripción de la habilidad: {sub2{$2}sub2}
+
+The player is not online
+Ese jugador no está conectado
+
+Insufficient snake skin
+Pieles de serpiente insuficientes
+
+The team leader is not on this map and cannot teleport
+El líder del equipo no está en este mapa y no puedes teletransportarte
+
+Your pupil {c} is summoning you. 
+Tu pupilo $1 te está invocando
+
+Accept the summon and Teleport yourself to the pupil
+Aceptar la invocación; te teletransportarás a donde se encuentra el pupilo
+
+Non public map, unable to teleport
+No es un mapa público, no te puedes teletransportar
+
+{s};protection has been set, press to cancel
+{sub2{$1}sub2}; esta habilidad está siendo protegida, presiona para cancelar
+
+{s};Press to set protection
+{sub2{$1}sub2}; presiona para proteger
+
+protection has been set, press to cancel
+esta habilidad está siendo protegida, presiona para cancelar
+
+Press to set protection
+presiona para proteger
+
+Skills have been added
+Se ha añadido la habilidad
+
+Don't be stubborn, items can help you concentrate the fire element. 
+No hay que ser tan terco, el equipo puede ayudarte a concentrar el elemento fuego.
+
+Huh, you still insist on leaving?
+Uh, ¡todavía insistes en irte?
+
+Elder, we have settled here for 300 years and have long been integrated with human society. We cannot stand by when they're being attacked by demons! It's for our own sake!
+Señora, nos hemos asentado aquí durante 300 años y hace mucho tiempo que nos integramos a la sociedad humana. ¡No podemos quedarnos de brazos cruzados cuando están siendo atacados por demonios! ¡Es por nuestro propio bien!
+
+the Undead has taken over our homeland. We always say we will take it back, but what have we done for all these years? Now there's another crisis in human society. We can no longer walk away like before!
+los no-muertos se han apoderado de nuestra tierra. Siempre decimos que la recuperaremos, pero ¿qué hemos hecho durante todos estos años? Ahora hay otra crisis en la sociedad humana. ¡Ya no podemos alejarnos como antes!
+
+Already within 20 yards of the team leader, cannot teleport
+Ya estás a menos de 20 metros del líder del equipo, no puedes teletransportarte
+
+Sunday
+Domingo
+
+Monday
+Lunes
+
+Tuesday
+Martes
+
+Wednesday
+Miércoles
+
+Thursday
+Jueves
+
+Friday
+Viernes
+
+Saturday
+Sábado
+
+you have No team, cannot teleport
+No tienes equipo, no te puedes teletransportar
+
+Already within 20 yards of the team leader, cannot teleport
+Ya estás a 20 metros del líder del equipo. No te puedes teletransportar
+
+check-in activity
+Actividad de registro
+
+Receive a check-in reward of {d} Arnebia; You have received {d}/{d} times
+Recibir la recompensa de registro de $1 arnebia; ya la recibiste $2 de $3 veces
+
+You checked in today
+Ya te registraste hoy
+
+Go to Moon City; requires Level 56 or above, Go to Moon City when you're stronger.
+Ir a Ciudad Lunar requiere que seas nivel 56 o superior. Ve cuando seas más fuerte
+
+are you sure to enter Royal training ground? This is an unrestricted-PVP map where there is no penalty for eliminating other players or dying. But when you die, you will drop a portion of the ores, aquaculture and herbs you are carrying. So make sure to enter the map without carrying these collectibles.
+¿Confirmas que quieres entrar al campo de entrenamiento? Este es un mapa de batallas sin restricción donde no se pena el eliminar a otros jugadores o morir, pero cuando mueras dejarás caer cierta cantidad de la hierba, peces o minerales que estés cargando, así que asegúrate de entrar al mapa sin llevar estos objetos recolectados.
+
+You do not have Skill Protection Stone
+No tienes piedras de protección de habilidades
+
+You have completed all the check-in procedures
+Ya completaste todos los registros
+
+Copy text from window
+Copiar texto de la ventana
+
+Congratulations, you have received 2000 gold coins! You are already an experienced player of level 40. In the future, if you have the need for daily diamonds, you can purchase our carefully-prepared Monthly Card to enjoy steady income.
+Felicidades, ¡has recibido 2000 monedas de oro! Ya eres un jugador experimentado de nivel 40. En el futuro, si llegases a necesitar diamantes diariamente, puedes comprar nuestra tarjeta cuidadosamente preparada para que disfrutes de una cantidad estable de ingresos.
+
+You will receive recharge points every time you recharge. These points can be exchanged for various gifts in the Points Mall, which will provide you with more benefits.
+Vas a recibir puntos de recarga cada vez que recargues. Estos puntos se pueden cangear por varios regalos en la tienda de puntos, que te otorgarán más beneficios.
+
+No repairable  wrecked equipment
+No tienes equipo roto para reparar
+
+Not enough Violet Haze Crystal
+No tienes suficientes Cristales de niebla violeta
+
+{s}; durability {d} of {d}; enhance Level 0; quality {s} ; strengthen {s}; {s} ; level {d}; weight {d};{s}; Seller ID{s} {d}
+{sub2{$1}sub2}; durabilidad $2 de $3; mejorado a nivel 0; calidad {sub2{$4}sub2}; aumenta {sub2{$5}sub2}; {sub2{$6}sub2}; nivel $7; peso $8; {sub2{$9}sub2}; ID del vendedor $10 $11
+
+magic attack {d}-{d} physical Defense {d}-{d} magic Defense {d}-{d}
+el ataque mágico entre $1 y $2, la defensa física entre $3 y $4 y la defensa mágica entre $5 y $6
+
+available for mage ,elf ,priest ,witcher
+hecho para magos, elfos, sacerdotes y hechiceros
+
+physical attack {d}-{d} physical Defense{d}-{d} magic Defense {d}-{d}
+el ataque físico entre $1 y $2, la defensa física entre $3 y $4 y la defensa mágica entre $5 y $6
+
+available for warrior ,Orc ,assassin ,hunter
+hecho para guerreros, orcos, asesinos y cazadores
+
+available for witcher
+hecho para hechiceros
+
+available for hunter
+hecho para cazadores
+
+available for warrior
+hecho para guerreros
+
+available for mage
+hecho para magos
+
+available for elf
+hecho para elfos
+
+available for assassin
+hecho para asesinos
+
+available for Orc
+hecho para orcos
+
+available for priest
+hecho para sacerdotes
+
+physical attack {d}-{d}
+el ataque físico entre $1 y $2
+
+magic attack {d}-{d}
+el ataque mágico entre $1 y $2
+
+mahogany necklace; durability {d} of 5.0; enhance Level 0; quality common ; strengthen HP 521 MP 705 physical attack 31-37 magic attack 22-32; level 13; weight 5;A necklace made of mahogany beads is said to bring courage.; Seller ID: {d}
+Collar de caoba; durabilidad $1 de 5.0; mejorado a nivel 0; calidad común; aummenta la salud 521, el mana 705, el ataque físico entre 31 y 37 y el ataque mágico entre 22 y 32; nivel 13; peso 5; Un collar hecho con cuentas de caoba. Se dice que trae valentía al portador. ID del vendedor: $2
+
+HP {d} MP {d} magic attack {d}-{d}
+la salud $1, el mana $2 y el ataque mágico entre $3 y $4
+
+HP {d} MP {d} physical attack {d}-{d}
+la salud $1, el mana $2 y el ataque físico entre $3 y $4
+
+physical Defense {d}-{d} magic Defense {d}-{d}
+la defensa física entre $1 y $2 y la defensa mágica entre $3 y $4
+
+mahogany bracelet; durability {d} of 5.0; enhance Level 0; quality common ; strengthen physical attack 60-68 magic attack 47-55 physical Defense 15-19 magic Defense 13-19; level 6; weight 5;A pair of bracelets made of mahogany beads, which can give people a weak strength when worn.; Seller ID: {d}
+Brazaletes de caoba; durabilidad $1 de 5.0; mejorados a nivel 0; calidad común; aummentan el ataque físico entre 60 y 68, el ataque mágico entre 47 y 55, la defensa física entre 15 y 19 y la defensa mágica entre 13 y 19; nivel 13; peso 5; Un par de brazaletes hechos con cuentas de caoba que al usarse brindan un poco de fuerza. ID del vendedor: $2
+
+mahogany ring (left); durability {d} of 5.0; enhance Level 0; quality common ; strengthen HP 121 MP 163 physical attack 68-74 magic attack 52-62; level 8;A ring made of mahogany, which can give people a weak strength when worn.; Seller ID: {d}
+Anillo de caoba (izquierdo) ; durabilidad $1 de 5.0; mejorado a nivel 0; calidad común; aummenta la salud 121, el mana 163, el ataque físico entre 68 y 74 y el ataque mágico entre 52 y 62; nivel 8; Un anillo hecho de caoba que al usarse brinda un poco de fuerza. Id del vendedor: $2
+
+mahogany ring (right); durability {d} of 5.0; enhance Level 0; quality common ; strengthen HP 121 MP 163 physical attack 68-74 magic attack 52-62; level 8;A ring made of mahogany, which can give people a weak strength when worn.; Seller ID: {d}
+Anillo de caoba (derecho) ; durabilidad $1 de 5.0; mejorado a nivel 0; calidad común; aummenta la salud 121, el mana 163, el ataque físico entre 68 y 74 y el ataque mágico entre 52 y 62; nivel 8; Un anillo hecho de caoba que al usarse brinda un poco de fuerza. Id del vendedor: $2
+
+Contribution Medal; durability {d} of {d}; strengthen {s};{s}; level 1; weight 1;Commemorative medal for beating monsters when reaching the highest level; Seller ID{s} {d}
+Medalla de contribución; durabilidad $1 de $2; aumenta {sub2{$3}sub2}; {sub2{$4}sub2}; nivel 1; peso 1; Medalla conmemorativa por vencer monstruos en el nivel máximo. ID del vendedor$5 $6
+
+Contribution Medal; durability {d} of {d}; strengthen {s}; level 1; weight 1;Commemorative medal for beating monsters when reaching the highest level; Seller ID{s} {d}
+Medalla de contribución; durabilidad $1 de $2; aumenta {sub2{$3}sub2}; nivel 1; peso 1; Medalla conmemorativa por vencer monstruos en el nivel máximo. ID del vendedor$4 $5
+
+physical Defense {d} magic Defense {d}
+la defensa física $1 y la defensa mágica $2
+
+Contribution Medal; durability {d} of {d}; strengthen {s}; level 1; weight 1;Commemorative medal for beating monsters when reaching the highest level; Seller ID: {d}
+Medalla de contribución; durabilidad $1 de $2; aumenta {sub2{$3}sub2}; nivel 1; peso 1; Medalla conmemorativa por vencer monstruos en el nivel máximo. ID del vendedor$4 $5
+
+physical attack {d} magic attack {d} physical Defense {d} magic Defense {d}
+el ataque físico $1, el ataque mágico $2, la defensa física $3 y la defensa mágica $4
+
+Do you want {s} to learn {s} skill{s}
+¿Quieres que tu {sub2{$1}sub2} aprenda la habilidad {sub2{$2}sub2}$3
+
+This learning has {d}% chance of replacing existing skills and {d}% chance of adding new skills. Here are the skills the {s} already has, you can protect one of them from being replaced with a skill protection stone.
+Al aprender esta habilidad existe un $1% de probabilidad de que se reemplacen otras habilidades y un $2% de probabilidad de añadirla como una habilidad nueva. Aquí están las habilidades que tiene tu {sub2{$3}sub2}, puedes proteger una de estas habilidades de ser reemplazada con una piedra de protección de habilidades.
+
+)Are you ready to learn new skills?
+¿Estás listo para aprender nuevas habilidades?
+
+rejected
+Rechazado
+
+The nickname is already in use
+Ese nombre ya está en uso
+
+You have just entered the Valley of the mist god Valley, and there is an hour interval between each entry, please come back later.
+Acabas de entrar al Valle del Dios de la Niebla. Recuerda que hay un período de espera de una hora por cada entrada, así que tendrás que volver más tarde.
+
+Hello, {c}{s}
+Hola, $1$2
+
+{s}, want to buy some equipment{s} I'm sure you'll be satisfied{s}
+{sub2{$1}sub2}, ¿quieres comprar algo de equipo$2 Estoy segura de que te satisfará$3
+
+Don't worry about cramming up your backpack. You can press left CTRL+ARROW KEYS to adjust the order of items and equipments in the backpack. You can also press SHIFT+DELETE to discard unwanted things. So feel free to buy what you want.
+No te preocupes por llenar tu mochila. Puedes pulsar control izquierdo + las flechas para ajustar el orden de los objetos y equipo en la mochila. También puedes pulsar Mayús+Suprimir para descartar cosas no deseadas, así que siéntete libre de comprar lo que quieras.
+
+This map prohibits the use of teleportation skills
+Este mapa prohibe el uso de habilidades de teletransportación
+
+Master, I have been your free labor for eight years. Don't you think it's time to let me go? If I stay in this bat cave with you any longer, my heart is going to go moldy.
+Maestra, he trabajado para ti desde hace 8 años sin paga alguna. ¿No crees que es tiempo de que me dejes ir? Si me quedo en esta cueva de murciélagos contigo durante más tiempo, mi corazón se volverá mooso.
+
+This corpse was bitten to death by demons, so what? You just got one last month! If I could go out, I would get myself a couple of demon corpses to refine with, unlike you, who would only sneak around and buy corpses like a coward. 
+Este cadáver fue mordido por los demonios hasta que murió, ¿y qué? ¡Solo obtuviste uno el mes pasado! Si pudiera ir afuera me haría con un par de cadáveres de demonios para trabajar con ellos, a diferencia tuya, que solo te esconderías y comprarías cadáveres como la cobarde que eres.
+
+The application for severing ties will take effect immediately after the pupil agrees, or automatically after four days. After severing ties, you will not be able to get the pupil’s accumulated mentoring points. Are you sure you want to sever ties with your pupil {c}{s}
+Se cortarán lazos una vez que el pupilo acepte, o automáticamente después de 4 días. No obtendrás los puntos de mentoría acumulados al cortar lazos. ¿Confirmas que quieres cortar lazos con $1$2
+
+You are not a gang leader, cannot use the environment card
+No eres el líder de la pandilla, por lo que no puedes usar esta tarjeta de ambiente
+
+Respawn back to the City (Stonehelm Outpost)
+Reaparecer en la ciudad (Puesto de avanzada de Stonehelm)
+
+Respawn back to the City (Tari village)
+Reaparecer en la ciudad (Aldea Tari)
+
+Hope the skills I've taught you can be of help.
+Espero que te sean útiles las habilidades que te enseñé
+
+the fusion of {s}
+Obtienes la bestia de fusión del {sub2{$1}sub2}
+
+Do you have any skills you'd like to learn?
+¿Hay alguna habilidad que quieras aprender?
+
+gouge knife square
+Plaza del Cuchillo Desenterrado
+
+Mr. {c}, would you like to light the fireworks{s} Everyone can collect one before the wedding officially begins{s}
+Señor $1, ¿quiere encender los fuegos artificiales$2 Cada persona puede recolectar uno antes de que la boda inicie oficialmente$3
+
+Thank you for coming to the wedding!
+¡Gracias por venir a la boda!
+
+You have already collected it
+Ya los recolectaste
+
+Are you sure you want to elevate from {s} to {s}
+¿Confirmas que quieres elevar de {sub2{$1}sub2} a {sub2{$2}sub2}
+
+{d};{s};{s} ; bound
+$1; {sub2{$2}sub2}; {sub2{$3}sub2}; vinculado
+
+Go to gouging knife city; VIP are free
+Ir a Ciudad Cuchillo Desenterrado; los VIP viajan gratis
+
+Mr. {c}, after the wedding, you can come to me and collect a wedding gift package and leave
+Señor $1, después de la boda puedes venir conmigo para recolectar un paquete de regalo y salir
+
+Respawn On-Spot with Resurrection Crystal; Costs {d} Resurrection Crystals; You can still use Resurrection Crystals to respawn {d} times in this map
+Reaparecer en el lugar con cristal de resurrección. Cuesta $1 cristales de resurrección. Todavía puedes usar cristales para reaparecer $2 veces en este lugar
+
+warrior,
+guerrero,
+
+Distinguished guest, thank you for coming to Mr. {c} and Mrs. {c}'s wedding{s}
+Distinguido invitado, gracias por venir a la boda del señor $1 y la señora $2$3
+
+Black Gold Teleportation stone select teleport location
+Piedra de teletransportación de oro negro: Selecciona la ubicación
+
+Soul Burial Village
+Aldea Descanso de las Almas
+
+Orchid woods Village
+Aldea de los Bosques Orquídea
+
+Platinum Teleportation stone select teleport location
+Piedra de teletransportación de platino: Selecciona la ubicación
+
+The couple has been blessed by {d} guests, each of the couple will receive {d} gold coins{s}
+La pareja ha sido bendecida por $1 invitados; cada uno de los dos recibirá $2 monedas de oro.
+
+Violet Square
+Plaza Violeta
+
+Loki Union Teleportation stone select teleport location
+Piedra de teletransportación de la Federación Loki. Selecciona la ubicación
+
+Respawn back to the City (gouge knife square)
+Reaparecer en la ciudad (Plaza del Cuchillo Desenterrado)
+
+Are you sure you want to enter the fighting training ground?
+¿Confirmas que quieres entrar al campo de entrenamiento?
+
+Enter the fighting training ground; need to be above level 30
+Entrar al campo de entrenamiento; necesitas ser nivel 30 o superior
+
+Go to the Fighting training Gym to Compete or go to the fighting training ground to have a good time.
+Puedes ir al gimnasio de lucha a competir o al campo de entrenamiento a pasar el rato.
+
+leave fighting training ground
+Abandonar el campo de entrenamiento
+
+Not enough team members
+No hay miembros suficientes
+
+are you sure to accept?
+¿Confirmas que quieres aceptar?
+
+Locked by monster, cannot teleport
+Un monstruo te está enfocando; no te puedes teletransportar
+
+Respawn back to the City (Orchid woods Village)
+Reaparecer en la ciudad (Aldea de los Bosques Orquídea)
+
+a Zone Medal of higher Level
+medalla de guerra de nivel superior
+
+{d};New; Congratulations to your gang for winning the {d}th..; Press to see the full text
+$1; Nuevo; Tu pandilla ganó el $2º lugar en el... presiona para ver el mensaje completo
+
+{d};Congratulations to your gang for winning the {d}th..; Press to see the full text
+$1; Tu pandilla ganó el $2º lugar en el... presiona para ver el mensaje completo
+
+Congratulations to your gang for winning the {d}th place in this Gang Tournament. Players who have joined the gang for more than three days can go to the tournament messenger within 24 hours to receive the gang game reward
+Tu pandilla ganó el $1º lugar en el torneo de pandillas. ¡Felicidades! Los jugadores que se hayan unido a la pandilla hace más de tres días pueden ir al mensajero del torneo durante las próximas 24 horas para recibir la recompensa que le corresponde a tu pandilla de acuerdo al lugar en que quedó.
+
+Demon  Cave floor {d}
+Piso $1 de la cueva demoníaca
+
+Respawn back to the City (Plague Abyss)
+Reaparecer en la ciudad (Abismo de la Plaga)
+
+Let's see if there's any skill you can learn.
+Vamos a ver si hay alguna habilidad que puedas aprender
+
+I can teach you nothing, please go seek Antino.
+No te puedo enseñar nada, por favor busca a Antino
+
+{d};Highland {d} has refused highland war, and the war 
+$1; Las tierras altas $2 han rechazado la pelea por las tierras y la guerra
+
+{d};New; Highland {d} has refused highland war, and the war 
+$1; Nuevo; Las tierras altas $2 han rechazado la pelea por las tierras y la guerra
+
+Your pupil {c} has graduated; you have earned {d} Mentorship points;{d} Arnebia;{s};common
+Tu pupilo $1 se ha graduado; ganaste $2 puntos de mentoría; $3 arnebia; {sub2{$4}sub2}; común
+
+Go to holy blood city requires Level 60 or above. Go to holy blood city when you're stronger.
+Ir a Ciudad Sangre Santa requiere que seas nivel 60 o superior. Ve cuando seas más fuerte
+
+{c} wants to accept you as apprentice; {s};{s} ; level {d}
+$1 quiere aceptarte como su pupilo; {sub2{$2}sub2}; {sub2{$3}sub2}; nivel $4
+
+I have nothing to teach you, please go to Galaxia.
+No tengo nada para enseñarte, por favor ve con Galaxia
+
+Go to Violet City; requires Level 76 or above, Go to Violet City when you're stronger.
+Ir a Ciudad Violeta requiere que seas nivel 76 o superior. Ve cuando seas más fuerte
+
+This learning has {d}% chance of replacing existing skills and {d} chance of adding new skills. Here are the skills the {s} already has, you can protect it from being replaced with a skill protection stone.
+Al aprender esta habilidad existe un $1% de probabilidad de que se reemplacen otras habilidades y un $2% de probabilidad de añadirla como una habilidad nueva. Aquí están las habilidades que tiene tu {sub2{$3}sub2}, puedes proteger una de estas habilidades de ser reemplazada con una piedra de protección de habilidades.
+
+Prohibited to use on this map
+Prohibido usar este objeto en este mapa
+
+Go to gouging knife city; Costs {d} Arnebia
+Ir a Ciudad Cuchillo Desenterrado; cuesta $1 arnebia
+
+Spirit Teleportation stone select teleport location
+Piedra de teletransportación espiritual: selecciona la ubicación
+
+mist gods Ruins
+Ruinas de los Dioses de la Niebla
+
+Prohibited to use
+No se puede usar
+
+City of the Ancient tower
+Ciudad de la Torre Ancestral
+
+team leader is not on the current map
+El líder del equipo no está en el mapa actual
+
+Have you lost faith in the Mist Gods because of the hardship we endure? Novice guide: S and W keys are used to navigate the menu. Now press S or W to choose your answer, and press ENTER to confirm.
+¿Has perdido la fe en los dioses de la niebla debido a las dificultades por las que estamos pasando? Guía del novato: Se usa S y W para navegar por los menús. Ahora usa estas teclas para elegir tu respuesta y presiona Enter para confirmar.
+
+No, Father, I believe that the Mist Gods are always watching over us.. But they cannot take care of everyone. I wish to fight demons in places where their light cannot shine, and deliver gods's will to the world.
+No, padre, creo que los dioses de la niebla siempre nos vigilan, pero supongo que no pueden cuidarnos a todos. Quiero pelear contra los demonios en aquellos lugares en donde su luz no puede brillar, y hacer su voluntad por todo el mundo.
+
+I don't know, Father. It's been 50 years since humanity last communicated with Matthew, and 70 years since Sison's last appearance. If Gods do not care for us, I wish to spread light in places of darkness on my own, and help those who need it.
+No lo sé, padre. Ya han pasado 50 años desde que la humanidad se comunicó con Matthew, y 70 años desde que Sison apareció por última vez. Si los dioses no nos cuidan, yo debería de encargarme de esparcir su luz en lugares oscuros y ayudar a todo aquel que lo necesite.
+
+Go to Violet city; VIP are free
+Ir a Ciudad Violeta; los VIP viajan gratis
+
+Go to Violet City; Costs {d} Arnebia
+Ir a Ciudad Violeta; cuesta $1 arnebia
+
+Offline message sent
+Mensaje sin conexión enviado
+
+Please join an international channel group
+Únete a un grupo de canal internacional
+
+Go to dark night City; VIP are free
+Ir a Ciudad Noche oscura; los VIP viajan gratis
+
+Go to dark night City; Costs {d} Arnebia
+Ir a Ciudad Noche Oscura; cuesta $1 arnebia
+
+dark night square
+plaza de la noche oscura
+
+Garth Empire Teleportation stone select teleport location
+Piedra de teletransportación del Imperio Gart, selecciona ubicación

@@ -1,0 +1,2996 @@
+This skill is complicated, not suitable for someone as weak as you
+Esta habilidad es complicada, por lo que no es adecuada para alguien tan débil como tú.
+
+cost {d} arnebia
+cuesta $1 arnebia
+
+ need level {d}
+necesitas ser nivel $1
+
+You already have the corresponding skill, don't need to use this skill crystal
+Ya tienes esta habilidad, no necesitas usar este cristal
+
+This skill can only be learned when you have a pupil
+Esta habilidad solo se puede aprender al tener un pupilo
+
+You have reached this master's Cultivating limit.
+Alcanzaste el límite de cultivo de este maestro
+
+You pressed a {s} onto your forehead, and silently prayed to a interdimensional god.
+Presionas sobre tu frente el {sub2{$1}sub2} y le rezas en silencio a un dios interdimensional.
+
+You pressed a {s} onto your forehead, and tried to infuse your mental energy into the crystal
+Presionas sobre tu frente el {sub2{$1}sub2} y tratas de infundir tu energía mental dentro de este.
+
+You pressed a {s} onto your forehead, and recited the name of your ancestor in your heart
+Presionas sobre tu frente el {sub2{$1}sub2} y recitas el nombre de tu ancestro en tu corazón
+
+You pressed a {s} onto your forehead, and calmed yourself to senses its information
+Presionas sobre tu frente el {sub2{$1}sub2} y te relajas para recibir su información en tus sentidos.
+
+The energy of the crystal is too strong for you to bear. Please raise your level first
+La energía del cristal es demasiado potente para que la puedas soportar. Por favor sube de nivel primero
+
+CD {d} sec remaining
+Enfriamiento. Quedan $1 segundos
+
+{s}; cost {d} arnebia; {s}
+{sub2{$1}sub2}; cuesta $2 arnebia; {sub2{$3}sub2}
+
+{n}; cost {d} arnebia; {s}
+{sub2{$1}sub2}; cuesta $2 arnebia; {sub2{$3}sub2}
+
+{s}; cost {d} arnebia and {d}gang contributions; {s}
+{sub2{$1}sub2}; cuesta $2 arnebia y $3 tributo de pandilla; {sub2{$4}sub2}
+
+{s}; cost {d} arnebia and {d} gang contributions; {s}
+{sub2{$1}sub2}; cuesta $2 arnebia y $3 tributo de pandilla; {sub2{$4}sub2}
+
+Are you sure you want to learn to upgrade this skill?
+¿Confirmas que quieres aprender para mejorar esta habilidad?
+
+You have learned {s} skill
+Aprendiste la habilidad de {sub2{$1}sub2}
+
+You have forgotten {s} skill
+Olvidaste la habilidad de {sub2{$1}sub2}
+
+learning
+aprendiendo
+
+Cultivate talent points
+Cultivar puntos de talento
+
+Cultivate Talent Point; up to 60; Higher Talent Points can only be cultivated by interacting with the Guru Elders of Gangs.
+Cultivar puntos de talento, hasta un máximo de 60. Necesitarás ir con el anciano gurú de una pandilla para cultivar más.
+
+Learn profession skills
+Aprender habilidades de profesión
+
+learn profession skills
+Aprender habilidades de profesión
+
+Learn Gang skills
+Aprender habilidades de pandilla
+
+Forget profession skills
+Olvidar habilidades de profesión
+
+Are you sure you want to forget this skill?
+¿Confirmas que quieres olvidar esta habilidad?
+
+forget profession skills
+Olvidar habilidades de profesión
+
+Learn Profession Skill
+Habilidades de profesión
+
+not enough proficiency to upgrade
+No tienes experiencia suficiente para mejorar
+
+Are you sure you want to learn this profession skill?
+¿Estás seguro que quieres aprender esta habilidad de profesión?
+
+No gang Skills to Learn
+No hay habilidades de pandilla para aprender
+
+You already have {s} skill, cannot learn {s} skill
+Ya tienes {sub2{$1}sub2}, no puedes aprender {sub2{$2}sub2}
+
+Newbie
+Novato
+
+Oldhand
+Experimentado
+
+Elite
+Élite
+
+Expert
+Experto
+
+Master
+Maestro
+
+Grand Master
+Gran maestro
+
+ Newbie
+Novato
+
+ Oldhand
+Experimentado
+
+ Elite
+Élite
+
+ Expert
+Experto
+
+ Master
+Maestro
+
+ Grand Master
+Gran maestro
+
+Profession Skill Introduction
+Introducción a las habilidades de profesión
+
+Hey, warrior, want to cultivate and learn new skills?
+Hola guerrero, ¿quieres cultivar y aprender nuevas habilidades?
+
+Learn Talent; After you've learned the talent, head to {s} to activate it.
+Aprender talento. Una vez aprendido, dirígete con el {sub2{$1}sub2} para activarlo.
+
+Please select the skill you want to learn
+Por favor elige la habilidad que quieres aprender
+
+You pressed a {s} onto your forehead, and summoned a wraith to extract its information
+Presionas sobre tu frente el {sub2{$1}sub2} y convocas a un espectro para extraer su información
+
+You pressed a {s} onto your forehead, and used fire element to envelope the crystal
+Presionas sobre tu frente el {sub2{$1}sub2} y lo envuelves en tu elemento de fuego
+
+No talent skills available
+No hay habilidades de talento disponibles
+
+Cultivating Talent points is the basis for using Talents. My friend, do you wish to cultivate Talent Points or learn Talents? If you simply want to activate skills, please go to my assistant.
+El cultivar puntos de talento es obligatorio para usar talentos. Amigo, ¿quieres cultivar puntos de talento o aprender habilidades? Si simplemente quieres activarlas, por favor habla con mi ayudante.
+
+Cultivate Talent Points
+Cultivar puntos de talento
+
+Learn Talents
+Aprender talentos
+
+Cultivate talent points, the upper limit is twice the character level
+Cultivar puntos de talento. Puedes mejorar dos puntos por nivel
+
+You have had {d} talent points, this master can guide you to Cultivate up to {d} points
+Tienes $1 puntos de talento, este maestro puede guiarte para cultivar hasta $2 puntos
+
+Current  Cultivating  requires {d} arnebia
+Cada punto actualmente cuesta $1 arnebia
+
+start Cultivating 
+Empezar a cultivar
+
+in Cultivating 
+Cultivando...
+
+cultivation completed, get 1 talent point
+Cultivo terminado, obtienes 1 punto de talento
+
+{s}; takes {d} talent points; {s}
+{sub2{$1}sub2}; toma $2 puntos de talento; {sub1{$3}sub1}
+
+upgrade to {s}
+Mejoraste a {sub2{$1}sub2}
+
+Level {d} {s}; need level {d}; {s}; Combat skill;{s}
+{sub2{$2}sub2} de nivel $1; necesitas ser nivel $3; {sub2{$4}sub2}; habilidad de combate; {sub2{$5}sub2}
+
+Combat skill
+Habilidad de combate
+
+talent skill; use it takes {d} talent points
+habilidad de talento; toma $1 puntos al activarla
+
+{s}; need level {d}; cost {d} arnebia; talent skill; use it takes {d} talent points;{s}
+{sub2{$1}sub2}; necesitas ser nivel $2; cuesta $3 arnebia; habilidad de talento; usa $4 puntos al activarla; {sub2{$5}sub2}
+
+Combat skill;{n}
+habilidad de combate; {sub2{$1}sub2}
+
+{s}; need level {d}
+{sub2{$1}sub2}; necesitas ser nivel $2
+
+talent skill; use it takes {d} talent points;{s}
+habilidad de talento; toma $1 puntos al activarla; {sub2{$2}sub2}
+
+{s}; need level {d}; cost {d} arnebia; Combat skill;{s}
+{sub2{$1}sub2}; necesitas ser nivel $2; cuesta $3 arnebia; habilidad de combate; {sub2{$4}sub2}
+
+{s};takes {d} talent points;cost {d} arnebia and {d} gang Contributions;{s}
+{sub2{$1}sub2}; cuesta $3 arnebia y $4 tributo de pandilla; toma $2 puntos al activarla; {sub2{$5}sub2}
+
+{s};In R&D, {d} hours {d} minutes {d} seconds  remaining;takes {d} talent points;cost {d} arnebia and {d} gang Contributions;{s}
+{sub2{$1}sub2} en desarrollo. Le quedan $2 horas, $3 minutos y $4 segundos; cuesta $6 arnebia y $7 créditos de pandilla; usa $5 puntos al activarla; {sub2{$8}sub2}
+
+These are two basic combat talents that I can teach you. They can't be used at the same time, but they both will aid you well in battle and make you stronger.
+Estas son dos habilidades de talento que te puedo enseñar. Aunque no se pueden usar al mismo tiempo, ambas te pueden ayudar en combate y hacerte más fuerte.
+
+Please wait for R&D to complete
+Espera a que termine de desarrollarse
+
+already have this skill
+Ya tienes esta habilidad
+
+Are you sure you want to learn this skill?
+¿Confirmas que quieres aprender esta habilidad?
+
+Base attack, strike 1 enemy within 5 yards, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+Ataque base, golpea a un enemigo a 5 metros de distancia, obtienes $1 ira, incrementa $2 puntos de ataque físico, consume $3 mana
+
+Slash 1 enemy within 5 yards from top to bottom, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Parte de arriba a abajo a un enemigo a 5 metros de distancia, $1 segundos de enfriamiento, obtienes $2 ira, incrementa $3 puntos de ataque físico, $4% de bonus de ataque, consume $5 mana
+
+Deal a final blow against 1 enemy within 5 yards, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Asesta un golpe final a un enemigo a 5 metros de distancia, consume $1 ira, incrementa $2 puntos de ataque físico, consume $3 mana
+
+Sweep through 2 enemies 5 yards ahead, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+Barre a dos enemigos a 5 metros al frente, $1 segundos de enfriamiento, obtienes $2 ira, incrementa $3 puntos de ataque físico, consume $4 mana
+
+Deal a powerful strike to 4 enemies within a 5-yard radius, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Impacta con un golpe potente a 4 enemigos a 5 metros de distancia, consume $1 ira, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Reduce {d}% damage taken for 10 seconds, {d} seconds CD, cost 1% mana
+Reduce $1% el daño recibido por 10 segundos, $2 segundos de enfriamiento, consume 1% de mana
+
+Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+Enfocada a un solo objetivo, salta a un lado del objetivo y lo corta aturdiéndolo por 2.5 segundos, 10 metros de alcance, $1 segundos de enfriamiento, obtienes $2 ira, incrementa $3 puntos de ataque físico, consume $4 mana
+
+Restrain 1 enemy within 5 yards for 3.5 seconds, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+Restringe a un enemigo a 5 metros de distancia por 3.5 segundos, $1 segundos de enfriamiento, obtienes $2 ira, incrementa $3 puntos de ataque físico, consume $4 mana
+
+Used when the target dodged the last attack, {d}% hit chance, 5 yards of effective range, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Se usa cuando un enemigo evade el último ataque, $1% de posibilidad de golpear, 5 metros de alcance, consume $2 ira, incrementa $3 puntos de ataque físico, $4% de bonus de ataque, consume $5 mana
+
+Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by {d}% for 6 seconds, cost {d} rage, increase {d} points of physical attack, cost {d} mana
+Hiere a un enemigo a 5 metros de distancia al desjaretarlo, le causa daño físico y le reduce su velocidad de movimiento un $1% por 6 segundos, consume $2 ira, incrementa $3 puntos de ataque físico, consume $4 mana
+
+Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; {d}% hit chance, can be stacked to up to {d}% physical defense decrease. Cost {d} rage, gain substantial Threat from the target, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Reduce 4% de defensa física a un enemigo a 5 metros de distancia por 30 segundos; $1% de posibilidad de golpeo, puede acumularse hasta un máximo de $2% de reducción de defensa física. Consume $3 ira, obtienes amenaza sustancial del objetivo, incrementa $4 puntos de ataque físico, $5% de bonus de ataque, consume $6 mana
+
+Bleed 1 enemy within 5 yards, dealing continuous damage for 15 seconds, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Hace sangrar a un enemigo a 5 metros de distancia causándole daño continuo por 15 segundos. Consume $1 ira, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Increase 10% attack damage for all allies within 20 yards for 2 minutes, cost 200 rage and 1% mana.
+Incrementa 10% el ataque de todos los aliados a 20 metros de distancia por 2 minutos, consume 200 ira y 1% de mana.
+
+Increase {d}% defense for all allies within 20 yards for 2 minutes, cost {d} rage and 1% mana
+Incrementa $1% la defensa de todos los aliados a 20 metros de distancia por 2 minutos, consume $2 ira y $3% mana
+
+Damage and force 1 target within 8 yards to attack you for 6 seconds, {d} minutes CD. Gain substantial Threat from the target. Increase {d} points of physical attack, cost {d} mana
+Daña y fuerza a un objetivo a 8 metros de distancia a atacarte por 6 segundos, $1 minutos de enfriamiento. Obtienes amenaza sustancial del objetivo. Incrementa $2 puntos de ataque físico, consume $3 mana
+
+Deal damage to 1 enemy within 5 yards and reduce {d}% of all healing effects on the target for 10 seconds. Cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Causa daño a un enemigo a 5 metros de distancia y le reduce en un $1% todos los efectos de curación por 10 segundos. Consume $2 ira, incrementa $3 puntos de ataque físico, $4% de bonus de ataque, consume $5 mana
+
+Force all targets within 10 yards to attack you for 6 seconds, {d} minutes CD, cost 1% mana.
+Fuerza a todos los objetivos a 10 metros de distancia a atacarte por 6 segundos, $1 minutos de enfriamiento, consume $2% mana.
+
+Force 1 target within 8 yards to attack you for 6 seconds, {d} minutes CD, cost 1% mana.
+Fuerza a un objetivo a 8 metros de distancia a atacarte por 6 segundos, $1 minutos de enfriamiento, consume 1% de mana.
+
+Increase {d}% Critical Hit and reduce {d}% defense for 5 seconds, {d} seconds CD, cost 1% mana
+Incrementa $1% el golpe crítico y reduce $2% la defensa por 5 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+Base attack, 5 yards of effective range, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataque base, 5 metros de alcance, obtienes $1 ira, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataque potente a un solo objetivo, 5 metros de alcance, 4.8 segundos de enfriamiento, obtienes $1 ira, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Attack 1 enemy within 5 yards and recover {d}% of damage as HP. Always increase {d}% damage of the next attack even if the skill missed. Cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a un enemigo a 5 metros de distancia y restaura un $1% del daño a tu salud. El siguiente golpe causará un $2% más de daño incluso si falla el impacto. Consume $3 ira, incrementa $4 puntos de ataque físico, $5% de bonus de ataque, consume $6 mana
+
+Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a 3 enemigos a 5 metros de distancia en línea recta, 4.8 segundos de enfriamiento, obtienes $1 ira, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Deal a powerful strike to 6 enemies within 5 yards ahead, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Impacta con un golpe potente a 6 enemigos a 5 metros en línea recta, consume $1 ira, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Increase {d}% movement speed for 10 seconds, {d} seconds CD, cost 1% mana.
+Incrementa $1% la velocidad de movimiento por 10 segundos, $2 segundos de enfriamiento, consume 1% de mana.
+
+Reduce {d}% physical damage taken and {d}% magic damage taken for 10 seconds, {d} seconds CD, cost 1% mana.
+Reduce $1% el daño físico recibido y $2% el mágico por 10 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+Reduce {d}% physical damage taken and {d}% magic damage taken, recover {d}% more HP with {s}. Lasts for 8 seconds. Share CD with {s}, cost 1% mana
+Reduce $1% el daño físico recibido y $2% el mágico y restaura un $3% más de salud con {sub2{$5}sub2} por 8 segundos. Comparte enfriamiento con {sub2{$6}sub2}, consume 1% de mana
+
+Stun the target for {d} seconds from a distance, 15 yards of effective range, {d} seconds CD, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Aturde al objetivo por 4 segundos, 15 metros de alcance. $1 segundos de enfriamiento, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Shatter the ground, Transfix 1 target within 8 yards for 5 seconds, {d} seconds CD, cost 1% mana
+Rompe el suelo paralizando al objetivo a 8 metros de distancia por 5 segundos. $1 segundos de enfriamiento, consume 1% de mana
+
+Deal a vengeful strike to 1 target within 5 yards after dodging an enemy attack, {d} seconds CD, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Impacta a un objetivo a 5 metros de distancia con un golpe vengativo después de evadir un ataque, $1 segundos de enfriamiento, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Attack 1 target within 8 range and decrease its movement speed by {d}% for 5 seconds, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a un objetivo a 8 metros de distancia reduciendo su velocidad de movimiento un $1% por 5 segundos, consume $2 ira, incrementa $3 puntos de ataque físico, $4% de bonus de ataque, consume $5 mana
+
+Attack 1 target within 5 yards, and decrease its physical defense by {d}% for 40 seconds, {d}% hit chance, can be stacked to up to {d}% physical defense decrease. Cost {d} rage, gain substantial Threat from the target, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a un objetivo a 5 metros de distancia reduciendo su defensa física un $1% por 40 segundos, $2% de posibilidad de golpear, se puede acumular la reducción de defensa física hasta un $3%. Consume $4 ira, obtienes amenaza sustancial del objetivo, incrementa $5 puntos de ataque físico, $6% de bonus de ataque, consume $7 mana
+
+Increase 30 points of Critical Hit for all allies within 20 yards for 2 minutes, cost 250 rage and 1% mana.
+Incrementa 30 puntos de golpe crítico para todos los aliados a 20 metros de distancia por 2 minutos, consume 250 ira y 1% de mana.
+
+Decrease {d}% of all damage taken for all allies within 20 yards for 2 minutes, cost {d} rage and 1% mana
+Reduce a todos los aliados a 20 metros de distancia un $1% el daño recibido por 2 minutos, consume $2 ira y 1% de mana
+
+Base single-target attack, 5 yards and 180 degrees of effective range, increase {d} points of physical attack, cost {d} mana
+Ataque base a un solo objetivo, 5 metros y 180 grados de alcance, incrementa $1 puntos de ataque físico, consume $2 mana
+
+Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, {d} seconds CD, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataque poderoso a un solo objetivo, 5 metros de alcance, consume de 0 a 8 combos, $1 segundos de enfriamiento, incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Attack 3 targets within 5 yards and 180 degrees, {d} seconds CD, increase {d} points of physical attack, cost {d} mana
+Ataca a 3 objetivos a 5 metros de distancia y 180 grados, $1 segundos de enfriamiento, incrementa $2 puntos de ataque físico, consume $3 mana
+
+Attack 5 enemies within a 5-yard radius. Cost 0-20 combos, {d} seconds CD, increase {d} points of physical attack, cost {d} mana
+Ataca a 5 enemigos a 5 metros de distancia. Consume de 0 a 20 combos, $1 segundos de enfriamiento, incrementa $2 puntos de ataque físico, consume $3 mana
+
+Increase 50% movement speed and 100% dodge for 10 seconds, 30 seconds CD, cost 1% mana
+Incrementa 50% la velocidad de movimiento y 100% la evasión por 10 segundos, 30 segundos de enfriamiento, consume 1% de mana
+
+20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase {d}% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by {d}% for 10 seconds, {d} seconds CD, share CD with {s}. Increase {d} points of physical attack, cost {d} mana
+20 metros de alcance, 2.5 segundos de canalización. Al canalizar el  alcance es de 30 metros. Incrementa $1% el golpe crítico por 10 segundos al lanzarla, luego te teletransporta al objetivo y lo ataca, aturdiéndolo por 1.5 segundos y reduciendo su velocidad de movimiento en un $2% por 10 segundos, $3 segundos de enfriamiento, comparte enfriamiento con {sub2{$4}sub2}. Incrementa $5 puntos de ataque físico, consume $6 mana
+
+Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every {s} increases {d}% damage of the next {s}, stacks 4 times at max. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a un objetivo a 5 metros de distancia y lo aturde por 1.5 segundos, consume 8 combos, recupera 8 combos por cada golpe crítico. Cada {sub2{$1}sub2} incrementa $2% de daño del siguiente {sub2{$3}sub2}, acumulándose hasta 4 veces. Incrementa $4 puntos de ataque físico, $5% de bonus de ataque, consume $6 mana
+
+Attack 1 target within 5 yards and Knock-Out it for 5 seconds, {d} seconds CD, increase {d} points of physical attack, cost {d} mana
+Ataca a un objetivo a 5 metros de distancia y lo noquea por 5 segundos, $1 segundos de enfriamiento, incrementa $2 puntos de ataque físico, consume $3 mana
+
+Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease {d}% physical defense for every 4 combos, {d}% hit chance, can be stacked to up to {d}% physical defense decrease. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a un objetivo a 5 metros de distancia y reduce su defensa física por 30 segundos. Consume entre 4 a 20 combos, reduce $1% de defensa física por cada 4 combos, $2% de posibilidad de golpear, se puede acumular hasta reducir la defensa física un $3%. Incrementa $4 puntos de ataque físico, $5% de bonus de ataque, consume $6 mana
+
+Increase {d}% critical hit for all allies for 2 minutes, cost {d} combos and 1% mana.
+Incrementa $1% el golpe crítico a todos los aliados por 2 minutos, consume $2 combos y 1% de mana.
+
+Partially shift all allies into the Void Dimension, increase {d}% dodge for all allies for 2 minutes, cost {d} combos and 1% mana.
+Envía parcialmente a todos los aliados a la dimensión del vacío, incrementando su evasión un $1% por 2 minutos. Consume $2 combos y 1% de mana.
+
+Force 1 target within 8 yards to attack you for 3 seconds, gain substantial Threat from the target, {d} minutes CD, cost 1% mana.
+Fuerza a un objetivo a 8 metros de distancia a atacarte por 3 segundos, obtienes amenaza sustancial del objetivo, $1 minutos de enfriamiento, consume 1% de mana.
+
+Force all targets within 10 yards to attack you for 3 seconds, gain substantial Threat from all targets, {d} minutes CD, cost 1% mana.
+Fuerza a todos los objetivos a 10 metros de distancia a atacarte por 3 segundos, obtienes amenaza sustancial de todos ellos, $1 minutos de enfriamiento, consume 1% de mana.
+
+Increase {d}% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, {d} seconds CD, share CD with {s}. Increase {d} points of physical attack, cost {d} mana
+Incrementa $1% el golpe crítico por 10 segundos. Ataca a un objetivo a 5 metros de distancia y lo aturde por 1.5 segundos, $2 segundos de enfriamiento, comparte enfriamiento con {sub2{$3}sub2}. Incrementa $4 puntos de ataque físico, consume $5 mana
+
+Remove and gain immunity to all magic debuffs (all non-posion debuffs and non-curse debuffs), reduce {d}% magic damage taken for 5 seconds, {d} seconds CD, cost 1% mana.
+Elimina y te hace inmune a los hechizos mágicos que no sean de veneno o maldición, reduce $1% el daño mágico recibido por 5 segundos, $2 segundos de enfriamiento, consume 1% de mana.
+
+Deal damage to 1 enemy within 5 yards and reduce its healing skill effect by {d}% for 15 seconds, {d} seconds CD. Increase {d} points of physical attack, cost {d} mana
+Causa daño a un enemigo a 5 metros de distancia y reduce $1% su efecto de curación por 15 segundos, $2 segundos de enfriamiento. Incrementa $3 puntos de ataque físico, consume $4 mana
+
+Attack 1 enemy within 5 yards and inflict Bleeding for {d} seconds, the target cannot cast channeling skills for {d} seconds. Costs {d} combos. Increase {d} points of physical attack, cost {d} mana
+Ataca a un enemigo a 5 metros de distancia y lo hace sangrar por $1 segundos, el objetivo no podrá lanzar habilidades de canalización por $2 segundos. Consume $3 combos. Incrementa $4 puntos de ataque físico, consume $5 mana
+
+Attack 1 enemy within 5 yards and inflict poison, reduce {d}% of all healing effects on the target for {d} seconds, {d} minutes CD. Increase {d} points of physical attack, cost {d} mana
+Ataca a un enemigo a 5 metros de distancia y lo envenena, reduce $1% de todos los efectos de curación del objetivo por $2 segundos, $3 minutos de enfriamiento. Incrementa $4 puntos de ataque físico, consume $5 mana
+
+Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataque base, 20 metros de alcance, puede marcar al objetivo cuando impacta. Incrementa $1 puntos de ataque físico, consume $2 mana
+
+Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Disparo potente a un solo objetivo, 20 metros de alcance, puede marcarlo cuando impacta, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a 4 objetivos a 20 metros de distancia y 90 grados, puede marcarlos cuando impacta, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Attack 8 targets within 15 yards and 180 degrees, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a 8 objetivos a 15 metros de distancia y 180 grados, puede marcarlos cuando impacta, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Attack all marked targets within 30 yards. The marks disappear after the attack. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a todos los objetivos marcados a 30 metros de distancia. La marca desaparece tras el ataque. Incrementa $1 puntos de ataque físico, $2% de bonus de ataque, consume $3 mana
+
+Increase 100 points of Accuracy for 10 seconds, 30 seconds CD, cost 1% mana.
+Incrementa 100 puntos de precisión por 10 segundos, 30 segundos de enfriamiento, consume 1% de mana.
+
+Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Ataca a un enemigo a 20 metros de distancia y 180 grados, lo aturde por 5 segundos si es una bestia, puede marcarlo cuando impacta, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque físico, $3% de bonus de ataque, consume $4 mana
+
+Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by {d}% for {d} seconds, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+Atrapa a un objetivo en una red de caza anudada, le causa daño continuo y reduce $1% su velocidad de movimiento por $2 segundos, $3 segundos de enfriamiento. Incrementa $4 puntos de ataque físico, $1% de bonus de ataque, consume $2 mana
+
+Place a trap of a 4-yard radius. When the first 3 enemies approach, they will knock down the tar barrel and stick with tar, reducing 50% movement speed for 5 seconds. The Trap exists for 1 minute, 1 minute CD, cost 1% mana.
+Coloca una trampa con un radio de acción de 4 metros. Cuando se aproximen 3 enemigos les caerá encima un barril de alquitrán que los pegará, reduciendo 50% su velocidad de movimiento por 5 segundos. La trampa dura un minuto, 1 minuto de enfriamiento, consume 1% de mana
+
+Place a trap of a 3-yard radius. When the first enemy approaches, he will be Ensnared with vines and cannot attack or use items for {d} seconds. The Trap exists for 1 minute, 1 minute CD, cost 1% mana.
+Coloca una trampa con un radio de acción de 3 metros. Cuando se aproxime un enemigo quedará atrapado en vides, por lo que no podrá atacar o usar objetos por $1 segundos. La trampa dura un minuto, 1 minuto de enfriamiento, consume 1% de mana
+
+Deflect all attacks, reducing {d}% of all damage taken for 8 seconds, but you cannot attack. {d} seconds CD, cost 1% mana.
+Desvía todos los ataques, reduciendo $1% todo el daño recibido por 8 segundos, pero no podrás atacar. $2 segundos de enfriamiento, consume 1% de mana
+
+Increase {d}% attack damage for all allies within 30 yards for 2 minutes, {d} minutes CD, cost 1% mana.
+Incrementa $1% el ataque de todos los aliados a 30 metros de distancia por 2 minutos, $2 minutos de enfriamiento, consume 1% de mana
+
+Increase 1% Accuracy for all allies within 30 yards for 2 minutes, {d} minutes CD, cost 1% mana.
+Incrementa 100% la precisión de todos los aliados a 30 metros de distancia por 2 minutos, $1 minutos de enfriamiento, consume 1% de mana
+
+15 yards of effective range, the target will take {d}% more damage when being attacked for 1 minute, {d} minutes CD, cost 1% mana.
+15 metros de alcance, el objetivo recibirá $1% de daño adicional por 1 minuto al ser atacado, $2 minutos de enfriamiento, consume 1% de mana
+
+15 yards of effective range, the target will take {d}% more Bleeding damage for 2 minutes, {d} minutes CD. Share CD with {s}, cost 1% mana.
+15 metros de alcance, el objetivo recibirá $1% de daño adicional de sangrado por 1 minuto, $2 de enfriamiento. Comparte enfriamiento con {sub2{$3}sub2}. Consume 1% de mana
+
+15 yards of effective range, reduce {d}% Accuracy of the target for 30 seconds, {d} minutes CD. Share CD with {s}, cost 1% mana.
+15 metros de alcance, reduce $1% la precisión del objetivo por 30 segundos, $2 minutos de enfriamiento. Comparte enfriamiento con {sub2{$3}sub2}, consume 1% de mana
+
+Jump backward by 12 yards, {d} seconds CD, not affected by global CD. Cost 1% mana.
+Salta 12 metros hacia atrás, $1 segundos de enfriamiento, no se ve afectado por el enfriamiento general. Consume 1% de mana
+
+Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque base, lanza una esfera mágica elemental de agua a un enemigo a 20 metros de distancia, incrementa $1 puntos de ataque mágico, $2% de bonus de ataque, consume $3 mana
+
+Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. {s} deals 3x damage to frozen or condensed targets. {d} seconds CD. In addition, if you have Ice Spike, each Ice Spike deals {d}% extra damage to the target. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque potente a un solo objetivo, Dispara un fragmento de hielo a alta velocidad a un enemigo a 20 metros de distancia y le causa daño congelante. {sub2{$1}sub2} causa 3 veces más de daño a objetivos congelados o condensados. $2 segundos de enfriamiento. Además, si tienes espinas de hielo, cada espina de hielo causa $3% de daño extra al objetivo. Incrementa $4 puntos de ataque mágico, $5% de bonus de ataque, consume $6 mana
+
+Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque base de largo alcance, ataca a 6 enemigos a 20 metros de distancia y 180 grados, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque poderoso de largo alcance, ataca a 4 objetivos a 20 metros y 90 grados, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Daño continuo a un solo objetivo, 15 metros de alcance, lanza un chorro de agua helada al objetivo causándole daño congelante por 6 segundos, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Continuous AOE damage, summon ice shards to fall from the sky in an area of 10-yard radius, deal frost damage for 8 seconds. {d} seconds CD, cost 2% mana.
+Daño continuo de área de efecto, hace que caigan fragmentos de hielo del cielo en un área de 10 metros de radio, causa daño congelante por 8 segundos. $1 segundos de enfriamiento, consume 2% de mana.
+
+1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by {d}% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+1.5 segundos de canalización, dispara una flecha de hielo a un enemigo a 20 metros de distancia, causa daño congelante y reduce $1% su velocidad de movimiento por 5 segundos. Cada vez que Flecha de Hielo impacta al objetivo generarás 1 espina de Hielo, hasta un máximo de 5. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Attack 5 targets within 12 yards and 90 degrees, decrease the targets' movement speed by {d}% for 6 seconds. {d} seconds CD, cost 1% mana.
+Ataca a 5 objetivos a 12 metros de distancia y 90 grados, reduce $1% su velocidad de movimiento por 6 segundos. $2 segundos de enfriamiento, consume 1% de mana.
+
+Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, {d} seconds CD. Dealing damage to the target will break its Frozen effect. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Impacta a todos los enemigos a 8 metros de distancia, causa daño congelante y los congela donde estén por 5 segundos, $1 segundos de enfriamiento. Al causar daño a los objetivos se romperá su efecto de congelación. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Increase {d}% attack speed for 15 seconds, {d} seconds CD. Not affected by global CD, cost 1% mana.
+Incrementa $1% la velocidad de ataque por 15 segundos, $2 segundos de enfriamiento. No se ve afectado por el enfriamiento general, consume 1% de mana.
+
+Cover yourself with an ice barrier, immune to all damage for 10 seconds, during which you cannot attack, move, or cast skills. It will also trigger Hypothermia, which causes you to be unable to cast Ice Barrier again for 30 seconds, cost 1% mana.
+Te cubre con una barrera de hielo, lo que te hace inmune a todo el daño por 10 segundos, pero no podrás atacar, moverte o lanzar habilidades. También te provocará hipotermia, lo que hará que no puedas activar otra barrera hasta dentro de 30 segundos. Consume 1% de mana.
+
+Cast a shield that absorbs {d} damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. {d} seconds CD, cost 2% mana.
+Conjura un escudo que dura 30 segundos; absorve $1 de daño. Mientras el escudo exista, el daño no te detendrá al lanzar habilidades. $2 segundos de enfriamiento, consume 2% de mana.
+
+Increase {d}% magic damage for all allies within 20 yards for 30 seconds, {d} minutes CD, cost 1% mana.
+Incrementa $1% el daño mágico de todos los aliados a 20 metros de distancia por 30 segundos, $2 minutos de enfriamiento, consume 1% de mana.
+
+Wrap 1 enemy within 20 yards with crushed ice, decrease {d}% critical hit resist of the target for 15 seconds, {d} seconds CD, cost 1% mana.
+Envuelve a un enemigo a 20 metros de distancia en hielo triturado, reduciendo $1% su resistencia a golpes críticos por 15 segundos. $2 segundos de enfriamiento, consume 1% de mana.
+
+Cast {s} to 1 enemy within 20 yards, reduce {d}% of all healing effects on the target for 15 seconds, {d} seconds CD, cost 1% mana.
+Lanza {sub2{$1}sub2} a un enemigo a 20 metros de distancia, reduce en un $2% todos sus efectos de curación por 15 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+15 yards of effective range, remove a magic debuff or curse debuff from 1 ally, or remove a buff from 1 enemy. Cost 1% Mana.
+15 metros de alcance, elimina un debuff mágico o de maldición de un aliado, o elimina un buff de un enemigo. Consume 1% de mana.
+
+{d} seconds of channeling time, teleport to {s}, {s} or {s}. Cost {d}% mana.
+$1 segundos de canalización, te teletransporta a {sub2{$2}sub2}, {sub2{$3}sub2} o {sub2{$4}sub2}. Consume $5% de mana.
+
+{d} seconds of channeling time, teleport to several cities. Cost {d}% mana.
+$1 segundos de canalización, te teletransporta a varias ciudades. Consume $2% de mana.
+
+{d} seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost {d}% mana.
+$1 segundos de canalización, invoca un portal de teletransportación para tus aliados. El portal dura un minuto. Consume $2% de mana.
+
+Retract the Ice Barrier, Cost 1% Mana, not affected by global CD. 
+Retira la barrera de hielo, consume 1% de mana, no afecta al enfriamiento general.
+
+Base Attack, throw a fireball at 1 enemy within 20 yards, increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque base, lanza una bola de fuego a un enemigo a 20 metros de distancia, incrementa $1 puntos de ataque mágico, $2% de bonus de ataque, consume $3 mana
+
+Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Impacta a un enemigo a 20 metros de distancia causando daño de fuego. Siempre impacta con golpe crítico. $1 segundos de enfriamiento. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque base de largo alcance, ataca a 6 objetivos a 20 metros y 90 grados, $1 segundos de enfriamiento. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Powerful single-target attack, 1.5 seconds of channeling time, {s} 1 enemy within 20 yards and deal fire damage, the target will take {d}% more magic damage for 15 seconds, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque potente a un solo objetivo, 1.5 segundos de canalización, {sub2{$1}sub2} a un enemigo a 20 metros de distancia causándole daño de fuego, el objetivo recibirá $2% de daño mágico extra por 15 segundos, $3 segundos de enfriamiento. Incrementa $4 puntos de ataque mágico, $5% de bonus de ataque, consume $6 mana
+
+Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataca a un enemigo a 20 metros de distancia, 4.5 segundos de canalización, causa daño de fuego e inflige quemaduras. Cada vez que {sub2{$1}sub2} golpea al objetivo generarás 1 elemento de fuego hasta un máximo de 5. Incrementa $2 de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Powerful wide-range attack, {d} seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque potente de largo alcance, 3 segundos de canalización, ataca a 8 objetivos a 20 metros y 180 grados, causando daño de fuego e infligiendo quemaduras por 8 segundos. Cada vez que {sub2{$1}sub2} golpea al objetivo generarás 1 elemento de fuego hasta un máximo de 5. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Fire-trap the target with magma, the target cannot move for 2 seconds, {d} seconds CD, cost 1% mana.
+Atrapa en fuego al objetivo con magma, el objetivo no se puede mover por 2 segundos, $1 segundos de enfriamiento, consume 1% de mana.
+
+Decrease {d}% movement speed of all enemies within 11 yards and 90 degrees for 8 seconds, {d} seconds CD, cost 1% mana.
+Reduce $1% la velocidad de todos los enemigos a 11 metros y 90 grados por 8 segundos, $2 segundos de enfriamiento, consume 1% de mana.
+
+Remove Stunned effect and gain Stun immunity for 10 seconds, not affected by global CD, cost 1% mana.
+Elimina el efecto de aturdimiento y obtienes inmunidad a este efecto por 10 segundos, no se ve afectado por el enfriamiento general, consume 1% de mana.
+
+Increase {d}% Critical Hit and reduce {d}% physical damage taken for 10 seconds, {d} seconds CD, cost 1% mana.
+Incrementa $1% el golpe crítico y reduce $2% el daño físico recibido por 10 segundos, consume 1% de mana.
+
+Wrap yourself in flames, increase {d}% Critical Hit for 10 seconds. Not affected by global CD. Can be cast when casting other spells. {d} seconds CD, cost 1% mana.
+Te envuelve en llamas incrementando tu golpe crítico $1% por 10 segundos. No se ve afectado por el enfriamiento general. Se puede lanzar al conjurar otros hechizos. $2 segundos de enfriamiento, consume 1% de mana.
+
+Ignite your Fire Elements and release them in your next attack. Cause 1 enemy to burn and take additional continuous damage equal to 6% of direct damage. With each additional Fire Element, you deal continuous damage 1 more time, and each continuous damage will spread the Ignition effect to another enemy nearby. The skill is not affected by global CD and costs 1% mana.
+Enciende tus elementos de fuego y los libera en tu siguiente ataque. Le causa quemaduras a 1 enemigo y le causa daño adicional igual a 6% del daño directo. Con cada elemento de fuego adicional causas daño continuo una vez más, y cada daño continuo esparcirá el efecto de ignición a otro enemigo cercano. La habilidad no se ve afectada por el enfriamiento general y consume 1% de mana.
+
+Cast a shield that absorbs all attack damage and lasts for 10 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 1 minute CD, cost 1% mana.
+Conjura un esscudo que dura 10 segundos; absorve todo el daño de ataque. Mientras este exista, el daño no te detendrá al lanzar habilidades. 1 minuto de enfriamiento, consume 1% de mana.
+
+Gain invisibility for 10 seconds, 1 minute CD. During invisibility, you cannot be targeted by enemies. Any action will end the invisibility effect, cost 1% mana.
+Te vuelve invisible por 10 segundos, 1 minuto de enfriamiento. por este tiempo no podrás ser marcado como objetivo por los enemigos. Cualquier acción interrumpirá el efecto de invisibilidad. Consume 1% de mana.
+
+Attach flame nets to all allies and increase their magic Critical Hit by {d}% for 30 seconds, {d} minutes CD, cost 1% mana.
+Rodea con redes de llamas a todos los aliados, incrementando $1% su golpe crítico mágico por 30 segundos, $2 minutos de enfriamiento, consume 1% de mana.
+ 
+10 seconds of channeling time, teleport to The Land of Reiki. Cost 30% mana.
+10 segundos de canalización, te teletransporta a varios lugares de la tierra espiritual. Consume 30% de mana.
+
+{d} seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost {d}% mana.
+$1 segundos de canalización, conjura un portal de teletransportación para tus aliados. El portal dura 1 minuto. Consume $2% de mana.
+
+Basic skill, deal divine damage to 1 enemy within 20 yards, increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Habilidad básica, inflige daño divino a 1 enemigo a 20 metros, incrementa $1 puntos de ataque mágico, $2% de bonus de ataque, consume $3 mana
+
+Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataca a 6 enemigos a 20 metros y 180 grados, 4.5 segundos de enfriamiento. Incrementa $1 puntos de ataque mágico, $2% de bonus de ataque, consume $3 mana
+
+Powerful wide-range skill, create a holy light blast around your, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of {s}. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Habilidad de largo alcance, Crea una explosión sagrada a tu alrededor causando daño divino a todos los enemigos a 12 metros de distancia. Si golpea con golpe crítico se restablece el enfriamiento de {sub2{$1}sub2}. $2 segundos de enfriamiento. Incrementa $3 puntos de ataque mágico, $4% de bonus de ataque, consume $5 mana
+
+Reduce {d}% of all damage taken for 15 seconds. {d} seconds CD, not affected by global CD, cost 1% mana.
+Reduce $1% el daño recibido por 15 segundos. $2 segundos de enfriamiento, no se ve afectado por el enfriamiento general, consume 1% de mana.
+
+Continuous single-target attack, 20 yards of effective range, {d} seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque continuo a un solo objetivo, 20 metros de alcance, $1 segundos de canalización, debora al objetivo en fuego divino causándole daño divino y daño continuo por 10 segundos, $2 segundos de enfriamiento. Incrementa $3 puntos de ataque mágico, $4% de bonus de ataque, consume $5 mana
+
+Base single-target healing skill, cost 2% mana.
+Habilidad de curación base a un solo objetivo, consume 2% de mana.
+
+Continuous single-target healing skill, last for 15 seconds. 1.5x healing effect of {s}. Cost 3% mana.
+Habilidad de curación continua a un solo objetivo, dura 15 segundos. Su efecto es 1.5 veces el de {sub2{$1}sub2}. Consume 3% de mana.
+
+Powerful single-target healing skill, {d} seconds of channeling time, 4x healing effect of {s}. Cost 6% mana.
+Habilidad potente de curación a un solo objetivo, $1 segundos de canalización. Su efecto es 4 veces el de {sub2{$2}sub2}. Consume 6% de mana.
+
+Wide-range healing skill, heal up to 6 allies within 10 yards. Cost 4% mana.
+Habilidad de curación de largo alcance, cura a 6 aliados a 10 metros de distancia. Consume 4% de mana.
+
+Powerful Wide-range healing skill, heal up to 5 wounded allies within 15 yards, {d} seconds of channeling time, 6x healing effect of {s}, increase {d}% of all healing effects on allies for 8 seconds. Cost {d}% mana.
+Habilidad potente de curación de largo alcance, cura hasta a 5 aliados heridos a 15 metros de disttancia, $1 segundos de canalización, Su efecto es 6 veces el de {sub2{$2}sub2}, incrementa $3% de todos los efectos de curación a aliados por 8 segundos. Consume $4% de mana.
+
+Resurrect 1 target within 5 yards, the resurrected target will have {d}% HP and MP. {d} minutes CD, cost {d}% mana.
+Resucita a un objetivo a 5 metros de distancia con $1% de su salud y mana. $2 minutos de enfriamiento, consume $3% de mana.
+
+15 yards of effective range, remove all magic debuffs and curse debuffs from 1 ally, or remove 1 magic buff from 1 enemy. {d} seconds CD, cost 1% mana.
+15 metros de alcance, elimina todos los debuffs mágicos y de maldición de un aliado, o un buff mágico de un enemigo. $1 segundos de enfriamiento, consume 1% de mana.
+
+Dispel all magic within a 10-yard radius, remove all magic debuffs and curse debuffs from up to 5 allies, and remove 1 magic buff from 5 enemies. {d} seconds CD, cost {d}% mana.
+Disipa toda la magia a 10 metros de distancia. Elimina 5 debuffs mágicos o de maldición a hasta 5 aliados, y un buff mágico a 5 enemigos. $1 segundos de enfriamiento, consume $2% de mana.
+
+Push the target 18 yards away, and decrease its movement speed by {d}% for 8 seconds. {d} seconds CD, cost 1% mana.
+Empuja al objetivo a 18 metros y reduce $1% su velocidad de movimiento por 8 segundos. $2 segundos de enfriamiento, consume 1% de mana.
+
+Remove and gain immunity to Restrained and Transfixed effects for 10 seconds. {d} seconds CD, not affected by global CD, cost 1% mana.
+Elimina y te da inmunidad a los efectos de paralización y restricción por 10 segundos. $1 segundos de enfriamiento, no se ve afectado por el enfriamiento general, consume 1% de mana.
+
+The Priest transforms into a Soul of Redemption for 10 seconds. The Soul of Redemption cannot move, attack, be attacked, or be targeted by spells and effects. In this form, the Priest can cast healing skills without costing mana. 6{d} seconds CD, cost 1% mana.
+El sacerdote se transforma en {sub2{$1}sub2} por 10 segundos. El {sub2{$1}sub2} no se puede mover, atacar, ser atacado o ser apuntado con hechizos ni efectos. En essta forma el sacerdote podrá lanzar habilidades de curación sin que le cuesten mana. $2 segundos de enfriamiento, consume 1% de mana.
+
+Bless all allies with divine energy within 20 yards and reduce their physical damage taken by {d}% for 2 minutes, cost 1% mana.
+Bendice a todos los aliados con energía divina a 20 metros de distancia y reduce $1% el daño físico recibido por 2 minutos, consume 1% de mana.
+
+Mental attack 1 enemy within 20 yards, deal continuous damage and decrease {d}% dodge of the target for 15 seconds. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataca la mente de un enemigo a 20 metros de distancia, le causa daño continuo y reduce $1% su evasión por 15 segundos. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque base, forma una flecha de sombra con poder oscuro y la dispara a un enemigo a 20 metros de distancia, incrementa $1 puntos de ataque mágico, $2% de ataque bonus, consume $3 mana
+
+Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque de largo alcance, lanza un esqueleto a un enemigo a 10 metros y causa una explosión al contacto. La explosión causa daño hasta a 5 objetivos adicionales a 8 metros de distancia, 4.5 segundos de enfriamiento. Incrementa $1 puntos de ataque mágico, $2% de bonus de ataque, consume $3 mana
+
+Powerful wide-range attack. {s} spreads out on the ground and deals damage in a 12-yard radius, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Ataque potente de largo alcance. {sub2{$1}sub2} se esparce por el suelo y causa daño en un radio de 12 metros, $2 segundos de enfriamiento. Incrementa $3 puntos de ataque mágico, $4% de bonus de ataque, consume $5 mana
+
+Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by {d}% for 15 seconds, {d} seconds CD. Toughness decrease can be stacked up to 5 times. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Daño continuo a un solo objetivo, 20 metros de alcance, corroe al objetivo causándole daño y reduciendo $1 su dureza por 15 segundos, $2 segundos de enfriamiento. Se puede acumular la reducción de dureza hasta 5 veces. Incrementa $3 puntos de ataque mágico, $4% de bonus de ataque, consume $5 mana
+
+Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+Daño continuo a un solo objetivo, 20 metros de alcance, causa daño continuo al objetivo por 8 segundos. Se puede acumular un mayor daño al lanzarse varias veces contra el mismo objetivo, no es necesario que se lance en sucesión. El daño se puede acumular hasta 10 veces. $1 segundos de enfriamiento. Incrementa $2 puntos de ataque mágico, $3% de bonus de ataque, consume $4 mana
+
+Base single-target healing skill, 20 yards of effective range, cost 2% mana.
+Habilidad base de curación a un solo objetivo, 20 metros de alcance, consume 2% de mana.
+
+Continuous single-target healing skill, 20 yards of effective range, 1.5 seconds of channeling time, continuous healing for 18 seconds. 6x healing effect of {s}, 20 yards of effective range, cost 6% mana.
+Habilidad de curación continua a un solo objetivo, 20 metros de alcance, 1.5 segundos de canalización, cura por 18 segundos. Su efecto es 6 veces el de {sub2{$1}sub2}, consume 6% de mana.
+
+Summon a totem at your location for 15 seconds. The totem heals some HP for 1 wounded team or party member within 25 yards every 2 seconds. 1 minute CD. Cost 8% mana.
+Invoca a un tótem a tu lado por 15 segundos, que cada 2 segundos dará algo de salud a uno de los miembros heridos de tu equipo o grupo que estén a 25 metros. 1 minuto de enfriamiento. Consume 8% de mana.
+
+{d} seconds of channeling time, heal HP for 1 ally within 12 yards, then the healing effect jumps to the team or party member with the least HP every 2 seconds. The healing effect is reduced by {d}% with each jump. A total of 4 targets can be healed. 12 yards of effective range, 8 yards of healing effect jump range, cost 5% mana.
+$1 segundos de canalización, cura a un objetivo a 12 metros, luego el efecto de curación pasará hacia otro miembro del equipo o grupo con menos salud cada 2 segundos. El efecto se reducirá $2% cada vez que se cambie de objetivo. Se pueden curar hasta a 4 objetivos en total. 12 metros de alcance, 8 metros de distancia al cambiar. Consume 5% de mana.
+
+Summon a totem at your location for 10 seconds. The totem heals some HP for all team or party members within 20 yards every 2 seconds. {d} minutes CD, cost {d}% mana.
+Invoca a un tótem a tu lado por 10 segundos. El tótem da algo de salud a todos los miembros de tu equipo o grupo a 20 metros cada 2 segundos. $1 minutos de enfriamiento, consume $2% de mana
+
+Resurrect 1 target within 5 yards, the resurrected target will have {d}% HP and {d}% MP. {d} minutes CD, cost {d}% mana.
+Resucita a un objetivo a 5 metros. Al revivir tendrá $1% de salud y $2% de mana. $3 minutos de enfriamiento, consume $5% de mana.
+
+Summon a spirit to protect you, reduce 30% of all damage taken for 15 seconds. 40 seconds CD, not affected by global CD, cost 1% mana.
+Invoca a un espíritu para protegerte, reduce 30% el daño recibido por 15 segundos. 40 segundos de enfriamiento, no se ve afectado por el enfriamiento general, consume 1% de mana
+
+Summon hands of the undead from underground to decrease {d}% movement speed and {d}% attack speed of the enemy for 8 seconds, {d} seconds CD, cost 1% mana.
+Invoca manos de no muerto desde el subsuelo para reducir $1% la velocidad de movimiento y $2% la velocidad de ataque del enemigo por 8 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+Remove and gain immunity to Knock-Outed and Fire-Trapped effects for 10 seconds. {d} seconds CD, not affected by global CD, cost 1% mana.
+Elimina y te da inmunidad a los efectos de noqueado y atrapado en fuego por 10 segundos. $1 segundos de enfriamiento, no se ve afectado por el enfriamiento general. Consume 1% de mana.
+
+Harden your skin, reduce {d}% of all damage taken, as well as remove and gain immunity to Silenced effect for 8 seconds, {d} seconds CD, cost 1% mana.
+Endurece tu piel, lo que reduce $1% el daño recibido y hace que obtengas inmunidad y elimines el efecto de silenciado por 8 segundos, $2 segundos de enfriamiento, consume 1% de mana.
+
+Summon a totem at your location for 30 seconds. The totem increases {d}% magic accuracy on all allies within 20 yards for 2.5 seconds every 2 seconds. {d} minutes CD, cost 2% mana.
+Invoca a un tótem a tu lado por 30 segundos, que incrementa $1% la precisión de los ataques mágicos de todos los aliados a 20 metros por 2.5 segundos cada 2 segundos. $2 minutos de enfriamiento, consume 2% de mana.
+
+Summon undeads to ensnare all enemies within 15 yards and reduce {d}% critical hit resist of the targets for 30 seconds, {d} minutes CD, cost 2% mana.
+Invoca a no muertos para atrapar a todos los enemigos a 15 metros y reducir $1% su resistencia a golpes críticos por 30 segundos, $2 minutos de enfriamiento, consume 2% de mana.
+
+15 yards of effective range, remove all magic debuffs and curse debuffs from 1 ally, or remove 1 buff from 1 enemy, cost 1% mana.
+15 metros de alcance, elimina todos los debuffs mágicos y de maldición de un aliado, o un buff mágico de un enemigo, consume 1% de mana.
+
+Immune to breath-holding terrain damage
+Te hace inmune al daño del terreno en el que no se pueda respirar.
+
+Immune to corrosive terrain effect damage
+Te hace inmune al daño del terreno corrosivo.
+
+Immune to Poisoned Terrain Effect Damage
+Te hace inmune al daño del terreno venenoso.
+
+Increase 4% damage.
+Incrementa 4% el daño.
+
+When you use Sweep Attack after Cleave, increase 15% damage of Sweep Attack. Require Combat Stance.
+Cuando usas ataque de barrido después de usar rajar, incrementa 15% el daño del Ataque de barrido. Requiere Postura de batalla.
+
+After you use Leap Slash, global CD will be reduced to 50%. Increase 33% attack damage for 1 second. Require Combat Stance.
+Después de usar Tajo repentino, el enfriamiento global se reducirá 50% y el daño se incrementará un 33% durante un segundo. Requiere Postura de batalla.
+
+Increase 4% physical attack. Require Combat Stance.
+Incrementa 4% el ataque físico. Requiere Postura de batalla.
+
+Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Combat Stance and Defensive Stance cannot be used at the same time.
+Reduce 3% el daño de ataque. Cuando recibes daño, obtienes un punto de ira adicional por cada 1% de daño recibido. Postura de batalla y Postura defensiva no se pueden usar a la vez.
+
+Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+Otorga varios buffs a Postura defensiva. Incrementa 10 puntos de evasión. Reduce 2% la probabilidad de recibir un golpe crítico físico. Reduce 3% la probabilidad de que rompan tu defensa. Requiere Postura defensiva.
+
+Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+Reduce 3% el daño de ataque. Cuando recibes daño ganas un punto de ira adicional por cada 2% de daño recibido. Requiere Postura defensiva.
+
+Increase 8% physical defense and 10% magic defense, require defensive stance.
+Incrementa 8% la defensa física y 10% la defensa mágica. Requiere Postura defensiva.
+
+When Cleave deals a critical hit, it increases 40% Bleeding effect on target for 15 seconds.
+Cuando Rajar produce un golpe crítico, incrementa 40% el efecto de Sangrado en el objetivo por 15 segundos.
+
+Increase 4% dodge.
+Incrementa 4% la evasión.
+
+Increase 6% damage and 2% of all damage taken.
+Incrementa 6% el daño y 2% el daño recibido.
+
+Each time you hit the target, Increase 10 Critical Hit of the next attack. Reset After Triggering Critical Hit. Require Rampage Stance.
+Cada vez que golpees al objetivo, incrementa 10 puntos de probabilidad de dar un golpe crítico en el siguiente ataque. Se restablece después de que ocurra. Requiere Postura furiosa.
+
+Enrage is triggered when Bloodthirsty deals a critical hit. Increase 100% attack speed and 30% of all damage taken for 2 seconds. Require Rampage Stance.
+El enfurecimiento se activa cuando Sed de sangre impacta con un golpe crítico. Incrementa 100% la velocidad de ataque y 30% el daño recibido durante 2 segundos. Requiere Postura furiosa.
+
+Increase 20% damage during Enrage.
+Incrementa 20% el daño durante el Enfurecimiento.
+
+Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Rampage Stance and Defensive Stance cannot be used at the same time.
+Reduce 3% el daño de ataque. Cuando recibes daño, ganas un punto de ira adicional por cada 1% de daño recibido. Postura furiosa y Postura defensiva no se pueden usar a la vez.
+
+Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+Otorga varios buffs a Postura defensiva. Incrementa 10 puntos de evasión. Reduce 2% la probabilidad de recibir un golpe crítico físico. Reduce 3% la probabilidad de que rompan tu defensa. Requiere Postura defensiva.
+
+Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+Reduce 3% el daño de ataque. Cuando recibes daño ganas un punto de ira adicional por cada 2% de daño recibido. Requiere Postura defensiva.
+
+Reduce 3% attack damage and increase 8% healing effect. Require Defensive Stance.
+Reduce 3% el daño de ataque e incrementa 8% el efecto curativo. Requiere Postura defensiva.
+
+Each attack gives you 1 additional rage.
+Cada ataque te otorga 1 punto de ira adicional.
+
+Increase 4% damage.
+Incrementa 4% el daño.
+
+Increase 3% damage. Increase Maximum Combo by 2.
+Incrementa 3% el daño, así como los puntos máximos de combo en 2.
+
+Increase 12% physical defense and 10% magic defense. Require Assassin's Determination.
+Incrementa 12% la defensa física y 10% la defensa mágica. Requiere Determinación del asesino.
+
+When your attack deals a critical hit on a target, each critical hit gives you 1 additional combo. Require Assassin's Determination.
+Cuando tu ataque impacte con un golpe crítico sobre un objetivo, cada golpe crítico te otorga un punto de combo adicional. Requiere Determinación del asesino.
+
+Increase 22% Rapid Sting Damage. Require Assassin's Determination.
+Incrementa 22% el daño de la Puñalada rápida. Requiere Determinación del asesino.
+
+Increase 4% attack damage, reduce 2% attack damage taken. Blind Faith and Assassin's Determination cannot be used at the same time.
+Incrementa 4% el daño de ataque, reduce 2% el daño recibido. Fe ciega y Determinación del asesino no se pueden usar a la vez.
+
+Absorb nearby shadow to strengthen your weapon, increasing 12% Blade Strike damage. Require Blind Faith.
+Absorve el poder de las sombras cercanas para reforzar tu arma, incrementando 12% el daño del Golpe de cuchilla. Requiere Fe ciega.
+
+Each time you spend 1 combo, reduce the remaining CD of Blade Fury Dance by 1 second. Require Blind Faith.
+Cada vez que gastas un punto de combo, reduce el enfriamiento restante de Danza de la furia de cuchillas en 1 segundo. Requiere Fe ciega.
+
+"Each time you spend 1 combo, you have a 20% chance to gain 1 extra combo. Require Blind Faith."
+Cada vez que gastes un punto de combo, tendrás un 20% de probabilidad de ganar 1 punto de combo extra. Requiere Fe ciega.
+
+Increase 3% attack damage.
+Incrementa 3% el daño de ataque.
+
+Increase 30 points of Critical Damage.
+Incrementa 30 puntos de daño crítico.
+
+Increase 4% attack damage.
+Incrementa 4% el daño de ataque.
+
+When you hit the target, recover HP equal to 5% damage dealt. Require Aspect of the Wild
+Cuando golpees al objetivo, recuperarás en salud el 5% del daño que causes. Requiere Aspecto salvaje.
+
+Increase 5% attack damage. Require Aspect of the Wild
+Incrementa 5% el daño de ataque. Reqiere Aspecto salvaje.
+
+When Arcane Shot deals a critical hit, resets the CD of the next Rapid Arrows. Require Aspect of the Wild
+Cuando el Disparo arcano impacta con un golpe crítico, restablece el enfriamiento de las próximas Flechas Rápidas. Requiere Aspecto salvaje.
+
+Increase 2% attack damage and 3% dodge. Aspect of the Wild and Aspect of the Monkey cannot be used at the same time.
+Incrementa 2% el daño de ataque y 3% la evasión. Aspecto salvaje y Aspecto del mono no se pueden usar a la vez.
+
+Increase 11% Defense Break Chance. Require Aspect of the Monkey.
+Incrementa 11% la probabilidad de romper la defensa. Requiere Aspecto del mono
+
+When you cast Aimed Shot, increase 22% damage of the next attack. Require Aspect of the Monkey.
+Cuando lanzas un Disparo preciso, incrementa 22% el daño del siguiente ataque. Requiere Aspecto del mono.
+
+Increases the chance of marking a target when attacks hit. Require Aspect of the Monkey.
+Incrementa la probabilidad de marcar a un objetivo cuando lo atacas. Requiere Aspecto del mono.
+
+Increase 5% movement speed.
+Incrementa 5% la velocidad de movimiento.
+
+Increase 11 points of Critical Hit, 12 points of Critical Damage and 1% attack damage.
+Incrementa 11 puntos de golpe crítico, 12 puntos de daño crítico y 1% el daño de ataque.
+
+Increase 2% attack damage, reduce 2% attack damage taken.
+Incrementa 2% el daño de ataque y reduce 2% el daño recibido.
+
+Increase 22% Ice Lance Damage, require Ice Lineage.
+Incrementa 22% el daño de la Lanza de hielo. Requiere linaje de hielo.
+
+When Ice Arrow and Ice Orb deal Critical Hits, or when Ice Arrow hits a target affected by Aqua Jet, the target will be Condensed. Dealing damage to the target will break its Condensed effect. Require Ice Lineage.
+Cuando la Flecha de hielo y el Orbe de hielo impacten con un golpe crítico, o cuando la Flecha de hielo golpee a un objetivo afectado por Chorro de agua, el objetivo se condensará. Al causarle daño se romperá su efecto condensado. Requiere Linaje de hielo.
+
+Every time your attack hits the target, your attack damage is increased by 1% for 15 seconds. Require Ice Lineage.
+Cada vez que tu ataque golpee a un objetivo, tu daño causado al atacar se incrementará 1% por 15 segundos. Requiere Linaje de hielo.
+
+Increase 4% attack damage, reduce 2% attack damage taken. Ice Lineage and Cold Lineage cannot be used at the same time.
+Incrementa 4% el daño de ataque, reduce 2% el daño recibido. Linaje de hielo y Linaje de frío no se pueden usar a la vez.
+
+Increase cast speed and reduce the CD of Ice Storm by 1.5 seconds. Require Cold Lineage.
+Incrementa la velocidad de lanzamiento y reduce el enfriamiento de Tormenta de hielo por 1.5 segundos. Requiere Linaje de frío.
+
+When your attack deals a Critical Hit, resets the CD of Ice Orb. Require Cold Lineage.
+Cuando tu ataque cause un golpe crítico se restablecerá el enfriamiento de Orbe de hielo. Requiere Linaje de frío.
+
+Increase 2% attack damage and 9% Defense Break Chance. Require Cold Lineage.
+Incrementa 2% el daño de ataque y 9% la probabilidad de romper la defensa. Requiere Linaje de frío.
+
+Increase 20 points of Toughness and 5 points of Critical Hit Resist.
+Incrementa 20 puntos de dureza y 5 puntos de resistencia a golpes críticos.
+
+Increase 4% damage.
+Incrementa 4% el daño.
+
+Increase 3% attack damage, reduce 2% attack damage taken.
+Incrementa 3% el daño de ataque, reduce 2% el daño recibido.
+
+Every time Fireball doesn't deal a Critical Hit to the target, it increases 10 points of Critical Hit. The effect ends when Fireball deals a Critical Hit. Require Elven Fire.
+Cada vez que la bola de fuego no impacte al objetivo con un golpe crítico se incrementarán 10 puntos de golpe crítico. El efecto terminará cuando la bola de fuego impacte con un golpe crítico. Requiere Fuego élfico.
+
+When your direct damage spell deals a critical hit and two consecutive damage spells deal critical hits, your next Pyroblast or Blazing Storm can be cast instantaneously. Require Elven Fire.
+Cuando dos de tus hechizos de daño directo impacten consecutivamente con un golpe crítico, tu próxima pyroexplosión o tormenta de llamas será instantánea. Requiere Fuego élfico.
+
+Increase 12% Blazing Storm Damage. Require Elven Fire.
+Incrementa 12% el daño de Tormenta de llamas. Requiere Fuego élfico.
+
+Increase 5% attack damage. Elven Fire and Hellfire cannot be used at the same time.
+Incrementa 5% el daño de ataque. Fuego élfico y Fuego infernal no se pueden usar a la vez.
+
+When you have over 80% MP, casting Fireball will activate Energized Fireball. Whenever you cast Fireball, Energized Fireball will cost 20% mana to increase 40% damage of your next Fireball, stacks 5 times at max. The effect ends when you don't have enough mana. Require Hellfire.
+Cuando tienes más de 80% de mana, al lanzar una Bola de fuego se activará la Bola de fuego potenciada. Cada vez que lances Bola de fuego, Bola de fuego potenciada te costará 20% de mana; incrementará 40% el daño de Bola de fuego, y se puede acumular 5veces como máximo. El efecto termina cuando no tengas mana suficiente. Requiere Fuego infernal.
+
+When your MP is below 20%, recover 70% MP automatically. This Skill can only be activated once every 3 minutes. Require Hellfire.
+Cuando tu mana está por debajo del 20%, recupera 70% de mana automáticamente. Esta habilidad solo se puede activar una vez cada 3 minutos. Requiere Fuego infernal.
+
+Increase 28% Fire Impact damage. Require Hellfire.
+Incrementa 28% el daño de Impacto de fuego. Requiere Fuego infernal.
+
+Increase 11 points of dodge.
+Incrementa 11 puntos de evasión.
+
+When your Fireball deals a Critical Hit, resets the CD of Fire Impact.
+Cuando tu Bola de fuego impacte con un golpe crítico se restablecerá el enfriamiento de Impacto de fuego.
+
+Increase 5% attack damage.
+Incrementa 5% el daño de ataque.
+
+Your direct healing spells will have an additional 8% healing effect. Require Justice.
+Tus hechizos de curación directa tendrán un efecto adicional de 8% de curación. Requiere Justicia.
+
+When your attack deals a Critical Hit, resets the CD of Divine Nova. Require Justice.
+Cuando tu ataque impacte con un golpe crítico, se restablecerá el enfriamiento de Nova divina. Requiere Justicia.
+
+When you cast Light of Miracles after Healing Prayers, increase 22% healing effect of Light of Miracles. Require Justice.
+Después de usar Oración de sanación, el efecto de curación de Luz milagrosa se incrementará en un 22%. Requiere Justicia.
+
+Increase 3% attack damage, reduce 4% of all damage taken.
+Incrementa 3% el daño de ataque y reduce 4% el daño recibido.
+
+Increase 24% Mind Whip Damage. Targets attacked by Mind Whip will suffer an additional 8% damage from Divine Nova. Require Shelter.
+Incrementa 24% el daño de Látigo Mental. Los objetivos dañados por Látigo Mental sufrirán un 8% de daño adicional de Nova divina. Requiere Refugio sagrado.
+
+Increase 12% of all healing effects transformed through Redemption. Require Shelter.
+Incrementa 12% el efecto curativo mientras estás transformado en el Alma de Redención. Requiere Refugio sagrado.
+
+When you resurrect an ally using Resurrection, your damage is increased by 30% and all your damage taken is reduced by 30% for 20 seconds. Require Shelter.
+Cuando resucites a un aliado usando Resurrección, tu daño de ataque se incrementará un 30% y tu daño recibido se reducirá un 30% durante 20 segundos. Requiere Refugio sagrado.
+
+Increase 5 points of Dodge and 5 points of critical hit resist.
+Incrementa 5 puntos de evasión y 5 puntos de resistencia a golpes críticos.
+
+When your HP is below 30%, Ring of Life can cost 1% mana to recover 1% HP per second.
+Cuando tu salud esté por debajo del 30%, Anillo de la vida utilizará 1% de tu mana para recuperar 1% de salud por segundo.
+
+Reduce 4% of all damage taken.
+Reduce 4% el daño recibido.
+
+If the target is suffering from corrosion damage of Corrosion Spell, then Skeleton Explosion always Critical Hit. Require Soul Link.
+Si el objetivo está sufriendo daño de un hechizo de Corrosión, Explosión de esqueleto siempre impactará con un golpe crítico. Requiere Vínculo del alma.
+
+Casting Healing Chain will increase 15% healing effect of the next Healing Surge. Require Soul Link.
+Al lanzar Cadena de sanación incrementa 15% el efecto curativo de la siguiente Oleada curativa. Requiere Vínculo del alma.
+
+When your Shadow Arrow deals a Critical Hit, resets the CD of Dead Toxin. Require Soul Link.
+Cuando tu Flecha de sombra impacte con un golpe crítico, se restablecerá el enfriamiento de Explosión de Toxinas mortales. Requiere Vínculo del alma.
+
+Increase 3% attack damage, reduce 3% of all damage taken.
+Incrementa 3% el daño de ataque, reduce 3% el daño recibido.
+
+When your direct damage spells deal critical hit, increase 30% of spell damage and healing effect for 4 seconds. Require Soul Harmony.
+Cuando uno de tus hechizos de daño directo impacte con un golpe crítico, incrementa 30% los efectos de hechizos de daño y curación durante 4 segundos. Requiere Armonía del alma.
+
+Increase up to 20% spell healing effect depending on the target's current HP. The lower the target HP, the higher the healing effect. Require Soul Harmony.
+Incrementa un máximo de 20% el efecto de los hechizos de curación dependiendo de la salud actual del objetivo. Mientras más baja sea la salud del objetivo, más alto será el efecto. Requiere Armonía del alma.
+
+Reduce the CD of Soul Returnal by 5 minutes. When you resurrect an ally with Soul Returnal, reset the CD of all Totem Skills. Require Soul Harmony.
+Reduce el enfriamiento de Retorno del alma en 5 minutos. Cuando resucitas a un aliado con Retorno del alma, se restablece el enfriamiento de todas las habilidades de tótem. Requiere Armonía del alma.
+
+Increase 150 points of Critical Damage.
+Incrementa 150 puntos de daño crítico.
+
+Increase 10 points of Toughness and 10 points of critical hit resist.
+Incrementa 10 puntos de dureza y 10 puntos de resistencia a golpes críticos.
+
+Increase 2% attack damage.
+Incrementa 2% el daño de ataque.
+
+Increase 4 points of hit chance.
+Incrementa 4 puntos de precisión.
+
+Increase 49 points of Defense Break Chance.
+Incrementa 49 puntos de probabilidad de romper la defensa.
+
+Increase 25 points of Defense Break Chance and 40 points of Defense Break Damage.
+Incrementa 25 puntos de probabilidad de romper la defensa y 40 puntos de daño por rotura.
+
+Increase 7 points of Critical Hit.
+Incrementa 7 puntos de golpe crítico.
+
+Increase 5 points of Critical Hit and 11 points of Critical Damage.
+Incrementa 5 puntos de golpe crítico y 11 puntos de daño crítico.
+
+Reduce 3% of all damage taken.
+Reduce 3% el daño recibido.
+
+Increase 6 points of dodge.
+Incrementa 6 puntos de evasión.
+
+Increase 30 points of Toughness.
+Incrementa 30 puntos de dureza.
+
+Increase 10 points of critical hit resist.
+Incrementa 10 puntos de resistencia a golpes críticos.
+
+Increase 2% attack damage. Increase 2 points of Defense Break Chance and 10 points of Defense Break Damage.
+Incrementa 2% el daño de ataque, 2 puntos de probabilidad de romper la defensa y 10 puntos de daño por rotura.
+
+Increase 2% attack damage. Increase 5 points of Toughness.
+Incrementa 2% el daño de ataque y 5 puntos de dureza.
+
+Increase 2% attack damage. Increase 1 point of critical hit resist.
+Incrementa 2% el daño de ataque y 1 punto de resistencia a golpes críticos.
+
+Reduce 2% of all damage taken. Increase 2 points of hit chance.
+Reduce 2% el daño recibido e incrementa 2 puntos de precisión.
+
+Reduce 2% of all damage taken. Increase 16 points of Defense Break Chance.
+Reduce 2% el daño recibido e incrementa 16 puntos de probabilidad de romper la defensa.
+
+Reduce 2% of all damage taken. Increase 12 points of Defense Break Chance and 17 points of Defense Break Damage.
+Reduce 2% el daño recibido, incrementa 12 puntos de probabilidad de romper la defensa y 17 puntos de daño por rotura.
+
+Reduce 2% of all damage taken. Increase 3 points of Critical Hit.
+Reduce 2% el daño recibido e incrementa 3 puntos de golpe crítico.
+
+Reduce 2% of all damage taken. Increase 2 points of Critical Hit and 6 points of Critical Damage.
+Reduce 2% el daño recibido, incrementa 2 puntos de golpe crítico y 6 puntos de daño crítico.
+
+Reduce 2% of all damage taken. Increase 3 points of dodge.
+Reduce 2% el daño recibido e incrementa 3 puntos de evasión.
+
+Reduce 3% of all damage taken. Increase 5 points of Toughness.
+Reduce 3% el daño recibido e incrementa 5 puntos de dureza.
+
+Reduce 2% of all damage taken. Increase 4 points of critical hit resist.
+Reduce 2% el daño recibido e incrementa 4 puntos de resistencia a golpes críticos.
+
+Increase 2% attack damage and 1 point of hit chance.
+Incrementa 2% el daño de ataque y 1 punto de precisión.
+
+Increase 2% attack damage and 7 point of Defense Break Chance.
+Incrementa 2% el daño de ataque y 7 puntos de probabilidad de romper la defensa.
+
+Increase 2% attack damage. Increase 1 points of Critical Hit and 2 points of Critical Damage.
+Incrementa 2% el daño de ataque, un punto de golpe crítico y 2 de daño crítico.
+
+Increase 2% attack damage and 2 points of Critical Hit.
+Incrementa 2% el daño de ataque y 2 puntos de golpe crítico.
+
+Increase 2% attack damage. Increase 9 points of Toughness.
+Incrementa 2% el daño de ataque y 9 puntos de dureza.
+
+Reduce 2% of all damage taken. Increase 19 points of Defense Break Chance.
+Reduce 2% el daño recibido e incrementa 19 puntos de probabilidad de romper la defensa.
+
+Reduce 2% of all damage taken. Increase 15 points of Defense Break Chance and 21 points of Defense Break Damage.
+Reduce 2% el daño recibido, incrementa 15 puntos de probabilidad de romper la defensa y 21 puntos de daño por rotura.
+
+Reduce 2% of all damage taken. Increase 3 points of Critical Hit and 5 points of Critical Damage.
+Reduce 2% el daño recibido, incrementa 3 puntos de golpe crítico y 5 puntos de daño crítico.
+
+Reduce 2% of all damage taken. Increase 4 points of dodge.
+Reduce 2% el daño recibido e incrementa 4 puntos de evasión.
+
+Reduce 3% of all damage taken. Increase 9 points of Toughness.
+Reduce 3% el daño recibido e incrementa 9 puntos de dureza.
+
+Reduce 2% of all damage taken. Increase 5 points of critical hit resist.
+Reduce 2% el daño recibido e incrementa 5 puntos de resistencia a golpes críticos.
+
+Increase 2% attack damage and 10 point of Defense Break Chance.
+Incrementa 2% el daño de ataque y 10 puntos de probabilidad de romper la defensa.
+
+Increase 2% attack damage. Increase 8 points of Defense Break Chance and 18 points of Defense Break Damage.
+Incrementa 2% el daño de ataque, 8 puntos de probabilidad de romper la defensa y 18 puntos de daño por rotura.
+
+Increase 2% attack damage and 2 points of Critical Hit.
+Incrementa 2% el daño de ataque y 2 puntos de golpe crítico.
+
+Increase 2% attack damage. Increase 14 points of Toughness.
+Incrementa 2% el daño de ataque y 14 puntos de dureza.
+
+Increase 2% attack damage. Increase 3 point of critical hit resist.
+Incrementa 2% el daño de ataque y 3 puntos de resistencia a golpes críticos.
+
+Reduce 2% of all damage taken. Increase 22 points of Defense Break Chance.
+Reduce 2% el daño recibido e incrementa 22 puntos de probabilidad de romper la defensa.
+
+Reduce 2% of all damage taken. Increase 18 points of Defense Break Chance and 25 points of Defense Break Damage.
+Reduce 2% el daño recibido, incrementa 18 puntos de romper la defensa y 25 puntos de daño por rotura.
+
+Reduce 2% of all damage taken. Increase 4 points of Critical Hit.
+Reduce 2% el daño recibido e incrementa 4 puntos de golpe crítico.
+
+Reduce 2% of all damage taken. Increase 5 points of dodge.
+Reduce 2% el daño recibido e incrementa 5 puntos de evasión.
+
+Reduce 3% of all damage taken. Increase 14 points of Toughness.
+Reduce 3% el daño recibido e incrementa 14 puntos de dureza.
+
+Reduce 2% of all damage taken. Increase 6 points of critical hit resist.
+Reduce 2% el daño recibido e incrementa 6 puntos de resistencia a golpes críticos.
+
+Increase 2% attack damage and 5 point of hit chance.
+Incrementa 2% el daño de ataque y 5 puntos de precisión.
+
+Increase 2% attack damage and 14 point of Defense Break Chance.
+Incrementa 2% el daño de ataque y 14 puntos de probabilidad de romper la defensa.
+
+Increase 2% attack damage. Increase 11 points of Defense Break Chance and 20 points of Defense Break Damage.
+Incrementa 2% el daño de ataque, 11 puntos de probabilidad de romper la defensa y 20 puntos de daño por rotura.
+
+Increase 2% attack damage. Increase 18 points of Toughness.
+Incrementa 2% el daño de ataque y 18 puntos de dureza.
+
+Reduce 2% of all damage taken. Increase 26 points of Defense Break Chance.
+Reduce 2% el daño recibido e incrementa 26 puntos de probabilidad de romper la defensa.
+
+Reduce 2% of all damage taken. Increase 21 points of Defense Break Chance and 28 points of Defense Break Damage.
+Reduce 2% el daño recibido, incrementa 21 puntos de probabilidad de romper la defensa y 28 puntos de daño por rotura.
+
+Reduce 2% of all damage taken. Increase 4 points of Critical Hit and 6 points of Critical Damage.
+Reduce 2% el daño recibido, incrementa 4 puntos de golpe crítico y 6 puntos de daño crítico.
+
+Reduce 2% of all damage taken. Increase 6 points of dodge.
+Reduce 2% el daño recibido e incrementa 6 puntos de evasión.
+
+Reduce 3% of all damage taken. Increase 18 points of Toughness.
+Reduce 3% el daño recibido e incrementa 18 puntos de dureza.
+
+Transfer your HP to your Pupil. The pupil must be within 20 yards of the tutor.
+Transfiere tu salud a tu pupilo. El pupilo debe de estar en una distancia de 20 metros del mentor.
+
+Use the Mining Skill to mine ores in the specified Mining Area.
+Usa la habilidad para obtener minerales de un área específica de minado.
+
+Use the Collect Herbs Skill to collect herbs in the specified Herbal Garden.
+Usa la habilidad para recolectar hierbas de un jardín herbal específico.
+
+Use the Fishing Skill to catch fish in the specified Water area.
+Usa la habilidad para atrapar peces en un área específica de agua.
+
+Use the Draw Blood Skill to draw blood from the creature that has just been killed.
+Usa la habilidad para tomar sangre de la criatura que haya muerto recientemente.
+
+Use the Cut Flesh Skill to Cut meat of different qualities on the creature that has just been killed.
+Usa la habilidad para cortar carne de diferente calidad de la criatura que haya muerto recientemente.
+
+Use the Skinning Skill to collect pelt from the creature that has just been killed.
+Usa la habilidad para recolectar piel de la criatura que haya muerto recientemente.
+
+Level {d} Bash
+Golpetazo de nivel $1
+
+Level {d} Cleave
+Rajar de nivel $1
+
+Level {d} Execute
+Ejecutar de nivel $1
+
+Level {d} Sweep Attack
+Ataque de Barrido de nivel $1
+
+Level {d} Whirlwind Slash
+Tajo Torbellino de nivel $1
+
+Level {d} Wind Step
+Paso del Viento de nivel $1
+
+Level {d} Swallow Dance
+Danza de la Golondrina de nivel $1
+
+Level {d} Formless
+Sin Forma de nivel $1
+
+Level {d} Leap Slash
+Tajo Repentino de nivel $1
+
+Level {d} Rip and Tear
+Rasgar y desgarrar de nivel $1
+
+Level {d} Suppress
+Supresión de nivel $1
+
+Level {d} Hamstring
+Desjarretar de nivel $1
+
+Level {d} Armor Break
+Romper Armadura de nivel $1
+
+Level {d} Rupture
+Ruptura de nivel $1
+
+Level {d} Battle Cry
+Grito de Batalla de nivel $1
+
+Level {d} Command Cry
+Grito de comandante de nivel $1
+
+Level {d} Taunt Attack
+Mofa de nivel $1
+
+Level {d} Challenge Cry
+Grito Desafiante de nivel $1
+
+Level {d} Lethal Strike
+Golpe Letal de nivel $1
+
+Level {d} Valiant Strike
+Golpe valiente de nivel $1
+
+Level {d} Reckless Strike
+Golpe Imprudente de nivel $1
+
+Level {d} Bloodthirsty
+Sed de sangre de nivel $1
+
+Level {d} Flesh Cleave
+Corte de Carne de nivel $1
+
+Level {d} Rampage Hack
+Tajo Furioso de nivel $1
+
+Level {d} Haste
+Estampida furiosa de nivel $1
+
+Level {d} Ignore the Pain
+Ignorar el Dolor de nivel $1
+
+Level {d} Furious Recovery
+Recuperación Furiosa de nivel $1
+
+Level {d} Ancestral Hammer
+Martillo Ancestral de nivel $1
+
+Level {d} Earthshaking Stomp
+Pisotón Estremecedor de nivel $1
+
+Level {d} Vengeance
+Venganza de nivel $1
+
+Level {d} Thunderous Blow
+Golpe Atronador de nivel $1
+
+Level {d} Giant Strike
+Golpe de Gigante de nivel $1
+
+Level {d} Berserk Roar
+Rujido Berserk de nivel $1
+
+Level {d} Battle Roar
+Rugido de Batalla de nivel $1
+
+Level {d} Taunt
+Burla de nivel $1
+
+Level {d} Reckless
+Imprudente de nivel $1
+
+Level {d} Blade Strike
+Golpe de Cuchilla de nivel $1
+
+Level {d} Rapid Sting
+Puñalada Rápida de nivel $1
+
+Level {d} Fan of Knives
+Abanico de Cuchillos de nivel $1
+
+Level {d} Blade Fury Dance
+Danza de la furia de Cuchillas de nivel $1
+
+Level {d} Shadow Steps
+Pasos de la Sombra de nivel $1
+
+Level {d} Leap Gouge
+Salto de Gubia de nivel $1
+
+Level {d} Relentless Slash
+Tajo Implacable de nivel $1
+
+Level {d} Sap
+Savia de nivel $1
+
+Level {d} Puncture
+Pinchazo de nivel $1
+
+Level {d} Piercing Shriek
+Chillido Penetrante de nivel $1
+
+Level {d} Void Shift
+Transferencia del Vacío de nivel $1
+
+Level {d} Scorn
+Desdén de nivel $1
+
+Level {d} Dark Quake
+Temblor Oscuro de nivel $1
+
+Level {d} Kidney Strike
+Golpe de Riñón de nivel $1
+
+Level {d} Shadow Cloak
+Capa de Sombras de nivel $1
+
+Level {d} Shattering Moon
+Luna destrozada de nivel $1
+
+Level {d} Slit Throat
+Cortar la Garganta de nivel $1
+
+Level {d} Poison Blade
+Cuchilla Venenosa de nivel $1
+
+Level {d} Arcane Shot
+Disparo Arcano de nivel $1
+
+Level {d} Aimed Shot
+Disparo Preciso de nivel $1
+
+Level {d} Multi Shot
+Disparo Múltiple de nivel $1
+
+Level {d} Rapid Arrows
+Flechas Rápidas de nivel $1
+
+Level {d} Marked Shot
+Disparo Marcado de nivel $1
+
+Level {d} Burst Shot
+Ráfaga de Disparos de nivel $1
+
+Level {d} Bull's Eye
+Ojo de Halcón de nivel $1
+
+Level {d} Concussive Shot
+Disparo de Conmoción de nivel $1
+
+Level {d} Throw Hunting Net
+Lanzar Red de Caza de nivel $1
+
+Level {d} Tar Trap
+Trampa de Alquitrán de nivel $1
+
+Level {d} Magic Sphere
+Esfera Mágica de nivel $1
+
+Level {d} Ice Lance
+Lanza de Hielo de nivel $1
+
+Level {d} Ice Storm
+Tormenta de Hielo de nivel $1
+
+Level {d} Ice Orb
+Orbe de Hielo de nivel $1
+
+Level {d} Aqua Jet
+Chorro de Agua de nivel $1
+
+Level {d} Blizzard
+Ventisca de nivel $1
+
+Level {d} Ice Arrow
+Flecha de Hielo de nivel $1
+
+Level {d} Icicle
+Cono de Hielo de nivel $1
+
+Level {d} Frost Nova
+Nova de Escarcha de nivel $1
+
+Level {d} Cold Winter
+Frío invernal de nivel $1
+
+Level {d} Ice Barrier
+Barrera de Hielo de nivel $1
+
+Level {d} Ice Shield
+Escudo de Hielo de nivel $1
+
+Level {d} Winter Horn
+Cuerno de Invierno de nivel $1
+
+Level {d} Crushed Ice Fetters
+Grilletes de hielo triturado de nivel $1
+
+Level {d} Chilling Frost
+Escarcha Gélida de nivel $1
+
+Level {d} Dispel Magic
+Disipar Magia de nivel $1
+
+Level {d} Teleportation
+Teletransportación de nivel $1
+
+Level {d} Teleportation Portal
+Portal de teletransportación de nivel $1
+
+Level {d} Retract the Barrier
+Retraer la barrera de nivel $1
+
+Level {d} Fireball
+Bola de Fuego de nivel $1
+
+Level {d} Fire Impact
+Impacto de Fuego de nivel $1
+
+Level {d} Fire Surge
+Oleada de Fuego de nivel $1
+
+Level {d} Sear
+Abrasar de nivel $1
+
+Level {d} Pyroblast
+Pyroexplosión de nivel $1
+
+Level {d} Blazing Storm
+Tormenta de Llamas de nivel $1
+
+Level {d} Magma
+Magma de nivel $1
+
+Level {d} Dragon's Breath
+aliento de dragón de nivel $1
+
+Level {d} Elven Ascension
+Sublimación Élfica de nivel $1
+
+Level {d} Lava Armor
+Armadura de Lava de nivel $1
+
+Level {d} Scorch
+Quemar de nivel $1
+
+Level {d} Purification
+Purificación de nivel $1
+
+Level {d} Ignition
+Ignición de nivel $1
+
+Level {d} Magic Shield
+Escudo Mágico de nivel $1
+
+Level {d} Invisibility
+Invisibilidad de nivel $1
+
+Level {d} Critical Blaze
+Resplandor crítico de nivel $1
+
+Level {d} Elven Teleportation
+Teletransportación Élfica de nivel $1
+
+Level {d} Elven Teleportation Portal
+Portal de Teletransporte Élfico de nivel $1
+
+Level {d} Retribution
+Retribución de nivel $1
+
+Level {d} Holy Light Wave
+Ola de Luz Sagrada de nivel $1
+
+Level {d} Divine Nova
+Nova Divina de nivel $1
+
+Level {d} Concentrated Will
+Voluntad Concentrada de nivel $1
+
+Level {d} Divine Fire
+Fuego Divino de nivel $1
+
+Level {d} Heal
+Sanación de nivel $1
+
+Level {d} Recover
+Recuperación de nivel $1
+
+Level {d} Healing Prayers
+Oración de sanación de nivel $1
+
+Level {d} Light of Miracles
+Luz Milagrosa de nivel $1
+
+Level {d} Divine Anthem
+Himno Divino de nivel $1
+
+Level {d} Resurrection
+Resurrección de nivel $1
+
+Level {d} Holy Light
+Luz Sagrada de nivel $1
+
+Level {d} Group Dispel
+Disipación Grupal de nivel $1
+
+Level {d} Spiral Blast
+Explosión Espiral de nivel $1
+
+Level {d} Divine Protection
+Protección Divina de nivel $1
+
+Level {d} Soul of Redemption
+Alma de Redención de nivel $1
+
+Level {d} Requiem
+Réquiem de nivel $1
+
+Level {d} Mind Whip
+Látigo Mental de nivel $1
+
+Level {d} Shadow Arrow
+Flecha de Sombra de nivel $1
+
+Level {d} Skeleton Explosion
+Explosión de Esqueleto de nivel $1
+
+Level {d} Dead Toxin
+Explosión de Toxinas mortales de nivel $1
+
+Level {d} Corrosion Spell
+Corrosión de nivel $1
+
+Level {d} Incessant Pain
+Dolor Incesante de nivel $1
+
+Level {d} Healing Wave
+Ola Curativa de nivel $1
+
+Level {d} Healing Surge
+Oleada Curativa de nivel $1
+
+Level {d} Healing Fountain Totem
+Tótem Fuente de Sanación de nivel $1
+
+Level {d} Healing Chain
+Cadena de Sanación de nivel $1
+
+Level {d} Healing Tide Totem
+Tótem de Marea Curativa de nivel $1
+
+Level {d} Soul Returnal
+Retorno del Alma de nivel $1
+
+Level {d} Soul Purify
+Purificación del Alma de nivel $1
+
+Level {d} Summon Spirit
+Invocación de Espíritu de nivel $1
+
+Level {d} Undead Grip
+Agarre de los no-muertos de nivel $1
+
+Level {d} Break the Chain
+Romper la Cadena de nivel $1
+
+Level {d} Undying Resolve
+Determinación indestructible de nivel $1
+
+Level {d} Spiritual Totem
+Tótem Espiritual de nivel $1
+
+Level {d} Undead Ensnare
+Aprisionamiento de los no-muertos de nivel $1
+
+Level {d} Transfix
+Traspasar de nivel $1
+
+Level {d} Crystal Cannonball
+Bala de Cañón de Cristal de nivel $1
+
+Level {d} Crystal Light Wave
+Onda de Luz de Cristal de nivel $1
+
+Level {d} Cannon
+Cañón de nivel $1
+
+Level {d} Fire Breath
+Aliento de Fuego de nivel $1
+
+Level {d} Bomb
+Bomba de nivel $1
+
+Level {d} Rolling Stone
+Piedra Rodante de nivel $1
+
+Level {d} C4 Explosive
+Explosivo C4 de nivel $1
+
+Level {d} Abyss
+Abismo de nivel $1
+
+Level {d} Summon Robots
+Invocación de Robots de nivel $1
+
+Level {d} Dialog Control
+Control de Diálogo de nivel $1
+
+Level {d} Magic Cannon
+Cañón Mágico de nivel $1
+
+Level {d} Transform
+Transformar de nivel $1
+
+Level {d} Throw water monster egg
+Lanzar huevo de monstruo de agua de nivel $1
+
+Level {d} Mine Explosion
+Explosión de mina de nivel $1
+
+Level {d} Tear and Bite
+Morder y Desgarrar de nivel $1
+
+Level {d} Full-Note Attack
+Ataque de nota completa de nivel $1
+
+Level {d} Semitone Attack
+Ataque de semitono de nivel $1
+
+Level {d} Fire Cannon
+Cañón disparando de nivel $1
+
+Level {d} Load Ammunition
+Cargar munición de nivel $1
+
+Level {d} Self Repair
+Auto reparación de nivel $1
+
+Level {d} Crash
+Choque de nivel $1
+
+Level {d} Summon Zombie Guard
+Invocación de Guardia Zombi de nivel $1
+
+Level {d} Preparing Anti-Aircraft Cannon
+Preparación de cañón antiaéreo de nivel $1
+
+Level {d} Invisible Cannon
+Cañón Invisible de nivel $1
+
+Level {d} Super Taunt
+Súper burla de nivel $1
+
+Level {d} Explosion
+Explosión de nivel $1
+
+Level {d} Pig Push Rolling Stones
+Cerdo empujando piedras rodantes de nivel $1
+
+Level {d} Electric Current
+Corriente eléctrica de nivel $1
+
+Level {d} Throw Bomb
+lanzamiento de bomba de nivel $1
+
+Level {d} Alarm
+Alarma de nivel $1
+
+Level {d} Thunder
+Trueno de nivel $1
+
+Level {d} Deceleration Net
+Red de desaceleración de nivel $1
+
+Level {d} Vortex
+Vórtice de nivel $1
+
+Level {d} Surrender
+Rendición de nivel $1
+
+Level {d} Attract
+Atraer de nivel $1
+
+Level {d} Flash Bomb
+bomba de destello de nivel $1
+
+Level {d} Summon Undead
+Invocación de no-muerto de nivel $1
+
+Level {d} Knock on Window
+Llamar a la ventana de nivel $1
+
+Level {d} Slam
+Golpe de nivel $1
+
+Level {d} Channeling Stone Rampage
+Canalizando Alboroto de Piedra de nivel $1
+
+Level {d} Stone Rampage
+Alboroto de piedra de nivel $1
+
+Level {d} Strong Throw
+Fuerte lanzamiento de nivel $1
+
+Level {d} Teleport Bomb
+Bomba de teletransporte de nivel $1
+
+Level {d} Throw Grenade
+Lanzamiento de granada de nivel $1
+
+Level {d} Catapult
+Catapulta de nivel $1
+
+Level {d} Laser Cannon
+Cañón láser de nivel $1
+
+Level {d} Laser
+Láser de nivel $1
+
+Level {d} Roll
+Rodar de nivel $1
+
+Level {d} Boulder Smash
+Golpe de roca de nivel $1
+
+Level {d} Shooting
+Disparo de nivel $1
+
+Level {d} Hay Cutter
+Cortador de heno de nivel $1
+
+Level {d} Summon Demon
+invocación de demonio de nivel $1
+
+Level {d} Dark Heal
+Curación oscura de nivel $1
+
+Level {d} Soul Drain
+Drenaje de alma de nivel $1
+
+Level {d} Avalanche
+avalancha de nivel $1
+
+Level {d} Kick
+Patada de nivel $1
+
+Level {d} Piercing Kick
+Patada penetrante de nivel $1
+
+Level {d} Ram
+Ram de nivel $1
+
+Level {d} Croissant Knife
+Cuchillo Croissant de nivel $1
+
+Level {d} Elusive Kick
+Patada elusiva de nivel $1
+
+Level {d} Horn Knife
+cuchillo de cuerno de nivel $1
+
+Level {d} Magic Marbles
+Canicas mágicas de nivel $1
+
+Level {d} Magic Beam
+Rayo Mágico de nivel $1
+
+Level {d} Bark
+Ladrido de nivel $1
+
+Level {d} Angry Bite
+Mordisco furioso de nivel $1
+
+Level {d} Scratch
+Arañazo de nivel $1
+
+Level {d} Meow Punch
+Puñetazo miau de nivel $1
+
+Level {d} Swoop
+Redada de nivel $1
+
+Level {d} Stab
+Puñalada de nivel $1
+
+Level {d} Whip
+Látigo de nivel $1
+
+Level {d} Spank
+Zarpazo de nivel $1
+
+Level {d} Whirlwind Palm
+Palma torbellino de nivel $1
+
+Level {d} Intimidate
+Intimidar de nivel $1
+
+Level {d} Ice and Snow
+Hielo y nieve de nivel $1
+
+Level {d} Scarlet Flame
+Llama escarlata de nivel $1
+
+Level {d} Tiger Tail Whip
+Látigo de cola de tigre de nivel $1
+
+Level {d} Spray Water
+Agua pulverizada de nivel $1
+
+Level {d} Ice Sword
+espada de hielo de nivel $1
+
+Level {d} Breath
+Aliento de nivel $1
+
+Level {d} Chilling Breath
+Aliento gélido de nivel $1
+
+Level {d} Throw
+Lanzamiento de nivel $1
+
+Level {d} Blow Dart
+Soplido de dardo de nivel $1
+
+Level {d} Iron Scissors
+tijeras de hierro de nivel $1
+
+Level {d} Arm Knife
+Brazo Cuchillo de nivel $1
+
+Level {d} Leave Boomerang
+Hoja boomeran de nivel $1
+
+Level {d} Nut Bomb
+Nuez Bomba de nivel $1
+
+Level {d} Sandstorm
+Tormenta de arena de nivel $1
+
+Level {d} Peck
+Picotazo de nivel $1
+
+Level {d} Claw Hook
+Gancho de garra de nivel $1
+
+Level {d} Slap
+Bofetada de nivel $1
+
+Level {d} Magic Flames
+llamas mágicas de nivel $1
+
+Level {d} Elven Magic
+Magia élfica de nivel $1
+
+Level {d} Elven Song
+Canción élfica de nivel $1
+
+Level {d} Spit Bubbles
+escupir burbujas de nivel $1
+
+Level {d} Water Bomb
+Bomba de agua de nivel $1
+
+Level {d} Ice Ball
+bola de hielo de nivel $1
+
+Level {d} Crescent Crystal Boomerang
+Boomerang de cristal de media luna de nivel $1
+
+Level {d} Moonlight Crystal Retribution
+Retribución de cristal de luz lunar de nivel $1
+
+Level {d} Punch of Heaven
+Puñetazo celestial de nivel $1
+
+Level {d} Divine Arrow
+Flecha Divina de nivel $1
+
+Level {d} Base Attack
+Ataque básico de nivel $1
+
+Level {d} Pounce and Bite
+Saltar y morder de nivel $1
+
+Level {d} Poisonous Fang
+Colmillo venenoso de nivel $1
+
+Level {d} Poisonous Fog
+Niebla venenosa de nivel $1
+
+Level {d} Hit
+Golpe de nivel $1
+
+Level {d} Doom Beam
+Rayo maldito de nivel $1
+
+Level {d} Hack
+Tajar de nivel $1
+
+Level {d} Blow Nose
+Sonarse la nariz de nivel $1
+
+Level {d} Swooping Peck
+Picotazo volador de nivel $1
+
+Level {d} Swooping Claw
+Garra voladora de nivel $1
+
+Level {d} Great Waves
+Grandes olas de nivel $1
+
+Level {d} Water Arrow
+Flecha de agua de nivel $1
+
+Level {d} Undercurrent Impact
+Impacto de corriente subterránea de nivel $1
+
+Level {d} Undercurrent Surge
+Oleada de corriente subterránea de nivel $1
+
+Level {d} Venom
+Veneno de nivel $1
+
+Level {d} Spit
+Escupir de nivel $1
+
+Level {d} Wind Blade
+Cuchilla de viento de nivel $1
+
+Level {d} Collide
+Chocar de nivel $1
+
+Level {d} Meteor Shower
+Lluvia de meteoros de nivel $1
+
+Level {d} Falling Meteor
+Meteorito que cae de nivel $1
+
+Level {d} Silvermoon Machete
+Machete de Lunargenta de nivel $1
+
+Level {d} Crescent Boomerang
+Boomerang de media luna de nivel $1
+
+Level {d} Meteor Hammer
+Martillo de meteorito de nivel $1
+
+Level {d} Repel
+Repeler de nivel $1
+
+Level {d} Dark Invasion
+invasión oscura de nivel $1
+
+Level {d} Dark Baptism
+Bautismo oscuro de nivel $1
+
+Level {d} Dark Explosion
+Explosión Oscura de nivel $1
+
+Level {d} Electric Arc
+Arco eléctrico de nivel $1
+
+Level {d} Electric Shock
+Descarga eléctrica de nivel $1
+
+Level {d} Throw Boulder
+Lanzarrocas de nivel $1
+
+Level {d} Dark Judgment
+Juicio oscuro de nivel $1
+
+Level {d} Needle Sting
+Picadura de aguja de nivel $1
+
+Level {d} Electro Needle
+Aguja eléctrica de nivel $1
+
+Level {d} Flame Cage
+Jaula de llamas de nivel $1
+
+Level {d} Tornado Blade
+Tornado de cuchillas de nivel $1
+
+Level {d} Electric Cage
+Jaula eléctrica de nivel $1
+
+Level {d} Devastating Thunder
+Trueno devastador de nivel $1
+
+Level {d} Elemental Bomb
+bomba elemental de nivel $1
+
+Level {d} Bite
+Mordisco de nivel $1
+
+Level {d} Suck Blood
+Chupar sangre de nivel $1
+
+Level {d} Poke
+Golpear de nivel $1
+
+Level {d} Scare
+Susto de nivel $1
+
+Level {d} Incandescent Fireball
+Bola de fuego incandescente de nivel $1
+
+Level {d} Black Storm
+Tormenta negra de nivel $1
+
+Level {d} Storm Cage
+Jaula de tormenta de nivel $1
+
+Level {d} Dark Flame Blast
+Explosión de llamas oscuras de nivel $1
+
+Level {d} Dark Flame Storm
+Tormenta de llamas oscuras de nivel $1
+
+Level {d} Dark Flame Cage
+Jaula de llamas oscuras de nivel $1
+
+Level {d} Sigh of Death
+suspiro de la muerte de nivel $1
+
+Level {d} Discharge
+Descarga de nivel $1
+
+Level {d} Lightning Hurricane
+Huracán de relámpagos de nivel $1
+
+Level {d} Electric Armor
+Armadura eléctrica de nivel $1
+
+Level {d} Heavy Hammer
+Martillo pesado de nivel $1
+
+Level {d} Vomit Attack
+Ataque de vómito de nivel $1
+
+Level {d} Fire Needles
+Disparar agujas de nivel $1
+
+Level {d} Flying Feathers
+ramas voladoras de nivel $1
+
+Level {d} Act Cute
+Actuar lindo de nivel $1
+
+Level {d} Nature's Grace
+Gracia de la naturaleza de nivel $1
+
+Level {d} Demonic Hellfire
+Fuego infernal demoníaco de nivel $1
+
+Level {d} Bondage Serpent
+Esclavitud de serpiente de nivel $1
+
+Level {d} Life Plunder
+Saqueo de vida de nivel $1
+
+Level {d} Hydrotherapy
+hidroterapia de nivel $1
+
+Level {d} Blinding Dart
+Dardo cegador de nivel $1
+
+Level {d} Sprint
+Sprint de nivel $1
+
+Level {d} Cleave-Sword
+Corte de espada de nivel $1
+
+Level {d} Fire Blade
+Espada de fuego de nivel $1
+
+Level {d} Black Fireball
+bola de fuego negro de nivel $1
+
+Level {d} Verdict
+Veredicto de nivel $1
+
+Level {d} Shock Wave
+Onda de choque de nivel $1
+
+Level {d} Dark Holy Light
+Luz sagrada oscura de nivel $1
+
+Level {d} Dark Barrier
+Barrera Oscura de nivel $1
+
+Level {d} Bloody Roar
+Rugido sanguinario de nivel $1
+
+Level {d} Frenzy
+Frenesí de nivel $1
+
+Level {d} Cleave-Knife
+Corte de cuchillo de nivel $1
+
+Level {d} Holy Light Slash
+Tajo de luz sagrada de nivel $1
+
+Level {d} Cross Slash
+Tajo cruzado de nivel $1
+
+Level {d} Holy Light Heal
+Curación de luz sagrada de nivel $1
+
+Level {d} Cleave-Sword (increase attack speed)
+Corte de Espada (aumenta la velocidad de ataque) de nivel $1
+
+Level {d} Thunder Slash
+Tajo de trueno de nivel $1
+
+Level {d} Snowy Purgatory
+Purgatorio de nieve de nivel $1
+
+Level {d} Blade of Judgment
+Cuchilla del juicio de nivel $1
+
+Level {d} Roar
+Rugido de nivel $1
+
+Level {d} Dark Prayer
+Oración oscura de nivel $1
+
+Level {d} Dark Blood Curse
+Maldición de sangre oscura de nivel $1
+
+Level {d} Fire Blast
+Explosión de fuego de nivel $1
+
+Level {d} Burn Books
+Quemar libros de nivel $1
+
+Level {d} Breath of Dragon
+Aliento de Dragón de nivel $1
+
+Level {d} Sharp Mind
+Mente ágil de nivel $1
+
+Level {d} Fireball Bombardment
+Bombardeo de bolas de fuego de nivel $1
+
+Level {d} Puncture Throw
+Lanzamiento de pinchazos de nivel $1
+
+Level {d} Lightning Throwing Knife
+Lanzamiento de cuchillos relámpago de nivel $1
+
+Level {d} Flower of Death
+flor de la muerte de nivel $1
+
+Level {d} Bloody Wrath
+Ira sangrienta de nivel $1
+
+Level {d} Rising Dragon Punch·昏迷
+Puñetazo del Dragón Ascendente de nivel $1
+
+Level {d} Rising Dragon Punch-Normal
+Puñetazo del Dragón Ascendente-Normal de nivel $1
+
+Level {d} Scorching Flame Fist-1
+Puño de llamas abrasadoras-1 de nivel $1
+
+Level {d} Scorching Flame Fist-2
+Puño de llamas abrasadoras-2 de nivel $1
+
+Level {d} Scorching Flame Fist-3
+Puño de llamas abrasadoras-3 de nivel $1
+
+Level {d} Scorching Flame Fist-4
+Puño de llamas abrasadoras-4 de nivel $1
+
+Level {d} Scorching Flame Fist-5
+Puño de llamas abrasadoras-5 de nivel $1
+
+Level {d} Scorching Flame Fist-Over
+Puño de llama abrasadora de nivel $1
+
+Level {d} Flying Kick
+Patada voladora de nivel $1
+
+Level {d} Firestorm Kick
+Patada de tormenta de fuego de nivel $1
+
+Level {d} Burning Flame-{d}%
+Llama ardiente-$1% de nivel $1
+
+Level {d} Scorching Earth
+tierra abrasadora de nivel $1
+
+Level {d} Cross Light Slash
+Corte ligero cruzado de nivel $1
+
+Level {d} Dragon Slash
+Tajo de dragón de nivel $1
+
+Level {d} Valiant Leap
+Salto valiente de nivel $1
+
+Level {d} Blade of Light-{d}
+Cuchilla de luz-$1 de nivel $1
+
+Level {d} Gravity Aura
+Aura de gravedad de nivel $1
+
+Level {d} Nine-Headed Dragon Slash
+Tajo de dragón de nueve cabezas de nivel $1
+
+Level {d} Nine-Headed Dragon Slash-{d}
+Tajo de dragón de nueve cabezas-$1 de nivel $1
+
+Level {d} Nine-Headed Dragon Slash-over
+Nine-Headed Dragon Slash-over de nivel $1
+
+Level {d} Arc Slash
+Tajo en arco de nivel $1
+
+Level {d} Dash Strike
+Golpe de carrera de nivel $1
+
+Level {d} Shining Steel
+acero brillante de nivel $1
+
+Level {d} Punishment
+Castigo de nivel $1
+
+Level {d} Divine Retribution
+Retribución Divina de nivel $1
+
+Level {d} Holy Sword Light Cannon
+Cañón de luz de espada sagrada de nivel $1
+
+Level {d} Healing
+Cura de nivel $1
+
+Level {d} True Word-Shield
+True Word-Shield de nivel $1
+
+Level {d} Punishment Aura
+Aura de castigo de nivel $1
+
+Level {d} Golden Fortitude
+Fortaleza Dorada de nivel $1
+
+Level {d} Summon Hound
+Invocar sabueso de nivel $1
+
+Level {d} Call for Help
+Llamar por ayuda de nivel $1
+
+Level {d} Wish-Ice Cave
+Cueva de hielo de los deseos de nivel $1
+
+Level {d} Yin-Yang Sword
+Espada Yin-Yang de nivel $1
+
+Level {d} Yin-Yang Sword-Ensnare
+Yin-Yang Sword-Ensnare de nivel $1
+
+Level {d} See-Through Light
+Luz transparente de nivel $1
+
+Level {d} Karate Chop
+Golpe de karate de nivel $1
+
+Level {d} Made of Steel
+Hecho de acero de nivel $1
+
+Level {d} Overwhelm
+Abrumar de nivel $1
+
+Level {d} Crashing Thunderclap
+Trueno estruendoso de nivel $1
+
+Level {d} Magic Gourd Attack
+Ataque de calabaza mágica de nivel $1
+
+Level {d} Magic Gourd-Heartbreak Spell
+Hechizo de calabaza mágica-desamor de nivel $1
+
+Level {d} Scorpion Tail
+cola de escorpión de nivel $1
+
+Level {d} Iron Pliers
+Alicates de hierro de nivel $1
+
+Level {d} Steel Chop
+Golpe de acero de nivel $1
+
+Level {d} Throw Weapons
+Lanzamiento de armas de nivel $1
+
+Level {d} Mold-Stinky Five Poison Soup
+Sopa de cinco venenos de moho apestosa de nivel $1
+
+Level {d} Black Sand Fan
+Abanico de arena negra de nivel $1
+
+Level {d} Poisonous Shot
+Disparo venenoso de nivel $1
+
+Level {d} Ultrasonic Attack
+Ataque ultrasónico de nivel $1
+
+Level {d} Knock
+Golpe de nivel $1
+
+Level {d} Charm Beam
+Rayo de encantamiento de nivel $1
+
+Level {d} Death Shock
+Choque de muerte de nivel $1
+
+Level {d} King's Verdict
+veredicto del rey de nivel $1
+
+Level {d} Sticky Bubble Gum
+Chicle pegajoso de nivel $1
+
+Level {d} Fish Hook Boomerang
+Boomerang de anzuelo de nivel $1
+
+Level {d} Throw Harpoon
+Lanzamiento de arpón de nivel $1
+
+Level {d} Whirlwind Claw
+Garra Torbellino de nivel $1
+
+Level {d} Throw Sand
+Lanzamiento de Arena de nivel $1
+
+Level {d} Dark Seal
+Sello oscuro de nivel $1
+
+Level {d} Explosive Hammer
+Martillo explosivo de nivel $1
+
+Level {d} Crumbs Fetters
+Crumbs Fetters de nivel $1
+
+Level {d} Might of the Pharaoh
+Poder del Faraón de nivel $1
+
+Level {d} Pharaoh's Curse
+maldición del faraón de nivel $1
+
+Level {d} Spray Poison
+rociar veneno de nivel $1
+
+Level {d} Chaos Phantom Coin
+Moneda Fantasma de Caos de nivel $1
+
+Level {d} Magic Weakening Beam
+Rayo mágico debilitador de nivel $1
+
+Level {d} Healing Flame
+Llama curativa de nivel $1
+
+Level {d} Claw Strike
+Golpe de garra de nivel $1
+
+Level {d} Shoting
+Disparando de nivel $1
+
+Level {d} Energy Sphere
+Esfera de energía de nivel $1
+
+Level {d} Spinning Air
+Aire giratorio de nivel $1
+
+Level {d} Arcane Missiles
+Misiles arcanos de nivel $1
+
+Level {d} Mini Fireball
+minibola de fuego de nivel $1
+
+Level {d} Shadow Sphere
+Esfera de sombra de nivel $1
+
+Level {d} Ground Thorns
+espinas de tierra de nivel $1
+
+Level {d} Air Cannon
+Cañón aéreo de nivel $1
+
+Level {d} Water Dragon Wave
+Ola del dragón de agua de nivel $1
+
+Level {d} Dark Curse
+maldición oscura de nivel $1
+
+Level {d} Phantom Meteor Hammer
+Martillo de meteorito fantasma de nivel $1
+
+Level {d} Hammer Strike
+golpe de martillo de nivel $1
+
+Level {d} Throw Gum
+Lanzamiento de chicle de nivel $1
+
+Level {d} Throw Mud Ball
+Lanzamiento de bola de barro de nivel $1
+
+Level {d} Inject HP Potion
+Inyectar poción de HP de nivel $1
+
+Level {d} Super Bubbles
+súper burbujas de nivel $1
+
+Level {d} Deep sea Vortex
+Vórtice de aguas profundas de nivel $1
+
+Level {d} Vine Ensnare
+Enredadera de vid de nivel $1
+
+Level {d} Long Jump
+Salto largo de nivel $1
+
+Level {d} Earth Shatter
+Destrucción de la tierra de nivel $1
+
+Level {d} Deadly Crescent Javelin
+Jabalina de medialuna Mortal de nivel $1
+
+Level {d} Life Resurgence (Fallen)
+Resurgimiento de la vida (cayendo) de nivel $1
+
+Level {d} Throw Snowball
+Lanzamiento de bola de nieve de nivel $1
+
+Level {d} Ice Blade
+Cuchilla de hielo de nivel $1
+
+Level {d} Demon Ray
+rayo demoníaco de nivel $1
+
+Level {d} Machine-Gun Burst
+Ráfaga de ametralladora de nivel $1
+
+Level {d} Snipe
+Disparar de nivel $1
+
+Level {d} Bondage Ensnare
+Enredadera de servidumbre de nivel $1
+
+Level {d} Lightsaber
+sable de luz de nivel $1
+
+Level {d} Spinning Cut
+Corte giratorio de nivel $1
+
+Level {d} Place Bomb
+colocar bomba de nivel $1
+
+Level {d} Throw Butter
+Lanzamiento de mantequilla de nivel $1
+
+Level {d} Blood Curse
+Maldición de sangre de nivel $1
+
+Level {d} Death Rays
+rayos de la muerte de nivel $1
+
+Level {d} True-Dark Invasion
+Verdadera invasión oscura de nivel $1
+
+Level {d} Tree Gouge
+Gubia de árbol de nivel $1
+
+Level {d} Rolling Green Wave
+Ola verde rodante de nivel $1
+
+Level {d} Scorpion Stinger
+Aguijón de escorpión de nivel $1
+
+Level {d} Flying Head Attack
+Ataque de cabeza voladora de nivel $1
+
+Level {d} Devour
+Devorar de nivel $1
+
+Level {d} Joker Magic Tricks
+Trucos de magia del pallaso de nivel $1
+
+Level {d} Joker Throwing Knife
+Cuchillo arrojadizo del pallaso de nivel $1
+
+Level {d} Banshee's Kiss
+Beso de Banshee de nivel $1
+
+Level {d} Cannibalism
+Canibalismo de nivel $1
+
+Level {d} Suck
+Succionar de nivel $1
+
+Level {d} Throw Stone
+Lanzamiento de piedra de nivel $1
+
+Level {d} Gravel Scatter
+Dispersión de grava de nivel $1
+
+Level {d} Catch Insect
+atrapar insectos de nivel $1
+
+Level {d} Pester
+Molestar de nivel $1
+
+Level {d} Spray Spores
+Pulverizar esporas de nivel $1
+
+Level {d} Wooden cross Boomerang
+Boomeran cruz de madera de nivel $1
+
+Level {d} Rapier Nose
+Estouqe de nariz de nivel $1
+
+Level {d} Strong Claw
+Garra fuerte de nivel $1
+
+Level {d} Elusive
+Elusión de nivel $1
+
+Level {d} Flying Notes
+Notas voladoras de nivel $1
+
+Level {d} Hellfire
+fuego infernal de nivel $1
+
+Level {d} Strong laser cannon
+Fuerte cañón láser de nivel $1
+
+Level {d} Endless Chill
+Escalofrío sin fin de nivel $1
+
+Level {d} Puppetry
+Títeres de nivel $1
+
+Level {d} Binding Chain
+Cadena Vinculante de nivel $1
+
+Level {d} Shrinking Turtle
+Encojimiento de Tortuga de nivel $1
+
+Level {d} Spore bullet
+Bala de esporas de nivel $1
+
+Level {d} Run Mo Run
+Corre Mo, Corre de nivel $1
+
+Level {d} Caesar's Claw
+Garra de César de nivel $1
+
+Level {d} Ancient Toxin
+Toxina antigua de nivel $1
+
+Level {d} Raining Arrows
+lloviendo flechas de nivel $1
+
+Level {d} Gravity Arrow
+Flecha de gravedad de nivel $1
+
+Level {d} Concussive Arrow
+Flecha de conmoción de nivel $1
+
+Level {d} Pouring Arrows
+Verter flechas de nivel $1
+
+Level {d} Black Flame Bomb
+Bomba de llama negra de nivel $1
+
+Level {d} B Field
+Campo B de nivel $1
+
+Level {d} Energy Blade
+Cuchilla de energía de nivel $1
+
+Level {d} Divine Guard
+Guardia Divina de nivel $1
+
+Level {d} Fang Stab
+Puñalada de colmillo de nivel $1
+
+Level {d} Red Eye Ray
+Rayo de ojos rojos de nivel $1
+
+Level {d} Preparing Summon Demon
+Preparando Invocar Demonio de nivel $1
+
+Level {d} Stomp
+Pisotón de nivel $1
+
+Level {d} Horn Stab
+Puñalada de cuerno de nivel $1
+
+Level {d} Electric Barrier
+Barrera eléctrica de nivel $1
+
+Level {d} Spiral Water Arrow
+Flecha de agua espiral de nivel $1
+
+Level {d} Laser Sword
+espada láser de nivel $1
+
+Level {d} Lethal Canon
+Cañón letal de nivel $1
+
+Level {d} AT Field
+Campo A.T. de nivel $1
+
+Level {d} Ultimate Electric Current
+Corriente eléctrica definitiva de nivel $1
+
+Level {d} Electric Storm
+Tormenta eléctrica de nivel $1
+
+Level {d} Bar Sweep
+Barrido de barra de nivel $1
+
+Level {d} Mighty Ocean-Quieting Bar
+océano poderoso-Quieting Bar de nivel $1
+
+Level {d} Protection Charm
+Encantamiento de Protección de nivel $1
+
+Level {d} Mighty Monkey King
+Poderoso Rey Mono de nivel $1
+
+Level {d} Pyre
+Pira de nivel $1
+
+Level {d} 72 Forms
+72 Formas de nivel $1
+
+Level {d} Fire Laser
+Disparar Láser de nivel $1
+
+Level {d} Sleeping Incense
+Incienso para dormir de nivel $1
+
+Level {d} Ghost Kill
+Muerte fantasma de nivel $1
+
+Level {d} Gallows
+Horca de nivel $1
+
+Level {d} Void Blade
+Cuchilla del Vacío de nivel $1
+
+Level {d} Heart-Piercing Tooth
+Diente comecorazones de nivel $1
+
+Level {d} Blade Spiral
+Cuchilla Espiral de nivel $1
+
+Level {d} Thunder Blast Strike
+Golpe de Explosión de trueno de nivel $1
+
+Level {d} Thunderbolt Slash
+Tajo de rayo de nivel $1
+
+Level {d} Thunder Star Strike
+Golpe de estrella del trueno de nivel $1
+
+Level {d} Axe Sweep
+Barrido de hacha de nivel $1
+
+Level {d} Nets Above and Snares Below
+Redes arriba y trampas abajo de nivel $1
+
+Level {d} Barbaric Intimidation
+Intimidación bárbara de nivel $1
+
+Level {d} Toxic Shot
+Disparo tóxico de nivel $1
+
+Level {d} Electric Shots
+Disparos eléctricos de nivel $1
+
+Level {d} Rolling Thunder
+Trueno rodante de nivel $1
+
+Level {d} Paralyzing Thunderbolt
+Rayo paralizante de nivel $1
+
+Level {d} Wrath of Thunder
+Ira del trueno de nivel $1
+
+Level {d} Thunderous Firestorm
+Tormenta de fuego atronadora de nivel $1
+
+Level {d} Sneaky Counterattack
+Contraataque furtivo de nivel $1
+
+Level {d} Rake Sweep
+Barrido de rastrillo de nivel $1
+
+Level {d} Meaty Trampoline
+Trampolín carnoso de nivel $1
+
+Level {d} Captive Moment
+Momento cautivo de nivel $1
+
+Level {d} Chain Frost
+Cadena de escarcha de nivel $1
+
+Level {d} Frost Star
+Estrella Helada de nivel $1
+
+Level {d} Frost Armor
+Armadura helada de nivel $1
+
+Level {d} Black Meteor
+Meteorito negro de nivel $1
+
+Level {d} Starburst Blast
+Explosión estelar de nivel $1
+
+Level {d} Meteor Firestorm
+tormenta de meteoritos de nivel $1
+
+Level {d} Death Ray
+Rayo de la muerte de nivel $1
+
+Level {d} Hell Howl
+aullido infernal de nivel $1
+
+Level {d} Hell Blood Curse
+Maldición de la sangre infernal de nivel $1
+
+Level {d} Object Shift
+Transferencia de objeto de nivel $1
+
+Level {d} Life Resurgence
+Resurgimiento de la vida de nivel $1
+
+Level {d} Ghost Shield
+Escudo fantasma de nivel $1
+
+Level {d} Dragon Claw Rip
+Desgarro de garra de dragón de nivel $1
+
+Level {d} Dragon Tail
+Cola de dragón de nivel $1
+
+Level {d} Cataclysm
+Cataclismo de nivel $1
+
+Level {d} Might of the Beast
+Poder de la Bestia de nivel $1
+
+Level {d} Dragon Roar
+Rugido de Dragón de nivel $1
+
+Level {d} Aegis Protection
+Protección de égida de nivel $1
+
+Level {d} Ice Fog
+Niebla de hielo de nivel $1
+
+Level {d} Polar Ice Spirit
+Espíritu de hielo polar de nivel $1
+
+Level {d} Snake King Roar
+Rugido del Rey Serpiente de nivel $1
+
+Level {d} Ice Mist Dragon
+Dragón de Niebla de Hielo de nivel $1
+
+Level {d} Summon Ancient Dragon Guards
+Invocación de guardias de dragones antiguos de nivel $1
+
+Level {d} Ultimate-Dragon Soar
+Elevación definitiva del dragón de nivel $1
+
+Level {d} Ancient Dragon Tide
+Marea del Dragón Antiguo de nivel $1
+
+Level {d} Primordial Power
+Poder primordial de nivel $1
+
+Level {d} Trident
+Tridente de nivel $1
+
+Level {d} Summon Guards
+Invocación de guardias de nivel $1
+
+Level {d} Binding
+Vinculación de nivel $1
+
+Level {d} Dark Realm
+Reino oscuro de nivel $1
+
+Level {d} Leaping Bash
+Saltoimpacto de nivel $1
+
+Level {d} Crescent Slash
+Tajo de media luna de nivel $1
+
+Level {d} Black Meteor-Magic
+Magia-Meteorito negro de nivel $1
+
+Level {d} Falling Meteor-magic
+Magia-Meteorito cayendo de nivel $1
+
+Level {d} Meteor Firestorm-Magic
+Magia-Tormenta de meteoritos de nivel $1
+
+Level {d} Fire
+Fuego de nivel $1
+
+Increase 4% physical damage.
+aumenta 4 % el daño físico.
+
+increase 5% physical damage.
+aumenta 5% el daño físico.
+
+increase 6% physical damage.
+aumenta 6% el daño físico.
+
+increase 7% physical damage.
+aumenta 7% el daño físico.
+
+increase 4% magic damage.
+aumenta 4% el daño mágico.
+
+increase 5% magic damage.
+aumenta 5% el daño mágico.
+
+increase 6% magic damage.
+aumenta 6% el daño mágico.
+
+increase 7% magic damage.
+aumenta 7% el daño mágico.
+
+Increase 8 points of physical hit chance.
+aumenta 8 puntos de precisión con ataques físicos.
+
+Increase 12 points of physical hit chance.
+aumenta 12 puntos de precisión con ataques físicos.
+
+Increase 15 points of physical hit chance.
+aumenta 15 puntos de precisión con ataques físicos.
+
+Increase 19 points of physical hit chance.
+aumenta 19 puntos de precisión con ataques físicos.
+
+Increase 8 points of magic hit chance.
+aumenta 8 puntos de precisión con ataques mágicos.
+
+Increase 12 points of magic hit chance.
+aumenta 12 puntos de precisión con ataques mágicos.
+
+Increase 15 points of magic hit chance.
+aumenta 15 puntos de precisión con ataques mágicos.
+
+Increase 19 points of magic hit chance.
+aumenta 19 puntos de precisión con ataques mágicos.
+
+Increase 52 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+aumenta 52 puntos de probabilidad de romper la defensa física y 70 puntos de daño una vez se haya roto.
+
+Increase 75 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+aumenta 75 puntos de probabilidad de romper la defensa física y 70 puntos de daño una vez se haya roto.
+
+Increase 100 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+aumenta 100 puntos de probabilidad de romper la defensa física y 70 puntos de daño una vez se haya roto.
+
+Increase 128 points of physical Defense Break Chance and 70 points of physical Defense Break Damage.
+aumenta 128 puntos de probabilidad de romper la defensa física y 70 puntos de daño una vez se haya roto.
+
+Increase 52 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+aumenta 52 puntos de probabilidad de romper la defensa mágica y 70 puntos de daño una vez se haya roto.
+
+Increase 75 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+aumenta 75 puntos de probabilidad de romper la defensa mágica y 70 puntos de daño una vez se haya roto.
+
+Increase 100 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+aumenta 100 puntos de probabilidad de romper la defensa mágica y 70 puntos de daño una vez se haya roto.
+
+Increase 128 points of magic Defense Break Chance and 70 points of magic Defense Break Damage.
+aumenta 128 puntos de probabilidad de romper la defensa mágica y 70 puntos de daño una vez se haya roto.
+
+Increase 15 points of physical Critical Hit.
+aumenta 15 puntos de golpe crítico físico.
+
+Increase 18 points of physical Critical Hit.
+aumenta 18 puntos de golpe crítico físico.
+
+Increase 22 points of physical Critical Hit.
+aumenta 22 puntos de golpe crítico físico.
+
+Increase 25 points of physical Critical Hit.
+aumenta 25 puntos de golpe crítico físico.
+
+Increase 15 points of magic Critical Hit.
+aumenta 15 puntos de golpe crítico mágico.
+
+Increase 18 points of magic Critical Hit.
+aumenta 18 puntos de golpe crítico mágico.
+
+Increase 22 points of magic Critical Hit.
+aumenta 22 puntos de golpe crítico mágico.
+
+Increase 25 points of magic Critical Hit.
+aumenta 25 puntos de golpe crítico mágico.
+
+Increase 12 points of physical Critical Hit and 11 points of physical Critical Damage.
+aumenta 12 puntos de golpe crítico físico y 11 puntos de daño crítico físico.
+
+Increase 15 points of physical Critical Hit and 14 points of physical Critical Damage.
+aumenta 15 puntos de golpe crítico físico y 14 puntos de daño crítico físico.
+
+Increase 18 points of physical Critical Hit and 18 points of physical Critical Damage.
+aumenta 18 puntos de golpe crítico físico y 18 puntos de daño crítico físico.
+
+Increase 21 points of physical Critical Hit and 20 points of physical Critical Damage.
+aumenta 21 puntos de golpe crítico físico y 20 puntos de daño crítico físico.
+
+Increase 12 points of magic Critical Hit and 11 points of magic Critical Damage.
+aumenta 12 puntos de golpe crítico mágico y 11 puntos de daño crítico mágico.
+
+Increase 15 points of magic Critical Hit and 14 points of magic Critical Damage.
+aumenta 15 puntos de golpe crítico mágico y 14 puntos de daño crítico mágico.
+
+Increase 18 points of magic Critical Hit and 18 points of magic Critical Damage.
+aumenta 18 puntos de golpe crítico mágico y 18 puntos de daño crítico mágico.
+
+Increase 21 points of magic Critical Hit and 20 points of magic Critical Damage.
+aumenta 21 puntos de golpe crítico mágico y 20 puntos de daño crítico mágico.
+
+Increase 3% physical damage, reduce 2% of all damage taken.
+aumenta 3% el daño físico, reduce 2% todo el daño recibido.
+
+Increase 4% physical damage, reduce 2% of all damage taken.
+aumenta 4% el daño físico, reduce 2% todo el daño recibido.
+
+Increase 5% physical damage, reduce 2% of all damage taken.
+aumenta 5% el daño físico, reduce 2% todo el daño recibido.
+
+Increase 6% physical damage, reduce 2% of all damage taken.
+aumenta 6% el daño físico, reduce 2% todo el daño recibido.
+
+Increase 3% magic damage, reduce 2% of all damage taken.
+aumenta 3% el daño mágico, reduce 2% todo el daño recibido.
+
+Increase 4% magic damage, reduce 2% of all damage taken.
+aumenta 4% el daño mágico, reduce 2% todo el daño recibido.
+
+Increase 5% magic damage, reduce 2% of all damage taken.
+aumenta 5% el daño mágico, reduce 2% todo el daño recibido.
+
+Increase 6% magic damage, reduce 2% of all damage taken.
+aumenta 6% el daño mágico, reduce 2% todo el daño recibido.
+
+Increase 3% physical damage, reduce 4% physical damage taken.
+aumenta 3% el daño físico, reduce 4% el daño físico recibido.
+
+Increase 4% physical damage, reduce 4% physical damage taken.
+aumenta 4% el daño físico, reduce 4% el daño físico recibido.
+
+Increase 5% physical damage, reduce 4% physical damage taken.
+aumenta 5% el daño físico, reduce 4% el daño físico recibido.
+
+Increase 6% physical damage, reduce 4% physical damage taken.
+aumenta 6% el daño físico, reduce 4% el daño físico recibido.
+
+Increase 3% magic damage, reduce 4% magic damage taken.
+aumenta 3% el daño mágico, reduce 4% el daño mágico recibido.
+
+Increase 4% magic damage, reduce 4% magic damage taken.
+aumenta 4% el daño mágico, reduce 4% el daño mágico recibido.
+
+Increase 5% magic damage, reduce 4% magic damage taken.
+aumenta 5% el daño mágico, reduce 4% el daño mágico recibido.
+
+Increase 6% magic damage, reduce 4% magic damage taken.
+aumenta 6% el daño mágico, reduce 4% el daño mágico recibido.
+
+Increase 6 points of physical hit chance and 7 points of critical hit resist.
+aumenta 6 puntos de precisión con ataques físicos y 7 puntos de resistencia a golpes críticos.
+
+Increase 9 points of physical hit chance and 6 points of critical hit resist.
+aumenta 9 puntos de precisión con ataques físicos y 6 puntos de resistencia a golpes críticos.
+
+Increase 12 points of physical hit chance and 6 points of critical hit resist.
+aumenta 12 puntos de precisión con ataques físicos y 6 puntos de resistencia a golpes críticos.
+
+Increase 16 points of physical hit chance and 6 points of critical hit resist.
+aumenta 16 puntos de precisión con ataques físicos y 6 puntos de resistencia a golpes críticos.
+
+Increase 6 points of magic hit chance and 7 points of critical hit resist.
+aumenta 6 puntos de precisión con ataques mágicos y 7 puntos de resistencia a golpes críticos.
+
+Increase 9 points of magic hit chance and 6 points of critical hit resist.
+aumenta 9 puntos de precisión con ataques mágicos y 6 puntos de resistencia a golpes críticos.
+
+Increase 12 points of magic hit chance and 6 points of critical hit resist.
+aumenta 12 puntos de precisión con ataques mágicos y 6 puntos de resistencia a golpes críticos.
+
+Increase 16 points of magic hit chance and 6 points of critical hit resist.
+aumenta 16 puntos de precisión con ataques mágicos y 6 puntos de resistencia a golpes críticos.
+
+Increase 34 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 4 points of Dodge.
+aumenta 34 puntos de probabilidad de romper la defensa física, 70 puntos de daño una vez se haya roto y 4 puntos de evasión.
+
+Increase 52 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 4 points of Dodge.
+aumenta 52 puntos de probabilidad de romper la defensa física, 70 puntos de daño una vez se haya roto y 4 puntos de evasión.
+
+Increase 77 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 5 points of Dodge.
+aumenta 77 puntos de probabilidad de romper la defensa física, 70 puntos de daño una vez se haya roto y 5 puntos de evasión.
+
+Increase 99 points of physical Defense Break Chance, 70 points of physical Defense Break Damage and 6 points of Dodge.
+aumenta 99 puntos de probabilidad de romper la defensa física, 70 puntos de daño una vez se haya roto y 6 puntos de evasión.
+
+Increase 34 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 4 points of Dodge.
+aumenta 34 puntos de probabilidad de romper la defensa mágica, 70 puntos de daño una vez se haya roto y 4 puntos de evasión.
+
+Increase 52 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 5 points of Dodge.
+aumenta 52 puntos de probabilidad de romper la defensa mágica, 70 puntos de daño una vez se haya roto y 5 puntos de evasión.
+
+Increase 77 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 5 points of Dodge.
+aumenta 77 puntos de probabilidad de romper la defensa mágica, 70 puntos de daño una vez se haya roto y 5 puntos de evasión.
+
+Increase 99 points of magic Defense Break Chance, 70 points of magic Defense Break Damage and 6 points of Dodge.
+aumenta 99 puntos de probabilidad de romper la defensa mágica, 70 puntos de daño una vez se haya roto y 6 puntos de evasión.
+
+Increase 11 points of physical Critical Hit and 20 points of Toughness.
+aumenta 11 puntos de golpe crítico físico y 20 puntos de dureza.
+
+Increase 14 points of physical Critical Hit and 20 points of Toughness.
+aumenta 14 puntos de golpe crítico físico y 20 puntos de dureza.
+
+Increase 19 points of physical Critical Hit and 20 points of Toughness.
+aumenta 19 puntos de golpe crítico físico y 20 puntos de dureza.
+
+Increase 22 points of physical Critical Hit and 20 points of Toughness.
+aumenta 22 puntos de golpe crítico físico y 20 puntos de dureza.
+
+Increase 11 points of magic Critical Hit and 20 points of Toughness.
+aumenta 11 puntos de golpe crítico mágico y 20 puntos de dureza.
+
+Increase 14 points of magic Critical Hit and 20 points of Toughness.
+aumenta 14 puntos de golpe crítico mágico y 20 puntos de dureza.
+
+Increase 19 points of magic Critical Hit and 20 points of Toughness.
+aumenta 19 puntos de golpe crítico mágico y 20 puntos de dureza.
+
+Increase 22 points of magic Critical Hit and 20 points of Toughness.
+aumenta 22 puntos de golpe crítico mágico y 20 puntos de dureza.
+
+{s}; need level {d}; cost {d} arnebia; talent skill; use it takes {d} talent points;When you have over 80% MP, casting Fireball will activate Energized Fireball. Whenever you cast Fireball, Energized Fireball will cost 20% mana to increase 40% damage of your next Fireball, stacks 5 times at max. The effect ends when you don't have enough mana. Require Hellfire.
+{sub2{$1}sub2}; necesitas ser nivel $2; cuesta $3 arnebia; habilidad de talento; usa $4 puntos al activarla; Cuando tienes más de 80% de mana, al lanzar una Bola de fuego se activará la Bola de fuego potenciada. Cada vez que lances Bola de fuego, Bola de fuego potenciada te costará 20% de mana; incrementará 40% el daño de Bola de fuego, y se puede acumular 5veces como máximo. El efecto termina cuando no tengas mana suficiente. Requiere Fuego infernal.
+
+{s}; need level {d}; cost {d} arnebia; talent skill; use it takes {d} talent points;When your direct damage spell deals a critical hit and two consecutive damage spells deal critical hits, your next Pyroblast or Blazing Storm can be cast instantaneously. Require Elven Fire.
+{sub2{$1}sub2}; necesitas ser nivel $2; cuesta $3 arnebia; habilidad de talento; usa $4 puntos al activarla; Cuando dos de tus hechizos de daño directo impacten consecutivamente con un golpe crítico, tu próxima pyroexplosión o tormenta de llamas será instantánea. Requiere Fuego élfico.
+
+Level 1 {s}; need level 30; cost 30000 arnebia; Combat skill;Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, {d} seconds CD. Dealing damage to the target will break its Frozen effect. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$1}sub2} de nivel 1; necesitas ser nivel 30; cuesta 30000 arnebia; habilidad de combate; Impacta a todos los enemigos a 8 metros de distancia, causa daño congelante y los congela donde estén por 5 segundos, $2 segundos de enfriamiento. Al causar daño a los objetivos se romperá su efecto de congelación. Incrementa $3 puntos de ataque mágico, $4% de bonus de ataque, consume $5 mana
+
+{s}; need level {d}; cost {d} arnebia; talent skill; use it takes {d} talent points;When Ice Arrow and Ice Orb deal Critical Hits, or when Ice Arrow hits a target affected by Aqua Jet, the target will be Condensed. Dealing damage to the target will break its Condensed effect. Require Ice Lineage.
+{sub2{$1}sub2}; necesitas ser nivel $2; cuesta $3 arnebia; habilidad de talento; usa $4 puntos al activarla; Cuando la Flecha de hielo y el Orbe de hielo impacten con un golpe crítico, o cuando la Flecha de hielo golpee a un objetivo afectado por Chorro de agua, el objetivo se condensará. Al causarle daño se romperá su efecto condensado. Requiere Linaje de hielo.
+
+Skill has been replaced
+Se reemplazó la habilidad
+
+Preparing {s}
+Preparando {sub2{$1}sub2}
+
+Level {d} {s}; proficiency is full; upgraded by learning requires character level {d}
+{sub2{$2}sub2} de nivel $1; experiencia completa; se actualiza aprendiendo al alcanzar el nivel $3
+
+Level {d} {s}; proficiency is full, it will be upgraded after effective casting
+{sub2{$2}sub2} de nivel $1; experiencia completa, mejorará cuando la lances y no falle

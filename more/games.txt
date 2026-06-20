@@ -1,0 +1,152 @@
+Listen to notes Gameplay introduction
+Introducción al juego Escuchar las Notas
+
+At the beginning of the game, you will appear on a huge piano with an audio player on the far left. You can press the player to let it play a note. If you can click on the piano key corresponding to the note, you will receive rewards.
+Al principio del juego aparecerás en un enorme piano que tiene un reproductor de música en el extremo izquierdo. Puedes presionar el reproductor para que haga sonar una nota. Si eliges la tecla correcta de la nota en el piano obtendrás recompensas.
+
+Each time you fail, you will lose a chance to try, so please try to hit on the correct notes as many as possible.
+Cada vez que falles perderás una oportunidad de intentar, así que trata de acertar la mayor cantidad de notas posible.
+
+Let's familiarize yourself with the sounds in the game
+Vamos a familiarizarte con los sonidos del juego
+
+Note {s}; press to listen
+Nota $1; presiona para escuchar
+
+Start the game
+Comenzar el juego
+
+Please tab the note on the piano key that corresponds to the note you hear. Press the audio player to listen again.
+Por favor toca en el piano la nota que escuchaste. Presiona el reproductor para escuchar de nuevo.
+
+Correct answer
+Correcto
+
+Space invaders gameplay introduction
+Introducción al juego Invasores del Espacio
+
+This time you'll fly your ship against alien invaders who will attack your ship from different directions, which are left, center, and right.
+En esta ocasión volarás tu nave espacial contra aliens invasores que atacarán tu nave desde diferentes direcciones, las cuales son izquierda, centro y derecha.
+
+You need to control the spaceship to move left and right. When the alien is directly in front of you, press the control button in your backpack to control the spacecraft's laser cannon and fire lasers that will destroy the alien spacecraft.
+Tendrás que controlar tu nave para moverte de izquierda a derecha. Cuando un alien esté frente a ti, presiona el botón de control en tu mochila para controlar los cañones láser de la nave espacial y disparar láseres que destruirán las naves de los aliens.
+
+Your ship has 100 durability points, an alarm will be broadcast for every 10 points dropped. If the ship is destroyed, the mission fails and the player will exit the game.
+Tu nave tiene 100 puntos de durabilidad. Se escuchará una alarma cada que pierda 10 puntos. Si la nave es destruida, la misión fallará y el juego terminará.
+
+Alien; press to listen
+Alien; presiona para escuchar
+
+Enemy Laser Attack; press to listen
+Ataque láser del enemigo; presiona para escuchar
+
+Your Laser Attack; press to listen
+Ataque láser tuyo; presiona para escuchar
+
+{s};{d}% Ship durability left
+{sub1{$1}sub1}; Le queda  $1% de durabilidad a la nave
+
+{s};Warning! Warning! Aliens are about to attack the spaceship, Please use the control buttons in the backpack to control the laser cannon to eliminate the alien directly above.
+{sub1{$1}sub1}; ¡Alerta! ¡Alerta! Los aliens están a punto de atacar. Por favor utiliza el botón de control de tu mochila para eliminarlos.
+
+Seven Treasures Gameplay Introduction
+Introducción al juego Siete Tesoros
+
+Treasure Thieves have found a treasure in the mysterious underworld, so go take it before they do!
+Los ladrones de tesoros han encontrado un tesoro en el misterioso mundo subterráneo, ¡así que tienes que tomarlo antes de que ellos lo hagan!
+
+You need to eliminate the Demolition Rats to get bombs, use them to blow up the stone gates scattered throughout the underground and get the treasure hidden behind the doors.
+Tienes que eliminar a las ratas de demolición para obtener bombas, usarlas para explotar las puertas de piedra dispersas por el subterráneo y obtener los tesoros que hay escondidos detrás de las puertas.
+
+You need to be careful with the treasure thieves as they will instantly kill anyone they see. They have extremely high defense, but can be killed by bombs.
+Deberás tener cuidado con los ladrones de tesoros, porque te matarán instantáneamente si te ven. Tienen una defensa extremadamente alta, pero se pueden matar con las bombas.
+
+Demolition Rat; press to listen
+Rata de demolición; presiona para escuchar
+
+Treasure Thief; press to listen
+Ladrón de tesoros; presiona para escuchar
+
+Bomb about to explode; press to listen
+Bomba a punto de explotar; presiona para escuchar
+
+Maintenance of ancient buildings gameplay introduction
+Introducción al juego Mantenimiento de Edificios Antiguos
+
+It's a beautiful old wooden building, and the woody scent it emits has attracted a terrifying pod of termites. The termites have hollowed out the ancient buildings.
+Este hermoso pero viejo edificio de madera ha estado siendo agujereado por una aterradora manada de termitas, que se ven atraídas por el olor que emite la madera
+
+You will need to travel through the horizontal corridors of each floor in search of wooden blocks and use them to repair the areas that have been hollowed out by termites. You can go up or down the floors by stairs.
+Deberás viajar por los corredores horizontales de cada piso en búsquedad de bloques de madera, que usarás para reparar las áreas que han sido agujereadas por las termitas. Puedes subir o bajar a los distintos pisos utilizando las escaleras.
+
+Please watch out for termites as they will try to eat you. Once you die, you will exit the game.
+Por favor ten cuidado con las termitas que tratarán de comerte. Si mueres, el juego termina.
+
+Termite; press to listen
+Termita; presiona para escuchar
+
+Wooden Block; press to listen
+Bloque de madera; presiona para escuchar
+
+Hole; press to listen
+Agujero; presiona para escuchar
+
+Insecticide; press to listen
+Insecticida; presiona para escuchar
+
+Dangerous mountain forest gameplay introduction
+Introducción al juego Bosque Montañoso Peligroso
+
+There are many treasures scattered in a dangerous mountain forest, go find them.
+Hay muchos tesoros esparcidos por un bosque montañoso peligroso. ¡Ve a encontrarlos!
+
+The mountains and forests are full of poisonous gas, your HP will continue to decrease, and you will need to find wild fruits to replenish your HP to stay alive.
+Los bosques y las montañas están repletos de un gas tóxico que irá haciendo que tu salud disminuya, por lo que tendrás que encontrar frutas que la repongan para permanecer con vida.
+
+You also need to watch out for monsters that walk around as they will eat you in one bite.
+Ten cuidado con los monstruos que van caminando por ahí, porque te comerán de un solo bocado.
+
+treasure; press to listen
+Tesoro; presiona para escuchar
+
+Fruit; press to listen
+Fruta; presiona para escuchar
+
+monster; press to listen
+Monstruo; presiona para escuchar
+
+Ghost vacuum cleaner gameplay introduction
+Introducción al juego Aspiradora Fantasmal
+
+You'll need to walk through a terrifying ghost canyon and use your ghost vacuum cleaner to eliminate the ghosts in the canyon. If you die, you will exit the game.
+Deberás caminar por un cañón fantasmal terrorífico y usar tu aspiradora fantasmal para eliminar a los fantasmas de este. Si mueres, el juego termina.
+
+Ghost; press to listen
+Fantasma; presiona para escuchar
+
+Ghost vacuum cleaner; press to listen
+Aspiradora fantasmal; presiona para escuchar
+
+Successfully repaired a hole
+Reparaste un agujero exitosamente
+
+1 wooden block
+1 bloque de madera
+
+1 bottle of insecticide
+1 bote de insecticida
+
+any wooden blocks and cannot repair it.
+ningún bloque de madera y no lo puedes reparar
+
+Dodge Shells Gameplay Introduction
+Introducción al juego Esquivar proyectiles
+
+At the beginning of the game, there will be shells shooting down rapidly from above, and you need to listen to the sound of the flying shells to dodge them.
+Al inicio del juego habrá proyectiles que te irán disparando rápidamente desde arriba, por lo que deberás escuchar el sonido que producen mientras vuelan para que los puedas esquivar.
+
+You can move left and right to stay away from the shell's trajectory. Once hit by the shells, you will die immediately and exit the game.
+Puedes moverte hacia la izquierda o derecha para apartarte de la trayectoria de los proyectiles. Si te golpean, morirás inmediatamente y abandonarás el juego.
+
+Flying Shell; press to listen
+Proyectil volando; presiona para escuchar

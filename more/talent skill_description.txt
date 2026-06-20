@@ -1,0 +1,494 @@
+experience {d}/{d}
+experiencia $1/$2
+
+experience is full
+experiencia completa
+
+Snuggle; A married couple can use Snuggle on each other to slowly recover HP for themselves.
+Intimidad; Una pareja casada puede usar intimidad entre sí para ambos recuperar salud lentamente.
+
+Blood Transfusion; Transfer your HP to your Pupil. The pupil must be within 20 yards of the tutor.
+Transfusión de sangre; Transfiere tu salud a tu pupilo. El pupilo debe de estar en una distancia de 20 metros del mentor.
+
+Mining {s}; {s}; Use the Mining Skill to mine ores in the specified Mining Area.
+{sub2{$1}sub2} en minería; {sub2{$2}sub2}; Usa la habilidad para obtener minerales de un área específica de minado.
+
+Mining Grand Master; Use the Mining Skill to mine ores in the specified Mining Area.
+Gran Maestro en minería; Usa la habilidad para obtener minerales de un área específica de minado.
+
+Collect Herbs {s}; {s}; Use the Collect Herbs Skill to collect herbs in the specified Herbal Garden.
+{sub2{$1}sub2} en recolectar hierbas; {sub2{$2}sub2}; Usa la habilidad para recolectar hierbas del jardín herbal específico.
+
+Collect Herbs Grand Master; Use the Collect Herbs Skill to collect herbs in the specified Herbal Garden.
+Gran Maestro en recolectar hierbas; Usa la habilidad para recolectar hierbas del jardín herbal específico.
+
+Fishing {s}; {s}; Use the Fishing Skill to catch fish in the specified Water area.
+{sub2{$1}sub2} en pesca; {sub2{$2}sub2}; Usa la habilidad para atrapar peces en un área específica de agua.
+
+Fishing Grand Master; Use the Fishing Skill to catch fish in the specified Water area.
+Gran Maestro en pesca; Usa la habilidad para atrapar peces en un área específica de agua.
+
+Draw Blood {s}; {s}; Use the Draw Blood Skill to draw blood from the creature that has just been killed.
+{sub2{$1}sub2} en extraer sangre; {sub2{$2}sub2}; Usa la habilidad para tomar sangre de la criatura que haya muerto recientemente.
+
+Draw Blood Grand Master; Use the Draw Blood Skill to draw blood from the creature that has just been killed.
+Gran Maestro en extraer sangre; Usa la habilidad para tomar sangre de la criatura que haya muerto recientemente.
+
+Cut Flesh {s}; {s}; Use the Cut Flesh Skill to Cut meat of different qualities on the creature that has just been killed.
+{sub2{$1}sub2} en cortar carne; {sub2{$2}sub2}; Usa la habilidad para cortar carne de diferente calidad de la criatura que haya muerto recientemente.
+
+Cut Flesh Grand Master; Use the Cut Flesh Skill to Cut meat of different qualities on the creature that has just been killed.
+Gran Maestro en cortar carne; Usa la habilidad para cortar carne de diferente calidad de la criatura que haya muerto recientemente.
+
+Skinning {s}; {s}; Use the Skinning Skill to collect pelt from the creature that has just been killed.
+{sub2{$1}sub2} en desollar; {sub2{$2}sub2}; Usa la habilidad para recolectar piel de la criatura que haya muerto recientemente.
+
+Skinning Grand Master; Use the Skinning Skill to collect pelt from the creature that has just been killed.
+Gran Maestro en desollar; Usa la habilidad para recolectar piel de la criatura que haya muerto recientemente.
+
+Mining {s}
+{sub2{$1}sub2} en minería
+
+Fishing {s}
+{sub2{$1}sub2} en pesca
+
+Collect Herbs {s}
+{sub2{$1}sub2} en recolectar hierbas
+
+Draw Blood {s}
+{sub2{$1}sub2} en extraer sangre
+
+Cut Flesh {s}
+{sub2{$1}sub2} en cortar carne
+
+Skinning {s}
+{sub2{$1}sub2} en desollar
+
+Mining; upgrade to {s}
+Minería; mejorar a {sub2{$1}sub2}
+
+Collect Herbs; upgrade to {s}
+Recolectar hierbas; mejorar a {sub2{$1}sub2}
+
+Fishing; upgrade to {s}
+Pesca; mejorar a {sub2{$1}sub2}
+
+Draw Blood; upgrade to {s}
+Extraer sangre; mejorar a {sub2{$1}sub2}
+
+Cut Flesh; upgrade to {s}
+Cortar carne; mejorar a {sub2{$1}sub2}
+
+Skinning; upgrade to {s}
+Desollar; mejorar a {sub2{$1}sub2}
+
+activated; takes {d} talent point
+activada; usa $1 puntos de talento
+
+not activated
+desactivada
+
+Turtle Breath; {s}; Immune to breath-holding terrain damage
+Respiración de tortuga; {sub2{$1}sub2}; Te hace inmune al daño del terreno en el que no se pueda respirar.
+
+Anti-Corrosion; {s}; Immune to corrosive terrain effect damage
+Anticorrosión; {sub2{$1}sub2}; Te hace inmune al daño del terreno corrosivo.
+
+Poison Immunity; {s}; Immune to Poisoned Terrain Effect Damage
+Inmunidad al veneno; {sub2{$1}sub2}; Te hace inmune al daño del terreno venenoso.
+
+Combat Stance; {s}; Increase 4% damage.
+Postura de batalla; {sub2{$1}sub2}; Incrementa 4% el daño.
+
+Cleave Combo; {s}; When you use Sweep Attack after Cleave, increase 15% damage of Sweep Attack. Require Combat Stance.
+Combo de cortes; {sub2{$1}sub2}; Después de usar Rajar, el siguiente Ataque de barrido inflige un 15% más de daño. Requiere Postura de combate.
+
+Powerful Leap Attack; {s}; After you use Leap Slash, global CD will be reduced to 50%. Increase 33% attack damage for 1 second. Require Combat Stance.
+Salto potenciado; {sub2{$1}sub2}; Después de usar Tajo repentino, el enfriamiento global se reducirá en un 50% y el daño se incrementará un 33% durante un segundo. Requiere Postura de batalla.
+
+Fighting Expert; {s}; Increase 4% physical attack. Require Combat Stance.
+Experto en lucha; {sub2{$1}sub2}; Incrementa 4% el ataque físico. Requiere Postura de batalla.
+
+Defensive Stance; {s}; Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Combat Stance and Defensive Stance cannot be used at the same time.
+Postura defensiva; {sub2{$1}sub2}; Reduce 3% el daño de ataque. Cuando recibes daño, obtienes un punto de ira adicional por cada 1% de daño recibido. Postura de batalla y Postura defensiva no se pueden usar a la vez.
+
+Sturdy Sentry; {s}; Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+Centinela firme; {sub2{$1}sub2}; Otorga varios buffs a Postura defensiva. Incrementa 10 puntos de evasión. Reduce 2% la probabilidad de recibir un golpe crítico físico. Reduce 3% la probabilidad de que rompan tu defensa. Requiere Postura defensiva.
+
+Defensive Barrier; {s}; Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+Barrera defensiva; {sub2{$1}sub2}; Reduce 3% el daño de ataque. Cuando recibes daño ganas un punto de ira adicional por cada 2% de daño recibido. Requiere Postura defensiva.
+
+Precise Block; {s}; Increase 8% physical defense and 10% magic defense, require defensive stance.
+Bloqueo preciso; {sub2{$1}sub2}; Incrementa 8% la defensa física y 10% la defensa mágica. Requiere Postura defensiva.
+
+Severe Wound; {s}; When Bash deals a critical hit, it increases 40% Bleeding effect on target for 15 seconds.
+Daño severo; {sub2{$1}sub2}; Cuando Golpetazo produce un golpe crítico, incrementa 40% el efecto de Sangrado en el objetivo por 15 segundos.
+
+Sixth Sense; {s}; Increase 4% dodge.
+Sexto sentido; {sub2{$1}sub2}; Incrementa 4% la evasión.
+
+Rampage Stance; {s}; Increase 6% damage and 2% of all damage taken.
+Postura furiosa; {sub2{$1}sub2}; Incrementa 6% el daño y 2% el daño recibido.
+
+Cruel; {s}; Each time you hit the target, Increase 10 Critical Hit of the next attack. Reset After Triggering Critical Hit.  Require Rampage Stance.
+Crueldad; {sub2{$1}sub2}; Cada vez que golpees al objetivo, incrementa 10 puntos de probabilidad de dar un golpe crítico en el siguiente ataque. Se restablece después de que ocurra. Requiere Postura furiosa.
+
+Enrage; {s}; Enrage is triggered when Bloodthirsty deals a critical hit. Increase 100% attack speed and 30% of all damage taken for 2 seconds. Require Rampage Stance.
+Enfurecimiento; {sub2{$1}sub2}; El enfurecimiento se activa cuando Sed de sangre impacta con un golpe crítico. Incrementa 100% la velocidad de ataque y 30% el daño recibido durante 2 segundos. Requiere Postura furiosa.
+
+Unruly Rage; {s}; Increase 20% damage during Enrage.
+Furia desenfrenada; {sub2{$1}sub2}; Incrementa 20% el daño durante el Enfurecimiento.
+
+Defensive Stance; {s}; Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Rampage Stance and Defensive Stance cannot be used at the same time.
+Postura defensiva; {sub2{$1}sub2}; Reduce 3% el daño de ataque. Cuando recibes daño, ganas un punto de ira adicional por cada 1% de daño recibido. Postura furiosa y Postura defensiva no se pueden usar a la vez.
+
+Sturdy Sentry; {s}; Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+Centinela firme; {sub2{$1}sub2}; Otorga varios buffs a Postura defensiva. Incrementa 10 puntos de evasión. Reduce 2% la probabilidad de recibir un golpe crítico físico. Reduce 3% la probabilidad de que rompan tu defensa. Requiere Postura defensiva.
+
+Defensive Barrier; {s}; Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+Barrera defensiva; {sub2{$1}sub2}; Reduce 3% el daño de ataque. Cuando recibes daño ganas un punto de ira adicional por cada 2% de daño recibido. Requiere Postura defensiva.
+
+Ancestral Protection; {s}; Reduce 3% attack damage and increase 8% healing effect. Require Defensive Stance.
+Protección ancestral; {sub2{$1}sub2}; Reduce 3% el daño de ataque e incrementa 8% el efecto curativo recibido. Requiere Postura defensiva.
+
+Ruthless; {s}; Each attack gives you 1 additional rage.
+Implacable; {sub2{$1}sub2}; Cada ataque te otorga 1 punto de ira adicional.
+
+Strength of Giant; {s}; Increase 4% damage.
+Fuerza de gigante; {sub2{$1}sub2}; Incrementa 4% el daño de ataque.
+
+Assassin's Determination; {s}; Increase 3% damage. Increase Maximum Combo by 2.
+Determinación del asesino; {sub2{$1}sub2}; Incrementa 3% el daño, así como los puntos máximos de combo en 2.
+
+Mental Barrier; {s}; Increase 12% physical defense and 10% magic defense. Require Assassin's Determination.
+Barrera mental; {sub2{$1}sub2}; Incrementa 12% la defensa física y 10% la defensa mágica. Requiere Determinación del asesino.
+
+Seal Fate; {s}; When your attack deals a critical hit on a target, each critical hit gives you 1 additional combo. Require Assassin's Determination.
+Sello del destino; {sub2{$1}sub2}; Cuando tu ataque impacte con un golpe crítico sobre un objetivo, cada golpe crítico te otorga un punto de combo adicional. Requiere Determinación del asesino.
+
+Executioner; {s}; Increase 22% Rapid Sting Damage. Require Assassin's Determination.
+Verdugo; {sub2{$1}sub2}; Incrementa 22% el daño de la Puñalada rápida. Requiere Determinación del asesino.
+
+Blind Faith; {s}; Increase 4% attack damage, reduce 2% attack damage taken. Blind Faith and Assassin's Determination cannot be used at the same time.
+Fe ciega; {sub2{$1}sub2}; Incrementa 4% el daño de ataque, reduce 2% el daño recibido. Fe ciega y Determinación del asesino no se pueden usar a la vez.
+
+Shadow Blade; {s}; Absorb nearby shadow to strengthen your weapon, increasing 12% Blade Strike damage. Require Blind Faith.
+Cuchilla sombría; {sub2{$1}sub2}; Absorve el poder de las sombras cercanas para reforzar tu arma, incrementando 12% el daño del Golpe de cuchilla. Requiere Fe ciega.
+
+Shadow of Erosion; {s}; Each time you spend 1 combo, reduce the remaining CD of Blade Fury Dance by 1 second. Require Blind Faith.
+Sombra erosionante; {sub2{$1}sub2}; Cada vez que gastas un punto de combo, reduce el enfriamiento restante de Danza de la furia de cuchillas en 1 segundo. Requiere Fe ciega.
+
+Hatred; {s}; "Each time you spend 1 combo, you have a 20% chance to gain 1 extra combo. Require Blind Faith."
+Odio; {sub2{$1}sub2}; Cada vez que gastes un punto de combo, tendrás un 20% de probabilidad de ganar 1 punto de combo extra. Requiere Fe ciega.
+
+Deadly Attack; {s}; Increase 3% attack damage.
+Ataque mortal; {sub2{$1}sub2}; Incrementa 3% el daño de ataque.
+
+Ruthless Strike; {s}; Increase 30 points of Critical Damage.
+Golpe despiadado; {sub2{$1}sub2}; Incrementa 30 puntos de daño crítico.
+
+Aspect of the Wild; {s}; Increase 4% attack damage.
+Aspecto salvaje; {sub2{$1}sub2}; Incrementa 4% el daño de ataque.
+
+Survival Expert; {s}; When you hit the target, recover HP equal to 5% damage dealt. Require Aspect of the Wild
+Experto en supervivencia; {sub2{$1}sub2}; Cuando golpees al objetivo, recuperarás en salud el 5% del daño que causes. Requiere Aspecto salvaje.
+
+Wild Rage; {s}; Increase 5% attack damage. Require Aspect of the Wild
+Furia salvaje; {sub2{$1}sub2}; Incrementa 5% el daño de ataque. Reqiere Aspecto salvaje.
+
+Call of the Wilderness; {s}; When Arcane Shot deals a critical hit, resets the CD of the next Rapid Arrows. Require Aspect of the Wild
+Llamada de la naturaleza; {sub2{$1}sub2}; Cuando el Disparo arcano impacta con un golpe crítico, restablece el enfriamiento de las próximas Flechas Rápidas. Requiere Aspecto salvaje.
+
+Aspect of the Monkey; {s}; Increase 2% attack damage and 3% dodge. Aspect of the Wild and Aspect of the Monkey cannot be used at the same time.
+Aspecto del mono; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 3% la evasión. Aspecto salvaje y Aspecto del mono no se pueden usar a la vez.
+
+Sniper Training; {s}; Increase 11% Defense Break Chance. Require Aspect of the Monkey.
+Entrenamiento de francotirador; {sub2{$1}sub2}; Incrementa 11% la probabilidad de romper la defensa. Requiere Aspecto del mono
+
+Steady Hands; {s}; When you cast Aimed Shot, increase 22% damage of the next attack. Require Aspect of the Monkey.
+Manos firmes; {sub2{$1}sub2}; Cuando lanzas un Disparo preciso, incrementa 22% el daño del siguiente ataque. Requiere Aspecto del mono.
+
+Hunter's Mark; {s}; Increases the chance of marking a target when attacks hit. Require Aspect of the Monkey.
+Marca del cazador; {sub2{$1}sub2}; Incrementa la probabilidad de marcar a un objetivo cuando lo atacas. Requiere Aspecto del mono.
+
+Aspect of the Cheetah; {s}; Increase 5% movement speed.
+Aspecto del guepardo; {sub2{$1}sub2}; Incrementa 5% la velocidad de movimiento.
+
+Aspect of the Hawk; {s}; Increase 11 points of Critical Hit, 12 points of Critical Damage and 1% attack damage.
+Aspecto del halcón; {sub2{$1}sub2}; Incrementa 11 puntos de golpe crítico, 12 puntos de daño crítico y 1% el daño de ataque.
+
+Ice Lineage; {s}; Increase 2% attack damage, reduce 2% attack damage taken.
+Linaje de hielo; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y reduce 2% el daño recibido.
+
+Desolate Winter; {s}; Increase 22% Ice Lance Damage, require Ice Lineage.
+Invierno desolado; {sub2{$1}sub2}; Incrementa 22% el daño de la Lanza de hielo. Requiere linaje de hielo.
+
+Ice Finger; {s}; When Ice Arrow and Ice Orb deal Critical Hits, or when Ice Arrow hits a target affected by Aqua Jet, the target will be Condensed. Dealing damage to the target will break its Condensed effect. Require Ice Lineage.
+Dedo Helado; {sub2{$1}sub2}; Cuando la Flecha de hielo y el Orbe de hielo impacten con un golpe crítico, o cuando la Flecha de hielo golpee a un objetivo afectado por Chorro de agua, el objetivo se condensará. Al causarle daño se romperá su efecto condensado. Requiere Linaje de hielo.
+
+Chilling Cold; {s}; Every time your attack hits the target, your attack damage is increased by 1% for 15 seconds. Require Ice Lineage.
+Frío congelante; {sub2{$1}sub2}; Cada vez que tu ataque golpee a un objetivo, tu daño causado al atacar se incrementará 1% por 15 segundos. Requiere Linaje de hielo.
+
+Cold Lineage; {s}; Increase 4% attack damage, reduce 2% attack damage taken. Ice Lineage and Cold Lineage cannot be used at the same time.
+Linaje de frío; {sub2{$1}sub2}; Incrementa 4% el daño de ataque, reduce 2% el daño recibido. Linaje de hielo y Linaje de frío no se pueden usar a la vez.
+
+Freezing Cold; {s}; Increase cast speed and reduce the CD of Ice Storm by 1.5 seconds. Require Cold Lineage.
+Frío glacial; {sub2{$1}sub2}; Incrementa la velocidad de lanzamiento y reduce el enfriamiento de Tormenta de hielo por 1.5 segundos. Requiere Linaje de frío.
+
+Crisp Wisdom; {s}; When your attack deals a Critical Hit, resets the CD of Ice Orb. Require Cold Lineage.
+Sabiduría fría; {sub2{$1}sub2}; Cuando tu ataque cause un golpe crítico se restablecerá el enfriamiento de Orbe de hielo. Requiere Linaje de frío.
+
+Ice Spirit; {s}; Increase 2% attack damage and 9% Defense Break Chance. Require Cold Lineage.
+Espíritu helado; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 9% la probabilidad de romper la defensa. Requiere Linaje de frío.
+
+Frost Armor; {s}; Increase 20 points of Toughness and 5 points of Critical Hit Resist.
+Armadura de escarcha; {sub2{$1}sub2}; Incrementa 20 puntos de dureza y 5 puntos de resistencia a golpes críticos.
+
+Frost Lineage; {s}; Increase 4% damage.
+Linaje de escarcha; {sub2{$1}sub2}; Incrementa 4% el daño.
+
+Elven Fire; {s}; Increase 3% attack damage, reduce 2% attack damage taken.
+Fuego élfico; {sub2{$1}sub2}; Incrementa 3% el daño de ataque, reduce 2% el daño recibido.
+
+Enhanced Fireworks; {s}; Every time Fireball doesn't deal a Critical Hit to the target, it increases 10 points of Critical Hit. The effect ends when Fireball deals a Critical Hit. Require Elven Fire.
+Fuegos potenciados; {sub2{$1}sub2}; Cada vez que la bola de fuego no impacte al objetivo con un golpe crítico se incrementarán 10 puntos de golpe crítico. El efecto terminará cuando la bola de fuego impacte con un golpe crítico. Requiere Fuego élfico.
+
+Blazing Combo; {s}; When your direct damage spell deals a critical hit and two consecutive damage spells deal critical hits, your next Pyroblast or Blazing Storm can be cast instantaneously. Require Elven Fire.
+Combo ardiente; {sub2{$1}sub2}; Cuando dos de tus hechizos de daño directo impacten consecutivamente con un golpe crítico, tu próxima pyroexplosión o tormenta de llamas será instantánea. Requiere Fuego élfico.
+
+Blessing of Flame; {s}; Increase 12% Blazing Storm Damage. Require Elven Fire.
+Bendición de la llama; {sub2{$1}sub2}; Incrementa 12% el daño de Tormenta de llamas. Requiere Fuego élfico.
+
+Hellfire; {s}; Increase 5% attack damage. Elven Fire and Hellfire cannot be used at the same time.
+Fuego infernal; {sub2{$1}sub2}; Incrementa 5% el daño de ataque. Fuego élfico y Fuego infernal no se pueden usar a la vez.
+
+Energized Fireball; {s}; When you have over 80% MP, casting Fireball will activate Energized Fireball. Whenever you cast Fireball, Energized Fireball will cost 20% mana to increase 40% damage of your next Fireball, stacks 5 times at max. The effect ends when you don't have enough mana. Require Hellfire.
+Bola de fuego potenciada; {sub2{$1}sub2}; Cuando tienes más de 80% de mana, al lanzar una Bola de fuego se activará la Bola de fuego potenciada. Cada vez que lances Bola de fuego, Bola de fuego potenciada te costará 20% de mana; incrementará 40% el daño de Bola de fuego, y se puede acumular 5veces como máximo. El efecto termina cuando no tengas mana suficiente. Requiere Fuego infernal.
+
+Mana Expert; {s}; When your MP is below 20%, recover 70% MP automatically. This Skill can only be activated once every 3 minutes. Require Hellfire.
+Experto en mana; {sub2{$1}sub2}; Cuando tu mana está por debajo del 20%, recupera 70% de mana automáticamente. Esta habilidad solo se puede activar una vez cada 3 minutos. Requiere Fuego infernal.
+
+Heart of Heat; {s}; Increase 28% Fire Impact damage. Require Hellfire.
+Corazón ardiente; {sub2{$1}sub2}; Incrementa 28% el daño de Impacto de fuego. Requiere Fuego infernal.
+
+Elven Dance; {s}; Increase 11 points of dodge.
+Danza élfica; {sub2{$1}sub2}; Incrementa 11 puntos de evasión.
+
+Flame Combo; {s}; When your Fireball deals a Critical Hit, resets the CD of Fire Impact.
+Combo llameante; {sub2{$1}sub2}; Cuando tu Bola de fuego impacte con un golpe crítico se restablecerá el enfriamiento de Impacto de fuego.
+
+Justice; {s}; Increase 5% attack damage.
+Justicia; {sub2{$1}sub2}; Incrementa 5% el daño de ataque.
+
+Holy Light Echo; {s}; Your direct healing spells will have an additional 8% healing effect. Require Justice.
+Eco de luz sagrada; {sub2{$1}sub2}; Tus hechizos de curación directa tendrán un efecto adicional de 8% de curación. Requiere Justicia.
+
+Wisdom; {s}; When your attack deals a Critical Hit, resets the CD of Divine Nova. Require Justice.
+Sabiduría; {sub2{$1}sub2}; Cuando tu ataque impacte con un golpe crítico, se restablecerá el enfriamiento de Nova divina. Requiere Justicia.
+
+Skilled Healer; {s}; When you cast Light of Miracles after Healing Prayers, increase 22% healing effect of Light of Miracles. Require Justice.
+Sanador hábil; {sub2{$1}sub2}; Después de usar Oración de sanación, el efecto de curación de Luz milagrosa se incrementará en un 22%. Requiere Justicia.
+
+Shelter; {s}; Increase 3% attack damage, reduce 4% of all damage taken.
+Refugio sagrado; {sub2{$1}sub2}; Incrementa 3% el daño de ataque y reduce 4% el daño recibido.
+
+Divine Whip; {s}; Increase 24% Mind Whip Damage. Targets attacked by Mind Whip will suffer an additional 8% damage from Divine Nova. Require Shelter.
+Látigo divino; {sub2{$1}sub2}; Incrementa 24% el daño de Látigo Mental. Los objetivos dañados por Látigo Mental sufrirán un 8% de daño adicional de Nova divina. Requiere Refugio sagrado.
+
+Confession; {s}; Increase 12% of all healing effects transformed through Redemption. Require Shelter.
+Confesión; {sub2{$1}sub2}; Incrementa 12% el efecto curativo mientras estás transformado en el Alma de Redención. Requiere Refugio sagrado.
+
+Divine Reincarnation; {s}; When you resurrect an ally using Resurrection, your damage is increased by 30% and all your damage taken is reduced by 30% for 20 seconds. Require Shelter.
+Reencarnación divina; {sub2{$1}sub2}; Cuando resucites a un aliado usando Resurrección, tu daño de ataque se incrementará un 30% y el daño recibido se reducirá un 30% durante 20 segundos. Requiere Refugio sagrado.
+
+Holy Light Protection; {s}; Increase 5 points of Dodge and 5 points of critical hit resist.
+Protección de la luz sagrada; {sub2{$1}sub2}; Incrementa 5 puntos de evasión y 5 puntos de resistencia a golpes críticos.
+
+Ring of Life; {s}; When your HP is below 30%, Ring of Life can cost 1% mana to recover 1% HP per second.
+Anillo de la vida; {sub2{$1}sub2}; Cuando tu salud esté por debajo del 30%, Anillo de la vida utilizará 1% de tu mana para recuperar 1% de salud por segundo.
+
+Soul Link; {s}; Reduce 4% of all damage taken.
+Vínculo del alma; {sub2{$1}sub2}; Reduce 4% el daño recibido.
+
+Enhanced Explosion; {s}; If the target is suffering from corrosion damage of Corrosion Spell, then Skeleton Explosion always Critical Hit. Require Soul Link.
+Explosión potenciada; {sub2{$1}sub2}; Si el objetivo está sufriendo daño de un hechizo de Corrosión, Explosión de esqueleto siempre impactará con un golpe crítico. Requiere Vínculo del alma.
+
+Rushing Tide; {s}; Casting Healing Chain will increase 15% healing effect of the next Healing Surge. Require Soul Link.
+Marea impetuosa; {sub2{$1}sub2}; Al lanzar Cadena de sanación incrementa 15% el efecto curativo de la siguiente Oleada curativa. Requiere Vínculo del alma.
+
+Dead Toxin Surge; {s}; When your Shadow Arrow deals a Critical Hit, resets the CD of Dead Toxin. Require Soul Link.
+Oleada de toxinas mortales; {sub2{$1}sub2}; Cuando tu Flecha de sombra impacte con un golpe crítico, se restablecerá el enfriamiento de Explosión de Toxinas mortales. Requiere Vínculo del alma.
+
+Soul Harmony; {s}; Increase 3% attack damage, reduce 3% of all damage taken.
+Armonía del alma; {sub2{$1}sub2}; Incrementa 3% el daño de ataque, reduce 3% el daño recibido.
+
+Spiritual Concentration; {s}; When your direct damage spells deal critical hit, increase 30% of spell damage and healing effect for 4 seconds. Require Soul Harmony.
+Concentración espiritual; {sub2{$1}sub2}; Cuando uno de tus hechizos de daño directo impacte con un golpe crítico, incrementa 30% los efectos de hechizos de daño y curación durante 4 segundos. Requiere Armonía del alma.
+
+Extensive Heal; {s}; Increase up to 20% spell healing effect depending on the target's current HP. The lower the target HP, the higher the healing effect. Require Soul Harmony.
+Curación extendida; {sub2{$1}sub2}; Incrementa un máximo de 20% el efecto de los hechizos de curación dependiendo de la salud actual del objetivo. Mientras más baja sea la salud del objetivo, más alto será el efecto. Requiere Armonía del alma.
+
+Soul Insight; {s}; Reduce the CD of Soul Returnal by 5 minutes. When you resurrect an ally with Soul Returnal, reset the CD of all Totem Skills. Require Soul Harmony.
+Perspicacia del alma; {sub2{$1}sub2}; Reduce el enfriamiento de Retorno del alma en 5 minutos. Cuando resucitas a un aliado con Retorno del alma, se restablece el enfriamiento de todas las habilidades de tótem. Requiere Armonía del alma.
+
+Wrath of Wraith; {s}; Increase 150 points of Critical Damage.
+Ira espectral; {sub2{$1}sub2}; Incrementa 150 puntos de daño crítico.
+
+Jungle Perseverance; {s}; Increase 10 points of Toughness and 10 points of critical hit resist.
+Perseverancia de la jungla; {sub2{$1}sub2}; Incrementa 10 puntos de dureza y 10 puntos de resistencia a golpes críticos.
+
+Imperious; {s}; Increase 2% attack damage.
+Imperiosidad; {sub2{$1}sub2}; Incrementa 2% el daño de ataque.
+
+Focus; {s}; Increase 4 points of hit chance.
+Concentración; {sub2{$1}sub2}; Incrementa 4 puntos de precisión.
+
+Ravage; {s}; Increase 49 points of Defense Break Chance.
+Destrucción; {sub2{$1}sub2}; Incrementa 49 puntos de probabilidad de romper la defensa.
+
+Havoc; {s}; Increase 25 points of Defense Break Chance and 40 points of Defense Break Damage.
+Debastación; {sub2{$1}sub2}; Incrementa 25 puntos de probabilidad de romper la defensa y 40 puntos de daño por rotura.
+
+Anger; {s}; Increase 7 points of Critical Hit.
+Cólera; {sub2{$1}sub2}; Incrementa 7 puntos de golpe crítico.
+
+Brutal; {s}; Increase 5 points of Critical Hit and 11 points of Critical Damage.
+Brutalidad; {sub2{$1}sub2}; Incrementa 5 puntos de golpe crítico y 11 puntos de daño crítico.
+
+Shielded; {s}; Reduce 3% of all damage taken.
+Blindaje; {sub2{$1}sub2}; Reduce 3% el daño recibido.
+
+Dexterous; {s}; Increase 6 points of dodge.
+Destreza; {sub2{$1}sub2}; Incrementa 6 puntos de evasión.
+
+Tough; {s}; Increase 30 points of Toughness.
+Impenetrabilidad; {sub2{$1}sub2}; Incrementa 30 puntos de dureza.
+
+Tai chi; {s}; Increase 10 points of critical hit resist.
+Tai chi; {sub2{$1}sub2}; Incrementa 10 puntos de resistencia a golpes críticos.
+
+Havoc (Aggressive); {s}; Increase 2% attack damage. Increase 2 points of Defense Break Chance and 10 points of Defense Break Damage.
+Debastación (ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque, 2 puntos de probabilidad de romper la defensa y 10 puntos de daño por rotura.
+
+Tough (Aggressive); {s}; Increase 2% attack damage. Increase 5 points of Toughness.
+Impenetrabilidad (ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 5 puntos de dureza.
+
+Tai chi (Aggressive); {s}; Increase 2% attack damage. Increase 1 point of critical hit resist.
+Tai chi (Ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 1 punto de resistencia a golpes críticos.
+
+Focus (Defensive); {s}; Reduce 2% of all damage taken. Increase 2 points of hit chance.
+Concentración (defensivo); {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 2 puntos de precisión.
+
+Ravage (Defensive); {s}; Reduce 2% of all damage taken. Increase 16 points of Defense Break Chance.
+Destrucción (defensivo); {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 16 puntos de probabilidad de romper la defensa.
+
+Havoc (Defensive); {s}; Reduce 2% of all damage taken. Increase 12 points of Defense Break Chance and 17 points of Defense Break Damage.
+Debastación (defensivo); {sub2{$1}sub2}; Reduce 2% el daño recibido, incrementa 12 puntos de probabilidad de romper la defensa y 17 puntos de daño por rotura.
+
+Anger (Defensive); {s}; Reduce 2% of all damage taken. Increase 3 points of Critical Hit.
+Cólera (defensivo); {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 3 puntos de golpe crítico.
+
+Brutal (Defensive); {s}; Reduce 2% of all damage taken. Increase 2 points of Critical Hit and 6 points of Critical Damage.
+Brutalidad (defensivo); {sub2{$1}sub2}; Reduce 2% el daño recibido, incrementa 2 puntos de golpe crítico y 6 puntos de daño crítico.
+
+Dexterous (Defensive); {s}; Reduce 2% of all damage taken. Increase 3 points of dodge.
+Destreza (defensivo); {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 3 puntos de evasión.
+
+Tough (Defensive); {s}; Reduce 3% of all damage taken. Increase 5 points of Toughness.
+Impenetravilidad (defensivo); {sub2{$1}sub2}; Reduce 3% el daño recibido e incrementa 5 puntos de dureza.
+
+Tai chi (Defensive); {s}; Reduce 2% of all damage taken. Increase 4 points of critical hit resist.
+Tai chi (defensivo); {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 4 puntos de resistencia a golpes críticos.
+
+Focus (Aggressive); {s}; Increase 2% attack damage and 1 point of hit chance.
+Concentración (ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 1 punto de precisión.
+
+Ravage (Aggressive); {s}; Increase 2% attack damage and 7 point of Defense Break Chance.
+Destrucción (ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 7 puntos de probabilidad de romper la defensa.
+
+Brutal (Aggressive); {s}; Increase 2% attack damage. Increase 1 points of Critical Hit and 2 points of Critical Damage.
+Brutalidad (ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque, un punto de golpe crítico y 2 de daño crítico.
+
+Anger (Aggressive); {s}; Increase 2% attack damage and 2 points of Critical Hit.
+Cólera (ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 2 puntos de golpe crítico.
+
+Tough (Aggressive)-2; {s}; Increase 2% attack damage. Increase 9 points of Toughness.
+Impenetrabilidad(ofensivo)-2; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 9 puntos de dureza.
+
+Ravage (Defensive)-2; {s}; Reduce 2% of all damage taken. Increase 19 points of Defense Break Chance.
+Destrucción (defensivo)-2; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 19 puntos de probabilidad de romper la defensa.
+
+Havoc (Defensive)-2; {s}; Reduce 2% of all damage taken. Increase 15 points of Defense Break Chance and 21 points of Defense Break Damage.
+Debastación(defensivo)-2; {sub2{$1}sub2}; Reduce 2% el daño recibido, incrementa 15 puntos de probabilidad de romper la defensa y 21 puntos de daño por rotura.
+
+Brutal (Defensive)-2; {s}; Reduce 2% of all damage taken. Increase 3 points of Critical Hit and 5 points of Critical Damage.
+Brutalidad (defensivo)-2; {sub2{$1}sub2}; Reduce 2% el daño recibido, incrementa 3 puntos de golpe crítico y 5 puntos de daño crítico.
+
+Dexterous (Defensive)-2; {s}; Reduce 2% of all damage taken. Increase 4 points of dodge.
+Destreza (defensivo)-2; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 4 puntos de evasión.
+
+Tough (Defensive)-2; {s}; Reduce 3% of all damage taken. Increase 9 points of Toughness.
+Impenetrabilidad (defensivo)-2; {sub2{$1}sub2}; Reduce 3% el daño recibido e incrementa 9 puntos de dureza.
+
+Tai chi (Defensive)-2; {s}; Reduce 2% of all damage taken. Increase 5 points of critical hit resist.
+Tai chi (defensivo)-2; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 5 puntos de resistencia a golpes críticos.
+
+Ravage (Aggressive)-2; {s}; Increase 2% attack damage and 10 point of Defense Break Chance.
+Destrucción (ofensivo)-2; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 10 puntos de probabilidad de romper la defensa.
+
+Havoc (Aggressive)-3; {s}; Increase 2% attack damage. Increase 8 points of Defense Break Chance and 18 points of Defense Break Damage.
+Debastación (ofensivo)-3; {sub2{$1}sub2}; Incrementa 2% el daño de ataque, 8 puntos de probabilidad de romper la defensa y 18 puntos de daño por rotura.
+
+Anger (Aggressive); {s}; Increase 2% attack damage and 2 points of Critical Hit.
+Cólera (ofensivo); {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 2 puntos de golpe crítico.
+
+Tough (Aggressive)-3; {s}; Increase 2% attack damage. Increase 14 points of Toughness.
+Impenetravilidad (ofensivo)-3; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 14 puntos de dureza.
+
+Tai chi (Aggressive)-2; {s}; Increase 2% attack damage. Increase 3 point of critical hit resist.
+Tai chi (ofensivo)-2; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 3 puntos de resistencia a golpes críticos.
+
+Ravage (Defensive)-3; {s}; Reduce 2% of all damage taken. Increase 22 points of Defense Break Chance.
+Destrucción (defensivo)-3; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 22 puntos de probabilidad de romper la defensa.
+
+Havoc (Defensive)-3; {s}; Reduce 2% of all damage taken. Increase 18 points of Defense Break Chance and 25 points of Defense Break Damage.
+Debastación (defensivo)-3; {sub2{$1}sub2}; Reduce 2% el daño recibido, incrementa 18 puntos de romper la defensa y 25 puntos de daño por rotura.
+
+Anger (Defensive)-2; {s}; Reduce 2% of all damage taken. Increase 4 points of Critical Hit.
+Cólera (defensivo)-2; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 4 puntos de golpe crítico.
+
+Dexterous (Defensive)-3; {s}; Reduce 2% of all damage taken. Increase 5 points of dodge.
+Destreza (defensivo)-3; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 5 puntos de evasión.
+
+Tough (Defensive)-3; {s}; Reduce 3% of all damage taken. Increase 14 points of Toughness.
+Impenetrabilidad (defensivo)-3; {sub2{$1}sub2}; Reduce 3% el daño recibido e incrementa 14 puntos de dureza.
+
+Tai chi (Defensive)-3; {s}; Reduce 2% of all damage taken. Increase 6 points of critical hit resist.
+Tai chi (defensivo)-3; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 6 puntos de resistencia a golpes críticos.
+
+Focus (Aggressive)-2; {s}; Increase 2% attack damage and 5 point of hit chance.
+Concentración (ofensivo)-2; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 5 puntos de precisión.
+
+Ravage (Aggressive)-3; {s}; Increase 2% attack damage and 14 point of Defense Break Chance.
+Destrucción (ofensivo)-3; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 14 puntos de probabilidad de romper la defensa.
+
+Havoc (Aggressive)-4; {s}; Increase 2% attack damage. Increase 11 points of Defense Break Chance and 20 points of Defense Break Damage.
+Debastación (ofensivo)-4; {sub2{$1}sub2}; Incrementa 2% el daño de ataque, 11 puntos de probabilidad de romper la defensa y 20 puntos de daño por rotura.
+
+Tough (Aggressive)-4; {s}; Increase 2% attack damage. Increase 18 points of Toughness.
+Impenetrabilidad (ofensivo)-4; {sub2{$1}sub2}; Incrementa 2% el daño de ataque y 18 puntos de dureza.
+
+Ravage (Defensive)-4; {s}; Reduce 2% of all damage taken. Increase 26 points of Defense Break Chance.
+Destrucción (defensivo)-4; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 26 puntos de probabilidad de romper la defensa.
+
+Havoc (Defensive)-4; {s}; Reduce 2% of all damage taken. Increase 21 points of Defense Break Chance and 28 points of Defense Break Damage.
+Debastación (defensivo)-4; {sub2{$1}sub2}; Reduce 2% el daño recibido, incrementa 21 puntos de probabilidad de romper la defensa y 28 puntos de daño por rotura.
+
+Brutal (Defensive)-3; {s}; Reduce 2% of all damage taken. Increase 4 points of Critical Hit and 6 points of Critical Damage.
+Brutalidad (defensivo)-3; {sub2{$1}sub2}; Reduce 2% el daño recibido, incrementa 4 puntos de golpe crítico y 6 puntos de daño crítico.
+
+Dexterous (Defensive)-4; {s}; Reduce 2% of all damage taken. Increase 6 points of dodge.
+Destreza (defensivo)-4; {sub2{$1}sub2}; Reduce 2% el daño recibido e incrementa 6 puntos de evasión.
+
+Tough (Defensive)-4; {s}; Reduce 3% of all damage taken. Increase 18 points of Toughness.
+Impenetrabilidad (defensivo)-4; {sub2{$1}sub2}; Reduce 3% el daño recibido e incrementa 18 puntos de dureza.

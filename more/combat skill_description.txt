@@ -1,0 +1,461 @@
+Skill upgrade: Level {d} {s}
+Habilidad mejorada; tu {sub2{$2}sub2} subió al nivel $1
+
+Please select the skill you want to improve your proficiency
+Por favor elige la habilidad a la que le quieras aumentar los puntos de uso
+
+This skill require no proficiency
+Esta habilidad no necesita puntos de uso
+
+Level {d} {s}; {s}; Upgrade needs character level {d}
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; mejora al alcanzar el nivel $4
+
+proficiency is full; upgraded by learning requires character level {d}
+experiencia completa; se actualiza aprendiendo al alcanzar el nivel $1
+
+proficiency {d}/{d}
+Experiencia $1/$2
+
+Upgrade needs character level {d}
+Mejora al alcanzar el nivel $1
+
+upgraded by learning requires character level {d}
+se actualiza aprendiendo al alcanzar el nivel $1
+
+proficiency is full, it will be upgraded after effective casting
+experiencia completa, mejorará cuando la lances y no falle
+
+proficiency is full, can learn to upgrade
+experiencia completa, puedes aprender para mejorarla
+
+Level {d} {s}; {s}; {s}; Base attack, strike 1 enemy within 5 yards, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2};Ataque base, golpea a un enemigo a 5 metros de distancia, obtienes $5 ira, incrementa $6 puntos de ataque físico, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Slash 1 enemy within 5 yards from top to bottom, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; parte de arriba a abajo a un enemigo a 5 metros de distancia, $5 segundos de enfriamiento, obtienes $6 ira, incrementa $7 puntos de ataque físico, $8% de bonus de ataque, consume $9 mana
+
+Level {d} {s}; {s}; {s}; Deal a final blow against 1 enemy within 5 yards, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Asesta un golpe final a un enemigo a 5 metros de distancia, consume $5 ira, incrementa $6 puntos de ataque físico, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Sweep through 2 enemies 5 yards ahead, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Barre a dos enemigos a 5 metros al frente, $5 segundos de enfriamiento, obtienes $6 ira, incrementa $7 puntos de ataque físico, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Deal a powerful strike to 4 enemies within a 5-yard radius, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Impacta con un golpe potente a 4 enemigos a 5 metros de distancia, consume $5 ira, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Reduce {d}% damage taken for 10 seconds, {d} seconds CD, cost 1% mana
+{sub2{$1}sub2}; Reduce $2% el daño recibido durante 10 segundos, $3 segundos de enfriamiento, consume 1% de mana
+
+Level {d} {s}; {s}; {s}; Single-target skill, jump to the target's side and slash down, stun the target for 2.5 seconds, 10 yards of effective range, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Enfocada a un solo objetivo, salta a un lado del objetivo y lo corta, aturdiéndolo durante 2.5 segundos, 10 metros de alcance, $5 segundos de enfriamiento, obtienes $6 ira, incrementa $7 puntos de ataque físico, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Restrain 1 enemy within 5 yards for 3.5 seconds, {d} seconds CD, gain {d} rage, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Restringe a un enemigo a 5 metros de distancia durante 3.5 segundos, $5 segundos de enfriamiento, obtienes $6 ira, incrementa $7 puntos de ataque físico, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Used when the target dodged the last attack, {d}% hit chance, 5 yards of effective range, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Se usa cuando un enemigo evade el último ataque, $5% de posibilidad de golpear, 5 metros de alcance, consume $6 ira, incrementa $7 puntos de ataque físico, $8% de bonus de ataque, consume $9 mana
+
+Level {d} {s}; {s}; {s}; Injure 1 enemy's hamstring within 5 yards, deal physical damage and decrease its movement speed by {d}% for 6 seconds, cost {d} rage, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Hiere a un enemigo a 5 metros de distancia al desjaretarlo, le causa daño físico y le reduce su velocidad de movimiento un $5% durante 6 segundos, consume $6 ira, incrementa $7 puntos de ataque físico, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Decrease 4% physical defense of 1 enemy within 5 yards for 30 seconds; {d}% hit chance, can be stacked to up to {d}% physical defense decrease. Cost {d} rage, gain substantial Threat from the target, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Reduce 4% de defensa física a un enemigo a 5 metros de distancia durante 30 segundos; $5% de posibilidad de golpeo, puede acumularse hasta un máximo de $6% de reducción de defensa física. Consume $7 ira, obtienes amenaza sustancial del objetivo, incrementa $8 puntos de ataque físico, $9% de bonus de ataque, consume $10 mana
+
+Level {d} {s}; {s}; {s}; Bleed 1 enemy within 5 yards, dealing continuous damage for 15 seconds, cost {d} rage, Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Hace sangrar a un enemigo a 5 metros de distancia causándole daño continuo durante 15 segundos. Consume $5 ira, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Increase 10% attack damage for all allies within 20 yards for 2 minutes, cost 200 rage and 1% mana.
+{sub2{$1}sub2}; Incrementa 10% el ataque de todos los aliados a 20 metros de distancia durante 2 minutos, consume 200 ira y 1% de mana.
+
+{s}; Increase {d}% defense for all allies within 20 yards for 2 minutes, cost {d} rage and 1% mana
+{sub2{$1}sub2}; Incrementa $2% la defensa de todos los aliados a 20 metros de distancia durante 2 minutos, consume $3 ira y $4% mana
+
+Level {d} {s}; {s}; {s}; Damage and force 1 target within 8 yards to attack you for 6 seconds, {d} minutes CD. Gain substantial Threat from the target. Increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Daña y fuerza a un objetivo a 8 metros de distancia a atacarte durante 6 segundos, $5 minutos de enfriamiento. Obtienes amenaza sustancial del objetivo. Incrementa $6 puntos de ataque físico, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Deal damage to 1 enemy within 5 yards and reduce {d}% of all healing effects on the target for 10 seconds. Cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Causa daño a un enemigo a 5 metros de distancia y le reduce en un $5% todos los efectos de curación durante 10 segundos. Consume $6 ira, incrementa $7 puntos de ataque físico, $8% de bonus de ataque, consume $9 mana
+
+{s}; Force all targets within 10 yards to attack you for 6 seconds, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; Fuerza a todos los objetivos a 10 metros de distancia a atacarte durante 6 segundos, $2 minutos de enfriamiento, consume 1% mana.
+
+{s}; Force 1 target within 8 yards to attack you for 6 seconds, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; Fuerza a un objetivo a 8 metros de distancia a atacarte durante 6 segundos, $2 minutos de enfriamiento, consume 1% de mana.
+
+{s}; Increase {d}% Critical Hit and reduce {d}% defense for 5 seconds, {d} seconds CD, cost 1% mana
+{sub2{$1}sub2}; Incrementa $2% el golpe crítico y reduce $3% la defensa durante 5 segundos, $4 segundos de enfriamiento, consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Base attack, 5 yards of effective range, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque base, 5 metros de alcance, obtienes $5 ira, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Powerful single-target attack, 5 yards of effective range, 4.8 seconds CD, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque potente a un solo objetivo, 5 metros de alcance, 4.8 segundos de enfriamiento, obtienes $5 ira, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 enemy within 5 yards and recover {d}% of damage as HP. Always increase {d}% damage of the next attack even if the skill missed. Cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un enemigo a 5 metros de distancia y restaura un $5% del daño a tu salud. El siguiente golpe causará un $6% más de daño incluso si falla el impacto. Consume $7 ira, incrementa $8 puntos de ataque físico, $9% de bonus de ataque, consume $10 mana
+
+Level {d} {s}; {s}; {s}; Attack 3 enemies within 5 yards ahead, 4.8 seconds CD, gain {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a 3 enemigos a 5 metros de distancia en línea recta, 4.8 segundos de enfriamiento, obtienes $5 ira, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Deal a powerful strike to 6 enemies within 5 yards ahead, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Impacta con un golpe potente a 6 enemigos a 5 metros en línea recta, consume $5 ira, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Increase {d}% movement speed for 10 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Incrementa $2% la velocidad de movimiento durante 10 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Reduce {d}% physical damage taken and {d}% magic damage taken for 10 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Reduce $2% el daño físico recibido y $3% el mágico durante 10 segundos, $4 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Reduce {d}% physical damage taken and {d}% magic damage taken, recover {d}% more HP with {s}. Lasts for 8 seconds. Share CD with {s}, cost 1% mana.
+{sub2{$1}sub2}; Reduce $2% el daño físico recibido y $3% el mágico y restaura un $4% más de salud con {sub2{$5}sub2} durante 8 segundos. Comparte enfriamiento con {sub2{$6}sub2}, consume 1% de mana
+
+Level {d} {s}; {s}; {s}; Stun the target for {d} seconds from a distance, 15 yards of effective range, {d} seconds CD, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Aturde al objetivo durante $5 segundos, 15 metros de alcance. $6 segundos de enfriamiento, incrementa $7 puntos de ataque físico, $8% de bonus de ataque, consume $9 mana
+
+{s}; Shatter the ground, Transfix 1 target within 8 yards for 5 seconds, {d} seconds CD, cost 1% mana
+{sub2{$1}sub2}; Rompe el suelo paralizando al objetivo a 8 metros de distancia durante 5 segundos. $2 segundos de enfriamiento, consume 1% de mana
+
+Level {d} {s}; {s}; {s}; Deal a vengeful strike to 1 target within 5 yards after dodging an enemy attack, {d} seconds CD, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Impacta a un objetivo a 5 metros de distancia con un golpe vengativo después de evadir un ataque, $5 segundos de enfriamiento, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 target within 8 range and decrease its movement speed by {d}% for 5 seconds, cost {d} rage, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un objetivo a 8 metros de distancia reduciendo su velocidad de movimiento un $5% durante 5 segundos, consume $6 ira, incrementa $7 puntos de ataque físico, $8% de bonus de ataque, consume $9 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 target within 5 yards, and decrease its physical defense by {d}% for 40 seconds, {d}% hit chance, can be stacked to up to {d}% physical defense decrease. Cost {d} rage, gain substantial Threat from the target, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un objetivo a 5 metros de distancia reduciendo su defensa física un $5% durante 40 segundos, $6% de posibilidad de golpear, se puede acumular la reducción de defensa física hasta un $7%. Consume $8 ira, obtienes amenaza sustancial del objetivo, incrementa $9 puntos de ataque físico, $10% de bonus de ataque, consume $11 mana
+
+{s}; Increase 30 points of Critical Hit for all allies within 20 yards for 2 minutes, cost 250 rage and 1% mana.
+{sub2{$1}sub2}; Incrementa 30 puntos de golpe crítico para todos los aliados a 20 metros de distancia durante 2 minutos, consume 250 ira y 1% de mana.
+
+{s}; Decrease {d}% of all damage taken for all allies within 20 yards for 2 minutes, cost {d} rage and 1% mana
+{sub2{$1}sub2}; Reduce a todos los aliados a 20 metros de distancia un $2% el daño recibido durante 2 minutos, consume $3 ira y 1% de mana
+
+Level {d} {s}; {s}; {s}; Base single-target attack, 5 yards and 180 degrees of effective range, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque base a un solo objetivo, 5 metros y 180 grados de alcance, incrementa $5 puntos de ataque físico, consume $6 mana
+
+Level {d} {s}; {s}; {s}; Powerful single-target attack, 5 yards of effective range, cost 0-8 combos, {d} seconds CD, increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque poderoso a un solo objetivo, 5 metros de alcance, consume de 0 a 8 combos, $5 segundos de enfriamiento, incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Attack 3 targets within 5 yards and 180 degrees, {d} seconds CD, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a 3 objetivos a 5 metros de distancia y 180 grados, $5 segundos de enfriamiento, incrementa $6 puntos de ataque físico, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Attack 5 enemies within a 5-yard radius. Cost 0-20 combos, {d} seconds CD, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a 5 enemigos a 5 metros de distancia. Consume de 0 a 20 combos, $5 segundos de enfriamiento, incrementa $6 puntos de ataque físico, consume $7 mana
+
+{s}; Increase 50% movement speed for 5 seconds, and increase 100% dodge for 10 seconds, 30 seconds CD, cost 1% mana
+{sub2{$1}sub2}; Incrementa 50% la velocidad de movimiento durante 5 segundos, y 100% la evasión durante 10 segundos. 30 segundos de enfriamiento, consume 1% de mana
+
+Level {d} {s}; {s}; {s}; 20 yards of effective range, 2.5 seconds of channeling time. When channeling, the effective range is 30 yards. After the skill is cast, increase {d}% Critical Hit for 10 seconds, then teleport to the target and attack, stunning the target for 1.5 seconds and decreasing its movement speed by {d}% for 10 seconds, {d} seconds CD, share CD with {s}. Increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; 20 metros de alcance, 2.5 segundos de tiempo de canalización. Al canalizar el  alcance es de 30 metros. Incrementa $5% el golpe crítico durante 10 segundos al lanzarla, luego te teletransporta al objetivo y lo ataca, aturdiéndolo durante 1.5 segundos y reduciendo su velocidad de movimiento en un $6% durante 10 segundos, $7 segundos de enfriamiento, comparte enfriamiento con {sub2{$8}sub2}. Incrementa $9 puntos de ataque físico, consume $10 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 target within 5 yards and stun it for 1.5 seconds, cost 8 combos, recover 8 combos on critical hits. Every {s} increases {d}% damage of the next {s}, stacks 4 times at max. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un objetivo a 5 metros de distancia y lo aturde durante 1.5 segundos, consume 8 combos, recupera 8 combos por cada golpe crítico. Cada {sub2{$5}sub2} incrementa $6% de daño del siguiente {sub2{$7}sub2}, acumulándose hasta 4 veces. Incrementa $8 puntos de ataque físico, $9% de bonus de ataque, consume $10 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 target within 5 yards and Knock-Out it for 5 seconds, {d} seconds CD, increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un objetivo a 5 metros de distancia y lo noquea durante 5 segundos, $5 segundos de enfriamiento, incrementa $6 puntos de ataque físico, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 target within 5 yards, and decrease its physical defense for 30 seconds. Cost 4-20 combos, decrease {d}% physical defense for every 4 combos, {d}% hit chance, can be stacked to up to {d}% physical defense decrease. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un objetivo a 5 metros de distancia y reduce su defensa física durante 30 segundos. Consume entre 4 a 20 combos, reduce $5% de defensa física por cada 4 combos, $6% de posibilidad de golpear, se puede acumular hasta reducir la defensa física un $7%. Incrementa $8 puntos de ataque físico, $9% de bonus de ataque, consume $10 mana
+
+{s}; Increase {d}% critical hit for all allies for 2 minutes, cost {d} combos and 1% mana.
+{sub2{$1}sub2}; Incrementa $2% el golpe crítico a todos los aliados durante 2 minutos, consume $3 combos y 1% de mana.
+
+{s}; Partially shift all allies into the Void Dimension, increase {d}% dodge for all allies for 2 minutes, cost {d} combos and 1% mana.
+{sub2{$1}sub2}; Envía parcialmente a todos los aliados a la dimensión del vacío, incrementando su evasión un $2% durante 2 minutos. Consume $3 combos y 1% de mana.
+
+{s}; Force 1 target within 8 yards to attack you for 3 seconds, gain substantial Threat from the target, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; Fuerza a un objetivo a 8 metros de distancia a atacarte durante 3 segundos, obtienes amenaza sustancial del objetivo, $2 minutos de enfriamiento, consume 1% de mana.
+
+{s}; Force all targets within 10 yards to attack you for 3 seconds, gain substantial Threat from all targets, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; Fuerza a todos los objetivos a 10 metros de distancia a atacarte durante 3 segundos, obtienes amenaza sustancial de todos ellos, $2 minutos de enfriamiento, consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Increase {d}% Critical Hit for 10 seconds. Attack 1 target within 5 yards and stun it for 1.5 seconds, {d} seconds CD, share CD with {s}. Increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Incrementa $5% el golpe crítico durante 10 segundos. Ataca a un objetivo a 5 metros de distancia y lo aturde durante 1.5 segundos, $6 segundos de enfriamiento, comparte enfriamiento con {sub2{$7}sub2}. Incrementa $8 puntos de ataque físico, consume $9 mana
+
+{s}; Remove and gain immunity to all magic debuffs (all non-posion debuffs and non-curse debuffs), reduce {d}% magic damage taken for 5 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Elimina y te hace inmune a los hechizos mágicos que no sean de veneno o maldición, reduce $2% el daño mágico recibido durante 5 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Deal damage to 1 enemy within 5 yards and reduce its healing skill effect by {d}% for 15 seconds, {d} seconds CD. Increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Causa daño a un enemigo a 5 metros de distancia y reduce $5% su efecto de curación durante 15 segundos, $6 segundos de enfriamiento. Incrementa $7 puntos de ataque físico, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 enemy within 5 yards and inflict Bleeding for {d} seconds, the target cannot cast channeling skills for {d} seconds. Costs {d} combos. Increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un enemigo a 5 metros de distancia y lo hace sangrar durante $5 segundos, el objetivo no podrá lanzar habilidades de canalización por $6 segundos. Consume $7 combos. Incrementa $8 puntos de ataque físico, consume $9 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 enemy within 5 yards and inflict poison, reduce {d}% of all healing effects on the target for {d} seconds, {d} minutes CD. Increase {d} points of physical attack, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un enemigo a 5 metros de distancia y lo envenena, reduce $5% de todos los efectos de curación del objetivo durante $6 segundos, $7 minutos de enfriamiento. Incrementa $8 puntos de ataque físico, consume $9 mana
+
+Level {d} {s}; {s}; {s}; Base attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque base, 20 metros de alcance, puede marcar al objetivo cuando impacta. Incrementa $5 puntos de ataque físico, $6% de bonus de ataque, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Powerful single-target attack, 20 yards of effective range, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; un disparo potente para un único objetivo, 20 metros de alcance, puede marcarlo cuando impacta, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Attack 4 targets within 20 yards and 90 degrees, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a 4 objetivos a 20 metros de distancia y 90 grados, puede marcarlos cuando impacta, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Attack 8 targets within 15 yards and 180 degrees, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a 8 objetivos a 15 metros de distancia y 180 grados, puede marcarlos cuando impacta, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Attack all marked targets within 30 yards. The marks disappear after the attack. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a todos los objetivos marcados a 30 metros de distancia. La marca desaparece tras el ataque. Incrementa $5 puntos de ataque físico, $6% de bonus de ataque, consume $7 mana
+
+{s}; Increase 100 points of Accuracy for 10 seconds, 30 seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Incrementa 100 puntos de precisión durante 10 segundos, 30 segundos de enfriamiento, consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Attack 1 enemy within 20 yards and 180 degrees, stun it for 5 seconds if it is a beast, have a chance to mark the enemy when the attack hits, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un enemigo a 20 metros de distancia y 180 grados, lo aturde durante 5 segundos si es una bestia, puede marcarlo cuando impacta, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque físico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Trap the target with a hooked hunting net, deal continuous damage and reduce the target's movement speed by {d}% for {d} seconds, {d} seconds CD. Increase {d} points of physical attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Atrapa a un objetivo en una red de caza anudada, le causa daño continuo y reduce $5% su velocidad de movimiento durante $6 segundos, $7 segundos de enfriamiento. Incrementa $8 puntos de ataque físico, $9% de bonus de ataque, consume $10 mana
+
+{s}; Place a trap of a 4-yard radius. When the first 3 enemies approach, they will knock down the tar barrel and stick with tar, reducing 50% movement speed for 5 seconds. The Trap exists for 1 minute, 1 minute CD, cost 1% mana.
+{sub2{$1}sub2}; Coloca una trampa con un radio de acción de 4 metros. Cuando se aproximen 3 enemigos les caerá encima un barril de alquitrán que los pegará, reduciendo 50% su velocidad de movimiento durante 5 segundos. La trampa dura un minuto, 1 minuto de enfriamiento, consume 1% de mana
+
+{s}; Place a trap of a 3-yard radius. When the first enemy approaches, he will be Ensnared with vines and cannot attack or use items for {d} seconds. The Trap exists for 1 minute, 1 minute CD, cost 1% mana.
+{sub2{$1}sub2}; Coloca una trampa con un radio de acción de 3 metros. Cuando se aproxime un enemigo quedará atrapado en vides, por lo que no podrá atacar o usar objetos durante $2 segundos. La trampa dura un minuto, 1 minuto de enfriamiento, consume 1% de mana
+
+{s}; Deflect all attacks, reducing {d}% of all damage taken for 8 seconds, but you cannot attack. {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Desvía todos los ataques, reduciendo $2% todo el daño recibido durante 8 segundos, pero no podrás atacar. $3 segundos de enfriamiento, consume 1% de mana
+
+{s}; Increase {d}% attack damage for all allies within 30 yards for 2 minutes, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; Incrementa $2% el ataque de todos los aliados a 30 metros de distancia durante 2 minutos, $3 minutos de enfriamiento, consume 1% de mana
+
+{s}; Increase 1% Accuracy for all allies within 30 yards for 2 minutes, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; Incrementa 100% la precisión de todos los aliados a 30 metros de distancia durante 2 minutos, $2 minutos de enfriamiento, consume 1% de mana
+
+{s}; 15 yards of effective range, the target will take {d}% more damage when being attacked for 1 minute, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; 15 metros de alcance, el objetivo recibirá $2% de daño adicional durante 1 minuto al ser atacado, $3 minutos de enfriamiento, consume 1% de mana
+
+{s}; 15 yards of effective range, the target will take {d}% more Bleeding damage for 2 minutes, {d} minutes CD. Share CD with {s}, cost 1% mana.
+{sub2{$1}sub2}; 15 metros de alcance, el objetivo recibirá $2% de daño adicional de sangrado durante 1 minuto, $3 minutos de enfriamiento. Comparte enfriamiento con {sub2{$4}sub2}. Consume 1% de mana
+
+{s}; 15 yards of effective range, reduce {d}% Accuracy of the target for 30 seconds, {d} minutes CD. Share CD with {s}, cost 1% mana.
+{sub2{$1}sub2}; 15 metros de alcance, reduce $2% la precisión del objetivo durante 30 segundos, $3 minutos de enfriamiento. Comparte enfriamiento con {sub2{$4}sub2}, consume 1% de mana
+
+{s}; Jump backward by 12 yards, {d} seconds CD, not affected by global CD. Cost 1% Mana.
+{sub2{$1}sub2}; Salta 12 metros hacia atrás, $2 segundos de enfriamiento, no se ve afectado por el enfriamiento general. Consume 1% de mana
+
+Level {d} {s}; {s}; {s}; Base Attack, throw a water-elemental Magic Sphere at 1 enemy within 20 yards, increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque base, lanza una esfera mágica elemental de agua a un enemigo a 20 metros de distancia, incrementa $5 puntos de ataque mágico, $6% de bonus de ataque, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Powerful single-target attack, fire a high-speed ice shard at 1 enemy within 20 yards, deal frost damage. {s} deals 3x damage to frozen or condensed targets. {d} seconds CD. In addition, if you have Ice Spike, each Ice Spike deals {d}% extra damage to the target. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque poderoso a un solo objetivo, Dispara un fragmento de hielo a alta velocidad a un enemigo a 20 metros de distancia y le causa daño congelante. {sub2{$5}sub2} causa 3 veces más de daño a objetivos congelados o condensados. $6 segundos de enfriamiento. Además, si tienes espinas de hielo, cada espina de hielo causa $7% de daño extra al objetivo. Incrementa $8 puntos de ataque mágico, $9% de bonus de ataque, consume $10 mana
+
+Level {d} {s}; {s}; {s}; Base wide-range attack, attack 6 targets within 20 yards and 180 degrees, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque base de largo alcance, ataca a 6 enemigos a 20 metros de distancia y 180 grados, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Powerful wide-range attack, attack 4 targets within 20 yards and 90 degrees, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque poderoso de largo alcance, ataca a 4 objetivos a 20 metros y 90 grados, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Continuous single-target damage, 15 yards of effective range, cast a jet of ice-cold water toward the target, deal frost damage for 6 seconds. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Daño continuo a un solo objetivo, 15 metros de alcance, lanza un chorro de agua helada al objetivo causándole daño congelante durante 6 segundos, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Continuous AOE damage, summon ice shards to fall from the sky in an area of 10-yard radius, deal frost damage for 8 seconds. {d} seconds CD, cost 2% mana.
+{sub2{$1}sub2}; Daño continuo de área de efecto, hace que caigan fragmentos de hielo del cielo en un área de 10 metros de radio, causa daño congelante durante 8 segundos. $2 segundos de enfriamiento, consume 2% de mana.
+
+Level {d} {s}; {s}; {s}; 1.5 seconds of channeling time, fire an ice arrow at 1 enemy within 20 yards, deal frost damage and slow the target's movement speed by {d}% for 5 seconds. Every time Ice Arrow hits the target, you will generate 1 Ice Spike, up to a maximum of 5. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; 1.5 segundos de canalización, dispara una flecha de hielo a un enemigo a 20 metros de distancia, causa daño congelante y reduce $5% su velocidad de movimiento durante 5 segundos. Cada vez que Flecha de Hielo impacta al objetivo generarás 1 espina de Hielo, hasta un máximo de 5. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Attack 5 targets within 12 yards and 90 degrees, decrease the targets' movement speed by {d}% for 6 seconds. {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Ataca a 5 objetivos a 12 metros de distancia y 90 grados, reduce $2% su velocidad de movimiento durante 6 segundos. $3 segundos de enfriamiento, consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Impact all enemies within an 8-yard radius, deal frost damage and freeze them where they are for 5 seconds, {d} seconds CD. Dealing damage to the target will break its Frozen effect. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Impacta a todos los enemigos a 8 metros de distancia, causa daño congelante y los congela donde estén durante 5 segundos, $5 segundos de enfriamiento. Al causar daño a los objetivos se romperá su efecto de congelación. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Increase {d}% attack speed for 15 seconds, {d} seconds CD. Not affected by global CD, cost 1% mana.
+{sub2{$1}sub2}; Incrementa $2% la velocidad de ataque durante 15 segundos, $3 segundos de enfriamiento. No se ve afectado por el enfriamiento general, consume 1% de mana.
+
+{s};  Cover yourself with an ice barrier, immune to all damage for 10 seconds, during which you cannot attack, move, or cast skills. It will also trigger Hypothermia, which causes you to be unable to cast Ice Barrier again for 30 seconds, cost 1% mana.
+{sub2{$1}sub2}; Te cubre con una barrera de hielo, lo que te hace inmune a todo el daño durante 10 segundos, pero no podrás atacar, moverte o lanzar habilidades. También te provocará hipotermia, lo que hará que no puedas activar otra barrera hasta dentro de 30 segundos. Consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Cast a shield that absorbs {d} damage and lasts for 30 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. {d} seconds CD, cost 2% mana.
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Conjura un escudo que dura 30 segundos; absorve $5 de daño. Mientras el escudo exista, el daño no te detendrá al lanzar habilidades. $6 segundos de enfriamiento, consume 2% de mana.
+
+{s}; Increase {d}% magic damage for all allies within 20 yards for 30 seconds, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; Incrementa $2% el daño mágico de todos los aliados a 20 metros de distancia durante 30 segundos, $3 minutos de enfriamiento, consume 1% de mana.
+
+{s}; Wrap 1 enemy within 20 yards with crushed ice, decrease {d}% critical hit resist of the target for 15 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Envuelve a un enemigo a 20 metros de distancia en hielo triturado, reduciendo $2% su resistencia a golpes críticos durante 15 segundos. $3 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Cast {s} to 1 enemy within 20 yards, reduce {d}% of all healing effects on the target for 15 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Lanza {sub2{$1}sub2} a un enemigo a 20 metros de distancia, reduce en un $2% todos sus efectos de curación durante 15 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+{s}; 15 yards of effective range, remove a magic debuff or curse debuff from 1 ally, or remove a buff from 1 enemy. Cost 1% Mana.
+{sub2{$1}sub2}; 15 metros de alcance, elimina un debuff mágico o de maldición de un aliado, o elimina un buff de un enemigo. Consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; {d} seconds of channeling time, teleport to Sunset City, Giant Rock City or White Sand City. Cost {d}% mana.
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 segundos de canalización, te teletransporta a Ciudad del Atardecer, Ciudad Rocagigante o Ciudad Arena Blanca. Consume $6% de mana.
+
+Level {d} {s}; {s}; {s}; {d} seconds of channeling time, Teleport to several cities. Cost {d}% mana.
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 segundos de canalización, te teletransporta a varias ciudades. Consume $6% de mana.
+
+Level {d} Teleportation Portal; {s}; {d} seconds of channeling time, summon a City Teleportation Portal for your allies. The portal lasts for 1 minute. Cost {d}% mana.
+Portal de teletransportación de nivel $1; {sub2{$2}sub2}; $3 segundos de canalización, invoca un portal de teletransportación para tus aliados. El portal dura un minuto. Consume $4% de mana.
+
+Retract the Barrier; Retract the Ice Barrier, Cost 1% Mana, not affected by global CD. 
+Retraer la Barrera; Retira la barrera de hielo, consume 1% de mana, no afecta al enfriamiento general.
+
+Level {d} {s}; {s}; {s}; Base Attack, throw a fireball at 1 enemy within 20 yards, increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque base, lanza una bola de fuego a un enemigo a 20 metros de distancia, incrementa $5 puntos de ataque mágico, $6% de bonus de ataque, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Impact 1 enemy within 20 yards, dealing fire damage. Always Critical Hit. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Impacta a un enemigo a 20 metros de distancia causando daño de fuego. Siempre impacta con golpe crítico. $5 segundos de enfriamiento. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Base wide-range attack, attack 6 targets within 20 yards and 90 degrees, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque base de largo alcance, ataca a 6 objetivos a 20 metros y 90 grados, $5 segundos de enfriamiento. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Powerful single-target attack, 1.5 seconds of channeling time, {s} 1 enemy within 20 yards and deal fire damage, the target will take {d}% more magic damage for 15 seconds, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque potente a un solo objetivo, 1.5 segundos de canalización, {sub2{$5}sub2} a un enemigo a 20 metros de distancia causándole daño de fuego, el objetivo recibirá $6% de daño mágico extra durante 15 segundos, $7 segundos de enfriamiento. Incrementa $8 puntos de ataque mágico, $9% de bonus de ataque, consume $10 mana
+
+Level {d} {s}; {s}; {s}; Attack 1 enemy within 20 yards, 4.5 seconds of channeling time, deal fire damage and inflict burn for 12 seconds. Every time Pyroblast hits the target, you will generate 1 fire element, up to a maximum of 5. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a un enemigo a 20 metros de distancia, 4.5 segundos de canalización, causa daño de fuego e inflige quemaduras. Cada vez que {sub2{$2}sub2} golpea al objetivo generarás 1 elemento de fuego hasta un máximo de 5. Incrementa $5 puntos de ataque mágico, $6% de bonus de ataque, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Powerful wide-range attack, {d} seconds of channeling time, attack 8 targets within 20 yards and 180 degrees, dealing fire damage and inflict burn for 8 seconds. Every time Blazing Storm hits the target, you will generate 1 fire element, up to a maximum of 5. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque potente de largo alcance, 3 segundos de canalización, ataca a 8 objetivos a 20 metros y 180 grados, causando daño de fuego e infligiendo quemaduras durante 8 segundos. Cada vez que {sub2{$2}sub2} golpea al objetivo generarás 1 elemento de fuego hasta un máximo de 5. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Fire-trap the target with magma, the target cannot move for 2 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Atrapa en fuego al objetivo con magma, el objetivo no se puede mover durante 2 segundos, $2 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Decrease {d}% movement speed of all enemies within 11 yards and 90 degrees for 8 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Reduce $2% la velocidad de todos los enemigos a 11 metros y 90 grados durante 8 segundos, $3 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Remove Stunned effect and gain Stun immunity for 10 seconds, not affected by global CD, cost 1% mana.
+{sub2{$1}sub2}; Elimina el efecto de aturdimiento y obtienes inmunidad a este efecto durante 10 segundos, no se ve afectado por el enfriamiento general, consume 1% de mana.
+
+{s}; Increase {d}% Critical Hit and reduce {d}% physical damage taken for 10 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Incrementa $2% el golpe crítico y reduce $3% el daño físico recibido durante 10 segundos, consume 1% de mana.
+
+{s}; Wrap yourself in flames, increase {d}% Critical Hit for 10 seconds. Not affected by global CD. Can be cast when casting other spells. {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Te envuelve en llamas incrementando tu golpe crítico $2% durante 10 segundos. No se ve afectado por el enfriamiento general. Se puede lanzar al conjurar otros hechizos. $3 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Ignite your Fire Elements and release them in your next attack. Cause 1 enemy to burn and take additional continuous damage equal to 6% of direct damage. With each additional Fire Element, you deal continuous damage 1 more time, and each continuous damage will spread the Ignition effect to another enemy nearby. The skill is not affected by global CD and costs 1% mana.
+{sub2{$1}sub2}; Enciende tus elementos de fuego y los libera en tu siguiente ataque. Le causa quemaduras a 1 enemigo y le causa daño adicional igual a 6% del daño directo. Con cada elemento de fuego adicional causas daño continuo una vez más, y cada daño continuo esparcirá el efecto de ignición a otro enemigo cercano. La habilidad no se ve afectada por el enfriamiento general y consume 1% de mana.
+
+{s}; Cast a shield that absorbs all attack damage and lasts for 10 seconds. As long as the shield exists, you won't be interrupted by damage when casting skills. 1 minute CD, cost 1% mana.
+{sub2{$1}sub2}; Conjura un escudo que dura 10 segundos; absorve todo el daño de ataque. Mientras este exista, el daño no te detendrá al lanzar habilidades. 1 minuto de enfriamiento, consume 1% de mana.
+
+{s}; Gain invisibility for 10 seconds, 1 minute CD. During invisibility, you cannot be targeted by enemies. Any action will end the invisibility effect, cost 1% mana.
+{sub2{$1}sub2}; Te vuelve invisible durante 10 segundos, 1 minuto de enfriamiento. Durante este tiempo no podrás ser marcado como objetivo por los enemigos. Cualquier acción interrumpirá el efecto de invisibilidad. Consume 1% de mana.
+
+{s}; Attach flame nets to all allies and increase their magic Critical Hit by {d}% for 30 seconds, {d} minutes CD, cost 1% mana.
+{sub2{$1}sub2}; rodea con redes de llamas a todos los aliados, incrementando $2% su golpe crítico mágico durante 30 segundos, $3 minutos de enfriamiento, consume 1% de mana.
+
+{s}; 15 yards of effective range, remove a magic debuff or curse debuff from 1 ally, or remove a buff from 1 enemy, cost 1% mana.
+{sub2{$1}sub2}; 15 metros de alcance, elimina un debuff mágico o maldición de 1 aliado, o elimina un buff de 1 enemigo, cuesta 1% de mana.
+
+Level {d} {s}; {s}; {s}; {d} seconds of channeling time, teleport to The Land of Reiki. Cost {d}% mana.
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 segundos de canalización, te teletransporta a varios lugares de la tierra espiritual. Consume $6% de mana.
+
+Level {d} {s}; {s}; {s}; {d} seconds of channeling time, summon an Elven Teleportation Portal for your allies. The portal lasts for 1 minute. Cost {d}% mana.
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 segundos de canalización, conjura un portal de teletransportación para tus aliados. El portal dura 1 minuto. Consume $5% de mana.
+
+Level {d} {s}; {s}; {s}; Basic skill, deal divine damage to 1 enemy within 20 yards, increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Habilidad básica, inflige daño divino a 1 enemigo a 20 metros, incrementa $5 puntos de ataque mágico, $6% de bonus de ataque, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Attack 6 targets within 20 yards and 180 degrees, 4.5 seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca a 6 enemigos a 20 metros y 180 grados, 4.5 segundos de enfriamiento. Incrementa $5 puntos de ataque mágico, $6% de bonus de ataque, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Powerful wide-range skill, create a holy light blast around you, dealing divine damage to all enemy targets within a 12-yard radius. If Critical Hit, reset the CD of {s}. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Habilidad de largo alcance, Crea una explosión sagrada a tu alrededor causando daño divino a todos los enemigos en un radio de  12 metros de distancia. Si golpea con golpe crítico se restablece el enfriamiento de {sub2{$5}sub2}. $6 segundos de enfriamiento. Incrementa $7 puntos de ataque mágico, $8% de bonus de ataque, consume $9 mana
+
+{s}; Reduce {d}% of all damage taken for 15 seconds. {d} seconds CD, not affected by global CD, cost 1% mana.
+{sub2{$1}sub2}; Reduce $2% el daño recibido durante 15 segundos. $3 segundos de enfriamiento, no se ve afectado por el enfriamiento general, consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Continuous single-target attack, 20 yards of effective range, {d} seconds of channeling time, devour the target with Divine fire, dealing divine damage and continuous damage for 10 seconds, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque continuo a un solo objetivo, 20 metros de alcance, $5 segundos de canalización, debora al objetivo en fuego divino causándole daño divino y daño continuo durante 10 segundos, $6 segundos de enfriamiento. Incrementa $7 puntos de ataque mágico, $8% de bonus de ataque, consume $9 mana
+
+{s}; Base single-target healing skill, cost 2% mana.
+{sub2{$1}sub2}; Habilidad de curación base a un solo objetivo, consume 2% de mana.
+
+{s}; Continuous single-target healing skill, last for 15 seconds. 1.5x healing effect of {s}. Cost 3% mana.
+{sub2{$1}sub2}; Habilidad de curación continua a un solo objetivo, dura 15 segundos. Su efecto es 1.5 veces el de {sub2{$2}sub2}. Consume 3% de mana.
+
+{s}; Powerful single-target healing skill, {d} seconds of channeling time, 4x healing effect of {s}. Cost 6% mana.
+{sub2{$1}sub2}; Habilidad potente de curación a un solo objetivo, $2 segundos de canalización. Su efecto es 4 veces el de {sub2{$3}sub2}. Consume 6% de mana.
+
+{s}; Wide-range healing skill, heal up to 6 allies within 10 yards. Cost 4% mana.
+{sub2{$1}sub2}; Habilidad de curación de largo alcance, cura a 6 aliados a 10 metros de distancia. Consume 4% de mana.
+
+{s}; Powerful Wide-range healing skill, heal up to 5 wounded allies within 15 yards, {d} seconds of channeling time, 6x healing effect of {s}, increase {d}% of all healing effects on allies for 8 seconds. Cost {d}% mana.
+{sub2{$1}sub2}; Habilidad potente de curación de largo alcance, cura hasta a 5 aliados heridos a 15 metros de disttancia, $2 segundos de canalización, Su efecto es 6 veces el de {sub2{$3}sub2}, incrementa $4% de todos los efectos de curación a aliados por 8 segundos. Consume $5% de mana.
+
+{s}; Resurrect 1 target within 5 yards, the resurrected target will have {d}% HP and MP. {d} minutes CD, cost {d}% mana.
+{sub2{$1}sub2}; Resucita a un objetivo a 5 metros de distancia con $2% de su salud y mana. $3 minutos de enfriamiento, consume $4% de mana.
+
+{s}; 15 yards of effective range, remove all magic debuffs and curse debuffs from 1 ally, or remove 1 magic buff from 1 enemy. {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; 15 metros de alcance, elimina todos los debuffs mágicos y de maldición de un aliado, o un buff mágico de un enemigo. $2 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Dispel all magic within a 10-yard radius, remove all magic debuffs and curse debuffs from up to 5 allies, and remove 1 magic buff from 5 enemies. {d} seconds CD, cost {d}% mana.
+{sub2{$1}sub2}; Disipa toda la magia a 10 metros de distancia. Elimina 5 debuffs mágicos o de maldición a hasta 5 aliados, y un buff mágico a 5 enemigos. $2 segundos de enfriamiento, consume $3% de mana.
+
+{s}; Push the target 18 yards away, and decrease its movement speed by {d}% for 8 seconds. {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Empuja al objetivo a 18 metros y reduce $2% su velocidad de movimiento durante 8 segundos. $3 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Remove and gain immunity to Restrained and Transfixed effects for 10 seconds. {d} seconds CD, not affected by global CD, cost 1% mana.
+{sub2{$1}sub2}; Elimina y te da inmunidad a los efectos de paralización y restricción por 10 segundos. $2 segundos de enfriamiento, no se ve afectado por el enfriamiento general, consume 1% de mana.
+
+{s}; The Priest transforms into a Soul of Redemption for 10 seconds. The Soul of Redemption cannot move, attack, be attacked, or be targeted by spells and effects. In this form, the Priest can cast healing skills without costing mana. {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; El sacerdote se transforma en {sub2{$1}sub2} durante 10 segundos. El {sub2{$1}sub2} no se puede mover, atacar, ser atacado o ser apuntado con hechizos ni efectos. En esta forma el sacerdote podrá lanzar habilidades de curación sin que le cuesten mana. $2 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Bless all allies with divine energy within 20 yards and reduce their physical damage taken by {d}% for 2 minutes, cost 1% mana.
+{sub2{$1}sub2}; Bendice a todos los aliados con energía divina a 20 metros de distancia y reduce $2% el daño físico recibido durante 2 minutos, consume 1% de mana.
+
+Level {d} {s}; {s}; {s}; Mental attack 1 enemy within 20 yards, deal continuous damage and decrease {d}% dodge of the target for 15 seconds. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataca la mente de un enemigo a 20 metros de distancia, le causa daño continuo y reduce $5% su evasión durante 15 segundos. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+Level {d} {s}; {s}; {s}; Base Attack, form a shadow arrow with dark power and fire it at 1 enemy within 20 yards, Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2};Ataque base, forma una flecha de sombra con poder oscuro y la dispara a un enemigo a 20 metros de distancia, incrementa $5 puntos de ataque mágico, $6% de ataque bonus, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Wide-range attack, throw a skeleton at 1 enemy within 10 yards and cause an explosion on contact. The explosion deals damage to up to 5 additional targets within an 8-yard radius, 4.5 seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque de largo alcance, lanza un esqueleto a un enemigo a 10 metros y causa una explosión al contacto. La explosión causa daño hasta a 5 objetivos adicionales a 8 metros de distancia, 4.5 segundos de enfriamiento. Incrementa $5 puntos de ataque mágico, $6% de bonus de ataque, consume $7 mana
+
+Level {d} {s}; {s}; {s}; Powerful wide-range attack. {s} spreads out on the ground and deals damage in a 12-yard radius, {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Ataque potente de largo alcance. {sub2{$5}sub2} se esparce por el suelo y causa daño en un radio de 12 metros, $6 segundos de enfriamiento. Incrementa $7 puntos de ataque mágico, $8% de bonus de ataque, consume $9 mana
+
+Level {d} {s}; {s}; {s}; Continuous single-target damage, 20 yards of effective range, corrode the target, dealing damage and decrease its toughness by {d}% for 15 seconds, {d} seconds CD. Toughness decrease can be stacked up to 5 times. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Daño continuo a un solo objetivo, 20 metros de alcance, corroe al objetivo causándole daño y reduciendo $5 su dureza durante 15 segundos, $6 segundos de enfriamiento. Se puede acumular la reducción de dureza hasta 5 veces. Incrementa $7 puntos de ataque mágico, $8% de bonus de ataque, consume $9 mana
+
+Level {d} {s}; {s}; {s}; Continuous single-target damage, 20 yards of effective range, deal continuous damage to the target for 8 seconds. Can accumulate higher damage when cast to the same target multiple times doesn't need to be cast in succession. The damage can be stacked up to 10 times. {d} seconds CD. Increase {d} points of magic attack, {d}% attack bonus, cost {d} mana
+{sub2{$2}sub2} de nivel $1; {sub2{$3}sub2}; {sub2{$4}sub2}; Daño continuo a un solo objetivo, 20 metros de alcance, causa daño continuo al objetivo durante 8 segundos. Se puede acumular un mayor daño al lanzarse varias veces contra el mismo objetivo, no es necesario que se lance en sucesión. El daño se puede acumular hasta 10 veces. $5 segundos de enfriamiento. Incrementa $6 puntos de ataque mágico, $7% de bonus de ataque, consume $8 mana
+
+{s}; Base single-target healing skill, 20 yards of effective range, cost 2% mana.
+{sub2{$1}sub2}; Habilidad base de curación a un solo objetivo, 20 metros de alcance, consume 2% de mana.
+
+{s}; Continuous single-target healing skill, 20 yards of effective range, 1.5 seconds of channeling time, continuous healing for 18 seconds. 6x healing effect of {s}, 20 yards of effective range, cost 6% mana.
+{sub2{$1}sub2}; Habilidad de curación continua a un solo objetivo, 20 metros de alcance, 1.5 segundos de canalización, cura durante 18 segundos. Su efecto es 6 veces el de {sub2{$2}sub2}, consume 6% de mana.
+
+{s}; Summon a totem at your location for 15 seconds. The totem heals some HP for 1 wounded team or party member within 25 yards every 2 seconds. 1 minute CD. Cost 8% mana.
+{sub2{$1}sub2}; Invoca a un tótem a tu lado durante 15 segundos, que cada 2 segundos dará algo de salud a uno de los miembros heridos de tu equipo o grupo que estén a 25 metros. 1 minuto de enfriamiento. Consume 8% de mana.
+
+{s}; {d} seconds of channeling time, heal HP for 1 ally within 12 yards, then the healing effect jumps to the team or party member with the least HP every 2 seconds. The healing effect is reduced by {d}% with each jump. A total of 4 targets can be healed. 12 yards of effective range, 8 yards of healing effect jump range, cost 5% mana.
+{sub2{$1}sub2}; $2 segundos de canalización, cura a un objetivo a 12 metros, luego el efecto de curación pasará hacia otro miembro del equipo o grupo con menos salud cada 2 segundos. El efecto se reducirá $3% cada vez que se cambie de objetivo. Se pueden curar hasta a 4 objetivos en total. 12 metros de alcance, 8 metros de distancia al cambiar. Consume 5% de mana.
+
+{s}; Summon a totem at your location for 10 seconds. The totem heals some HP for all team or party members within 20 yards every 2 seconds. {d} minutes CD, cost {d}% mana.
+{sub2{$1}sub2}; Invoca a un tótem a tu lado durante 10 segundos. El tótem da algo de salud a todos los miembros de tu equipo o grupo a 20 metros cada 2 segundos. $2 minutos de enfriamiento, consume $3% de mana
+
+{s}; Resurrect 1 target within 5 yards, the resurrected target will have {d}% HP and {d}% MP. {d} minutes CD, cost {d}% mana.
+{sub2{$1}sub2}; Resucita a un objetivo a 5 metros. Al revivir tendrá $2% de salud y $3% de mana. $4 minutos de enfriamiento, consume $5% de mana.
+
+{s}; Summon a spirit to protect you, reduce 30% of all damage taken for 15 seconds. 40 seconds CD, not affected by global CD, cost 1% mana.
+{sub2{$1}sub2}; Invoca a un espíritu para protegerte, reduce 30% el daño recibido durante 15 segundos. 40 segundos de enfriamiento, no se ve afectado por el enfriamiento general, consume 1% de mana
+
+{s}; Summon hands of the undead from underground to decrease {d}% movement speed and {d}% attack speed of the enemy for 8 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Invoca manos de no muerto desde el subsuelo para reducir $2% la velocidad de movimiento y $3% la velocidad de ataque del enemigo durante 8 segundos, $4 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Remove and gain immunity to Knock-Outed and Fire-Trapped effects for 10 seconds. {d} seconds CD, not affected by global CD, cost 1% mana.
+{sub2{$1}sub2}; Elimina y te da inmunidad a los efectos de noqueado y atrapado en fuego durante 10 segundos. $2 segundos de enfriamiento, no se ve afectado por el enfriamiento general. Consume 1% de mana.
+
+{s}; Harden your skin, reduce {d}% of all damage taken, as well as remove and gain immunity to Silenced effect for 8 seconds, {d} seconds CD, cost 1% mana.
+{sub2{$1}sub2}; Endurece tu piel, lo que reduce $2% el daño recibido y hace que obtengas inmunidad y elimines el efecto de silenciado durante 8 segundos, $2 segundos de enfriamiento, consume 1% de mana.
+
+{s}; Summon a totem at your location for 30 seconds. The totem increases {d}% magic accuracy on all allies within 20 yards for 2.5 seconds every 2 seconds. {d} minutes CD, cost 2% mana.
+{sub2{$1}sub2}; Invoca a un tótem a tu lado durante 30 segundos, que incrementa $2% la precisión de los ataques mágicos de todos los aliados a 20 metros por 2.5 segundos cada 2 segundos. $3 minutos de enfriamiento, consume 2% de mana.
+
+{s}; Summon undeads to ensnare all enemies within 15 yards and reduce {d}% critical hit resist of the targets for 30 seconds, {d} minutes CD, cost 2% mana.
+{sub2{$1}sub2}; Invoca a no muertos para atrapar a todos los enemigos a 15 metros y reducir $2% su resistencia a golpes críticos durante 30 segundos, $3 minutos de enfriamiento, consume 2% de mana.
+
+{s}; 15 yards of effective range, remove all magic debuffs and poisoning debuffs from 1 ally, or remove 1 buff from 1 enemy, cost 1% mana.
+{sub2{$1}sub2}; 15 metros de alcance, elimina todos los debuffs mágicos y de veneno de un aliado, o un buff mágico de un enemigo, consume 1% de mana.
+
+proficiency is full
+experiencia completa

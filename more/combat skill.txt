@@ -1,0 +1,2153 @@
+Bash
+Golpetazo
+
+Cleave
+Rajar
+
+Execute
+Ejecutar
+
+Sweep Attack
+Ataque de Barrido
+
+Whirlwind Slash
+Tajo Torbellino
+
+Wind Step
+Paso del Viento
+
+Swallow Dance
+Danza de la Golondrina
+
+Formless
+Sin Forma
+
+Leap Slash
+Tajo Repentino
+
+Rip and Tear
+Rasgar y desgarrar
+
+Suppress
+Supresión
+
+Hamstring
+Desjarretar
+
+Armor Break
+Romper Armadura
+
+Rupture
+Ruptura
+
+Battle Cry
+Grito de Batalla
+
+Command Cry
+Grito de comandante
+
+Taunt Attack
+Mofa
+
+Challenge Cry
+Grito Desafiante
+
+Lethal Strike
+Golpe Letal
+
+Valiant Strike
+Golpe valiente
+
+Reckless Strike
+Golpe Imprudente
+
+Bloodthirsty
+Sed de sangre
+
+Flesh Cleave
+Corte de Carne
+
+Rampage Hack
+Tajo furioso
+
+Haste
+Estampida furiosa
+
+Ignore the Pain
+Ignorar el Dolor
+
+Furious Recovery
+Recuperación Furiosa
+
+Ancestral Hammer
+Martillo Ancestral
+
+Earthshaking Stomp
+Pisotón Estremecedor
+
+Vengeance
+Venganza
+
+Thunderous Blow
+Golpe Atronador
+
+Giant Strike
+Golpe de Gigante
+
+Berserk Roar
+Rujido Berserk
+
+Battle Roar
+Rugido de Batalla
+
+Taunt
+Burla
+
+Reckless
+Imprudente
+
+Blade Strike
+Golpe de Cuchilla
+
+Rapid Sting
+Puñalada Rápida
+
+Fan of Knives
+Abanico de Cuchillos
+
+Blade Fury Dance
+Danza de la furia de Cuchillas
+
+Shadow Steps
+Pasos de la Sombra
+
+Leap Gouge
+Salto de Gubia
+
+Relentless Slash
+Tajo Implacable
+
+Sap
+Savia
+
+Puncture
+Pinchazo
+
+Piercing Shriek
+Chillido Penetrante
+
+Void Shift
+Transferencia del Vacío
+
+Scorn
+Desdén
+
+Dark Quake
+Temblor Oscuro
+
+Kidney Strike
+Golpe de Riñón
+
+Shadow Cloak
+Capa de Sombras
+
+Shattering Moon
+Luna destrozada
+
+Slit Throat
+Cortar la Garganta
+
+Poison Blade
+Cuchilla Venenosa
+
+Arcane Shot
+Disparo Arcano
+
+Aimed Shot
+Disparo Preciso
+
+Multi Shot
+Disparo Múltiple
+
+Rapid Arrows
+Flechas Rápidas
+
+Marked Shot
+Disparo Marcado
+
+Burst Shot
+Ráfaga de Disparos
+
+Bull's Eye
+Ojo de Halcón
+
+Concussive Shot
+Disparo de Conmoción
+
+Throw Hunting Net
+Lanzar Red de Caza
+
+Tar Trap
+Trampa de Alquitrán
+
+Vine Trap
+Trampa de Vid
+
+Turtle Guardian
+Guardián de la Tortuga
+
+Strong-Arm Aura
+Aura de Poder
+
+Tranquility Aura
+Aura de Templanza
+
+Viper Sting
+Picadura de Víbora
+
+Adder Sting
+picadura de Serpiente
+
+Scorpion Sting
+Picadura de escorpión
+
+Escape
+Escapar
+
+Magic Sphere
+Esfera Mágica
+
+Ice Lance
+Lanza de Hielo
+
+Ice Storm
+Tormenta de Hielo
+
+Ice Orb
+Orbe de Hielo
+
+Aqua Jet
+Chorro de Agua
+
+Blizzard
+Ventisca
+
+Ice Arrow
+Flecha de Hielo
+
+Icicle
+Cono de Hielo
+
+Frost Nova
+Nova de Escarcha
+
+Cold Winter
+Frío invernal
+
+Ice Barrier
+Barrera de Hielo
+
+Ice Shield
+Escudo de Hielo
+
+Winter Horn
+Cuerno de Invierno
+
+Crushed Ice Fetters
+Grilletes de hielo triturado
+
+Chilling Frost
+Escarcha Gélida
+
+Dispel Magic
+Disipar Magia
+
+Teleportation
+Teletransportación
+
+Teleportation Portal
+Portal de teletransportación
+
+Retract the Barrier
+Retraer la barrera
+
+Fireball
+Bola de Fuego
+
+Fire Impact
+Impacto de Fuego
+
+Fire Surge
+Oleada de Fuego
+
+Sear
+Abrasar
+
+Pyroblast
+Pyroexplosión
+
+Blazing Storm
+Tormenta de Llamas
+
+Magma
+Magma
+
+Dragon's Breath
+aliento de dragón
+
+Elven Ascension
+Sublimación Élfica
+
+Lava Armor
+Armadura de Lava
+
+Scorch
+Quemar
+
+Purification
+Purificación
+
+Purifiscation
+Purificación
+
+
+Ignition
+Ignición
+
+Magic Shield
+Escudo Mágico
+
+Invisibility
+Invisibilidad
+
+Critical Blaze
+Resplandor crítico
+
+Elven Teleportation
+Teletransportación Élfica
+
+Elven Teleportation Portal
+Portal de Teletransporte Élfico
+
+Retribution
+Retribución
+
+Holy Light Wave
+Ola de Luz Sagrada
+
+Divine Nova
+Nova Divina
+
+Concentrated Will
+Voluntad Concentrada
+
+Divine Fire
+Fuego Divino
+
+Heal
+Sanación
+
+Recover
+Recuperación
+
+Healing Prayers
+Oración de sanación
+
+Light of Miracles
+Luz Milagrosa
+
+Divine Anthem
+Himno Divino
+
+Resurrection
+Resurrección
+
+Holy Light
+Luz Sagrada
+
+Group Dispel
+Disipación Grupal
+
+Spiral Blast
+Explosión Espiral
+
+Divine Protection
+Protección Divina
+
+Soul of Redemption
+Alma de Redención
+
+Requiem
+Réquiem
+
+Mind Whip
+Látigo Mental
+
+Shadow Arrow
+Flecha de Sombra
+
+Skeleton Explosion
+Explosión de Esqueleto
+
+Dead Toxin
+Explosión de Toxinas mortales
+
+Corrosion Spell
+Corrosión
+
+Incessant Pain
+Dolor Incesante
+
+Healing Wave
+Ola Curativa
+
+Healing Surge
+Oleada Curativa
+
+Healing Fountain Totem
+Tótem Fuente de Sanación
+
+Healing Chain
+Cadena de Sanación
+
+Healing Tide Totem
+Tótem de Marea Curativa
+
+Soul Returnal
+Retorno del Alma
+
+Soul Purify
+Purificación del Alma
+
+Summon Spirit
+Invocación de Espíritu
+
+Undead Grip
+Agarre de los no-muertos
+
+Break the Chain
+Romper la Cadena
+
+Undying Resolve
+Determinación indestructible
+
+Spiritual Totem
+Tótem Espiritual
+
+Undead Ensnare
+Aprisionamiento de los no-muertos
+
+Transfix
+Traspasar
+
+Crystal Cannonball
+Bala de Cañón de Cristal
+
+Crystal Light Wave
+Onda de Luz de Cristal
+
+Cannon
+Cañón
+
+Fire Breath
+Aliento de Fuego
+
+Bomb
+Bomba
+
+Rolling Stone
+Piedra Rodante
+
+C4 Explosive
+Explosivo C4
+
+Abyss
+Abismo
+
+Summon Robots
+Invocación de Robots
+
+Dialog Control
+Control de Diálogo
+
+Magic Cannon
+Cañón Mágico
+
+Transform
+Transformar
+
+Throw water monster egg
+Lanzar huevo de monstruo de agua
+
+Mine Explosion
+Explosión de mina
+
+Tear and Bite
+Morder y Desgarrar
+
+Full-Note Attack
+Ataque de nota completa
+
+Semitone Attack
+Ataque de semitono
+
+Fire Cannon
+Cañón disparando
+
+Load Ammunition
+Cargar munición
+
+Self Repair
+Auto reparación
+
+Crash
+Choque
+
+Summon Zombie Guard
+Invocación de Guardia Zombi
+
+Preparing Anti-Aircraft Cannon
+Preparación de cañón antiaéreo
+
+Invisible Cannon
+Cañón Invisible
+
+Super Taunt
+Súper burla
+
+Explosion
+Explosión
+
+Pig Push Rolling Stones
+Cerdo empujando piedras rodantes
+
+Electric Current
+Corriente eléctrica
+
+Throw Bomb
+lanzamiento de bomba
+
+Alarm
+Alarma
+
+Thunder
+Trueno
+
+Deceleration Net
+Red de desaceleración
+
+Vortex
+Vórtice
+
+Surrender
+Rendición
+
+Attract
+Atraer
+
+Flash Bomb
+bomba de destello
+
+Summon Undead
+Invocación de no-muerto
+
+Knock on Window
+Llamar a la ventana
+
+Slam
+Golpe
+
+Channeling Stone Rampage
+Canalizando Alboroto de Piedra
+
+Stone Rampage
+Alboroto de piedra
+
+Strong Throw
+Fuerte lanzamiento
+
+Teleport Bomb
+Bomba de teletransporte
+
+Throw Grenade
+Lanzamiento de granada
+
+Catapult
+Catapulta
+
+Laser Cannon
+Cañón láser
+
+Laser
+Láser
+
+Roll
+Rodar
+
+Boulder Smash
+Golpe de roca
+
+Shooting
+Disparo
+
+Hay Cutter
+Cortador de heno
+
+Summon Demon
+invocación de demonio
+
+Dark Heal
+Curación oscura
+
+Soul Drain
+Drenaje de alma
+
+Avalanche
+avalancha
+
+Kick
+Patada
+
+Piercing Kick
+Patada penetrante
+
+Ram
+Ram
+
+Croissant Knife
+Cuchillo Croissant
+
+Elusive Kick
+Patada elusiva
+
+Horn Knife
+cuchillo de cuerno
+
+Magic Marbles
+Canicas mágicas
+
+Magic Beam
+Rayo Mágico
+
+Bark
+Ladrido
+
+Angry Bite
+Mordisco furioso
+
+Scratch
+Arañazo
+
+Meow Punch
+Puñetazo miau
+
+Swoop
+Redada
+
+Stab
+Puñalada
+
+Whip
+Látigo
+
+Spank
+Zarpazo
+
+Whirlwind Palm
+Palma torbellino
+
+Intimidate
+Intimidar
+
+Ice and Snow
+Hielo y nieve
+
+Scarlet Flame
+Llama escarlata
+
+Tiger Tail Whip
+Látigo de cola de tigre
+
+Spray Water
+Agua pulverizada
+
+Ice Sword
+espada de hielo
+
+Breath
+Aliento
+
+Chilling Breath
+Aliento gélido
+
+Throw
+Lanzamiento
+
+Blow Dart
+Soplido de dardo
+
+Iron Scissors
+tijeras de hierro
+
+Arm Knife
+Brazo Cuchillo
+
+Leave Boomerang
+Hoja boomeran
+
+Nut Bomb
+Nuez Bomba
+
+Sandstorm
+Tormenta de arena
+
+Peck
+Picotazo
+
+Claw Hook
+Gancho de garra
+
+Slap
+Bofetada
+
+Magic Flames
+llamas mágicas
+
+Elven Magic
+Magia élfica
+
+Elven Song
+Canción élfica
+
+Spit Bubbles
+escupir burbujas
+
+Water Bomb
+Bomba de agua
+
+Ice Ball
+bola de hielo
+
+Crescent Crystal Boomerang
+Boomerang de cristal de media luna
+
+Moonlight Crystal Retribution
+Retribución de cristal de luz lunar
+
+Punch of Heaven
+Puñetazo celestial
+
+Divine Arrow
+Flecha Divina
+
+Base Attack
+Ataque básico
+
+Pounce and Bite
+Saltar y morder
+
+Poisonous Fang
+Colmillo venenoso
+
+Poisonous Fog
+Niebla venenosa
+
+Hit
+Golpe
+
+Doom Beam
+Rayo maldito
+
+Hack
+Tajar
+
+Blow Nose
+Sonarse la nariz
+
+Swooping Peck
+Picotazo volador
+
+Swooping Claw
+Garra voladora
+
+Great Waves
+Grandes olas
+
+Water Arrow
+Flecha de agua
+
+Undercurrent Impact
+Impacto de corriente subterránea
+
+Undercurrent Surge
+Oleada de corriente subterránea
+
+Venom
+Veneno
+
+Spit
+Escupir
+
+Wind Blade
+Cuchilla de viento
+
+Collide
+Chocar
+
+Meteor Shower
+Lluvia de meteoros
+
+Falling Meteor
+Meteorito que cae
+
+Silvermoon Machete
+Machete de Lunargenta
+
+Crescent Boomerang
+Boomerang de media luna
+
+Meteor Hammer
+Martillo de meteorito
+
+Repel
+Repeler
+
+Dark Invasion
+invasión oscura
+
+Dark Baptism
+Bautismo oscuro
+
+Dark Explosion
+Explosión Oscura
+
+Electric Arc
+Arco eléctrico
+
+Electric Shock
+Descarga eléctrica
+
+Throw Boulder
+Lanzarrocas
+
+Dark Judgment
+Juicio oscuro
+
+Needle Sting
+Picadura de aguja
+
+Electro Needle
+Aguja eléctrica
+
+Flame Cage
+Jaula de llamas
+
+Tornado Blade
+Tornado de cuchillas
+
+Electric Cage
+Jaula eléctrica
+
+Devastating Thunder
+Trueno devastador
+
+Elemental Bomb
+bomba elemental
+
+Bite
+Mordisco
+
+Suck Blood
+Chupar sangre
+
+Poke
+Golpear
+
+Scare
+Susto
+
+Incandescent Fireball
+Bola de fuego incandescente
+
+Black Storm
+Tormenta negra
+
+Storm Cage
+Jaula de tormenta
+
+Dark Flame Blast
+Explosión de llamas oscuras
+
+Dark Flame Storm
+Tormenta de llamas oscuras
+
+Dark Flame Cage
+Jaula de llamas oscuras
+
+Sigh of Death
+suspiro de la muerte
+
+Discharge
+Descarga
+
+Lightning Hurricane
+Huracán de relámpagos
+
+Electric Armor
+Armadura eléctrica
+
+Heavy Hammer
+Martillo pesado
+
+Vomit Attack
+Ataque de vómito
+
+Fire Needles
+Disparar agujas
+
+Flying Feathers
+ramas voladoras
+
+Act Cute
+Actuar lindo
+
+Nature's Grace
+Gracia de la naturaleza
+
+Demonic Hellfire
+Fuego infernal demoníaco
+
+Bondage Serpent
+Esclavitud de serpiente
+
+Life Plunder
+Saqueo de vida
+
+Hydrotherapy
+hidroterapia
+
+Blinding Dart
+Dardo cegador
+
+Sprint
+Sprint
+
+Cleave-Sword
+Corte de espada
+
+Fire Blade
+Espada de fuego
+
+Black Fireball
+bola de fuego negro
+
+Verdict
+Veredicto
+
+Shock Wave
+Onda de choque
+
+Dark Holy Light
+Luz sagrada oscura
+
+Dark Barrier
+Barrera Oscura
+
+Bloody Roar
+Rugido sanguinario
+
+Frenzy
+Frenesí
+
+Cleave-Knife
+Corte de cuchillo
+
+Holy Light Slash
+Tajo de luz sagrada
+
+Cross Slash
+Tajo cruzado
+
+Holy Light Heal
+Curación de luz sagrada
+
+Cleave-Sword (increase attack speed)
+Corte de Espada (aumenta la velocidad de ataque)
+
+Thunder Slash
+Tajo de trueno
+
+Snowy Purgatory
+Purgatorio de nieve
+
+Blade of Judgment
+Cuchilla del juicio
+
+Roar
+Rugido
+
+Dark Prayer
+Oración oscura
+
+Dark Blood Curse
+Maldición de sangre oscura
+
+Fire Blast
+Explosión de fuego
+
+Burn Books
+Quemar libros
+
+Breath of Dragon
+Aliento de Dragón
+
+Sharp Mind
+Mente ágil
+
+Fireball Bombardment
+Bombardeo de bolas de fuego
+
+Puncture Throw
+Lanzamiento de pinchazos
+
+Lightning Throwing Knife
+Lanzamiento de cuchillos relámpago
+
+Flower of Death
+flor de la muerte
+
+Bloody Wrath
+Ira sangrienta
+
+Rising Dragon Punch·昏迷
+Puñetazo del Dragón Ascendente
+
+Rising Dragon Punch-Normal
+Puñetazo del Dragón Ascendente-Normal
+
+Scorching Flame Fist-1
+Puño de llamas abrasadoras-1
+
+Scorching Flame Fist-2
+Puño de llamas abrasadoras-2
+
+Scorching Flame Fist-3
+Puño de llamas abrasadoras-3
+
+Scorching Flame Fist-4
+Puño de llamas abrasadoras-4
+
+Scorching Flame Fist-5
+Puño de llamas abrasadoras-5
+
+Scorching Flame Fist-Over
+Puño de llama abrasadora
+
+Flying Kick
+Patada voladora
+
+Firestorm Kick
+Patada de tormenta de fuego
+
+Burning Flame-{d}%
+Llama ardiente-$1%
+
+Scorching Earth
+tierra abrasadora
+
+Cross Light Slash
+Corte ligero cruzado
+
+Dragon Slash
+Tajo de dragón
+
+Valiant Leap
+Salto valiente
+
+Blade of Light-{d}
+Cuchilla de luz-$1
+
+Gravity Aura
+Aura de gravedad
+
+Nine-Headed Dragon Slash
+Tajo de dragón de nueve cabezas
+
+Nine-Headed Dragon Slash-{d}
+Tajo de dragón de nueve cabezas-$1
+
+Nine-Headed Dragon Slash-over
+Nine-Headed Dragon Slash-over
+
+Arc Slash
+Tajo en arco
+
+Dash Strike
+Golpe de carrera
+
+Shining Steel
+acero brillante
+
+Punishment
+Castigo
+
+Divine Retribution
+Retribución Divina
+
+Holy Sword Light Cannon
+Cañón de luz de espada sagrada
+
+Healing
+Cura
+
+True Word-Shield
+True Word-Shield
+
+Punishment Aura
+Aura de castigo
+
+Golden Fortitude
+Fortaleza Dorada
+
+Summon Hound
+Invocar sabueso
+
+Call for Help
+Llamar por ayuda
+
+Wish-Ice Cave
+Cueva de hielo de los deseos
+
+Yin-Yang Sword
+Espada Yin-Yang
+
+Yin-Yang Sword-Ensnare
+Yin-Yang Sword-Ensnare
+
+See-Through Light
+Luz transparente
+
+Karate Chop
+Golpe de karate
+
+Made of Steel
+Hecho de acero
+
+Overwhelm
+Abrumar
+
+Crashing Thunderclap
+Trueno estruendoso
+
+Magic Gourd Attack
+Ataque de calabaza mágica
+
+Magic Gourd-Heartbreak Spell
+Hechizo de calabaza mágica-desamor
+
+Scorpion Tail
+cola de escorpión
+
+Iron Pliers
+Alicates de hierro
+
+Steel Chop
+Golpe de acero
+
+Throw Weapons
+Lanzamiento de armas
+
+Mold-Stinky Five Poison Soup
+Sopa de cinco venenos de moho apestosa
+
+Black Sand Fan
+Abanico de arena negra
+
+Poisonous Shot
+Disparo venenoso
+
+Ultrasonic Attack
+Ataque ultrasónico
+
+Knock
+Golpe
+
+Charm Beam
+Rayo de encantamiento
+
+Death Shock
+Choque de muerte
+
+King's Verdict
+veredicto del rey
+
+Sticky Bubble Gum
+Chicle pegajoso
+
+Fish Hook Boomerang
+Boomerang de anzuelo
+
+Throw Harpoon
+Lanzamiento de arpón
+
+Whirlwind Claw
+Garra Torbellino
+
+Throw Sand
+Lanzamiento de Arena
+
+Dark Seal
+Sello oscuro
+
+Explosive Hammer
+Martillo explosivo
+
+Crumbs Fetters
+Crumbs Fetters
+
+Might of the Pharaoh
+Poder del Faraón
+
+Pharaoh's Curse
+maldición del faraón
+
+Spray Poison
+rociar veneno
+
+Chaos Phantom Coin
+Moneda Fantasma de Caos
+
+Magic Weakening Beam
+Rayo mágico debilitador
+
+Healing Flame
+Llama curativa
+
+Claw Strike
+Golpe de garra
+
+Shoting
+Disparando
+
+Energy Sphere
+Esfera de energía
+
+Spinning Air
+Aire giratorio
+
+Arcane Missiles
+Misiles arcanos
+
+Mini Fireball
+minibola de fuego
+
+Shadow Sphere
+Esfera de sombra
+
+Ground Thorns
+espinas de tierra
+
+Air Cannon
+Cañón aéreo
+
+Water Dragon Wave
+Ola del dragón de agua
+
+Dark Curse
+maldición oscura
+
+Phantom Meteor Hammer
+Martillo de meteorito fantasma
+
+Hammer Strike
+golpe de martillo
+
+Throw Gum
+Lanzamiento de chicle
+
+Throw Mud Ball
+Lanzamiento de bola de barro
+
+Inject HP Potion
+Inyectar poción de HP
+
+Super Bubbles
+súper burbujas
+
+Deep sea Vortex
+Vórtice de aguas profundas
+
+Vine Ensnare
+Enredadera de vid
+
+Long Jump
+Salto largo
+
+Earth Shatter
+Destrucción de la tierra
+
+Deadly Crescent Javelin
+Jabalina de medialuna Mortal
+
+Life Resurgence (Fallen)
+Resurgimiento de la vida (cayendo)
+
+Throw Snowball
+Lanzamiento de bola de nieve
+
+Ice Blade
+Cuchilla de hielo
+
+Demon Ray
+rayo demoníaco
+
+Machine-Gun Burst
+Ráfaga de ametralladora
+
+Snipe
+Disparar
+
+Bondage Ensnare
+Enredadera de servidumbre
+
+Lightsaber
+sable de luz
+
+Spinning Cut
+Corte giratorio
+
+Place Bomb
+colocar bomba
+
+Throw Butter
+Lanzamiento de mantequilla
+
+Blood Curse
+Maldición de sangre
+
+Death Rays
+rayos de la muerte
+
+True-Dark Invasion
+Verdadera invasión oscura
+
+Tree Gouge
+Gubia de árbol
+
+Rolling Green Wave
+Ola verde rodante
+
+Scorpion Stinger
+Aguijón de escorpión
+
+Flying Head Attack
+Ataque de cabeza voladora
+
+Devour
+Devorar
+
+Joker Magic Tricks
+Trucos de magia del pallaso
+
+Joker Throwing Knife
+Cuchillo arrojadizo del pallaso
+
+Banshee's Kiss
+Beso de Banshee
+
+Cannibalism
+Canibalismo
+
+Suck
+Succionar
+
+Throw Stone
+Lanzamiento de piedra
+
+Gravel Scatter
+Dispersión de grava
+
+Catch Insect
+atrapar insectos
+
+Pester
+Molestar
+
+Spray Spores
+Pulverizar esporas
+
+Wooden cross Boomerang
+Boomeran cruz de madera
+
+Rapier Nose
+Estouqe de nariz
+
+Strong Claw
+Garra fuerte
+
+Elusive
+Elusión
+
+Flying Notes
+Notas voladoras
+
+Hellfire
+fuego infernal
+
+Strong laser cannon
+Fuerte cañón láser
+
+Endless Chill
+Escalofrío sin fin
+
+Puppetry
+Títeres
+
+Binding Chain
+Cadena Vinculante
+
+Shrinking Turtle
+Encojimiento de Tortuga
+
+Spore bullet
+Bala de esporas
+
+Run Mo Run
+Corre Mo, Corre
+
+Caesar's Claw
+Garra de César
+
+Ancient Toxin
+Toxina antigua
+
+Raining Arrows
+lloviendo flechas
+
+Gravity Arrow
+Flecha de gravedad
+
+Concussive Arrow
+Flecha de conmoción
+
+Pouring Arrows
+Verter flechas
+
+Black Flame Bomb
+Bomba de llama negra
+
+B Field
+Campo B
+
+Energy Blade
+Cuchilla de energía
+
+Divine Guard
+Guardia Divina
+
+Fang Stab
+Puñalada de colmillo
+
+Red Eye Ray
+Rayo de ojos rojos
+
+Preparing Summon Demon
+Preparando Invocar Demonio
+
+Stomp
+Pisotón
+
+Horn Stab
+Puñalada de cuerno
+
+Electric Barrier
+Barrera eléctrica
+
+Spiral Water Arrow
+Flecha de agua espiral
+
+Laser Sword
+espada láser
+
+Lethal Canon
+Cañón letal
+
+AT Field
+Campo A.T.
+
+Ultimate Electric Current
+Corriente eléctrica definitiva
+
+Electric Storm
+Tormenta eléctrica
+
+Bar Sweep
+Barrido de barra
+
+Mighty Ocean-Quieting Bar
+océano poderoso-Quieting Bar
+
+Protection Charm
+Encantamiento de Protección
+
+Mighty Monkey King
+Poderoso Rey Mono
+
+Pyre
+Pira
+
+72 Forms
+72 Formas
+
+Fire Laser
+Disparar Láser
+
+Sleeping Incense
+Incienso para dormir
+
+Ghost Kill
+Muerte fantasma
+
+Gallows
+Horca
+
+Void Blade
+Cuchilla del Vacío
+
+Heart-Piercing Tooth
+Diente comecorazones
+
+Blade Spiral
+Cuchilla Espiral
+
+Thunder Blast Strike
+Golpe de Explosión de trueno
+
+Thunderbolt Slash
+Tajo de rayo
+
+Thunder Star Strike
+Golpe de estrella del trueno
+
+Axe Sweep
+Barrido de hacha
+
+Nets Above and Snares Below
+Redes arriba y trampas abajo
+
+Barbaric Intimidation
+Intimidación bárbara
+
+Toxic Shot
+Disparo tóxico
+
+Electric Shots
+Disparos eléctricos
+
+Rolling Thunder
+Trueno rodante
+
+Paralyzing Thunderbolt
+Rayo paralizante
+
+Wrath of Thunder
+Ira del trueno
+
+Thunderous Firestorm
+Tormenta de fuego atronadora
+
+Sneaky Counterattack
+Contraataque furtivo
+
+Rake Sweep
+Barrido de rastrillo
+
+Meaty Trampoline
+Trampolín carnoso
+
+Captive Moment
+Momento cautivo
+
+Chain Frost
+Cadena de escarcha
+
+Frost Star
+Estrella Helada
+
+Frost Armor
+Armadura helada
+
+Black Meteor
+Meteorito negro
+
+Starburst Blast
+Explosión estelar
+
+Meteor Firestorm
+tormenta de meteoritos
+
+Death Ray
+Rayo de la muerte
+
+Hell Howl
+aullido infernal
+
+Hell Blood Curse
+Maldición de la sangre infernal
+
+Object Shift
+Transferencia de objeto
+
+Life Resurgence
+Resurgimiento de la vida
+
+Ghost Shield
+Escudo fantasma
+
+Dragon Claw Rip
+Desgarro de garra de dragón
+
+Dragon Tail
+Cola de dragón
+
+Cataclysm
+Cataclismo
+
+Might of the Beast
+Poder de la Bestia
+
+Dragon Roar
+Rugido de Dragón
+
+Aegis Protection
+Protección de égida
+
+Ice Fog
+Niebla de hielo
+
+Polar Ice Spirit
+Espíritu de hielo polar
+
+Snake King Roar
+Rugido del Rey Serpiente
+
+Ice Mist Dragon
+Dragón de Niebla de Hielo
+
+Summon Ancient Dragon Guards
+Invocación de guardias de dragones antiguos
+
+Ultimate-Dragon Soar
+Elevación definitiva del dragón
+
+Ancient Dragon Tide
+Marea del Dragón Antiguo
+
+Primordial Power
+Poder primordial
+
+Trident
+Tridente
+
+Summon Guards
+Invocación de guardias
+
+Binding
+Vinculación
+
+Dark Realm
+Reino oscuro
+
+Leaping Bash
+Saltoimpacto
+
+Crescent Slash
+Tajo de media luna
+
+Black Meteor-Magic
+Magia-Meteorito negro
+
+Falling Meteor-magic
+Magia-Meteorito cayendo
+
+Meteor Firestorm-Magic
+Magia-Tormenta de meteoritos
+
+Fire
+Fuego
+
+Primary Kick
+Patada primaria
+
+Medium Kick
+Patada media
+
+Advanced Kick
+Patada avanzada
+
+Primary Piercing Kick
+Patada punzante primaria
+
+Medium Piercing Kick
+Patada punzante media
+
+Advanced Piercing Kick
+Patada punzante avanzada
+
+Primary Ram
+Arrollamiento primario
+
+Medium Ram
+Arrollamiento medio
+
+Advanced Ram
+Arrollamiento avanzado
+
+Primary Croissant Knife
+Cuchillo cruasán primario
+
+Medium Croissant Knife
+Cuchillo cruasán medio
+
+Advanced Croissant Knife
+Cuchillo cruasán avanzado
+
+Primary Elusive Kick
+Patada elusiva primaria
+
+Medium Elusive Kick
+Patada elusiva media
+
+Advanced Elusive Kick
+Patada elusiva avanzada
+
+Primary Horn Knife
+Cuernocuchillo primario
+
+Medium Horn Knife
+Cuernocuchillo medio
+
+Advanced Horn Knife
+Cuernocuchillo avanzado
+
+Primary Magic Marbles
+Canicas mágicas primarias
+
+Medium Magic Marbles
+Canicas Mágicas medias
+
+Advanced Magic Marbles
+Canicas Mágicas Avanzadas
+
+Primary Magic Beam
+Rayo Mágico Primario
+
+Medium Magic Beam
+Rayo Mágico Medio
+
+Advanced Magic Beam
+Rayo Mágico Avanzado
+
+Primary Bark
+Ladrido primario
+
+Medium Bark
+Ladrido medio
+
+Advanced Bark
+Ladrido avanzado
+
+Primary Angry Bite
+Mordisco Enfadado primario
+
+Medium Angry Bite
+Mordisco enfadado medio
+
+Advanced Angry Bite
+Mordisco enfadado avanzado
+
+Primary Scratch
+Arañazo primario
+
+Medium Scratch
+Arañazo medio
+
+Advanced Scratch
+Arañazo avanzado
+
+Primary Meow Punch
+Puñomiau primario
+
+Medium Meow Punch
+Puñomiau medio
+
+Advanced Meow Punch
+Puñomiau avanzado
+
+Primary Tear and Bite
+Morder y desgarrar primario
+
+Medium Tear and Bite
+Morder y desgarrar medio
+
+Advanced Tear and Bite
+Morder y desgarrar avanzado
+
+Primary Swoop
+Arremetida primaria
+
+Medium Swoop
+Arremetida media
+
+Advanced Swoop
+Arremetida avanzada
+
+Primary Bash
+Golpetazo primario
+
+Medium Bash
+Golpetazo medio
+
+Advanced Bash
+Golpetazo avanzado
+
+Primary Stab
+Puñalada primaria
+
+Medium Stab
+Puñalada media
+
+Advanced Stab
+Puñalada avanzada
+
+Primary Whip
+Látigo primario
+
+Medium Whip
+Látigo medio
+
+SeniorWhip
+Látigo avanzado
+
+Primary Spank
+Zarpazo primario
+
+Medium Spank
+Zarpazo medio
+Advanced Spank
+Zarpazo avanzado
+
+Primary Whirlwind Palm
+Palmatorbellino primaria
+
+Medium Whirlwind Palm
+Palmatorbellino media
+
+Advanced Whirlwind Palm
+Palmatorbellino avanzada
+
+Primary Intimidate
+Intimidación primaria
+
+Medium Intimidate
+Intimidación media
+
+Advanced Intimidate
+Intimidación avanzada
+
+Primary Ice and Snow
+Hielo y nieve primario
+
+Medium Ice and Snow
+Hielo y nieve medio
+
+Advanced Ice and Snow
+Hielo y nieve avanzado
+
+Primary Intimidate
+Intimidación primaria
+
+Medium Intimidate
+Intimidación media
+
+Advanced Intimidate
+Intimidación avanzada
+
+Primary Scarlet Flame
+Llama Escarlata primaria
+
+Medium Scarlet Flame
+Llama Escarlata media
+
+Advanced Scarlet Flame
+Llama Escarlata avanzada
+
+Primary Puncture
+Perforación primaria
+
+Medium Puncture
+Perforación media
+
+Advanced Puncture
+Perforación avanzada
+
+Primary Tiger Tail Whip
+Látigo de cola de tigre primario
+
+Medium Tiger Tail Whip
+Látigo de cola de tigre medio
+
+Advanced Tiger Tail Whip
+Látigo de cola de tigre avanzado
+
+Primary Spray Water
+Disparo de agua primario
+
+Medium Spray Water
+Disparo de agua medio
+
+Advanced Spray Water
+Disparo de agua avanzado
+
+Primary Ice Sword
+Espada de hielo primaria
+
+Medium Ice Sword
+Espada de hielo media
+
+Advanced Ice Sword
+Espada de hielo avanzada
+
+Primary Breath
+Aliento primario
+
+Medium Breath
+Aliento medio
+
+Advanced Breath
+Aliento avanzado
+
+Primary Chilling Breath
+Aliento espeluznante primario
+
+Medium Chilling Breath
+Aliento espeluznante medio
+
+Advanced Chilling Breath
+Aliento espeluznante avanzado
+
+Primary Throw
+Lanzamiento primario
+
+Medium Throw
+Lanzamiento medio
+
+Advanced Throw
+Lanzamiento avanzado
+
+Primary Blow Dart
+Lanzamiento de dardo primario
+
+Medium Blow Dart
+Lanzamiento de dardo medio
+
+Advanced Blow Dart
+Lanzamiento de dardo avanzado
+
+Primary Iron Scissors
+Tijeras de hierro primarias
+
+Medium Iron Scissors
+Tijeras de hierro medias
+
+Advanced Iron Scissors
+Tijeras de hierro avanzadas
+
+Primary Arm Knife
+Brazocuchillo primario
+
+Medium Arm Knife
+Brazocuchillo medio
+
+Advanced Arm Knife
+Brazocuchillo avanzado
+
+Primary Leave Boomerang
+Boomeran primario
+
+Medium Leave Boomerang
+Boomeran medio
+
+Advanced Leave Boomerang
+Boomeran avanzado
+
+Primary Nut Bomb
+Bomba de nueces primaria
+
+Medium Nut Bomb
+Bomba de nueces media
+
+Advanced Nut Bomb
+Bomba de nueces avanzada
+
+Primary Intimidate
+Intimidación primaria
+
+Medium Intimidate
+Intimidación media
+
+Advanced Intimidate
+Intimidación avanzada
+
+Primary Sandstorm
+Tormenta de arena primaria
+
+Medium Sandstorm
+Tormenta de arena media
+
+Advanced Sandstorm
+Tormenta de arena avanzada
+
+Primary Peck
+Picotazo primario
+
+Medium Peck
+Picotazo medio
+
+Advanced Peck
+Picotazo avanzado
+
+Primary Claw Hook
+Gancho de garra primario
+
+Medium Claw Hook
+Gancho de garra medio
+
+Advanced Claw Hook
+Gancho de garra avanzado
+
+Primary Slap
+bofetada primaria
+
+Medium Slap
+Bofetada media
+
+Advanced Slap
+Bofetada avanzada
+
+Primary Magic Marbles
+Canicas Mágicas primarias
+
+Medium Magic Marbles
+Canicas Mágicas medias
+
+Advanced Magic Marbles
+Canicas Mágicas avanzadas
+
+Primary Magic Flames
+Llamas Mágicas primarias
+
+Medium Magic Flames
+Llamas Mágicas medias
+
+Advanced Magic Flames
+Llamas Mágicas avanzadas
+
+Primary Elven Magic
+Magia Élfica primaria
+
+Medium Elven Magic
+Magia Élfica media
+
+Advanced Elven Magic
+Magia Élfica avanzada
+
+Primary Elven Song
+Canción Élfica primaria
+
+Medium Elven Song
+Canción Élfica media
+
+Advanced Elven Song
+Canción Élfica avanzada
+
+Primary Shooting
+Disparo primario
+
+Medium Shooting
+Disparo medio
+
+Advanced Shooting
+Disparo avanzado
+
+Primary Spit Bubbles
+Escupir Burbujas primario
+
+Medium Spit Bubbles
+Escupir Burbujas medio
+
+Advanced Spit Bubbles
+Escupir Burbujas avanzado
+
+Primary Water Bomb
+Bomba de Agua primaria
+
+Medium Water Bomb
+Bomba de Agua media
+
+Advanced Water Bomb
+Bomba de Agua avanzada
+
+Primary Ice Ball
+Bola de Hielo primaria
+
+Medium Ice Ball
+Bola de Hielo media
+
+Advanced Ice Ball
+Bola de Hielo avanzada
+
+Primary Ice Lance
+Lanza de Hielo primaria
+
+Medium Ice Lance
+Lanza de Hielo media
+
+Advanced Ice Lance
+Lanza de Hielo avanzada
+
+Primary Crescent Crystal Boomerang
+Boomeran medialuna de cristal primario
+
+Medium Crescent Crystal Boomerang
+Boomeran medialuna de cristal medio
+
+Advanced Crescent Crystal Boomerang
+Boomeran medialuna de cristal avanzado
+
+Primary Moonlight Crystal Retribution
+Retribución de luz lunar primaria
+
+Medium Moonlight Crystal Retribution
+Retribución de luz lunar media
+
+Advanced Moonlight Crystal Retribution
+Retribución de luz lunar avanzada
+
+Primary Punch of Heaven
+Puño del cielo primario
+
+Medium Punch of Heaven
+Puño del cielo medio
+
+Advanced Punch of Heaven
+Puño del cielo avanzado
+
+Primary Divine Arrow
+Flecha divina primaria
+
+Medium Divine Arrow
+Flecha divina media
+
+Advanced Divine Arrow
+Flecha divina avanzada

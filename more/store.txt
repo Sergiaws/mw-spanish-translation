@@ -1,0 +1,1358 @@
+you have {d} account diamonds;{d} character bound diamonds;Note: Account diamonds will be used when purchasing free-trading items, and character-bound diamonds will be used first when purchasing non-free-trading items, and account diamonds will be used when the number of bound diamonds is insufficient.
+Tienes $1 diamantes de cuenta; $2 diamantes vinculados al personaje; Nota: Los diamantes de cuenta se utilizarán al comprar artículos de libre comercio. Los diamantes vinculados al personaje se utilizarán primero al comprar artículos que no sean de libre comercio, y si la cantidad de diamantes vinculados es insuficiente, se utilizarán diamantes de cuenta.
+
+you have {d} account diamonds;{d} character bound diamonds
+Tienes $1 diamantes de cuenta; $2 diamantes vinculados al personaje
+
+Note: The products in the value mall can only be purchased with account diamonds. The products that can be purchased at different character levels are different. You can visit the mall to check for new value products at any time. Maybe there are value products that can surprise you!
+Nota: Los productos en la tienda de valor solo se pueden comprar con diamantes de cuenta. Los productos que se pueden comprar van cambiando según el nivel de tu personaje. Puedes visitar la tienda para buscar nuevos productos de valor en cualquier momento. ¡Quizás haya productos de valor que te sorprendan!
+
+You have {d} account recharge points
+Tienes $1 puntos de recarga de cuenta
+
+Note: Players can use the recharge points obtained during recharge to purchase the goods here.
+Nota: Los jugadores pueden usar los puntos de recarga obtenidos mediante sus recargas para comprar los productos listados a continuación.
+
+{s}; tiene menú
+{sub2{$1}sub2}; tiene menú
+
+Commonly used
+Comúnmente usados
+
+teleportation items
+objetos de teletransportación
+
+Gem and enhance items
+Gemas y potenciadores
+
+Fusion Beasts
+bestias de fusión
+
+pets
+mascotas
+
+Lucky treasure and gifts
+regalos y tesoros de la suerte
+
+gang related
+relacionado con las pandillas
+
+bound diamond items
+objetos de diamantes vinculados
+
+please choose
+Por favor elige
+
+{s};unit price {d} {s};{s}
+{sub2{$1}sub2}; precio por unidad: $2 {sub2{$3}sub2}; {sub2{$4}sub2}
+
+{s}; restricted from trading
+{sub2{$1}sub2}; no se puede comerciar
+
+diamonds
+diamantes
+
+this is {s};Enter the {s};Enter the {s}
+Esta es la {sub2{$1}sub2}; entrar a la {sub2{$2}sub2}; entrar a la {sub2{$3}sub2}
+
+this is {s}
+Esta es la {sub2{$1}sub2}
+
+Enter the Diamond Mall
+Entrar a la tienda de diamantes
+
+Enter the value mall
+Entrar a la tienda de productos de valor
+
+Enter the Point Mall
+Entrar a la tienda de puntos
+
+diamond mall
+tienda de diamantes
+
+Diamond Mall
+Tienda de Diamantes
+
+value mall
+tienda de productos de valor
+
+Point Mall
+tienda de puntos
+
+Points Mall
+Tienda de Puntos
+
+{d} points area
+área de $1 puntos
+
+Newcomer Super Package
+Súper Paquete de bienvenida
+
+Newcomer Value Product
+Producto de valor para recién llegados
+
+VIP And Income monthly card
+Tarjeta VIP mensual
+
+Butterfly Package
+Paquete de mariposas
+
+Giant Rock City Teleportation Package
+Paquete de teletransportación de Ciudad Rocagigante
+
+Tulip City Teleportation Package
+Paquete de teletransportación de Ciudad Tulipán
+
+Holy Blood City Teleportation Package
+Paquete de teletransportación de Ciudad Sangre Santa
+
+Turquoise Packs
+Paquete de Turquesa
+
+Moonstone Packs
+Paquete de Piedra Lunar
+
+Sunlight Stone Packs
+Paquete de Piedra Solar
+
+Obsidian Packs
+Paquete de Obsidiana
+
+Topaz Packs
+Paquete de Topacio
+
+Olivine Packs
+Paquete de Olivino
+
+Grape Stone Packs
+Paquete de Prenita
+
+Ruby Packs
+Paquete de Rubí
+
+Tiger Eye StonePacks
+Paquete de Ojo de Tigre
+
+OpalPacks
+Paquete de Ópalo
+
+SpinelPacks
+Paquete de Espinela
+
+AquamarinePacks
+Paquete de Aguamarina
+
+GarnetPacks
+Paquete de Granate
+
+Blond JadePacks
+Paquete de Jade
+
+Lucky Enhancement Chest
+Cofre de Mejora de la Suerte
+
+price {d} diamonds
+Precio: $1 diamantes
+
+A gift package worthy of {s}30, only for newcomers before level 35, including 1 soul stone that can summon top cute baby frog pets, 1 million arnebia, 20,000 gold coins, 30 memory butterflies, and 2 Weapon Enhance Boost Runes, 2 Weapon Enhance Protection Runes, 20 Equipment Enhance Boost Runes, 20 Equipment Enhance Protection Runes, 10 Resurrection Crystals, 5 1.5x EXP acceleration Cards, 1 Player Rename Card and 2 Pet Rename Cards.
+Un paquete de regalo por valor de 30 dólares, solo para recién llegados antes del nivel 35. Incluye: 1 piedra de alma de rana de la mejor calidad, 1 millón de arnebia, 20000 monedas de oro, 30 mariposas de memoria, 2 runas potenciadoras de arma, 2 runas de protección de arma, 20 runas potenciadoras de equipo, 20 runas de protección de equipo, 10 cristales de resurrección, 5 tarjetas de aumento de experiencia por 1.5, 1 tarjeta de cambio de nombre de jugador y 2 tarjetas de cambio de nombre de mascota
+
+A Value Product worthy of $20, can only be purchased at level 30 to 40, and each person is limited to one purchase. After purchase, you can collect 120 bound diamonds and 20,000 arnebia from the Royal Bank of any city for 10 consecutive days.
+Un producto de valor valorado en 20 dólares, solo se puede comprar entre los niveles 30 a 40, y cada personaje solo lo puede comprar una vez. Después de la compra, puedes reclamar 120 diamantes vinculados al personaje y 20000 arnebia en el banco de cualquier ciudad durante 10 días consecutivos.
+
+After purchase, you can claim 60 bound Diamonds (bound to the character) and 200000 Arnebia per day at the Royal Bank of any city for 30 consecutive days{s} In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day{s}
+Después de la compra, puedes reclamar 60 Diamantes (vinculados al personaje) y 200000 Arnebia diariamente en cualquier banco real durante 30 días$1 Además tu almacén se expandirá 20 espacios, podrás dar y vender pociones a otros jugadores (hasta un máximo de 3000 por día) y viajar en los dirigibles y teleféricos sin pagar arnebia$2
+
+20 memory butterflies
+20 mariposas de memoria
+
+20 Giant Rock City Teleportation stones
+20 piedras de teletransportación de Ciudad Rocagigante
+
+20 Tulip City Teleportation stones
+20 piedras de teletransportación de Ciudad Tulipán
+
+20 Holy Blood City Teleportation stones
+20 piedras de teletransportación de Ciudad Sangre Santa
+
+a Level 7 Turquoise, increase 0.28 point of movement speed, Limited to 1 purchases per person
+Una Turquesa de nivel 7, aumenta 0,28 puntos de velocidad de movimiento, limitado a 1 compra por personaje
+
+a Level 7 Moonstone, increase 28 point of critical hit resist, Limited to 2 purchases per person
+Una piedra lunar de nivel 7, aumenta 28 puntos de resistencia a golpes críticos, limitado a 2 compras por personaje
+
+a Level 7 Sunlight Stone, increase 28 point of critical hit damage, Limited to 2 purchases per person
+una Piedra Solar de Nivel 7, aumenta 28 puntos de daño crítico, Limitado a 2 compras por personaje
+
+a Level 6 Obsidian, increase 21 point critical hit, Limited to 2 purchases per person
+una obsidiana de nivel 6, aumenta 21 puntos de golpe crítico, limitado a 2 compras por personaje
+
+a Level 7 Topaz, increase 28 point of toughness, Limited to 2 purchases per person
+Un topacio de nivel 7, aumenta 28 puntos de dureza, limitado a 2 compras por personaje
+
+a Level 7 Olivine, increase 28 point of defense break damage, Limited to 2 purchases per person
+un olivino de nivel 7, aumenta 28 puntos de daño al romper la defensa, limitado a 2 compras por personaje
+
+a Level 7 Grape Stone, increase 28 point defense break, Limited to 2 purchases per person
+una Prenita de nivel 7, aumenta la posibilidad de romper la defensa en 28 puntos, limitado a 2 compras por personaje
+
+a Level 7 Ruby, increase 3800 points maximum HP, Limited to 2 purchases per person
+un Rubí de nivel 7, aumenta 3800 puntos de salud máxima, limitado a 2 compras por personaje
+
+a Level 7 Tiger Eye Stone, increase 380 point of physical attack, Limited to 2 purchases per person
+un ojo de tigre de nivel 7, aumenta 380 puntos de ataque físico, limitado a 2 compras por personaje
+
+a Level 7 Opal, increase 300 point of magic attack, Limited to 2 purchases per person
+un ópalo de nivel 7, aumenta 300 puntos de ataque mágico, limitado a 2 compras por personaje
+
+a Level 7 Spinel, increase 380 point of physical defense, Limited to 2 purchases per person
+una Espinela de Nivel 7, aumenta 380 puntos de defensa física, Limitado a 2 compras por personaje
+
+a Level 7 Aquamarine, increase 300 point of magic defense, Limited to 2 purchases per person
+una Aguamarina de nivel 7, aumenta 300 puntos de defensa mágica, limitado a 2 compras por personaje
+
+a Level 6 Garnet, increase 21 point hit, Limited to 2 purchases per person
+un granate de nivel 6, aumenta 21 puntos de precisión, limitado a 2 compras por personaje
+
+a Level 6 Blond Jade, increase 21 point dodge, Limited to 2 purchases per person
+un Jade de nivel 6, aumenta 21 puntos de evasión, limitado a 2 compras por personaje
+
+Open chests to obtain equipment or weapon enhancement runes. Limited to 5 purchases per person.
+Abre los cofres para obtener runas de mejora de equipo o arma. Limitado a 5 compras por personaje.
+
+{s};price {d} diamonds;{s}
+{sub2{$1}sub2}; precio: $2 diamantes; {sub2{$3}sub2}
+
+buy goods
+Comprar productos
+
+sell goods
+Vender productos
+
+the goods I'm selling now
+Mis productos a la venta
+
+trading description
+Descripción del mercado
+
+{s}; Press to select category
+{sub2{$1}sub2}; presiona para seleccionar otra categoría
+
+in chronological order; Selected
+En orden cronológico; seleccionado
+
+in price order
+Ordenar por precio
+
+in price order; Selected
+Ordenar por precio; seleccionado
+
+in chronological order
+En orden cronológico
+
+all goods
+Todos los productos
+
+All goods
+Todos los productos
+
+weapons
+Armas
+
+Weapons
+Armas
+
+helmets
+Yelmos, capuchas y sombreros
+
+Helmets
+Yelmos, capuchas y sombreros
+
+hangings
+Colgantes y collares
+
+Hangings
+Colgantes y collares
+
+shawls
+Capas y hombreras
+
+Shawls
+Capas y hombreras
+
+armors
+Armaduras, túnicas y tabardos
+
+Armors
+Armaduras, túnicas y tabardos
+
+belts
+Cinturones
+
+Belts
+Cinturones
+
+shoes
+Botas
+
+Shoes
+Botas
+
+pant legs
+pantalones y perneras
+
+Leggings
+Pantalones y perneras
+
+handwears
+Brazaletes y guantes
+
+Bracelets
+Brazaletes y guantes
+
+rings
+Anillos
+
+Rings
+Anillos
+
+other equipments
+Otros equipos
+
+Other equipments
+Otros equipos
+
+materials
+Materiales
+
+Materials
+Materiales
+
+collections
+Productos de recolección
+
+Collections
+Productos de recolección
+
+usable items
+Objetos utilizables
+
+Usable goods
+Objetos utilizables
+
+New; {d} {s};Unit price {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+Nuevo; $1 {sub2{$2}sub2}; precio por unidad: $3 monedas de oro; tiempo restante de visualización $4 minutos y $5 segundos
+
+New; {d} {s};Unit price {d} gold coins;{d} seconds remaining in the display time
+Nuevo; $1 {sub2{$2}sub2}; precio por unidad: $3 monedas de oro; tiempo restante de visualización $4 segundos
+
+New; {n};{c} ;Price: {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+Nuevo; {sub2{$1}sub2}; {sub2{$2}sub2}; precio: $3 monedas de oro; tiempo restante de visualización $4 minutos y $5 segundos
+
+New; {n};Price: {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+Nuevo; {sub2{$1}sub2}; precio: $2 monedas de oro; tiempo restante de visualización $3 minutos y $4 segundos
+
+New; {n};{c} ;Price: {d} gold coins;{d} seconds remaining in the display time
+Nuevo; {sub2{$1}sub2}; {sub2{$2}sub2}; precio: $3 monedas de oro; tiempo restante de visualización $4 segundos
+
+New; {n};Price: {d} gold coins;{d} seconds remaining in the display time
+Nuevo; {sub2{$1}sub2}; precio: $2 monedas de oro; tiempo restante de visualización $3 segundos
+
+{d} {s};Unit price {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+$1 {sub2{$2}sub2}; precio por unidad: $3 monedas de oro; a la venta desde: $5 de {sub2{$4}sub2} de $8, $6:$7
+
+{n};{c} ;Price: {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+{sub2{$1}sub2}; {sub2{$2}sub2}; precio: $3 monedas de oro; a la venta desde: $5 de {sub2{$4}sub2} de $8, $6:$7
+
+{n};Price: {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+{sub2{$1}sub2}; precio: $2 monedas de oro; a la venta desde: $4 de {sub2{$3}sub2} de $7, $5:$6
+
+Purchase requires {s} gold coins, are you sure you want to buy{s}
+Este producto cuesta $1 monedas de oro, ¿realmente quieres comprarlo?
+
+Please enter the purchase quantity
+Por favor introduce la cantidad a comprar
+
+New listing goods cannot be traded within one hour
+Los productos nuevos en el listado no se pueden comprar hasta que haya pasado una hora
+
+you act too fast
+Actúas demasiado rápido
+
+Next page: {d}
+Página siguiente: $1
+
+Last page: {d}
+Última página: $1
+
+Previous page: {d}
+Página anterior: $1
+
+page 1
+Página 1
+
+items
+Objetos
+
+equipment
+Equipo
+
+on sale
+En venta
+
+{s};Unit price {d} arnebia
+{sub2{$1}sub2}; Precio por unidad: $2 arnebia
+
+Level 1 Ruby Shard;Unit price {d} arnebia; can make Ruby that increase maximum HP
+Fragmento de rubí de nivel 1; Precio por unidad: $1 arnebia; sirve para fabricar rubíes para aumentar la salud máxima
+
+Level 1 Sapphire Shard;Unit price {d} arnebia; can make Sapphire that increase maximum mana
+Fragmento de zafiro de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar zafiros para aumentar el mana máximo
+
+Level 1 Tiger Eye Stone Shard;Unit price {d} arnebia; can make Tiger Eye Stone that increase physical attack
+Fragmento de piedra de ojo de tigre de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar piedras de ojo de tigre para aumentar el ataque físico
+
+Level 1 Opal Shard;Unit price {d} arnebia; can make Opal that increase magic attack
+Fragmento de ópalo de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar ópalos para aumentar el ataque mágico
+
+Level 1 Spinel Shard;Unit price {d} arnebia; can make Spinel that increase physical defense
+Fragmento de espinela de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar espinelas para aumentar la defensa física
+
+Level 1 Aquamarine Shard;Unit price {d} arnebia; can make Aquamarine that increase magic defense
+Fragmento de aguamarina de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar aguamarinas para aumentar la defensa mágica
+
+Level 1 Garnet Shard;Unit price {d} arnebia; can make Garnet that increase hit chance
+Fragmento de granate de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar granates para aumentar la precisión
+
+Level 1 Blond Jade Shard;Unit price {d} arnebia; can make Blond Jade that increase dodge chance
+Fragmento de jade de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar jades para aumentar la evasión
+
+Level 1 Grape Stone Shard;Unit price {d} arnebia; can make Grape Stone that increase defense break chance
+Fragmento de prenita de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar prenitas para aumentar la probabilidad de romper la defensa
+
+Level 1 Olivine Shard;Unit price {d} arnebia; can make Olivine that increase defense break damage
+Fragmento de olivino de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar olivinos para aumentar el daño por rotura
+
+Level 1 Topaz Shard;Unit price {d} arnebia; can make Topaz that increase toughness
+Fragmento de topacio de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar topacios para aumentar la dureza
+
+Level 1 Obsidian Shard;Unit price {d} arnebia; can make Obsidian that increase critical hit chance
+Fragmento de obsidiana de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar obsidianas para aumentar la probabilidad de dar golpes críticos
+
+Level 1 Sunlight Stone Shard;Unit price {d} arnebia; can make Sunlight Stone that increase critical hit damage
+Fragmento de piedra solar de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar piedras solares para aumentar el daño crítico
+
+Level 1 Moonstone Shard;Unit price {d} arnebia; can make Moonstone that increase critical hit resistance
+Fragmento de piedra lunar de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar piedras lunares para aumentar la resistencia a golpes críticos
+
+Level 1 Turquoise Shard;Unit price {d} arnebia; can make Turquoise that increase movement speed
+Fragmento de turquesa de nivel 1; Precio por unidad: $1 arnebia; Sirve para fabricar turquesas para aumentar la velocidad
+
+Welcome to Shard  Market;View description
+Bienvenido al Mercado de Fragmentos; Ver descripción
+
+View description
+Ver descripción
+
+Welcome to Shard  Market
+Bienvenido al Mercado de Fragmentos
+
+buy
+Comprar
+
+sell
+Vender
+
+Please enter the purchase quantity, up to 2000
+Por favor introduce la cantidad a comprar, máximo 2000
+
+Please enter the quantity to sell, up to 2000
+Por favor introduce la cantidad a vender, máximo 2000
+
+gang contributions
+tributo de pandilla
+
+Purchase
+Comprar
+
+Make
+Fabricar
+
+merge of 1 {s} requires {d} {s}
+Para obtener 1 {sub2{$1}sub2} necesitas $2 {sub2{$3}sub2}
+
+not enough materials
+No tienes suficientes materiales
+
+Insufficient quantity of {s}
+Cantidad insuficiente de {sub2{$1}sub2}
+
+Item does not exist
+Ese objeto no existe
+
+Exceeded the maximum number of collected items that one player can purchase per day
+Excediste el número de objetos de recolección que puedes comprar por día
+
+Are you sure you want to sell this equipment?
+¿Confirmas que quieres vender este equipo?
+
+{s};{s};recycling price {d} arnebia
+{sub2{$1}sub2}; {sub2{$2}sub2}; precio por reciclar: $3 arnebia
+
+Purchase requires {d} gold coins, are you sure to buy{s}
+Este producto cuesta $1 monedas de oro, ¿confirmas que quieres comprarlo$2
+
+successfully purchased
+Compra exitosa
+
+mahogany bracelet;Unit price 1000 Arnebia;5.0 Durability; increases 60-68 Physical attacks, 47-55 Magic attacks, 15-19 physical defense, 13-19 magic defense; Requires Level 6
+Brazaletes de caoba; Precio por unidad: 1000 arnebia; durabilidad 5.0; aumentan el ataque físico entre 60 y 68, el ataque mágico entre 47 y 55, la defensa física entre 15 y 19 y la defensa mágica entre 13 y 19; Requieren nivel 6
+
+mahogany left ring;Unit price 1000 Arnebia; 5.0 Durability; increases 121 max HP, 163 max MP, 68-74 Physical attacks, 52-62 Magic attacks; Requires Level 8
+Anillo de caoba (izquierdo); Precio por unidad: 1000 arnebia; durabilidad 5.0; aummenta la salud 121, el mana 163, el ataque físico entre 68 y 74 y el ataque mágico entre 52 y 62; requiere nivel 8
+
+mahogany right ring;Unit price 1000 Arnebia; 5.0 Durability; increases 121 max HP, 163 max MP, 68-74 Physical attacks, 52-62 Magic attacks; Requires Level 9
+Anillo de caoba (derecho);Precio por unidad: 1000 Arnebia; durabilidad 5.0; aummenta la salud 121, el mana 163, el ataque físico entre 68 y 74 y el ataque mágico entre 52 y 62; Requiere nivel 9
+
+mahogany necklace; 5.0 Durability; increases 521 max HP, 705 max MP, 31-37 Physical attacks, 22-32 Magic attacks; Requires Level 13
+Collar de caoba; durabilidad 5.0; aummenta la salud 521, el mana 705, el ataque físico entre 31 y 37 y el ataque mágico entre 22 y 32; Requiere nivel 13
+
+wooden stick;Unit price 2000 Arnebia; 5.0 Durability; increases 158-188 Physical attacks, 116-150 Magic attacks; Only available to Warrior, Orc, Assassin, Mage, Elf, Priest, Wizard
+garrote; Precio por unidad: 2000 arnebia; durabilidad 5.0; aummenta el ataque físico entre 158 y 188 y el ataque mágico entre 116 y 150; hecho para guerreros, orcos, asesinos, Magos, elfos, sacerdotes y hechiceros
+
+bamboo bow;Unit price 2000 Arnebia; 5.0 Durability; increases 129-165 Physical attacks; Only available to Hunter
+Arco de bambú; Precio por unidad: 2000 arnebia; durabilidad 5.0; aummenta el ataque físico entre 129 y 165; hecho para cazadores
+
+straw hat;Unit price 1000 Arnebia; 5.0 Durability; increases 15-19 Physical attacks, 11-17 Magic attacks, 19-23 physical defense, 18-24 magic defense; Requires Level 3
+Sombrero de paja; Precio por unidad: 1000 arnebia; durabilidad 5.0; aumenta el ataque físico entre 15 y 19, el ataque mágico entre 11 y 17, la defensa física entre 19 y 23 y la defensa mágica entre 18 y 24 ; requiere nivel 3
+
+Are you sure you want to buy this value item{s}
+¿Confirmas que quieres comprar este artículo de valor$1
+
+Purchase succeeded, remember to go to the bank to collect the income every day
+Compra exitosa, recuerda ir al banco a cobrar los ingresos todos los días
+
+{d};{c} bought {s} of you..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+Received;{d} Gold Coin
+Recibiste las $1 monedas de oro
+
+{c} bought the {s} of yours, you got {d} gold coins
+$1 te compró el equipo {sub2{$2}sub2}; obtienes $3 monedas de oro.
+
+{c} bought {s} of yours, you got {d} gold coins
+$1 te compró {sub2{$2}sub2}; obtienes $3 monedas de oro.
+
+{d};{c} bought {s} of yours, you g..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+system; issued at {s} {d}, {d}:{d}:{d}, {d}
+Enviado por el sistema el $2 de $1 del $6 a las $3:$4:$5
+
+{d};What you sold in the marketplace: {s}..; Press to see the full text
+$1; Lo que vendiste en el mercado... presiona para ver el mensaje completo
+
+What you sold in the marketplace: {s}  have expired and returned to your Storehouse
+Lo que vendiste en el mercado, {sub2{$1}sub2}, ha expirado y se ha devuelto a tu almacén.
+
+{d};{c} bought the  {s};{s}  of y..; Press to see the full text
+$1; $2 te compró el equipo {sub2{$3}sub2}; {sub2{$4}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours, y..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of your..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+the  Contribution Medal
+el equipo Medalla de Contribución
+
+{d};{c} bought {s} of yours, you..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours, you go..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+the  {s}
+el equipo {sub2{$1}sub2}
+
+{d};{c} bought {s} of yours, you ..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s};{s}  of ..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; {sub2{$4}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s};{s}..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; {sub2{$4}sub2}... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours, yo..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+take it;{d} Gold Coin
+Toma las $1 monedas de oro
+
+take it;500 Gold Coin;1 Level 30 upgrade gift bag
+Toma las 500 monedas de oro y una bolsa de regalo de mejora de nivel 30
+
+{d};New; {c} bought {s} of you..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, you g..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; What you sold in the marketplace: {s}..; Press to see the full text
+$1; nuevo; Lo que vendiste en el mercado... presiona para ver el mensaje completo
+
+{d};New; {c} bought the  {s};{s}  of y..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; {sub2{$4}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, y..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of your..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, you..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, you go..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, you ..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s};{s}  of ..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; {sub2{$4}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s};{s}..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; {sub2{$4}sub2}... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, yo..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yo..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours, ..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, ..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours, you got ..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours,..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, you got ..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours,..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yo..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yo..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; ob... presiona para ver el mensaje completo
+
+What you sold in the marketplace:  {s} ;{s}  has expired and returned to your Storehouse
+Lo que vendiste en el mercado, {sub2{$1}sub2}; {sub2{$2}sub2}, ha expirado y se ha devuelto a tu almacén.
+
+{d};New; {c} bought {s} of yours, you got {d}..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}; obtienes $4... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours, you got {d}..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; obtienes $4... presiona para ver el mensaje completo
+
+Received
+Recibido
+
+{d};New; {c} bought {s} of yours, you got {d} ..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; obtienes $4... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} ..; Press to see the full text
+$1; nuevo; $2 te compró {sub2{$3}sub2}... presiona para ver el mensaje completo
+
+{d}; {c} bought {s} ..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours, you got..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; obtienes... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, you got..; Press to see the full text
+$1; Nuevo; $2 te compró {sub2{$3}sub2}; obtienes... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours..; Press to see the full text
+$1; Nuevo; $2 te compró {sub2{$3}sub2}; obtienes... presiona para ver el mensaje completo
+
+{d};{c} bought {s} of yours..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; obtienes... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s} of yours, you got {d} {s}..; Press to see the full text
+$1; Nuevo; $2 te compró {sub2{$3}sub2}; obtienes $4 mon... presiona para ver el mensaje completo
+
+{d}; {c} bought {s} of yours, you got {d} {s}..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}; obtienes $4 mon... presiona para ver el mensaje completo
+
+Do you want to retrieve this item{s}
+¿Quieres recuperar este artículo$1
+
+retrieved
+Recuperado
+
+{d};{c} bought {s}..; Press to see the full text
+$1; $2 te compró {sub2{$3}sub2}... presiona para ver el mensaje completo
+
+{d};New; {c} bought {s}..; Press to see the full text
+$1; Nuevo; $2 te compró {sub2{$3}sub2}... presiona para ver el mensaje completo
+
+Repeated purchases too many, you can't buy this product within half an hour
+Repetiste la compra de este producto muchas veces. Podrás volverlo a comprar en media hora
+
+Recycling is successful
+Reciclado con éxito
+
+Purchase weapons
+Comprar armas
+
+Recycle equipment
+Reciclar equipo
+
+recycling price {d} arnebia
+Precio por reciclar: $1 arnebia
+
+No recyclable equipments
+Sin equipo para reciclar
+
+purchase armor
+Comprar armadura
+
+Are you sure you want to buy this equipment{s}
+¿Confirmas que quieres comprar este equipo$1
+
+sackcloth;Unit price 1000 Arnebia; 5.0 Durability; increases 34-42 physical defense, 32-42 magic defense; Requires Level 1
+Ropaje de algodón; Precio por unidad: 1000 arnebia; durabilidad 5.0; aummenta la defensa física entre 34 y 42 y la defensa mágica entre 32 y 42; requiere nivel 1
+
+Bark Belt;Unit price 1000 Arnebia; 5.0 Durability; increases 40-44 physical defense, 38-44 magic defense; Requires Level 4
+Cinturón de corteza; Precio por unidad: 1000 arnebia; durabilidad 5.0; aummenta la defensa física entre 40 y 44 y la defensa mágica entre 38 y 44; requiere nivel 4
+
+straw sandals;Unit price 1000 Arnebia; 5.0 Durability; increases 25-31 physical defense, 23-33 magic defense; Requires Level 2
+Sandalias de paja; Precio por unidad: 1000 arnebia; durabilidad 5.0; aummentan la defensa física entre 25 y 31 y la defensa mágica entre 23 y 33; requieren nivel 2
+
+This chain is precious and not for sale. If you want it, you can exchange it with 5 Anaconda's Gall.
+Esta cadena es valiosa y no está a la venta. Si la quieres podría intercambiártela por 5 pieles de anaconda.
+
+You don't have {s}
+No tienes {sub2{$1}sub2}
+
+Unit price {d} arnebia; {s}
+Precio por unidad: $1 arnebia; {sub2{$2}sub2}
+
+Unit price {d} arnebia
+Precio por unidad: $1 arnebia
+
+can make Ruby that increase maximum HP
+Sirve para fabricar rubíes para aumentar la salud máxima
+
+can make Sapphire that increase maximum mana
+Sirve para fabricar zafiros para aumentar el mana máximo
+
+can make Tiger Eye Stone that increase physical attack
+Sirve para fabricar piedras de ojo de tigre para aumentar el ataque físico
+
+can make Opal that increase magic attack
+Sirve para fabricar ópalos para aumentar el ataque mágico
+
+can make Spinel that increase physical defense
+Sirve para fabricar espinelas para aumentar la defensa física
+
+can make Aquamarine that increase magic defense
+Sirve para fabricar aguamarinas para aumentar la defensa mágica
+
+can make Garnet that increase hit chance
+Sirve para fabricar granates para aumentar la precisión
+
+can make Blond Jade that increase dodge chance
+Sirve para fabricar jades para aumentar la evasión
+
+can make Grape Stone that increase defense break chance
+Sirve para fabricar prenitas para aumentar la probabilidad de romper la defensa
+
+can make Olivine that increase defense break damage
+Sirve para fabricar olivinos para aumentar el daño por rotura
+
+can make Topaz that increase toughness
+Sirve para fabricar topacios para aumentar la dureza
+
+can make Obsidian that increase critical hit chance
+Sirve para fabricar obsidianas para aumentar la probabilidad de dar golpes críticos
+
+can make Sunlight Stone that increase critical hit damage
+Sirve para fabricar piedras solares para aumentar el daño crítico
+
+can make Moonstone that increase critical hit resistance
+Sirve para fabricar piedras lunares para aumentar la resistencia a golpes críticos
+
+can make Turquoise that increase movement speed
+Sirve para fabricar turquesas para aumentar la velocidad
+
+Not enough account diamonds
+No tienes suficientes diamantes de cuenta
+
+can no longer buy
+Ya no lo puedes comprar
+
+You have recharged {d} diamonds in this Recharge activity to get {d} sets of enhance items, include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+Recargaste $1 diamantes en esta actividad de recarga, lo que te permite obtener $2 conjuntos de mejora de objetos, que incluyen $3 runas potenciadoras de arma, $4 runas de protección de arma, $5 runas potenciadoras de equipo y $6 runas de protección de equipo
+
+Check recharge amount and claim reward
+Revisar cantidad de recarga y reclamar recompensa
+
+Press here to receive rewards
+Presiona aquí para recibir la recompensa
+
+tulle cape;Unit price 1000 Arnebia; 5.0 Durability; increases 40-46 Physical attacks, 30-38 Magic attacks, 30-34 physical defense, 28-34 magic defense; Requires Level 10
+Capa de tul; precio por unidad; 1000 arnebia; durabilidad 5.0; aumenta el ataque físico entre 40 y 46, el ataque mágico entre 30 y 38, la defensa física entre 30 y 34 y la defensa mágica entre 28 y 34; Requiere nivel 10
+
+unit price {d} arnebia
+Precio por unidad; $1 arnebia
+
+{s};recycling unit price {d} arnebia
+{sub2{$1}sub2}; precio por reciclar: $2 arnebia
+
+Recycle
+Reciclar
+
+recycling unit price {d} arnebia
+precio por reciclar: $1 arnebia
+
+needs {s}
+se necesita {sub2{$1}sub2}
+
+{d} Lesser Blood{d} medium Blood{d} Higher blood
+$1 sangre de mala calidad, $2 sangre de calidad media y $3 sangre de buena calidad
+
+{d} Lesser Pelt{d} Medium Pelt{d} Higher Pelt
+$1 pieles de mala calidad, $2 pieles de calidad media y $3 pieles de buena calidad
+
+{d} Lesser Blood{d} medium Blood{d} Excellent Blood
+$1 sangre de mala calidad, $2 sangre de calidad media y $3 sangre de excelente calidad
+
+{d} Lesser Pelt{d} Medium Pelt{d} Excellent Pelt
+$1 pieles de mala calidad, $2 pieles de calidad media y $3 pieles de excelente calidad
+
+{d} Lesser Blood{d} Higher blood{d} Excellent Blood
+$1 sangre de mala calidad, $2 sangre de buena calidad y $3 sangre de excelente calidad
+
+{d} Lesser Pelt{d} Higher Pelt{d} Excellent Pelt
+$1 pieles de mala calidad, $2 pieles de buena calidad y $3 pieles de excelente calidad
+
+{d} Higher blood{d} Excellent Blood{d} Premium Blood
+$1 sangre de buena calidad, $2 sangre de excelente calidad y $3 sangre de calidad premium
+
+{d} Higher Pelt{d} Excellent Pelt{d} Premium Pelt
+$1 pieles de buena calidad, $2 pieles de excelente calidad y $3 pieles de calidad premium
+
+{d} Excellent Blood{d} Premium Blood
+$1 sangre de excelente calidad y $2 sangre de calidad premium
+
+{d} Excellent Pelt{d} Premium Pelt
+$1 pieles de excelente calidad y $2 pieles de calidad premium
+
+{d} Lesser Blood{d} medium Blood{d} Higher blood{d} Excellent Blood
+$1 sangre de mala calidad, $2 sangre de calidad media, $3 sangre de buena calidad y $4 sangre de excelente calidad
+
+{d} Lesser Pelt{d} Medium Pelt{d} Higher Pelt{d} Excellent Pelt
+$1 pieles de mala calidad, $2 pieles de calidad media, $3 pieles de buena calidad y $4 pieles de excelente calidad
+
+{d} medium Blood{d} Higher blood{d} Excellent Blood{d} Premium Blood
+$1 sangre de calidad media, $2 sangre de buena calidad, $3 sangre de excelente calidad y $4 sangre de calidad premium
+
+{d} Medium Pelt{d} Higher Pelt{d} Excellent Pelt{d} Premium Pelt
+$1 pieles de calidad media, $2 pieles de buena calidad, $3 pieles de excelente calidad y $4 pieles de calidad premium
+
+{d} Lesser Blood{d} medium Blood{d} Higher blood{d} Excellent Blood{d} Premium Blood
+$1 sangre de mala calidad, $2 sangre de calidad media, $3 sangre de buena calidad, $4 sangre de excelente calidad y $5 sangre de calidad premium
+
+{d} Lesser Pelt{d} Medium Pelt{d} Higher Pelt{d} Excellent Pelt{d} Premium Pelt
+$1 pieles de mala calidad, $2 pieles de calidad media, $3 pieles de buena calidad, $4 pieles de excelente calidad y $5 pieles de calidad premium
+
+synthesize {s}
+Sintetizar {sub2{$1}sub2}
+
+{s};needs {s}
+{sub2{$1}sub2}; se necesitan {sub2{$2}sub2}
+
+{d} Lesser Blood{d} medium Blood
+$1 sangre de mala calidad y $2 sangre de calidad media
+
+{d} Lesser Pelt{d} Medium Pelt
+$1 pieles de mala calidad y $2 pieles de calidad media
+
+start synthesis
+Comenzar a sintetizar
+
+{s}; cost {d} arnebia
+{sub2{$1}sub2}; cuesta $2 arnebia
+
+Hello, , do you want to get back the things in the recycling system? Recycled things within 48 hours can be retrieved by paying double the recycling price.
+Hola, ¿quieres recuperar las cosas del sistema de reciclado? Las cosas que reciclaste en las últimas 48 horas se pueden recuperar pagando el doble del precio que recibiste al reciclar
+
+View recycled items
+Ver objetos reciclados
+
+View recycled equipments
+Ver equipo reciclado
+
+View Recycled Fusion Beasts
+Ver bestias de fusión recicladas
+
+{d};{s}; enhance Level {d}; quality {s} 
+$1; {sub2{$2}sub2}; mejorado a nivel $3; calidad {sub2{$4}sub2}
+
+Recycled at {s} {d}, {d}:{d}, {d}
+Reciclado el $2 de {sub2{$1}sub2} de $5, $3:$4
+
+Recycle price {d} arnebia
+Reciclado por $1 arnebia
+
+Retrieve
+Recuperar
+
+Are you sure you want to retrieve this equipment?
+¿Confirmas que quieres recuperar este equipo?
+
+{d};{s}; enhance Level {d}; quality {s} ;Recycled at {s} {d}, {d}:{d}, {d};Recycle price {d} arnebia
+$1; {sub2{$2}sub2}; mejorado a nivel $3; calidad {sub2{$4}sub2}; reciclado el $6 de {sub2{$5}sub2} de $9, $7:$8
+
+{d} Lesser Jerky{d} Medium Jerky
+$1 carne de mala calidad y $2 carne de calidad media
+
+{d} Lesser Jerky{d} Medium Jerky{d} Higher Jerky
+$1 carne de mala calidad, $2 carne de calidad media y $3 carne de buena calidad
+
+{d} Higher Jerky{d} Excellent Jerky
+$1 carne de buena calidad y $2 carne de excelente calidad
+
+unit price {d} diamonds
+Precio por unidad; $1 diamantes
+
+unit price {d} gang contributions
+Precio por unidad: $1 tributo de pandilla
+
+Hearthstone;unit price {d} arnebia;Each hearthstone is made by a Space Mage using the stone that has been taken from a fireplace for a very long time. It is made of a stone that has fully absorbed smoke and fire, then infused with space magic. You can use it to break the barriers of space and return to the last city where you've stayed.
+Piedra de hogar; precio por unidad: $1 arnebia; Cada piedra de hogar es fabricada por un mago espacial utilizando una piedra que ha sido extraída de una chimenea. Está hecha de una piedra que ha absorbido por completo el humo y el fuego, y luego se ha pregnado de magia espacial. Puedes usarla para romper las barreras del espacio y regresar a la última ciudad donde estuviste.
+
+Hearthstone; restricted from trading;unit price {d} diamonds;Each hearthstone is made by a Space Mage using the stone that has been taken from a fireplace for a very long time. It is made of a stone that has fully absorbed smoke and fire, then infused with space magic. You can use it to break the barriers of space and return to the last city where you've stayed.
+Piedra de hogar; no se puede comerciar; precio por unidad: $1 diamantes; Cada piedra de hogar es fabricada por un mago espacial utilizando una piedra que ha sido extraída de una chimenea. Está hecha de una piedra que ha absorbido por completo el humo y el fuego, y luego se ha pregnado de magia espacial. Puedes usarla para romper las barreras del espacio y regresar a la última ciudad donde estuviste.
+
+Memory Butterfly; restricted from trading;unit price {d} diamonds;Space Mages can condense space magic into a magic butterfly and seal it into a memory crystal, thus creating a memory butterfly. You can use a memory butterfly to record your current location. When you use it again, you can let it teleport you to the recorded location. Every successful teleportation costs a memory butterfly.
+Mariposa de memoria; no se puede comerciar; precio por unidad: $1 diamantes; Los magos espaciales pueden condensar la magia espacial en una mariposa mágica y sellarla en un cristal de memoria, creando así una mariposa de memoria. La puedes usar para registrar tu ubicación actual. Cuando la vuelvas a usar puedes hacer que te teletransporte a la ubicación registrada. Cada teletransporte exitoso cuesta una mariposa de memoria.
+
+Romance Stone;unit price {d} diamonds;A precious token of love. When two lovers both reach level 30, they can each use a romance stone, or the man can use two romance stones to apply for marriage by finding Priest Michelle at Holy Light Cathedral in Giant Rock City. Then, they will receive Gold Wedding Rings and hold a Common Wedding.
+Piedra del romance; precio por unidad: $1 diamantes; Una preciosa muestra de amor. Cuando dos enamorados alcanzan el nivel 30, ambos pueden usar una piedra de romance o el hombre puede usar dos piedras de romance para solicitar un matrimonio al hablar con el sacerdote Michelle en la Catedral de la Luz Sagrada en Ciudad Rocagigante. Entonces recibirán anillos de oro de boda y estarán unidos en un matrimonio común.
+
+Lovebird Stone;unit price {d} diamonds;A precious token of love. When two lovers both reach level 30, they can each use a lovebird stone, or the man can use two lovebird stones to apply for marriage by finding Priest Michelle at Holy Light Cathedral in Giant Rock City. Then, they will receive Platinum Wedding Rings and hold a Noble Wedding.
+Piedra del amor; precio por unidad: $1 diamantes; Una preciosa muestra de amor. Cuando dos enamorados alcanzan el nivel 30, ambos pueden usar una piedra del amor, o el hombre puede usar dos piedras del amor para solicitar un matrimonio al hablar con el sacerdote Michelle en la Catedral de la Luz Sagrada de Ciudad Rocagigante. Entonces ambos recibirán anillos de boda de platino y estarán unidos en un matrimonio noble.
+
+Eternity Stone;unit price {d} diamonds;A precious token of love. When two lovers both reach level 30, they can each use an Eternity stone, or the man can use two eternity stones to apply for marriage by finding Priest Michelle at Holy Light Cathedral in Giant Rock City. Then, they will receive Diamond Wedding Rings and hold a Royal Wedding.
+Piedra de la eternidad; precio por unidad: $1 diamantes; Una preciosa muestra de amor. Cuando dos enamorados alcanzan el nivel 30, ambos pueden usar una piedra de la eternidad o el hombre puede usar dos piedras de la eternidad para solicitar un matrimonio al hablar con el sacerdote Michelle en el Templo de la Luz Sagrada de Ciudad Rocagigante. Entonces recibirán anillos de boda de diamante y estarán unidos en un matrimonio real.
+
+listing goods cannot be taken out within two hours
+Los productos enlistados no se pueden retirar hasta después de 2 horas
+
+{d} diamonds point card recharge, get {d} diamonds and {d} recharge points
+Recargaste una tarjeta de $1 diamantes. Obtienes $2 diamantes y $3 puntos de recarga
+
+date has not yet arrived
+Todavía no puedes cobrar
+
+What you sold in the marketplace:  {s}  has expired and returned to your Storehouse
+Lo que vendiste en el mercado, {sub2{$1}sub2}, ha expirado y se ha devuelto a tu almacén.
+
+ Contribution Medal;recycling price {d} arnebia
+Medalla de contribución; precio por reciclar: $1 arnebia
+
+Ther goods you are selling are full
+Alcanzaste la cantidad máxima de artículos que puedes vender
+
+Is that too cheap?
+¿No es muy barato?
+
+ Arena medal;recycling price {d} arnebia
+Medalla de la arena; precio por reciclar: $1 arnebia
+
+Durability {d}
+Durabilidad $1
+
+strengthen {s}; {s} ; level {d}; weight {d}
+aumenta {sub2{$1}sub2}; {sub2{$2}sub2}; nivel $3; peso $4
+
+arnebia;Durability {d};strengthen {s}; {s} ; level {d}; weight {d}
+arnebia; Durabilidad $1; aumenta {sub2{$2}sub2}; {sub2{$3}sub2}; nivel $4; peso $5
+
+Purchase Jewelry
+Comprar joyería
+
+{d} points area goods; press to return
+Productos de $1 puntos; presiona para regresar
+
+{d};Exchange for {d} 2x experience acceleration cards and 1 1.5x experience acceleration card, worth {d} diamonds
+$1; cangearlos por $2 tarjetas de aumento de experiencia por 2 y una tarjeta de aumento de experiencia por 1.5, con un valor de $3 diamantes
+
+1;Exchange for a 2x experience acceleration card, worth 50 diamonds
+1; Cangearlos por una tarjeta de aumento de experiencia por 2, con un valor de 50 diamantes
+
+2;Exchange for a Player Rename Card, worth 50 diamonds
+2; Cangearlos por una tarjeta de cambio de nombre de jugador, con un valor de 50 diamantes
+
+{d};Exchange for {d} Resurrection Crystals and a {d}x experience acceleration card, worth {d} diamonds
+$1; Cangearlos por $2 cristales de resurrección y una tarjeta de aumento de experiencia por $3, con un valor de $4 diamantes
+
+4;Exchange for a Pet Skill Protection Stone, worth 50 diamonds
+4; Cangearlos por una piedra de habilidad de protección de mascotas, con un valor de 50 diamantes
+
+{d};Exchange for {d} Equipment Enhance Boost Runes, worth {d} diamonds
+$1; Cangearlos por $2 runas potenciadoras de equipo, con un valor de $3 diamantes
+
+{d};Exchange for {d} Weapon Enhance Boost Runes and {d} Equipment Enhance Boost Runes, worth {d} diamonds
+$1; Cangearlos por $2 runas potenciadoras de arma y $3 runas potenciadoras de equipo, con un valor de $4 diamantes
+
+{d};Exchange for {d} Equipment Enhance Protection Runes, worth {d} diamonds
+$1; Cangearlos por $2 runas de protección de equipo, con un valor de $3 diamantes
+
+8;Exchange for 1 Weapon Enhance Protection Rune, worth 50 diamonds
+8; Cangearlos por una runa de protección de arma, con un valor de 50 diamantes
+
+2;Exchange for 1 Gang Rename Card and 1 1.5x experience acceleration card, worth 120 diamonds
+2; Cangearlos por una tarjeta de cambio de nombre de pandilla y una tarjeta de aumento de experiencia por 1.5, con un valor de 120 diamantes
+
+{d};Exchange for {d} Resurrection Crystals, worth {d} diamonds
+$1; Cangearlos por $2 cristales de resurrección, con un valor de $3 diamantes
+
+{d};Exchange for {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por $2 piedras de protección de engarces, con un valor de $3 diamantes
+
+{d};Exchange for {d} Weapon Enhance Boost Runes, worth {d} diamonds
+$1; Cangearlos por $2 runas potenciadoras de arma, con un valor de $3 diamantes
+
+6;Exchange for 2 Weapon Enhance Protection Runes and 1 Weapon Enhance Boost Rune, worth 120 diamonds
+6; Cangearlos por 2 runas de protección de arma y una runa potenciadora de arma, con un valor de 120 diamantes
+
+{d};Exchange for {d} Resurrection Crystals and 1 {d}x experience acceleration card, worth {d} diamonds
+$1; Cangearlos por $2 cristales de resurrección y una tarjeta de aumento de experiencia por $3, con un valor de $4 diamantes
+
+{d};Exchange for {d} {d}x experience acceleration cards and 1 {d}x experience acceleration card, worth {d} diamonds
+$1; Cangearlos por $2 tarjetas de aumento de experiencia por $3 y una tarjeta de aumento de experiencia por $4, con un valor de $5 diamantes
+
+{d};Exchange for {d} Pet Skill Protection Stones and {d} Pet rename cards, worth {d} diamonds
+$1; Cangearlos por $2 piedras de protección de habilidades para mascotas y $3 tarjetas de cambio de nombre de mascota, con un valor de $4 diamantes
+
+{d};Exchange for {d} Socket Protection Stones and 1 {d}x experience acceleration card, worth {d} diamonds
+$1; Cangearlos por $2 piedras de protección de engarces y una tarjeta de aumento de experiencia por $3, con un valor de $4 diamantes
+
+{d};Exchange for {d} sets of Equipment Enhance items, worth {d} diamonds, including {d} Equipment Enhance Boost Runes and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por $2 conjuntos de mejora de equipo, con un valor de $3 diamantes. En total obtendrás $4 runas potenciadoras de equipo y $5 runas de protección de equipo
+
+{d};Exchange for {d} sets of Weapon Enhance items, worth {d} diamonds, including {d} Weapon Enhance Boost Runes and {d} Weapon Enhance Protection Runes
+$1; Cangearlos por $2 conjuntos de mejora de arma, con un valor de $3 diamantes. En total obtendrás $4 runas potenciadoras de arma y $5 runas de protección de arma
+
+{d};Exchange for {d} {d}x experience acceleration cards, worth {d} diamonds
+$1; Cangearlos por $2 tarjetas de aumento de experiencia por $3, con un valor de $4 diamantes
+
+{d};Exchange for {d} Pet Skill Protection Stones, worth {d} diamonds
+$1; Cangearlos por $2 piedras de protección de habilidades para mascotas, con un valor de $3 diamantes
+
+{d};Exchange for {d} Weapon Enhance Boost Runes and {d} Weapon Enhance Protection Runes, worth {d} diamonds
+$1; Cangearlos por $2 runas potenciadoras de arma y $3 runas de protección de arma, con un valor de $4 diamantes
+
+{d};Exchange for {d} Equipment Enhance Boost Runes and {d} Equipment Enhance Protection Runes, worth {d} diamonds
+$1; Cangearlos por $2 runas potenciadoras de equipo y $3 runas de protección de equipo, con un valor de $4 diamantes
+
+{d};Exchange for {d} Weapon Enhance Protection Runes and {d} Equipment Enhance Protection Runes, worth {d} diamonds
+$1; Cangearlos por $2 runas de protección de arma y $3 runas de protección de equipo, con un valor de $4 diamantes
+
+9;Exchange for a set of Level 3 gems, 15 in total, and a 2x experience acceleration card, worth 530 diamonds
+9; Cangearlos por un conjunto de gemas de nivel 3, 15 en total y una tarjeta de aumento de experiencia por 2, con un valor de 530 diamantes
+
+10;Exchange for 1 Gem Protection Rune and 1 2x experience acceleration card, worth 449 diamonds
+10; Cangearlos por una piedra de protección de gemas y una tarjeta de aumento de experiencia por 2, con un valor de 449 diamantes
+
+{d};Exchange for {d} resurrection crystals, worth {d} diamonds
+$1; Cangearlos por $2 cristales de resurrección, con un valor de $3 diamantes
+
+{d};Exchange for {d} sets of Enhance items and {d} Resurrection Crystals, worth {d} diamonds, including {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por $2 conjuntos de mejora de objetos y $3 cristales de resurrección, con un valor de $4 diamantes. En total obtendrás $5 runas potenciadoras de arma, $6 runas de protección de arma, $7 runas potenciadoras de equipo y $8 runas de protección de equipo
+
+{d};Exchange for a set of Level {d} gems, {d} in total, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por un conjunto de gemas de nivel $2, $3 en total y $4 piedras de protección de engarces, con un valor de $5 diamantes
+
+{d};Exchange for {d} pet skill protection stones and {d} resurrection crystals, worth {d} diamonds
+$1; Cangearlos por $2 piedras de protección de habilidades para mascotas y $3 cristales de resurrección, con un valor de $4 diamantes
+
+{d};Exchange for {d} sets of enhance items and {d} resurrection crystals, worth {d} diamonds, including {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, {d} Equipment Enhance Protection Runes, and {d} resurrection crystals
+$1; Cangearlos por $2 conjuntos de mejora de objetos  y $3 cristales de resurrección, con un valor de $4 diamantes. En total obtendrás $5 runas potenciadoras de arma, $6 runas de protección de arma, $7 runas potenciadoras de equipo, $8 runas de protección de equipo y $9 cristales de resurrección.
+
+{d};Exchange for {d} sets of Level {d} gems, {d} in total, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por $2 conjuntos de gemas de nivel $3, $4 en total y $5 piedras de protección de engarces, con un valor de $6 diamantes
+
+{d};Exchange for {s}, {d} {d}x experience acceleration cards and {d} resurrection crystals, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, $3 tarjetas de aumento de experiencia por $4 y $5 cristales de resurrección, con un valor de $6 diamantes
+
+{d};Exchange for {s}, 1 set of Level {d} gems, {d} in total, {d} {d}x experience acceleration cards, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, un conjunto de gemas de nivel $3, $4 en total, $5 tarjetas de aumento de experiencia por $6 y $7 piedras de protección de engarces, con un valor de $8 diamantes
+
+{d};Exchange for {s} and {d} Resurrection crystals, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 cristales de resurrección, con un valor de $4 diamantes
+
+{d};Exchange for {s} and {d} {d}x Experience Acceleration Cards, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 tarjetas de aumento de experiencia por $4, con un valor de $5 diamantes
+
+{d};Exchange for {d} pet skill protection stones and 1 resurrection crystal, worth {d} diamonds
+$1; Cangearlos por $2 piedras de protección de habilidades para mascotas y un cristal de resurrección, con un valor de $3 diamantes
+
+{d};Exchange for {d} sets of Enhance items and {d} resurrection crystals, worth {d} diamonds; Including {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, {d} Equipment Enhance Protection Runes, and {d} resurrection crystals
+$1; Cangearlos por $2 cristales de resurrección y $3 conjuntos de mejora de objetos, con un valor de $4 diamantes. En total obtendrás $5 runas potenciadoras de arma, $6 runas de protección de arma, $7 runas potenciadoras de equipo, $8 runas de protección de equipo y $9 cristales de resurrección.
+
+{d};Exchange for {d} Gem Protection Runes and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por $2 runas de protección de gemas y $3 piedras de protección de engarces, con un valor de $4 diamantes
+
+{d};Exchange for {d} sets of enhance items and 1 resurrection crystal, worth {d} diamonds; Including {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, {d} Equipment Enhance Protection Runes, and 1 resurrection crystal
+$1; Cangearlos por un cristal de resurrección y $2 conjuntos de mejora de objetos, con un valor de $3 diamantes. En total obtendrás $4 runas potenciadoras de arma, $5 runas de protección de arma, $6 runas potenciadoras de equipo, $7 runas de protección de equipo y un cristal de resurrección
+
+{d};Exchange for {s}, {d} sets of enhance items, {d} {d}x experience acceleration cards and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos, $4 tarjetas de aumento de experiencia por $5 y $6 cristales de resurrección, con un valor de $7 diamantes. Los $8 conjuntos de mejora de objetos suman $9 runas potenciadoras de arma, $10 runas de protección de arma, $11 runas potenciadoras de equipo y $12 runas de protección de equipo.
+
+1;Exchange for 1 Gang Token, 1 Gang Gift Box, and 20 resurrection crystals, worth 2999 diamonds
+1; Cangearlos por una ficha de pandilla, una caja de regalo de la pandilla y 20 cristales de resurrección, con un valor de 2999 diamantes
+
+{d};Exchange for {d} sets of enhance items, worth {d} diamonds; Including {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por $2 conjuntos de mejora de objetos, con un valor de $3 diamantes. En total obtendrás $4 runas potenciadoras de arma, $5 runas de protección de arma, $6 runas potenciadoras de equipo y $7 runas de protección de equipo
+
+{d};Exchange for 1 set of Level {d} gems, {d} in total; {d} sets of Level {d} gems, {d} in total; and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por un conjunto de gemas de nivel $2, $3 en total; $4 conjuntos de gemas de nivel $5, $6 en total y $7 piedras de protección de engarces, con un valor de $8 diamantes
+
+{d};Exchange for {s}, {d} sets of enhance items, and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos y $4 cristales de resurrección, con un valor de $5 diamantes. Los $6 conjuntos de mejora de objetos suman $7 runas potenciadoras de arma, $8 runas de protección de arma, $9 runas potenciadoras de equipo y $10 runas de protección de equipo.
+
+{d};Exchange for {s}, {d} sets of Level {d} gems, {d} in total, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de gemas de nivel $4, $5 en total y $6 piedras de protección de engarces, con un valor de $7 diamantes
+
+1 Ice Scale Leopard Beast Crystal
+1 cristal de Leopardo de Escamas de Hielo
+
+1 Rock spirit beast crystal
+1 cristal de Espíritu Guardián de la Roca
+
+{d};Exchange for {s} and {d} sets of Level {d} gems, a total of {d}, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 conjuntos de gemas de nivel $4, $5 en total, con un valor de $6 diamantes
+
+1 Ice Scale Leopard beast crystal
+1 cristal de Leopardo de Escamas de Hielo
+
+{d};Exchange for {d} sets of enhance items and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por $2 conjuntos de mejora de objetos y $3 cristales de resurrección, con un valor de $4 diamantes. Los $5 conjuntos de mejora de objetos suman $6 runas potenciadoras de arma, $7 runas de protección de arma, $8 runas potenciadoras de equipo y $9 runas de protección de equipo
+
+{d};Exchange for {s} and {d} resurrection crystals, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 cristales de resurrección, con un valor de $4 diamantes
+
+{d};Exchange for {s}, {d} sets of enhance items and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos y $4 cristales de resurrección, con un valor de $5 diamantes. Los $6 conjuntos de mejora de objetos suman $7 runas potenciadoras de arma, $8 runas de protección de arma, $9 runas potenciadoras de equipo y $10 runas de protección de equipo
+
+{d};Exchange for {s}, 1 set of Level {d} gems, {d} in total, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, un conjunto de gemas de nivel $3, $4 en total y $5 piedras de protección de engarces, con un valor de $6 diamantes
+
+{d};Exchange for {s},+{d} sets of enhance items, and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos y $4 cristales de resurrección, con un valor de $5 diamantes. Los $6 conjuntos de mejora de objetos suman $7 runas potenciadoras de arma, $8 runas de protección de arma, $9 runas potenciadoras de equipo y $10 runas de protección de equipo
+
+{d};Exchange for {s}, 1 set of Level {d} gemstones, {d} in total, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, un conjunto de gemas de nivel $3, $4 en total y $5 piedras de protección de engarces, con un valor de $6 diamantes
+
+1 Ghost baby Beast Crystal
+1 cristal de Guardián Fantasma Bebé
+
+{d};Exchange for {d} sets of Level {d} gems, {d} in total, and {d} sets of Level {d} gems, {d} in total, worth {d} diamonds
+$1; Cangearlos por $2 conjuntos de gemas de nivel $3, $4 en total y $5 conjuntos de gemas de nivel $6, $7 en total, con un valor de $8 diamantes
+
+{d};Exchange for {s}, {d} sets of enhance items and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos y $4 cristales de resurrección, con un valor de $5 diamantes. Los $6 conjuntos de mejora de objetos suman $7 runas potenciadoras de arma, $8 runas de protección de arma, $9 runas potenciadoras de equipo y $10 runas de protección de equipo
+
+{d};Exchange for {s}, and {d} sets of Level {d} gems, {d} in total, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 conjuntos de gemas de nivel $4, $5 en total, con un valor de $6 diamantes
+
+1 Ice Scale Leopard Beast Crystal, 1 set of Level {d} gems, {d} in total
+1 cristal de Leopardo de Escamas de Hielo, un conjunto de gemas de nivel $1, $2 en total
+
+1 Ghost Baby Beast Crystal
+1 cristal de Guardián Fantasma Bebé
+
+{d};Exchange for {s} and {d} sets of enhance items, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2} y $3 conjuntos de mejora de objetos, con un valor de $4 diamantes. Los $5 conjuntos de mejora de objetos suman $6 runas potenciadoras de arma, $7 runas de protección de arma, $8 runas potenciadoras de equipo y $9 runas de protección de equipo
+
+{d};Exchange for {d} sets of enhance items and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Rune, {d} Weapon Enhance Protection Rune, {d} Equipment Enhance Boost Rune, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por $2 conjuntos de mejora de objetos y $3 cristales de resurrección, con un valor de $4 diamantes. Los $5 conjuntos de mejora de objetos suman $6 runas potenciadoras de arma, $7 runas de protección de arma, $8 runas potenciadoras de equipo y $9 runas de protección de equipo
+
+{d};Exchange for {d} sets of Level {d} gems, {d} gems in total, {d} sets of Level {d} gems, {d} gems in total, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por $2 conjuntos de gemas de nivel $3, $4 en total; $5 conjuntos de gemas de nivel $6, $7 en total y $8 piedras de protección de engarces, con un valor de $9 diamantes
+
+3;Exchange for two sets of Elevate items, including 2 Pale Jade Crystals and 20 Violet Haze Crystals, worth 7000 diamonds
+3; Cangearlos por 2 conjuntos de objetos para elevar que incluyen 2 cristales de jade pálido y 20 cristales de niebla violeta, con un valor de 7000 diamantes
+
+1 Bubble Dragon Super Soul Stone
+1 superpiedra de alma de Dragón Burbuja
+
+{d};Exchange for {s}, 1 set of Level {d} gemstones, {d} in total, 1 set of Level {d} gemstones, {d} in total, and {d} Socket protection stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, un conjunto de gemas de nivel $3, $4 en total; 1 conjunto de gemas de nivel $5, $6 en total y $7 piedras de protección de engarces, con un valor de $8 diamantes
+
+1 Thunderbird Beast Crystal
+1 cristal de Thunderbird
+
+{d};Exchange for {s}, 1 set of Level {d} gems, {d} in total, 1 set of Level {d} gems, {d} in total, and {d} socket protection stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, un conjunto de gemas de nivel $3, $4 en total; 1 conjunto de gemas de nivel $5, $6 en total y $7 piedras de protección de engarces, con un valor de $8 diamantes
+
+{d};Exchange for {s}, {d} sets of enhance items and {d} resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Rune
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos y $4 cristales de resurrección, con un valor de $5 diamantes. Los $6 conjuntos de mejora de objetos suman $7 runas potenciadoras de arma, $8 runas de protección de arma, $9 runas potenciadoras de equipo y $10 runas de protección de equipo
+
+{d};Exchange for {s}, {d} sets of Level {d} gems {d} in total, {d} sets of Level {d} gems, {d} in total, and {d} Socket protection stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de gemas de nivel $4, $5 en total; $6 conjuntos de gemas de nivel $7, $8 en total y $9 piedras de protección de engarces, con un valor de $10 diamantes
+
+Point card recharge
+Recargar tarjeta de puntos
+
+If you have any questions, you can open the F1 menu and consult the administrator through feedback.
+Si tienes preguntas, puedes presionar F1 y pedir retroalimentación a los administradores
+
+Recharge activity "{s}" has finished
+Ha finalizado la actividad de recarga "$1"
+
+Press to view description
+Pulsa para ver la descripción
+
+You did not recharge during the activity, and there is no record of your ranking
+No recargaste durante la actividad, así que no se generó ningún registro.
+
+{d};Exchange for {s}, {d} sets of enhance items and {d} Resurrection crystals, worth {d} diamonds; {d} sets of enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos y $4 cristales de resurrección, con un valor de $5 diamantes. Los $6 conjuntos de mejora de objetos suman $7 runas potenciadoras de arma, $8 runas de protección de arma, $9 runas potenciadoras de equipo y $10 runas de protección de equipo
+
+{d};Exchange for {s} and {d} sets of Level {d} gems, totaling {d}, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 conjuntos de gemas de nivel $4, $5 en total, con un valor de $6 diamantes
+
+1 Shadow Wolf Beast Crystal
+1 cristal de Lobo de las Sombras
+
+{d};Exchange for {s}, {d} sets of Enhance items and {d} resurrection crystals, worth {d} diamonds; {d} sets of Enhance items include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de mejora de objetos y $4 cristales de resurrección, con un valor de $5 diamantes. Los $6 conjuntos de mejora de objetos suman $7 runas potenciadoras de arma, $8 runas de protección de arma, $9 runas potenciadoras de equipo y $10 runas de protección de equipo
+
+{d};Exchange for {s}, {d} Gem Protection Runes, and {d} Socket Protection Stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, $3 runas de protección de gemas y $4 piedras de protección de engarces, con un valor de $5 diamantes
+
+1 Angel Baby Beast Crystal
+1 cristal de Ángel Bebé Guardián
+
+{d};Exchange for {d} sets of Level {d} gems, {d} in total, and {d} socket protection stones, worth {d} diamonds
+$1; Cangearlos por $2 conjuntos de gemas de nivel $3, $4 en total y $5 piedras de protección de engarces, con un valor de $6 diamantes
+
+3;Exchange for 4 sets of Elevate items, including 4 Pale Jade Crystals and 40 Violet Haze Crystals, worth 14000 diamonds
+3; Cangearlos por 4 conjuntos de objetos para elevar que incluyen 4 cristales de jade pálido y 40 cristales de niebla violeta, con un valor de 14000 diamantes
+
+{d};Exchange for {s}, {d} sets of Level {d} gems, a total of {d}, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 conjuntos de gemas de nivel $4, $5 en total, con un valor de $6 diamantes
+
+{d};Exchange for {s}, {d} sets of Level {d} gems, {d} in total, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2} y $3 conjuntos de gemas de nivel $4, $5 en total, con un valor de $6 diamantes
+
+{d};Exchange for {s}, {d} sets of Level {d} gems, {d} in total, {d} socket Protection stones, and 1 Gem Protection Rune, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de gemas de nivel $4, $5 en total, $6 piedras de protección de engarces y una runa de protección de gemas, con un valor de $7 diamantes
+
+{d};Exchange for {s}, {d} sets of Level {d} gems, {d} in total, {d} Socket Protection Stones, and 1 Gem Protection Rune, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de gemas de nivel $4, $5 en total, $6 piedras de protección de engarces y una runa de protección de gemas, con un valor de $7 diamantes
+
+1 wind spirit beast crystal
+1 cristal de Espíritu Guardián del Viento
+
+1 wind spirit beast crystal,
+1 cristal de Espíritu Guardián del Viento
+
+{d};Exchange for {s}, {d} sets of Level {d} gems totaling {d}, and {d} Socket protection stones, worth {d} diamonds
+$1; Cangearlos por {sub2{$2}sub2}, $3 conjuntos de gemas de nivel $4, $5 en total y $6 piedras de protección de engarces, con un valor de $7 diamantes
+
+{s} of yours, you got {d} gold {s}
+{sub2{$1}sub2}. Obtienes $2 monedas
+
+you have {d} account diamonds
+Tienes $1 diamantes de cuenta
+
+{d} character bound diamonds
+$1 diamantes vinculados al personaje
+
+Note: Account diamonds will be used when purchasing free-trading items, and character-bound diamonds will be used first when purchasing non-free-trading items, and account diamonds will be used when the number of bound diamonds is insufficient.
+Nota: Los diamantes de cuenta se utilizarán al comprar artículos de libre comercio. Los diamantes vinculados al personaje se utilizarán primero al comprar artículos que no sean de libre comercio, y si la cantidad de diamantes vinculados es insuficiente, se utilizarán diamantes de cuenta.
+
+Hello {c}, what would you like to sell{s}
+Hola $1, ¿qué te gustaría vender$2
+
+VIP And Income monthly card{s}After purchase, you can claim 60 bound Diamonds (bound to the character) and 200000 Arnebia per day at the Royal Bank of any city for 30 consecutive days{s} In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day{s}
+Tarjeta VIP mensual$1 Después de la compra, puedes reclamar 60 Diamantes (vinculados al personaje) y 200000 Arnebia diariamente en cualquier banco real durante 30 días$2 Además tu almacén se expandirá 20 espacios, podrás dar y vender pociones a otros jugadores (hasta un máximo de 3000 por día) y viajar en los dirigibles y teleféricos sin pagar arnebia$3
+
+no data
+Sin registros
+
+ concentric knot;recycling price {d} arnebia
+Nudo concéntrico; precio por reciclar: $1 arnebia
+
+recharge record in this recharge activity
+registro de recarga en esta actividad
+
+View current ranking
+Ver la clasificación actual
+
+Recharge activity "{s}" is in progress
+La actividad de recarga "$1" está en progreso
+
+name: {s}
+Nombre: $1
+
+date: from {s} {d}, {d} to {s} {d}, {d}
+Fecha: Del $2 de {sub2{$1}sub2} de $3 al $5 de {sub2{$4}sub2} de $6
+
+Description: {t}
+Descripción: $1
+
+Recharge up to {d} diamonds, can get 1 set of enhance items, includes 1 Weapon Enhance Boost Rune, 1 Weapon Enhance Protection Rune, 10 Equipment Enhance Boost Runes, and 10 Equipment Enhance Protection Runes
+Al recargar un mínimo de $1 diamantes podrás obtener un conjunto de objetos de mejora, que incluyen una runa potenciadora de arma, una runa de protección de arma, 10 runas potenciadoras de equipo y 10 runas de protección de equipo
+
+Recharge up to {d} diamonds, can get {d} sets of enhance items, include {d} Weapon Enhance Boost Runes, {d} Weapon Enhance Protection Runes, {d} Equipment Enhance Boost Runes, and {d} Equipment Enhance Protection Runes
+Al recargar un mínimo de $1 diamantes podrás obtener $2 conjuntos de mejora de equipo, que incluyen $3 runas potenciadoras de arma, $4 runas de protección de arma, $5 runas potenciadoras de equipo y $6 runas de protección de equipo.
+
+Recharge ranking
+Clasificación de recarga
+
+{s}.Recharge ranking
+Clasificación de recarga del evento $1
+
+You have recharged {d} diamonds in this Recharge activity and ranked {d}th
+En este evento de recarga has recargado $1 diamantes y estás en la posición $2 de la clasificación
+
+{d};{c};{d} diamonds; Last recharge on {s} {d}, {d}
+$1; $2; $3 diamantes; recargó por última vez el $5 de {sub2{$4}sub2} de $6
+
+{d} diamonds
+$1 diamantes
+
+ Last recharge on {s} {d}, {d}
+Recargó por última vez el $2 de {sub2{$1}sub2} de $3
+
+ soft pouch;recycling price {d} arnebia
+Bolsa ligera; precio por reciclar: $1 arnebia
+
+购买
+Comprar
+
+Your level cannot purchase this value product
+No puedes comprar este producto de valor a tu nivel
+
+ One Star Attack Medal;recycling price {d} arnebia
+Medalla de ataque de una estrella; precio por reciclar: $1 arnebia

@@ -1,0 +1,2432 @@
+This is a mechanism on the stone gate with a Circular groove carved on it.
+Este es un mecanismo en la puerta de piedra con una ranura circular tallada
+
+You inserted the stone ball into the circular groove. The stone gate has been moved aside; you can now pass.
+Insertaste la bola de piedra en la ranura circular. La puerta se ha movido hacia un lado, y ahora puedes pasar.
+
+This is a mechanism on the stone gate with three Circular grooves arranged in a triangle on it.
+Este es un mecanismo en la puerta de piedra que tiene tres patrones circulares dispuestos en forma de triángulo
+
+Groove {d}; press to insert the Crystal Stone
+Ranura $1; presiona para insertar una piedra de cristal
+
+Please select the crystal stone you want to insert.
+Por favor selecciona la piedra de cristal que quieres insertar
+
+You have inserted the crystal stone; press to return
+Has insertado la piedra de cristal; presiona para continuar
+
+Groove {d} has been inserted with blue crystal stone; press to remove it
+La ranura $1 tiene insertada la piedra de cristal azul; presiona para quitarla
+
+Groove {d} has been inserted with red crystal stone; press to remove it
+La ranura $1 tiene insertada la piedra de cristal roja; presiona para quitarla
+
+Groove {d} has been inserted with green crystal stone; press to remove it
+La ranura $1 tiene insertada la piedra de cristal verde; presiona para quitarla
+
+You have removed the crystal stone; press to return
+Quitaste la piedra de cristal; presiona para continuar
+
+Three crystal stones have been correctly inserted into the three grooves of the mechanism; the stone door is slowly moving.
+Las tres piedras de cristal han sido insertadas correctamente en los patrones; la puerta de piedra se mueve lentamente
+
+Greetings, {s} do you wish to accept a couple mission{s} Please team up with your partner and come to me.
+Hola {sub2{$1}sub2}, ¿quieres aceptar una misión de pareja$2 Por favor forma un equipo con tu pareja y vengan conmigo
+
+River gangsters; requires 0 Intimacy
+Pandilleros en el río; requiere 0 intimidad
+
+Mutant village; requires 1000 Intimacy
+Aldea mutante; requiere 1000 intimidad
+
+Hidden Cult; requires 2000 Intimacy
+Culto oculto; requiere 2000 intimidad
+
+Demon Barracks; requires 3500 Intimacy
+Barracones demoníacos; requiere 3500 intimidad
+
+Couple dungeon introduction
+Introducción a las mazmorras de pareja
+
+Every couple can only enter the couple dungeon once per day. The two need to be present and form a team.
+Cada pareja puede entrar a la mazmorra una vez al día. Los dos deben estar presentes y formar un equipo.
+
+Every couple dungeon can be entered when you've met the corresponding Intimacy requirements. Every time a couple enters the couple dungeon, they will gain 30 Intimacy.
+Cada pareja puede entrar a la mazmorra cuando consigue la intimidad requerida. Cada vez que una pareja finalice una mazmorra obtendrá 30 intimidad.
+
+When entering the dungeon, you can choose from three difficulty levels according to the level of the player in the dialogue.
+Al entrar a la mazmorra puedes elegir entre 3 niveles de dificultad de acuerdo al nivel de los dos.
+
+Defeating monsters in the dungeon will give you adequate experience. And completing the dungeon will give you the corresponding dungeon rewards.
+Derrotar a los monstruos en la mazmorra te dará la experiencia definida, y al terminar la mazmorra se te recompensará con los premios correspondientes.
+
+Young one, what mission do you wish to take on?
+Joven, ¿en qué misión te gustaría embarcarte?
+
+Situation: A group of fierce gangsters appeared near the fjord river to the west. They've set up multiple iron railings on the river course with steep cliffs on both sides, robing the passing fishing boats.
+Situación: Un grupo de pandilleros feroces aparecieron cerca del fiordo del río al oeste. Han puesto múltiples barandillas de hierro en el río en los acantilados empinados de ambos extremos, con el fin de bloquear el paso de los barcos pesqueros y asaltarlos.
+
+Mission: Eliminate the gangsters along the river and open all the iron gates of the railings. Finally, defeat their bosses, a pair of rogues that have been harassing the people of central kingdom for many years.
+Misión: Elimina a los pandilleros a lo largo del río y abre todas las rejas de hierro de las barandillas. Finalmente, derrota a los jefes, un par de bandidos que han estado acosando a gente del Reino Central durante muchos años.
+
+Select difficulty level
+Selecciona el nivel de dificultad
+
+Level {d}
+Nivel $1
+
+There are two buttons on the electronic lock
+Hay dos botones en la cerradura electrónica
+
+Blue button is pressed
+El botón azul está presionado
+
+Red button is pressed
+El botón rojo está presionado
+
+Blue button
+Botón azul
+
+Red button
+Botón rojo
+
+Already pressed; press to return
+Presionado; presiona para continuar
+
+The electronic lock has a light and a button
+La cerradura electrónica tiene una luz y un botón
+
+The blue light is off
+La luz azul está apagada
+
+The red light is on
+La luz roja está encendida
+
+The blue light is on
+La luz azul está encendida
+
+The red light is off
+La luz roja está apagada
+
+Water Cave Teleportation circle
+Círculo de teletransportación de la cueva de agua
+
+Slime crisis
+Crisis de slime
+
+A Shape-shifting slime in production has appeared in the intricate underground caves under the Polson Wetland. Please go and destroy it before it can produce a large number of slimes.
+Ha aparecido un slime metamórfico en los subsuelos intrincados del Humedal Polson. Por favor ve y destrúyelo antes de que pueda crear una gran cantidad de slimes.
+
+Warriors need to split up after entering the quest. The stronger warriors enter the passage north of the first cave, and the weaker warriors enter the passage east of the first cave. The two ways work together to open the stone door to the hiding place of the shape-shifting slime.
+Los guerreros deben separarse después de ingresar a la misión. Los más fuertes deben entrar al pasaje norte, mientras que los más débiles deben ir al pasaje este, en la primera cueva. Entonces deberán de trabajar juntos para abrir las puertas de piedra que los llevarán al slime metamórfico.
+
+Tip: Gang members can get double rewards in the daily refresh gang dungeons when first Pass them in a week. Everyone can resurrect unlimited in the gang dungeons.
+Consejo: los miembros de la pandilla pueden obtener el doble de recompensas la primera vez en la semana que terminan la mazmorra de pandilla a la que se accede una vez al día, y todos pueden resucitar de forma ilimitada en ella.
+
+Enter the dungeon; requires a team of at {d} to {d} gang players; requires Minimum grade {d}
+Entrar a la mazmorra; se requiere un equipo de la pandilla de entre $1 y $2 jugadores, y que la pandilla tenga $3 de índice de crecimiento.
+
+The stone door will close in two seconds, please get in quickly.
+La puerta se cerrará en dos segundos, ¡entra rápido!
+
+You attach the penetration ring to the barrier, and a suction force comes from the center of the ring, which is about to take you through the film to reach the {s}.
+Anclas el anillo de penetración a la barrera y una fuerza de succión que te llevará a través de la capa celuloide al {sub2{$1}sub2} emerge desde el centro del anillo.
+
+Go through
+Adentrarte
+
+purple color area
+área púrpura
+
+blue color area
+área azul
+
+yellow color area
+área amarilla
+
+white color area
+área blanca
+
+red color area
+área roja
+
+black color area
+área negra
+
+cyan color area
+área cian
+
+center area
+área central
+
+Purple color area
+área púrpura
+
+Blue color area
+área azul
+
+Yellow color area
+área amarilla
+
+White color area
+área blanca
+
+Red color area
+área roja
+
+Black color area
+área negra
+
+Cyan color area
+área cian
+
+Bubble barrier; A barrier formed by a layer of transparent and flexible film. On its other side is a {s}.
+Barrera de burbujas; una barrera formada por una capa celuloide transparente y flexible. En el otro lado de esta hay un {sub2{$1}sub2}.
+
+Enter the dungeon; clearing the dungeon will cost {d} Adventure Points; You won't get any experience or rewards if you don't have enough adventure points; you now have {d} adventure points
+Entrar a la mazmorra; al finalizarla perderás $1 puntos de aventura; no obtendrás experiencia ni recompensas si no tienes suficientes puntos; tienes $2 puntos
+
+Check Dungeon Description
+Ver la descripción de la mazmorra
+
+A strange giant bubble has appeared over Polson Wetland, emanating an ominous elemental aura from within. Warrior, please destroy this mysterious object.
+Una extraña burbuja gigante que emana un aura elemental abominable desde su interior apareció sobre el Humedal Polson. Guerrero, por favor destruye este objeto misterioso.
+
+Dungeon Level 55, Limited to Level 50 and above. Difficulty Ordinary. Completing the dungeon will reward you with Glowstone (the material to craft Firefly fusion beasts), other items, and experience.
+Mazmorra de nivel 55, limitada a jugadores de nivel 50 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con fluoritas (material para hacer la bestia de fusión de luciérnaga), experiencia y otros objetos.
+
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points or if you have already completed the dungeon.
+Consejo 1: Esta mazmorra es una mazmorra de aventura. Si fallas, puedes entrar las veces que quieras para volver a intentar completarla. Al terminar esta mazmorra perderás puntos de aventura; no obtendrás experiencia ni recompensas si no tienes suficientes puntos.
+
+Tip 2: When the warrior's level is no higher than the dungeon level by {d} level, you will receive {d}x main material reward when you complete the dungeon for the first time.
+Consejo 2: cuando el nivel del personaje no sea superior al de la mazmorra por $1 niveles, vas a recibir $2 veces la cantidad de los objetos principales que otorga la mazmorra al terminarla por primera vez.
+
+Return
+Atrás
+
+The crisis of Herbs Village(Slightly difficult)
+La crisis de la Aldea de Hierbas (ligeramente difícil)
+
+The crisis of Herbs Village(Slightly difficult); Completed
+La crisis de la Aldea de Hierbas (ligeramente difícil); completada
+
+Enter the dungeon; Groups of {d} to {d} people are required; clearing the dungeon will cost {d} Adventure Points per person; If you have completed the dungeon, or if you won't get any experience or rewards if you don't have enough adventure points; you now have {d} adventure points
+Entrar a la mazmorra; se requiere un grupo de $1 a $2 personas; al finalizarla cada persona perderá $3 puntos de aventura; quien no tenga suficientes puntos no obtendrá experiencia ni recompensas; tienes $4 puntos.
+
+Please select the number of people entering
+Por favor selecciona la cantidad de personas que van a entrar
+
+Single enter
+Una persona
+
+Two enter
+Dos personas
+
+Three enter
+Tres personas
+
+Four enter
+Cuatro personas
+
+On Herbal Mountain, there is a village called Herbs Village, where villagers have been growing herbs for generations. Recently, the bison and goats on the mountain suddenly went crazy and attacked the village, and a bison ate some magic herb and evolved into a demon. But due to the influence of Demonic Energy, the demon became ferocious and started to call itself the Bull King. Warriors, please eliminate the demonized bison and goats, and restore peace to Herbs Village.
+En la Montaña de Hierbas hay una aldea llamada Aldea de Hierbas, donde los aldeanos han estado cultivando hierbas durante generaciones. Recientemente y sin ningún aviso, los toros y las cabras de la montaña se volvieron locos y han estado atacando a los aldeanos, e incluso un toro se convirtió en un demonio tras ingerir una hierba mágica. Debido a la influencia de la energía demoníaca, el demonio se ha vuelto mucho más feroz y se ha denominado a sí mismo el Rey Toro. Guerreros, por favor eliminen a los toros y a las cabras demonizadas y restauren la paz en la Aldea de Hierbas.
+
+Dungeon Level 55, Limited to Level 50 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Suspicious Plating (the material to craft One Star Attack Medal), other items, and experience.
+Mazmorra de nivel 55, limitada a jugadores de nivel 50 y superior. Dificultad, ligeramente difícil. Al completar esta mazmorra se te recompensará con enchapados sospechosos (material para fabricar una medalla de ataque de una estrella), otros objetos y experiencia.
+
+Ice maze(Ordinary)
+Laberinto de hielo (normal)
+
+Ice maze(Ordinary); Completed
+Laberinto de hielo (normal); completada
+
+The ice queen's two maids used Demonic Energy to train themselves, greatly enhancing their magic power. and the ice queen used magic to create a maze for them to train in its deepest parts. The maze is heavily guarded by various ice demons.
+Las dos doncellas de la Reina del Hielo usan energía demoníaca para entrenarse, lo que fortalece enormemente su poder mágico. Así que la reina, con su magia, creó un laberinto en lo más profundo de su palacio para que puedan usarlo para entrenar. El laberinto está fuertemente custodiado por demonios de hielo.
+
+When the two maids finish their training, the Ice Queen will acquire powerful aid, and she will leave the Ice Palace to achieve her goal—freezing the entire world. Warriors, please eliminate the maids in training.
+Cuando las doncellas finalicen su entrenamiento la reina tendrá dos aliadas poderosísimas que la harán abandonar su palacio de hielo para alcanzar su objetivo, congelar el mundo entero. Guerrero, por favor elimina a las doncellas.
+
+Dungeon Level 55, Limited to Level 50 and above; difficulty Ordinary. Completing the dungeon will reward you with Ebony Metal (the material to craft One Star Attack Medal), other items, and experience.
+Mazmorra de nivel 55, limitada a jugadores de nivel 50 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con metal de ébano (material para fabricar una medalla de ataque de una estrella), otros objetos y experiencia.
+
+Death wormhole(Ordinary)
+Gusano de la muerte (normal)
+
+Death wormhole(Ordinary); Completed
+Gusano de la muerte (normal); completada
+
+At the foot of Herbal Mountain, there is a cave hollowed out by a group of demon worms that dwells inside. These terrifying worms are nourished by spirit energy and can grow rapidly, but at the same time, under the influence of Demonic Energy, these worms have mutated, and a horrifying death worm has been born. Now the growth of the plants in the valley has been affected by the demon worms. Perhaps they will venture out of the mountain very soon. Warriors, please eliminate these abominations as soon as possible!
+Al pie de la Montaña de Hierbas hay una cueva excavada por gusanos demoníacos que habitan en su interior. Estos gusanos aterradores se alimentan de la energía de los espíritus, lo que los hace crecer muy rápido, pero al mismo tiempo, bajo la influencia de energía demoníaca han ido mutando, originándose un repugnante gusano de la muerte. Ahora el crecimiento de las plantas del valle se ha visto afectado debido a estos gusanos demonizados, que quizá se aventuren a salir de la montaña muy pronto. Guerreros, ¡por favor eliminen estas abominaciones lo más rápido posible!
+
+Dungeon Level 45, Limited to Level 40 and above. difficulty Ordinary. Completing the dungeon will reward you with Ironclad crystal (the material to craft Iron Beetle fusion beasts), other items, and experience.
+Mazmorra de nivel 45, limitada a jugadores de nivel 40 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con cristales acorazados (material para hacer la bestia de fusión escarabajo de hierro), otros objetos y experiencia.
+
+Evolved Caesar(Slightly difficult)
+Caesar evolucionado (ligeramente difícil)
+
+Evolved Caesar(Slightly difficult); Completed
+Caesar evolucionado (ligeramente difícil); completada
+
+Man-wolf Caesar has obtained a wolf king crystal from the demons. With its power, Caesar has evolved into a demonized man-wolf and become much stronger. He is planning to lead an army of demon wolves to raid the human city. Warriors, please eliminate Caesar, who is training in the wolf head mountain, and vanquish the demon wolves' evil plan.
+El hombre lobo Caesar ha obtenido un cristal de rey lobo de los demonios. Con su poder, Caesar ha evolucionado a un hombre lobo demonizado y se ha vuelto más fuerte. Está planeando liderar a un ejército de lobos demoníacos para asaltar la ciudad. Guerreros, por favor eliminen a Caesar, que está entrenando en la Montaña Cabeza de Lobo, y terminen con su plan diabólico.
+
+Dungeon Level 50, Limited to Level 45 and above. Difficulty slightly difficult. Completing the dungeon will reward you with Glowstone (the material to craft Firefly fusion beasts), other items, and experience.
+Mazmorra de nivel 50, limitada a jugadores de nivel 45 y superior. Dificultad, ligeramente difícil. Al completar esta mazmorra se te recompensará con fluoritas (material para hacer la bestia de fusión de luciérnaga), experiencia y otros objetos.
+
+There are many guards outside Caesar's secret room. If you want to get in there, you must first eliminate these wolf guards.
+Hay muchos guardias afuera de la habitación secreta de Caesar. Si quieres entrar allí, primero tendrás que eliminar a los lobos guardianes.
+
+When fighting Caesar, please pay attention to the Wolf King Crystal. Whenever it glows, it will summon a demon wolf general to assist Caesar in combat.
+Por favor presta atención al cristal del rey lobo cuando estés peleando con Caesar porque cuando comienza a brillar invoca a un general demonio para que lo ayude en la batalla.
+
+Situation: Several villages in the northern suburbs are attacked by the dark undeads using Dead Toxin. Because of this, the villagers are transformed into monsters and begin to wander around, attacking others. This dead toxin is contagious. Anyone bitten by the transformed monsters will become a monster too. Only those with immense mana or spirit can be unaffected.
+Situación: varias aldeas del norte están siendo atacadas por no muertos oscuros usando toxinas mortales. Debido a esto, los aldeanos se están transformando en monstruos y deambulan por ahí atacando a otros. Esta toxina mortal es contagiosa, por lo que cualquiera que sea mordido por un monstruo transformado también se convertirá en uno. Solo aquellos con una gran cantidad de mana o un espíritu inmenso no se ven afectados.
+
+Mission: Head to one of the villages and eliminate the transforming monsters. The village has a large grain storehouse. Its gate needs to be inserted with several keys kept by the villagers at the same time to open.
+Misión: dirígete a una de las aldeas y elimina a los monstruos transformados. Las aldeas tienen un almacén de cereales en común, y deberás entrar allí usando todas las llaves que los aldeanos custodian a la vez.
+
+{s}, the bison and goats on the mountain attacked the village and their leader kidnapped Jyaria, a girl in our village. Please help us and rescue Jyaria.
+{sub2{$1}sub2}, los toros y las cabras de la montaña nos atacaron y su líder secuestró a Jyaria, una chica de nuestra aldea. Por favor ayúdanos a rescatarla.
+
+Accept the village chief's request
+Aceptar el pedido del jefe de la aldea
+
+Thank you. You can find that demon's lair by following the mountain road leading out of the east entrance of the village. Please be careful on the road!
+Gracias. Puedes encontrar la guarida de los demonios siguiendo el camino de la montaña junto a la entrada este de la aldea. ¡Por favor ten cuidado!
+
+Hold the branch and climb up
+Sostener la rama y escalar
+
+Slide down the branch
+Deslizarte hacia abajo de la rama
+
+{d} hours {d} minutes {d} seconds remaining
+$1 horas, $2 minutos y $3 segundos restantes
+
+There are three iron rods on the mechanism.
+Hay 3 barras de hierro en el mecanismo
+
+Iron rod {d}: now horizontal; Press to pull it up
+Barra de hierro $1; ahora horizontal; presiona para tirar hacia arriba
+
+Iron rod {d}: now tilted down
+Barra de hierro $1; ahora inclinada hacia abajo
+
+iron rod {d} has been lifted; Press to return
+Has elevado la barra de hierro $1; presiona para continuar
+
+Iron rod {d}: now tilted up
+Barra de hierro $1; ahora inclinada hacia arriba
+
+You can't move it no matter how hard you try.
+No la puedes mover por más que lo intentas
+
+Floor {d} completed; Level {d} monsters; Limited to level {d} and above
+Piso $1 completado; monstruos de nivel $2; limitado a jugadores de nivel $3 y superior
+
+Floor {d} {d} of {d}; Level {d} monsters; Limited to level {d} and above
+Piso $1, $2 de $3; monstruos de nivel $4; limitado a jugadores de nivel $5 y superior
+
+Wraith Cave Introduction
+Introducción de la Cueva de los Espectros
+
+Wraith Cave is a single-player dungeon that can be entered multiple times a day. but it will only give you experience and chest rewards, as well as count towards the number of completions when completed the first time each day. There are many vicious monsters in the wraith cave waiting for the players to challenge them.
+La cueva de los Espectros es una mazmorra a la que se puede entrar varias veces al día, aunque solo te dará recompensas y experiencia la primera vez que la haces en un día, así como también solo te contará en el número de veces que la has completado la primera vez. Hay muchos monstruos sedientos en la Cueva de los Espectros esperando que los jugadores los reten.
+
+When you've completed a floor five times, deeper floors of the cave will appear, where stronger monsters will be waiting. This is a game for the brave and there will be no place for the weak.
+Cuando completas un piso 5 veces aparecerán pisos más profundos, donde monstruos más fuertes te estarán esperando. Esta es una mazmorra para los valientes, donde los débiles no tienen cavida.
+
+Enter the dungeon; Limited to Level {d} and above; The dungeon can be entered once a day
+Entrar a la mazmorra; limitada a jugadores de nivel $1 y superior. Solo se puede entrar una vez al día.
+
+Spider cave is an Experience Dungeon, which can be entered once a day. If you've already entered other experience dungeons today, then you cannot enter this dungeon. Please eliminate as many monsters as you can within the time limit to gain more experience. Your pet will move on its own in the experience dungeon.
+La cueva de la araña es una mazmorra de experiencia a la que se puede entrar una vez al día. Si ya entraste a otras mazmorras de experiencia hoy, ya no podrás entrar a esta mazmorra. Por favor elimina la mayor cantidad de monstruos que puedas en el tiempo límite para obtener la máxima cantidad de experiencia. Puedes entrar con tu mascota en esta mazmorra.
+
+Abnormal Mountain Boar (Ordinary)
+Montaña de jabalíes extraña (normal)
+
+There is a group of boars living on Graceful Mountain. Originally, the well-fed boars lived peacefully with the humans. But under the influence of Demonic Energy, some boars underwent strange changes, and a fierce boar king was born. If we do not step in, the boar king will become stronger, and soon another group of beasts will become the demon's minions.
+Hay un grupo de jabalíes viviendo en la Montaña Elegante. Originalmente, los jabalíes se alimentaban bien y vivían en paz con los humanos. Pero debido a la influencia de energía demoníaca, varios jabalíes experimentaron cambios y nació un feroz rey jabalí. Si no intervenimos el rey jabalí se volverá más poderoso, y pronto otro grupo de bestias se volverán secuaces de los demonios.
+
+The boars will return to normal once we eliminate the demonized Boar king. Warrior, please vanquish that demon boar.
+El grupo de jabalíes volverá a ser normal cuando eliminemos al rey jabalí demonizado. Guerrero, por favor encárgate de él.
+
+Dungeon Level 50, Limited to Level 45 and above. Completing the dungeon will reward you with Ironclad crystal (the material to craft Iron Beetle fusion beasts), other items, and experience.
+Mazmorra de nivel 50, limitada a jugadores de nivel 45 y superior. Al completar esta mazmorra se te recompensará con cristales acorazados (material para hacer la bestia de fusión escarabajo de hierro), otros objetos y experiencia.
+
+Demons' Base; Base for storing High explosives
+Base de los demonios; Base donde se almacenan explosivos peligrosos
+
+Enter the base; clearing the dungeon will cost {d} Adventure Points; You now have {d} adventure points today
+Entrar a la base; al finalizarla perderás $1 puntos de aventura; tienes $2 puntos
+
+A base for storing High explosives. When the explosives reach a critical number, the demons will detonate them and open the demon world tunnel. The warrior need to detonate the explosives before they reach a critical number and destroy the base.
+Una base que almacena explosivos peligrosos. Cuando los explosivos alcancen un número significativo, los demonios los van a detonar y a abrir un túnel hacia el mundo de los demonios. El guerrero debe detonarlos antes de que esto ocurra y destruir la base.
+
+Dungeon Level 40, Limited to Level 36 and above. Completing the dungeon will reward you with Insulating glue(the material to craft soft pouch), other items, and experience.
+Mazmorra de nivel 40, limitada a jugadores de nivel 36 y superior. Al completar esta mazmorra se te recompensará con pegamento aislante (material para hacer una bolsa ligera), otros objetos y experiencia.
+
+Your level is too low
+Tu nivel es muy bajo
+
+When the warrior enters the dungeon, they will appear on the mountain road south of the base. After passing north through the east or west stairwell, they will soon come to a warning corridor that runs through the east and west. From there, head north to find an insulated corridor. Then, keep going north, and they will find the explosive base.
+Cuando el guerrero entra a la mazmorra aparecerá en el camino de la montaña al sur de la base. Después de ir hacia el norte y pasar por cualquiera de las dos escaleras ya sea hacia el este o el oeste, entrará a un corredor vigilado que pasa por ambos lados. Desde ahí tendrá que dirigirse al norte hasta entrar a un corredor aislado. Si continúa hacia el norte se encontrará con la base explosiva.
+
+There are patrolling demons in both the warning corridor and insulated corridor. The warrior must be careful not to be spotted by them. If the patrolling demons found you, they will rush back to the main barrack to sound the alarm, leading an army of demons to hunt down and kill the warrior.
+Hay demonios patrullando tanto en el corredor vigilado como en el aislado. El guerrero debe de ser muy cuidadoso para no ser descubierto por estos. Si los demonios lo encuentran, correrán muy rápido a avisar a los demás a los barracones con un sonido de alarma, trayendo con ellos a un ejército de demonios para cazarlo y matarlo.
+
+There are 20 stairwells connecting the warning corridor and insulated corridor, from west to east, they are Stairwell No. 1, Stairwell No. 2, Stairwell No. 3...to Stairwell No. 20. There is a door between the stairwell and the corridor, so you can hide from the demons in the stairwell. The warrior should hide in the stairwell first, wait until the patrolling demons are gone, then move to the corridor.
+Hay 20 escaleras que conectan los corredores vigilado y aislado que van de este a oeste empezando en la escalera 1 y terminando en la 20. Hay una puerta entre los corredores y cada una de las escaleras, por lo que el guerrero puede esconderse en estas. Entonces, el guerrero tendrá que esconderse en la escalera, esperar que se vayan los demonios que patrullan y luego moverse al corredor.
+
+The warrior needs to head to two places, which are the east and west control rooms that are accessible through Stairwell No. 1 and Stairwell No. 20 on the farthest sides of the corridors respectively. After entering the stairwell, the warrior needs to head north to enter the aisle on the east or west side of the base (depending on which side the stairwell is on), then they can enter the control room to operate the electronic console and connect the fuse. When the fuses on both sides are connected, the explosives will be detonated and blast all the demons in the main barrack to pieces. The warrior can then go south from the Control Room to the main barracks, destroy the core components of the base, and complete the quest.
+El guerrero tendrá que dirigirse a dos zonas que son las salas de control este y oeste, a las que se puede acceder desde las escaleras 1 y 20 en los extremos oeste y este de los corredores respectivamente. Después de entrar desde la escalera, tendrá que ir al norte para ir al pasillo del lado de la base que haya escogido previamente, para que pueda llegar a la sala de control y manipular la consola para conectar el cable. Cuando los cables de ambos lados estén conectados los explosivos detonarán y destruirán en pedacitos a todos los demonios del barracón principal. Luego el guerrero podrá ir hacia el sur de la sala de control hacia el barracón explosivo, destruir el núcleo central de la base y completar la mazmorra.
+
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. After you've completed the dungeon, you cannot re-enter it on the same day.
+Consejo 1: Esta mazmorra es una mazmorra de aventura. Si fallas, puedes entrar las veces que quieras para volver a intentar completarla. No podrás entrar el mismo día a la mazmorra una vez la hayas terminado.
+
+Tip 2: If the warrior is killed in the explosive base dungeon, they have a chance to respawn on the beginning mountain road in the dungeon map.
+Consejo 2: Si te asesinan en la mazmorra, tendrás una oportunidad de reaparecer en el camino de la montaña al principio del mapa.
+
+Warrior, there are still some demons left in this dimensional space. Do you want to go in and eliminate them?
+Guerrero, todavía quedan demonios en este espacio dimensional. ¿Quieres ir a eliminarlos?
+
+Enter the dimensional space; limited to Level 26-45
+Entrar al espacio dimensional; limitado a jugadores de nivel 26 a 45
+
+Tip: This dungeon is an adventure dungeon. You will receive dungeon rewards and {d} experience upon completion. If you failed in the dungeon, you can re-enter countless times until you've completed it. After you've completed the dungeon, you cannot re-enter it on the same day.
+Consejo: Esta mazmorra es una mazmorra de aventura. Vas a recibir $1 experiencia y otras recompensas al completarla. No podrás entrar el mismo día a la mazmorra una vez la hayas terminado.
+
+Cathy Manor Teleportation circle
+Círculo de teletransportación de la Mansión de Cathy
+
+Mount Bear's Paw Teleportation circle
+Círculo de teletransportación del monte Pata de Oso
+
+Cathy Manor(Slightly difficult)
+Mansión de Cathy (ligeramente difícil)
+
+Cathy Manor(Slightly difficult); Completed
+Mansión de Cathy (ligeramente difícil); completada
+
+Cat King Carter's younger sister, Princess Cathy, has a manor where she has gathered a group of wild cat troops that are much stronger than the normal wild cats that can usually be seen, and prepares to help her brother attack human towns.
+La hermana menor del Rey Gato Carter, la princesa Cathy, tiene una mansión en la que reunió a una tropa de felinos que son mucho más fuertes que los felinos que se pueden ver normalmente, y se está preparando para ayudar a su hermano a atacar la sciudades humanas.
+
+{s}, please go to Cathy Manor to find out and smash Princess Cathy's conspiracy.
+{sub2{$1}sub2}, por favor ve a la mansión de Cathy para encontrarla y destruir su plan conspiratorio.
+
+Dungeon Level 60, Limited to Level 55 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Suspicious Plating (the material to exchange for One Star Attack Medal), other items, and experience.
+Mazmorra de nivel 60, limitada a jugadores de nivel 55 y superior. Dificultad, ligeramente difícil. Al completar esta mazmorra se te recompensará con enchapados sospechosos (material para fabricar una medalla de ataque de una estrella), otros objetos y experiencia.
+
+bear haunt(Ordinary)
+La guarida del oso (normal)
+
+bear haunt(Ordinary); Completed
+La guarida del oso (normal); completada
+
+Enter the dungeon, Requires 2 to 3 person to work as a team, clearing the dungeon will cost 3 Adventure Points each person; if you have already cleared the dungeon today, or if there are not enough adventure points, you will not be able to get experience and rewards; You have {d} adventure points left today
+Entrar a la mazmorra; requiere de 2 a 3 personas para trabajar en equipo. Al limpiar esta mazmorra cada persona perderá 3 puntos de aventura. Si ya completaste la mazmorra hoy o si no tienes suficientes puntos de aventura, no recibirás experiencia ni recompensas; Tienes $1 puntos.
+
+Please choose the number of people
+Por favor elige el número de personas para entrar
+
+2 people enter
+Dos personas
+
+3 people enter
+Tres personas
+
+Mount Bear's Paw is a mountain Peak wind located on goon mountain. It is named for its shape like a bear's paw. There are many bears living there. Recently, these bears often come down the mountain to attack humans. It turns out that there is a demonized bear king.
+El Monte Pata de Oso es una montaña localizada en la Montaña Goon, y su nombre proviene del hecho que tiene forma de pata de oso. Hay muchos osos viviendo allí, pero recientemente han bajado de la montaña para atacar a los humanos, porque resulta que hay un rey oso demonizado.
+
+Warriors, please go to the Mount Bear's Paw to destroy the Demonized Bear King and his subordinates.
+Guerreros, por favor vayan al Monte Pata de Oso para destruir al rey oso demonizado y a sus subordinados.
+
+Dungeon Level 60, Limited to Level 55 and above; difficulty Ordinary. Completing the dungeon will reward you with Green cotton yarn (the material to exchange for hot bag), other items, and experience.
+Mazmorra de nivel 60, limitada a jugadores de nivel 55 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con hilo de algodón verde  (material para intercambiar por una mochila de viento y fuego), otros objetos y experiencia.
+
+A mechanism on the stone wall, ..., There is an iron rod on the mechanism.
+Un mecanismo en la pared de piedra con una barra de hierro en su interior.
+
+iron rod, press to flip up
+barra de hierro, pulsa para levantarla
+
+iron rod, lifted
+barra de hierro, levantada
+
+You open the drawer and there is nothing in it.
+Abres el cajón y ves que no hay nada en él
+
+cabinet; A wooden cabinet with a drawer.
+Gabinete; un gabinete con un cajón
+
+You open the drawer and find 1 bag of fertilizer.
+Abres el cajón y encuentras una bolsa de fertilizante
+
+Take the fertilizer
+Tomar el fertilizante
+
+stool
+Taburete
+
+stool; A wooden stool.
+Taburete; Un taburete de madera
+
+Stepping on the stool to climb up to the windowsill
+Subir al taburete para escalar la ventana hacia la colina
+
+push the rock
+Empujar la roca
+
+You push the rock down the hillside.
+Empujas la roca por la ladera
+
+A nepeta, with many budding flower buds growing on the plant.
+Una nepeta con muchos capullos florales madurando.
+
+you sprinkled fertilizer on the ground, the flower buds on the nepeta bloom slightly. When the nepeta blooms, its unique smell will attract nearby cats.
+Rocías fertilizante en el suelo y los capullos de la nepeta florecen ligeramente. Cuando lo hacen, su olor atrae a los gatos cercanos
+
+Black Gate Prison (Difficult)
+Prisión de la Puerta Negra (Difícil)
+
+Black Gate Prison (Difficult); Completed
+Prisión de la Puerta Negra (Difícil); completada
+
+Black Gate Prison housed many demon soldiers and serious criminals. The demon bishop in black often led his supports in an attempt to rob the prison. Warriors, please go to the Black Gate Prison to eliminate the demon support troops and black bishop who robbed the prison, suppress the demon prisoners there.
+La Prisión de la Puerta Negra albergaba a muchos soldados demonios y criminales peligrosos. El obispo demonio de negro a menudo encabeza intentos de apoderarse de la prisión. Guerreros, vayan a la Prisión de la Puerta Negra para eliminar a las tropas de apoyo demoníacas y al obispo negro que se apoderaron de la prisión y eliminen a los prisioneros demoníacos allí.
+
+Dungeon Level 60, Limited to Level 55 and above; difficulty Difficult. Completing the dungeon will reward you with Red velvet (the material to exchange for hot bag), other items, and experience.
+Mazmorra de nivel 60, limitada a jugadores de nivel 55 y superior. Dificultad, difícil. Al completar esta mazmorra se te recompensará con terciopelo rojo (material para intercambiar por la mochila de viento y fuego), otros objetos y experiencia
+
+Special reminder: The criminals held in the prison will destroy the prison gates, please repair the prison gates in time to prevent the demon criminals from swarming out.
+Recordatorio especial: los criminales encerrados en la prisión destruirán las puertas de la prisión, por favor repara las puertas de la prisión a tiempo para evitar que los criminales demoníacos salgan en tropel.
+
+Thank you for saving me, are you the rescue team sent by the kingdom? Now the prison is very dangerous. A group of demons suddenly came, attempted to rob the prison, and rescue the generals of the demons in the severe punishment area. Please help us suppress the demon soldiers. This is the key to the prison gate, please take it.
+Gracias por salvarme. ¿Son el equipo de rescate enviado por el reino? Ahora la prisión es muy peligrosa. Un grupo de demonios vino de repente, intentó apoderarse de la prisión y rescatar a los generales de los demonios en el área de castigo severo. Por favor, ayúdanos a eliminar a los soldados demoníacos. Esta es la llave de la puerta de la prisión, tómala.
+
+Accept request and take the key
+Aceptar el encargo y tomar la llave
+
+grab the flagpole and climb up
+agarrar el asta de la bandera y trepar
+
+unlocked
+Abierto
+
+Current Durability {d}
+Durabilidad actual $1
+
+repair
+Reparar
+
+Open the door
+Abrir la puerta
+
+Are you sure you want to open the cell door?
+¿Confirmas que quieres abrir la puerta de la celda?
+
+back prison door
+Puerta trasera de la prisión
+
+Grab it and climb up
+Agarrarse y trepar
+
+A big iron lock with four keyholes arranged clockwise
+Una gran cerradura de hierro con cuatro ojos de cerradura dispuestos en el sentido de las agujas del reloj.
+
+Keyhole
+Ojo de cerradura
+
+Keyhole; inserted with blue key
+Ojo de cerradura; tiene introducida la llave azul
+
+Keyhole; inserted with white key
+Ojo de cerradura; tiene introducida la llave blanca
+
+Keyhole; inserted with yellow key
+Ojo de cerradura; tiene introducida la llave amarilla
+
+Keyhole; inserted with black key
+Ojo de cerradura; tiene introducida la llave negra
+
+Please select the key to insert
+Selecciona la llave a introducir
+
+Key inserted; press to return
+Llave introducida; pulsa para volver
+
+Unable to insert
+Esa llave no encaja en ese ojo de cerradura
+
+Tip: you have already completed this dungeon today
+Aviso: ya has completado esta mazmorra hoy
+
+Tip: you have already completed this dungeon this week
+Aviso: Ya has completado esta mazmorra esta semana
+
+The electronic console that controls the Neutral Wire switch of the base explosives; currently on
+La consola electrónica que controla el interruptor del cable Neutro de la base explosiva; actualmente encendida
+
+The electronic console that controls the Neutral Wire switch of the base explosives; currently off
+La consola electrónica que controla el interruptor del cable Neutro de la base explosiva; actualmente apagada
+
+Disconnect the neutral wire
+Desconectar el cable neutro
+
+neutral wire disconnected
+cable neutro desconectado
+
+Connect the neutral wire
+Conectar el cable neutro
+
+neutral wire connected
+cable neutro conectado
+
+The electronic console that controls the live wire switch of the base explosives; currently off
+La consola electrónica que controla el interruptor del cable activo de la base explosiva; actualmente apagada
+
+Connect the live wire
+Conectar el cable activo
+
+Disconnect the live wire
+Desconectar el cable activo
+
+Both fuses have been connected; commencing explosive detonation
+Ambos fusibles han sido conectados; comenzando la detonación explosiva
+
+Damaged
+Dañado
+
+Hey kid, you here to find a Fusion Beast too?
+Oye, niño, ¿también estás aquí para encontrar una bestia de fusión?
+
+Hey lass, you here to find a Fusion Beast too?
+Oye, muchacha, ¿también estás aquí para encontrar una bestia de fusión?
+
+That's right, I need an Fusion Beast
+Así es, necesito una bestia de fusión
+
+Inside the delicate treasure chest is a Bluish White Horse (Fusion Beast) and 5000 Arnebia.
+Dentro del delicado cofre del tesoro hay un Caballo Blanco Azulado (Bestia de fusión) y 5000 Arnebia.
+
+Take it all
+Tomar todo
+
+Fusion Beast Introduction
+Introducción a las bestias de fusión
+
+Fusion beasts are a kind of parasitic being bred from beasts. They hide in the human body when dormant, and emerge out of it when awakened, causing the human body to display the traits of the beast and obtain its ability.
+Las bestias de fusión son una especie de parásitos criados a partir de bestias. Se esconden en el cuerpo cuando están inactivos y emergen de él cuando se despiertan, lo que hace que el cuerpo muestre los rasgos de la bestia y obtenga sus características.
+
+There are two kinds of Fusion Beasts: Swift and Fierce. Swift Fusion Beasts will greatly increase the character's movement speed but forbid them to use skills when transformed. While Fierce Fusion Beasts can be used in combat.
+Hay dos tipos de bestias de fusión: velocidad y batalla. Una bestia de fusión de velocidad aumentará en gran medida la velocidad de movimiento del personaje, pero le impedirá usar habilidades cuando se transforme. Mientras que una bestia de fusión de batalla se puede usar en combate.
+
+When in combat, you cannot awaken fusion beasts or set them asleep.
+Cuando estás en combate, no puedes despertar a las bestias de fusión ni hacerlas dormir.
+
+Using fusion beast consumes Fusion Power, which will gradually recover when not used. When your Fusion Power is below 20, you cannot awaken Fusion Beasts. You can press T to quickly check your fusion Power, which is the second value you will hear.
+El uso de bestias de fusión consume poder de fusión, que se recuperará gradualmente cuando no se use. Cuando tu poder de fusión está por debajo de 10, no puedes despertar a las bestias de fusión. Puedes pulsar T para verificar rápidamente tu poder de fusión, que es el segundo valor que escucharás.
+
+You've taken the Bluish white Horse (Fusion Beast) and 5000 Arnebia; press to return
+Has tomado el Caballo blanco azulado (Bestia de Fusión) y 5000 Arnebia; pulsa para volver
+
+There's nothing inside. Press to view the Fusion Beast Introduction
+No hay nada dentro. Pulsa para ver la introducción a las bestias de fusión
+
+lever
+Palanca
+
+Lever on the stone wall.
+Palanca en la pared de piedra
+
+Lever; press to lever up
+Palanca. Presiona para subir
+
+lever; lifted
+Palanca. Elevada
+
+locked
+Cerrado
+
+Fertilize
+Fertilizar
+
+the door is unlocked
+Puerta abierta
+
+Warriors, please eliminate the mutant bison and goats in the village!
+Guerreros, ¡por favor eliminen a las cabras y los toros mutantes de la aldea!
+
+ Iron rod {d}: now horizontal; Press to pull it up
+Barra de hierro $1; ahora horizontal; pulsa para tirar hacia arriba
+
+Iron rod {d} has been lifted; press to return
+Has elevado la barra de hierro $1; pulsa para continuar
+
+Iron rod {d} has been lifted. With the sound of the mechanism running, a stone door on the stone wall deep in the cave slowly moved aside; Press to return
+Has elevado la barra de hierro $1; con el sonido del mecanismo en marcha, una puerta de piedra en la pared en lo profundo de la cueva se mueve lentamente hacia un lado; pulsa para continuar
+
+{s}, thank you. I would have been eaten by that demon bull if it weren't for your timely arrival. Sob sob sob! Please accept my thanks.
+{sub2{$1}sub2}, muchas gracias. Si no fuera porque llegaste a tiempo, ese toro demonio me habría comido. ¡Snif snif snif! Por favor acepta mi agradecimiento.
+
+Accept Jyaria's thanks
+Aceptar el agradecimiento de Jyaria
+
+{d}-player team
+Equipo con $1 personas
+
+There are players who don't meet the level requirement, or you haven't reached the floor
+Hay jugadores que no cumplen con el requisito de nivel, o no has desbloqueado el piso al que intentas entrar
+
+Crimson Mausoleum (Ordinary)
+Mausoleo Carmesí (Normal)
+
+It is impossible to verify who owns this mausoleum. One warrior after another entered it hoping to find out its secrets. Most of them gave their lives, and only a few people could come out alive. Those who died have become the guardians of the mausoleum, those survivors named the mausoleum Crimson. Warriors, please enter it, help the explorers lost in the crimson Mausoleum to escape, and reveal Mausoleum's secrets.
+Es imposible saber a quién pertenece este mausoleo. Un guerrero tras otro entraron con la esperanza de descubrir sus secretos. La mayoría de ellos dieron su vida, y solo unas pocas personas pudieron salir con vida. Los que murieron se han convertido en los guardianes del mausoleo, y los sobrevivientes denominaron este sitio "Mausoleo Carmesí". Guerreros, por favor entren, ayuden a los exploradores perdidos en el mausoleo carmesí a escapar y revelen los secretos del mausoleo.
+
+Dungeon Level 60, Limited to Level 55 and above; difficulty Ordinary. Completing the dungeon will reward you with Ebony Metal (the material to exchange for One Star Attack Medal), other items, and experience.
+Mazmorra de Nivel 60, limitada a jugadores de nivel 55 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con metal de ébano (material para intercambiar por una medalla de ataque de una estrella), otros objetos y experiencia.
+
+Bubble Cube(Ordinary)
+Cubo de burbujas (normal)
+
+Crimson Mausoleum (Ordinary); Completed
+Mausoleo Carmesí (Normal); completada
+
+already accepted the Prison Gatekeeper's request
+Ya aceptaste la llave del guardián de la prisión
+
+You can't open the door without the black key.
+No puedes abrir la puerta sin la llave negra.
+
+Repair cooldown remaining {d} seconds
+$1 segundos de enfriamiento para reparar
+
+A huge crystal platform with two grooves engraved with oriental characters on the front. The first is the word good, the second is the word bad, and there is a purple button on the bottom
+Una enorme plataforma de cristal con dos ranuras grabadas con caracteres orientales en el frente. La primera es la palabra "bien", la segunda es la palabra "mal" y hay un botón morado en la parte inferior.
+
+Groove
+Ranura
+
+Please select the order token to inlaid
+Selecciona la ficha de orden a introducir
+
+Cannot inlaid
+no se puede introducir
+
+Order token inlaid; press to return
+Ficha de orden introducida; pulsa para volver
+
+Groove; inlaid with reward order
+Ranura; con orden de recompensa introducida
+
+Groove; inlaid with punishment order
+Ranura; con orden de castigo introducida
+
+Purple button
+botón morado
+
+live wire connected
+Cable activo conectado
+
+The electronic console that controls the live wire switch of the base explosives; currently on
+La consola electrónica que controla el interruptor del cable activo de la base explosiva; actualmente encendida
+
+live wire disconnected
+Cable activo desconectado
+
+This is a mechanism on the stone wall. It has a circular groove with a button next to it.
+Este es un mecanismo en la pared de piedra. Tiene una ranura circular con un botón al lado.
+
+A mechanism on the stone wall. There is a button in the middle of the two circular grooves.
+Un mecanismo en la pared de piedra. Hay un botón en el medio de las dos ranuras circulares.
+
+The stone ball is inserted into the circular groove; press to return
+La bola de piedra se ha insertado en la ranura circular; pulsa para volver
+
+The Circular Groove is now inserted with the stone ball
+La ranura circular ahora tiene insertada la bola de piedra.
+
+Press the button
+Presionar el botón
+
+The stone wall has been moved aside. You can now pass.
+El muro de piedra se ha movido a un lado. Ya puedes pasar.
+
+Groove 1
+Ranura 1
+
+Groove 2
+Ranura 2
+
+Groove 1; inserted with the stone ball
+Ranura 1; tiene insertada la bola de piedra
+
+Groove 2; inserted with the stone ball
+Ranura 2; tiene insertada la bola de piedra
+
+Nether Cave 2-player team introduction
+Introducción de la cueva avisal de 2 personas
+
+Nether Cave is a 3-player Dungeon. It is much more difficult for 2-player teams, so please make your choice carefully.
+La cueva avisal es una mazmorra para 3 personas. Es mucho más difícil completarla con un equipo de solo dos, así que elige con cuidado.
+
+The dungeon can be entered multiple times, but it will only give you experience and chest rewards, as well as count towards the number of completions when completed the first time each day.
+Se puede entrar varias veces a la mazmorra, aunque solo te dará experiencia y recompensas en los cofres la primera vez que la haces en un día, así como también solo te contará en el número de veces que la has completado la primera vez.
+
+Please eliminate the demon soldiers in the square first.
+Por favor elimina a los soldados de esta zona primero
+
+Young one, want to take the trial?
+Joven, ¿quieres pasar la prueba?
+
+Eliminate bandits on Tiger Mountain; level 25-39 tutor and pupil dungeon; requires a tutor and a pupil to team up and let the pupil press "enter dungeon".
+Eliminar a los bandidos en la Montaña del Tigre; mazmorra de mentor y pupilo de nivel 25 a 39 ; requiere que un mentor y un pupilo formen un equipo. El pupilo debe pulsar "ingresar a la mazmorra".
+
+The conspiracy of earth elves; level 40-49 tutor and pupil dungeon; requires a tutor and a pupil to team up and let the pupil press "enter dungeon".
+La Conspiración de los Elfos de la Tierra; mazmorra de mentor y pupilo de nivel 40 a 49 ; requiere que un mentor y un pupilo formen un equipo. El pupilo debe pulsar "ingresar a la mazmorra".
+
+A test of courage and wisdom; level 50 graduation dungeon; requires a tutor and a pupil to team up and let the pupil press "enter dungeon".
+Una prueba de Coraje y Sabiduría; mazmorra de graduación de nivel 50; requiere que un mentor y un pupilo formen un equipo. El pupilo debe pulsar "ingresar a la mazmorra".
+
+introduction to tutor and pupil dungeon
+introducción a las mazmorras de mentor y pupilo
+
+Craft Skill Crystal
+Fabricar cristal de habilidad
+
+Both fuses of the explosives have been connected; Explosion imminent
+Ambos fusibles de los explosivos han sido conectados. Explosión inminente
+
+You've already entered an experience dungeon today
+Ya has entrado en una mazmorra de experiencia hoy
+
+Baru Grottoe(Difficult)
+Gruta de Baru (difícil)
+
+A very powerful demon, Baru, is imprisoned in the Baru Grottoe. Baru's immortality prevents him from being killed, and he can only be sealed. Whenever the seal is loosened, heroes are needed to defeat the weak Baru and strengthen the seal.
+Un demonio muy poderoso, Baru, está encarcelado en la Gruta de Baru. La inmortalidad de Baru evita que lo maten y solo puede permanecer encerrado tras un sello mágico. Cada vez que el sello se debilita, se necesitan héroes para derrotar a Baru mientras aún está débil y fortalecer el sello.
+
+Warrior, Baru's seal is loose again. If the seal breaks, Baru will bring disaster. Please enter the Grottoe to defeat Baru and strengthen the seal.
+Guerrero, el sello de Baru está débil otra vez. Si el sello se rompe, Baru traerá el desastre. Entra en la Gruta para derrotar a Baru y fortalecer el sello.
+
+Miss, Baru's seal is loose again. If the seal breaks, Baru will bring disaster. Please enter the Grottoe to defeat Baru and strengthen the seal.
+Señorita, el sello de Baru está débil otra vez. Si el sello se rompe, Baru traerá el desastre. Entra en la Gruta para derrotar a Baru y fortalecer el sello.
+
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Red velvet (the material to exchange for hot bag), other items, and experience.
+Mazmorra de nivel 65, limitada a jugadores de nivel 60 y superior. Dificultad, difícil. Al completar esta mazmorra se te recompensará con terciopelo rojo (material para hacer la mochila de viento y fuego), experiencia y otros objetos.
+
+There is a black key on the stone platform.
+Hay una llave negra en la plataforma de piedra.
+
+Take the black key
+Recoger la llave negra
+
+You got a black key.
+Recogiste la llave negra.
+
+There is nothing on the stone platform.
+No hay nada en la plataforma de piedra.
+
+There is a Bullfinch fusion beast on the stone platform.
+Hay una bestia de fusión de camachuelo en la plataforma de piedra.
+
+Take the Bullfinch fusion beast
+Recoger la bestia de fusión de camachuelo
+
+You got a Bullfinch fusion beast.
+Recogiste la bestia de fusión de camachuelo.
+
+The current weight of the scale is {d} pounds.
+El peso actual de la balanza es $1 libras.
+
+give sacrifice
+Colocar piezas de sacrificio
+
+retrieve all
+Recuperar todo
+
+Place Beast's head; currently have {d}
+Colocar cabeza de bestia; tienes $1
+
+Placed, press to return
+Colocada, pulsa para volver
+
+Place Beast's Leg; currently have {d}
+Colocar pata de bestia; tienes $1
+
+Currently {d} Beast's head have been placed
+Actualmente hay $1 cabezas de bestia colocadas
+
+Currently {d} Beast's Leg have been placed
+Actualmente hay $1 patas de bestia colocadas
+
+You sacrificed nothing, nothing can be retrieved.
+No sacrificaste nada, no se puede recuperar nada.
+
+The button doesn't work now.
+El botón no funciona ahora.
+
+You currently have nothing to sacrifice.
+No tienes nada que sacrificar.
+
+You pressd the button, there is a sound of mechanism running, and the stone gate can be passed through.
+Presionas el botón, se escucha el sonido del mecanismo en funcionamiento y ya se puede atravesar la puerta de piedra.
+
+Elemental Maze(Ordinary)
+Laberinto Elemental (normal)
+
+Dream Elf Avril's maze, many adventurers have fallen into it but failed to come out, Avril is hiding in the center of the maze.
+El laberinto de Avril, la Elfa de los Sueños: muchos aventureros entraron en él pero no pudieron salir. Avril se esconde en el centro del laberinto.
+
+{s}, please enter the maze, defeat her, eliminate the maze and rescue the warriors trapped in it.
+{sub2{$1}sub2}, por favor entra al laberinto, derrótala, destruye el laberinto y rescata a los guerreros atrapados en él.
+
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Green cotton yarn (the material to exchange for hot bag), other items, and experience.
+Mazmorra de nivel 65, limitada a jugadores de nivel 60 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con hilo de algodón verde (material para hacer la mochila de viento y fuego), experiencia y otros objetos.
+
+monster factory (Ordinary)
+Fábrica de Monstruos (normal)
+
+A person who claims to be a Demonist built a factory for researching and manufacturing demons in an underground space. Warriors, please go to destroy the Demonist and stop demon world from researching demons.
+Una persona que dice ser demonista construyó una fábrica para investigar y fabricar demonios en un espacio subterráneo. Guerreros, vayan a destruir al Demonista y eviten que el mundo de los demonios pueda seguir con sus investigaciones.
+
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Crystal Wolf Teeth (the material to craft Werewolf fusion beasts), Crystal coral (the material to craft Sea Spirit Guardian fusion beasts), other items, and experience.
+Mazmorra de nivel 65, limitada a jugadores de nivel 60 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con dientes de cristal de lobo (material para hacer la bestia de fusión de hombre lobo), corales de cristal (material para hacer la bestia de fusión de espíritu guardián del mar), experiencia y otros objetos.
+
+I'm planning to go to the Sealed Land and kill a few super demons to stop them from attacking humans. This is a good place to warm up. So, do you need my help{s}
+Planeo ir a la Tierra Sellada y matar a algunos súper demonios para evitar que ataquen a los humanos. Este es un buen lugar para entrar en calor. Entonces, ¿necesitas mi ayuda$1
+
+{s};Leo said: Need my help{s}
+{sub1{$1}sub1}; Leo dice: ¿Necesitas mi ayuda$2
+
+{s};Leo said: There's a few demon makers ahead. All the demons here are created by these machines. I'll hold off the demons close to the machines, you find a way to shut them down.
+{sub1{$1}sub1}; Leo dice: Hay algunos fabricantes de demonios más adelante. Todos los demonios aquí son creados por esas máquinas. Mantendré a raya a los demonios cerca de las máquinas de fabricación, tú tendrás que encontrar una forma de apagarlas.
+
+{s};Leo said: Tsk, disgusting.
+{sub1{$1}sub1}; Leo dice: Pst, repugnante.
+
+{s};Leo said: These machines are made by a man who calls himself the Demonist. Although they can only create weak monsters, they're still a threat to humanity after all.
+{sub1{$1}sub1}; Leo dice: Estas máquinas fueron creadas por un hombre que se hace llamar Demonista. Solo pueden fabricar monstruos débiles, aunque de todas formas siguen siendo una amenaza para la humanidad.
+
+{s};Demonist said: Oh, someone's got a death wish{s} Then get your ass in here{s}
+{sub1{$1}sub1}; Demonista dice: Oh, ¿alguien quiere morir$2 ¡Bien, traigan su trasero aquí$3
+
+{s};Leo said: Tsk, it's over already{s} I didn't even brake a sweat. See ya{s}
+{sub1{$1}sub1}; Leo dice: ¿ya está$2 Pst, ni siquiera empecé a sudar. ¡Nos vemos!
+
+cabinet with three drawers on it.
+Un armario con tres cajones.
+
+drawers
+Cajón
+
+You pull open the drawer and there's nothing inside; press enter to return
+Abres el cajón y no hay nada dentro; pulsa enter para volver
+
+You pull open the drawer and there is a magnetic card inside.
+Abres el cajón y hay una tarjeta magnética adentro.
+
+Take the magnetic card
+Tomar la tarjeta magnética
+
+You get a magnetic card
+Obtienes una tarjeta magnética
+
+The green light on the console is blinking, and there is a slot and a switch underneath.
+La luz verde de la consola parpadea y hay una ranura y un interruptor debajo.
+
+Slot; press Enter to insert the magnetic card
+Ranura; pulsa Enter para insertar la tarjeta magnética
+
+The energy switch is on; press to close
+El interruptor de energía está encendido; pulsa para apagarlo
+
+permission to turn off the switch.
+permiso para apagar el interruptor.
+
+The magnetic card has been inserted, the identity authentication is successful, welcome, great Demonist; press to return
+La tarjeta magnética ha sido insertada. Identificación exitosa. Bienvenido, gran Demonista; pulsa para volver
+
+Slot; magnetic card inserted
+Ranura; tarjeta magnética insertada
+
+Switch is off
+El interruptor está apagado
+
+The light bulb on the console is off and there is a slot and a switch underneath.
+La luz de la consola está apagada y debajo hay una ranura y un interruptor.
+
+a magnetic card
+una tarjeta magnética
+
+The energy switch is off
+El interruptor de energía está apagado
+
+Scorpion cave is an Experience Dungeon, which can be entered once a day. If you've already entered other experience dungeons today, then you cannot enter this dungeon. Please eliminate as many monsters as you can within the time limit to gain more experience. Your pet will move on its own in the experience dungeon.
+La cueva del escorpión es una mazmorra de experiencia a la que se puede entrar una vez al día. Si ya entraste a otras mazmorras de experiencia hoy, ya no podrás entrar a esta mazmorra. Por favor elimina la mayor cantidad de monstruos que puedas en el tiempo límite para obtener la máxima cantidad de experiencia. Puedes entrar con tu mascota en esta mazmorra.
+
+Fellow warriors, my daughter has been kidnapped by the mountain thieves to their mountain stronghold north of this wall. I've learned some magic and wanted to save my daughter. But the mountain thieves were too strong, and I'm no match for them. Please help me save my daughter.
+Compañeros guerreros, los ladrones de la montaña han secuestrado a mi hija en su fortaleza montañosa al norte de este muro. Aprendí algo de magia y quería salvarla. Pero los ladrones de la montaña son demasiado fuertes y no soy rival para ellos. Por favor, ayúdame a rescatar a mi hija.
+
+Don't worry, we're here to save her.
+No te preocupes, estamos aquí para rescatarla.
+
+Thank god! I've dabbled in teleportation and can teleport you into the stronghold. But I'm afraid I'm not skilled enough, so I can only teleport the one with less energy. Since you're a pair of tutor and pupil, I shall teleport the pupil into the stronghold's guard house. The pupil can defeat the sentries there and get the gate key. Then, just pass the key to the tutor outside to get in. Once you two have regrouped, you can go rescue my daughter. Are you ready?
+¡Gracias a Dios! Estoy iniciado en la teletransportación y puedo teletransportarlos a la fortaleza. Pero me temo que no soy lo suficientemente hábil, así que solo puedo teletransportar al que tiene menos energía. Ya que son una pareja como mentor y pupilo, teletransportaré al pupilo a la caseta de vigilancia de la fortaleza. El pupilo puede derrotar a los centinelas allí y obtener la llave de la puerta. Luego puede pasarle la llave al mentor para entrar. Una vez que ustedes dos se hayan reagrupado, pueden ir a rescatar a mi hija. ¿Estás listo?
+
+The pupil should search the Mountain Thief Leader for the key, then pass it to the tutor to open the lock
+El pupilo debe buscar la llave del líder de los ladrones de la montaña y luego pasarla al mentor para abrir la cerradura
+
+Huh? Are you here to save me?
+¿Eh? ¿Estás aquí para rescatarme?
+
+Rescue the hostage
+Rescatar a la rehén
+
+Hostage successfully rescued! Increase 5000 Mentorship Points! Please pick up the reward chest and leave!
+¡Rehén rescatada con éxito! ¡Aumenta 5000 Puntos de Mentoría! ¡Recoge el cofre de recompensa para salir!
+
+The pupil should pass the strange stone ball to the tutor, and let the tutor open the door.
+El pupilo debe pasarle la extraña bola de piedra al mentor y dejar que él abra la puerta.
+
+Can only be opened by the stone ball passed from the pupil
+Solo se puede abrir con la bola de piedra que te pase el pupilo.
+
+Do not press the buttons at the same time—A note by the clever Elf Prince
+No presiones los botones al mismo tiempo. Una nota del inteligente Príncipe Elfo
+
+Press
+Presionar
+
+The tutor and pupil need to be present at the door with the strange stone ball to open it.
+El mentor y el pupilo deben estar presentes en la puerta con la extraña bola de piedra para abrirla.
+
+To the great Elf King Earls
+Al gran Rey Élfico Erth
+
+Father, I have trained a highly-skilled archery troop to attack Moon City. When the attack commences, the dwarf elf elder will sense my message, and he will ask you to come to my palace. when you come here, you will see this letter, at this time the humans are overwhelmed by our troops, To take advantage of the humans' most vulnerable moment, please bury this letter directly below Moon City in secret. Then, I will activate the magic circle drawn in the letter to bring about a powerful earthquake that will destroy Moon City. This will be the beginning of our victory. I've planned everything to the last detail, please be proud of your clever elf prince!
+Padre, he entrenado tropas de arqueros de élite para atacar Ciudad Lunar. Cuando comience el ataque, el anciano elfo enano percibirá mi mensaje y te pedirá que vengas a mi palacio. cuando vengas aquí, verás esta carta; en ese momento los humanos estarán abrumados por nuestras tropas. Aprovechando el momento más vulnerable de los humanos, entierra esta carta directamente debajo de Ciudad Lunar en secreto. Luego, activaré el círculo mágico dibujado en la carta para provocar un poderoso terremoto que destruirá la ciudad. Este será el comienzo de nuestra victoria. He planeado todo hasta el último detalle. ¡Siéntete orgulloso de tu inteligente príncipe elfo!
+
+An earthy yellow magic circle outlining an explosion symbol.
+Un círculo mágico amarillo terroso que rodea un símbolo de explosión.
+
+Tear up the letter
+Romper la carta
+
+You have thwarted the elf prince's scheme! Increase 5000 Mentorship Points! Please pick up the reward chest and leave!
+¡Has neutralizado el plan del príncipe elfo! ¡Aumenta 5000 Puntos de Mentoría! ¡Recoge el cofre de recompensa para salir!
+
+Map Respawn ({d} times available)
+Reaparecer en el mapa ($1 veces disponibles)
+
+You possess too much energy, my teleportation spell cannot withstand it.
+Posees demasiada energía, mi hechizo de teletransportación no puede soportarla.
+
+tutor and pupil Dungeon, cannot teleport to the team leader
+Mazmorra de mentor y pupilo, no te puedes teletransportar hacia el líder del equipo.
+
+The boars will return to normal once we eliminate the demonized Boar king. Miss, please vanquish that demon boar.
+El grupo de jabalíes volverá a ser normal cuando eliminemos al rey jabalí demonizado. Señorita, por favor encárgate de él.
+
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points.
+Consejo 1: Esta mazmorra es una mazmorra de aventura. Si fallas, puedes entrar las veces que quieras para volver a intentar completarla. Al terminar esta mazmorra perderás puntos de aventura; no obtendrás experiencia ni recompensas si no tienes suficientes puntos.
+
+Floor {d}; Level {d} monsters; Limited to level {d} and above
+Piso $1; monstruos de nivel $2; limitado a jugadores de nivel $3 y superior
+
+Demon Cave Introduction
+Introducción a la Cueva del Demonio
+
+Demon Cave is a 5-player dungeon that can only be entered when you're in a 5-player team. Filled with demons, this place challenges the warriors' team cooperation in combat at all times.
+La cueva del demonio es una mazmorra de 5 jugadores a la que solo se puede entrar cuando estás en un equipo de 5 jugadores. Llena de demonios, esta cueva desafía a los guerreros a que cooperen en combate durante toda la batalla.
+
+The dungeon can be entered multiple times, but it will only give you experience and chest rewards, as well as count towards the number of completions when completed the first time each week.
+Se puede entrar varias veces a la mazmorra, aunque solo te dará recompensas y experiencia la primera vez que la haces en una semana, así como también solo te contará en el número de veces que la has completado la primera vez.
+
+When a player has completed a floor once, they are eligible to enter the next floor. If you team up with four other eligible players, you can challenge deeper into the demon cave.
+Cuando un jugador ha completado un piso una vez, será elegible para entrar al siguiente. Si tu equipo está compuesto de otros cuatro jugadores elegibles, pueden entrar a los desafíos que la cueva les tiene preparados en lo más profundo.
+
+Your level is too high
+Tu nivel es muy alto
+
+This stone platform has been investigated
+Esta plataforma de piedra ya se investigó
+
+You've pressed too fast
+Presionaste muy rápido
+
+The solid stone gate has no mechanism on it, and it can only be opened with explosives.
+La puerta de piedra maciza no tiene ningún mecanismo y solo se puede abrir con explosivos.
+
+Attach the Explosive
+Colocar el explosivo
+
+Explosive has been attached to the stone door, and it will explode in three seconds, please step back quickly.
+Se ha colocado un explosivo en la puerta de piedra y explotará en tres segundos, retrocede rápidamente.
+
+You open the cargo box and find {d} sets of Radiation-proof armor.
+Abres la caja de carga y encuentras $1 armaduras a prueba de radiación.
+
+{d} Radiation-proof armors, press to pick up
+$1 armaduras a prueba de radiación, pulsa para recoger
+
+You open the cargo box and find a magnetic card.
+Abres la caja de carga y encuentras una tarjeta magnética.
+
+Electronic lock on the door, ...beneath the blinking red light is a slot.
+Una cerradura electrónica en la puerta, ...debajo de la luz roja parpadeante hay una ranura.
+
+Unlocked
+Abierta
+
+Both the tutor and the pupil need to be present to open the door
+Tanto el tutor como el pupilo deben estar presentes para abrir la puerta
+
+monster factory(Ordinary); Completed
+Fábrica de monstruos (normal); completada
+
+Nether Cave Introduction
+Introducción de la Cueva Avisal
+
+Nether Cave is a 3-player dungeon that can only be entered when you're in a 3-player team. Only a good team can defeat the monsters from the nether world.
+La cueva avisal es una mazmorra para 3 personas a la que solo se puede entrar con un equipo de máximo 3 personas. Solo un buen equipo puede derrotar a los monstruos del mundo avisal.
+
+When a player has completed a floor five times, they are eligible to enter the next floor. If you team up with two other players who are also eligible, you can challenge deeper into the nether cave.
+Cuando un jugador ha completado un piso 5 veces será elegible para entrar al siguiente piso. Si tu equipo está conformado por otros dos jugadores elegibles, pueden ir desafiando a los monstruos de las cuevas cada vez más profundas.
+
+When a player has completed a floor five times, they are eligible to enter the next floor. If you team up with another eligible player, you can challenge deeper into the nether cave.
+Cuando un jugador ha completado un piso 5 veces será elegible para entrar al siguiente piso. Si tu equipo está conformado por otro jugador elegible, pueden ir desafiando a los monstruos de las cuevas cada vez más profundas.
+
+Situation: A self-proclaimed Ethos Church has sprung up in a small southern town. it claims to be praising the good and punishing the evil, but it's actually conducting dirty deeds like robbing and stealing. They recruit new members specifically in remote alleys. And their elusive leader is well-hidden, which makes it difficult for the local forces to track them down.
+Situación: Una autoproclamada Iglesia Ethos ha surgido en un pequeño pueblo del sur. afirma estar alabando el bien y castigando el mal, pero en realidad está realizando actos sucios como estafar y robar. Reclutan nuevos miembros específicamente en callejones ocultos. Y su escurridizo líder está bien escondido, lo que dificulta que las fuerzas locales lo localicen.
+
+Mission: Raid the Ethos Church's baptismal room and confession room and obtain the token to enter the episcopal room. Then, teleport to the episcopal room and eliminate the wicked leader of the Ethos Church.
+Misión: asaltar la sala de bautismo y la sala de confesiones de la Iglesia Ethos y obtener la ficha para entrar en la sala episcopal. Luego, teletranspórtate a la sala episcopal y elimina al malvado líder de la Iglesia Ethos.
+
+C4 explosive is attached to the door and will explode in {d} seconds.
+El explosivo C4 está anclado a la puerta y explotará en $1 segundos
+
+Congratulations on passing the trial of courage. Now, I will teleport you to the wisdom forest to take on the trial of wisdom. Are you ready?
+Felicitaciones por pasar la prueba de coraje. Ahora, te teletransportaré al bosque de la sabiduría para enfrentarte a la prueba de la sabiduría. ¿Estás listo?
+
+Accept the trial of wisdom
+Aceptar la prueba de la sabiduría
+
+People say I'm a stupid and greedy bigmouth. Tch, I'm not! Oh...two humans? Great, I can eat fruits again.
+La gente dice que soy un Bocagrande estúpido y codicioso. ¡Tch, no lo soy! Oh... ¿dos humanos? Genial, puedo comer frutas de nuevo.
+
+The Mirage Fairy said, I can eat fruit from the garden only when two humans arrive. She said one of you can enter the orchard to collect fruits, throw them to the other one outside and feed me. Tch, I have to go through so much trouble just to eat fruits. This time I'm going to have a feast! As soon as I finish one fruit, I want you to hand me another until I'm full. If I'm not satisfied, I'll eat you instead! When I'm full, I'll release the person in the orchard.
+El hada espejismo dijo que puedo comer fruta del jardín solo cuando llegan dos humanos. Ella dijo que uno de ustedes puede entrar al huerto para recolectar frutas, tirarlas al otro afuera y alimentarme. Tch, tengo que pasar por tantos problemas solo para comer frutas. ¡Esta vez voy a tener un festín! Tan pronto como termine una fruta, quiero que me des otra hasta que esté lleno. ¡Si no estoy satisfecho, te comeré a ti! Cuando esté lleno, soltaré a la persona que esté en el huerto.
+
+Do you understand what I'm saying? If you do, then let's get started.
+¿Entiendes lo que te estoy diciendo? Si es así, entonces comencemos.
+
+Got it, I need to enter the orchard, collect fruits, and throw them to my tutor, who will then feed you. (Press ENTER to start the game)
+Lo pillo, necesito entrar al huerto, recolectar frutas y dárselas a mi mentor, quien luego te dará de comer. (Pulsa ENTER para iniciar el juego)
+
+I don't understand.
+No lo entiendo.
+
+Hahahaha, So there is someone dumber than bigmouth after all. I'll repeat myself one last time. one of you shall enter the orchard to collect fruits, throw them to the other one outside and feed me. As soon as I finish one fruit, I want you to hand me another until I'm full. If I'm not satisfied, I'll eat you instead! When I'm full, I'll release the person in the orchard.
+Jajajaja, así que hay alguien más tonto que el Bocagrande después de todo. Me repetiré una última vez. uno de ustedes entrará en el huerto a recoger frutas, se las tirará al otro fuera y me dará de comer. Tan pronto como termine una fruta, quiero que me des otra hasta que esté lleno. ¡Si no estoy satisfecho, te comeré a ti! Cuando esté lleno, soltaré a la persona que esté en el huerto.
+
+I understand this time. (Press ENTER to start the game)
+Esta vez lo entiendo. (Pulsa ENTER para iniciar el juego)
+
+Hey, what took you so long? I don't wanna eat fruits anymore. The handsome Bigmouth is very angry. The Mirage Fairy has asked me to guard the orchard, so I don't have time to eat you. But... hee hee hee, I'll take the rewards that the Mirage Fairy asked me to give you.
+Oye, ¿por qué tardaste tanto? Ya no quiero comer frutas. El apuesto Bocagrande está muy enojado. El hada espejismo me ha pedido que cuide el huerto, así que no tengo tiempo para comerte. Pero... jejejejeje, me quedaré con las recompensas que el Hada Espejismo me pidió que te diera.
+
+Oh, I'm full. There are still many trials ahead waiting for you.
+Oh, estoy lleno. Todavía hay muchas pruebas esperándote más adelante.
+
+Hey, lad, there's a sparrow in the forest that eats the seeds of plants. Judging by the time, I think it's coming again. It's too fast for me to catch up with. Can you collect the seeds in the orchard for me?
+Oye, muchacho, hay un gorrión en el bosque que se come las semillas de las plantas. A juzgar por el tiempo, creo que viene de nuevo. Es demasiado rápido para mí. ¿Puedes recoger las semillas en el huerto por mí?
+
+Sure, let's go in and collect seeds.
+Claro, entremos y recolectemos semillas.
+
+Hey, lass, there's a sparrow in the forest that eats the seeds of plants. Judging by the time, I think it's coming again. It's too fast for me to catch up with. Can you collect the seeds in the orchard for me?
+Oye, muchacha, hay un gorrión en el bosque que se come las semillas de las plantas. A juzgar por el tiempo, creo que viene de nuevo. Es demasiado rápido para mí. ¿Puedes recoger las semillas en el huerto por mí?
+
+You have delivered {d} seeds. Keep it up!
+Has entregado $1 semillas. ¡Vamos!
+
+You have delivered {d} seeds. Keep up the good work!
+Has entregado $1 semillas. ¡Sigue con el buen trabajo!
+
+You have delivered {d} seeds. Well done!
+Has entregado $1 semillas. ¡Bien hecho!
+
+You have delivered {d} seeds. Amazing!
+Has entregado $1 semillas. ¡Asombroso!
+
+any seed of wisdom tree
+ninguna semilla del árbol de la sabiduría
+
+Leave
+Salir
+
+Deliver Seed
+Entregar las semillas
+
+are you sure to leave?
+¿Confirmas  que quieres irte?
+
+Both the tutor and the pupil need to be near the seed keeper.
+Tanto el mentor como el pupilo deben estar cerca del guardián de las semillas.
+
+Thanks, lad, you can carry on now. There's a complex maze up ahead. You two need to cooperate well to pass it. I know you can do it!
+Gracias, muchacho, puedes continuar ahora. Hay un laberinto complejo más adelante. Ustedes dos necesitan trabajar juntos para pasarlo. ¡Sé que pueden hacerlo!
+
+Thanks, lass, you can carry on now. There's a complex maze up ahead. You two need to cooperate well to pass it. I know you can do it!
+Gracias, muchacha, puedes continuar ahora. Hay un laberinto complejo más adelante. Ustedes dos necesitan trabajar juntos para pasarlo. ¡Sé que pueden hacerlo!
+
+Hey kid, if you want to reach the end of the mirage, you need to pass this maze. Let's see if you and your companion have what it takes.
+Oye chico, si quieres llegar al final del espejismo, debes pasar este laberinto. Veamos si tú y tu acompañante tienen lo que hace falta.
+
+Huh, nothing can stop us!
+¡Ja, nada puede detenernos!
+
+Enter the maze
+Entrar en el laberinto
+
+Wow! You're amazing! You actually passed the maze.
+¡Guau! ¡Eres increíble! De verdad pasaste el laberinto.
+
+Leave the maze
+Abandonar el laberinto
+
+I heard you two have passed many trials. Haha, but you're not going to get past us that easily. You need to answer all three of our questions correctly.
+Escuché que ustedes dos han pasado muchas pruebas. Jaja, pero no vas a pasarnos tan fácilmente. Tienes que responder correctamente a nuestras tres preguntas.
+
+I heard you two have passed many trials. Haha, but you're not going to get past us that easily. You need to answer our questions correctly.
+Escuché que ustedes dos han pasado muchas pruebas. Jaja, pero no vas a pasarnos tan fácilmente. Tienes que responder correctamente a nuestras preguntas.
+
+No question is too difficult for a team like us. Bring it on!
+Ninguna pregunta es demasiado difícil para un equipo como el nuestro. ¡Dale!
+
+Start answering questions
+Empezar a responder las preguntas
+
+Question 1: Which of the following three fruits does your companion like best?
+Pregunta 1: ¿Cuál de las siguientes tres frutas le gusta más a tu compañero?
+
+1. Grape
+1. Uva
+
+2. Strawberry
+2. Fresa
+
+3. Lychee
+3. Lichi
+
+Congratulations, you've correctly answered question {d}.
+Enhorabuena, has respondido correctamente a la pregunta $1.
+
+You have answered the question. Please wait for your companion to answer their question.
+Has respondido a la pregunta. Espera a que tu compañero responda.
+
+Question 2: Which of the following three beverages does your companion like best?
+Pregunta 2: ¿Cuál de las siguientes tres bebidas le gusta más a tu compañero?
+
+3. Juice
+3. Zumo
+
+Question 3: Which of the following three food does your companion like best?
+Pregunta 3: ¿Cuál de los siguientes tres alimentos le gusta más a tu compañero?
+
+2. Bun
+2. Bollo
+
+Wow, you got all three questions right. You two really know each other very well!
+Wow, acertaste las tres preguntas. ¡Ustedes dos realmente se conocen muy bien!
+
+Congratulations on finally coming here to meet me. Let me have a look at your performance.
+Felicitaciones por finalmente venir aquí a conocerme. Déjame echar un vistazo a tu actuación.
+
+You arrived in Brave Valley, and encountered the Giant Pig-faced Bat, Giant Dryad, Blood-Red Worm, Brutal Man-Wolf, all of which are the mental embodiment of the demons you've faced before. You defeated them valiantly, and eliminated the evil cat king together. Then, you arrived in Wisdom Forest.
+Llegaste a Valle Valentía y te encontraste con el murciélago gigante con cara de cerdo, la dríada gigante, el gusano rojo-sangre y el hombre-lobo brutal, todos los cuales son la encarnación mental de los demonios a los que te has enfrentado antes. Los derrotaste valientemente y eliminaron al malvado rey gato juntos. Luego, llegaste al Bosque de la Sabiduría.
+
+First, you failed the Bigmouth's trial.
+Primero, fallaste en la prueba del Bocagrande.
+
+First, you passed the Bigmouth's trial.
+Primero, pasaste la prueba del Bocagrande.
+
+Then you met the seed keeper, and helped him save most of the seeds.
+Luego conociste al guardián de semillas y lo ayudaste a salvar la mayoría de las semillas.
+
+Afterwards, you passed the maze's trial, and met with Dummy and Grumpy.
+Tras eso, pasaste la prueba del laberinto y te encontraste con Tontín y Gruñón.
+
+When they asked you their questions, you two must be very close, for you got all questions right.
+Cuando les hicieron sus preguntas, ustedes dos deben ser muy cercanos, porque respondieron todas las preguntas correctamente.
+
+In the end, you passed many trials to get here, and will each receive {d} Arnebia as a reward.
+Al final, pasaste muchas pruebas para llegar aquí, y cada uno recibirá $1 Arnebia como recompensa.
+
+As a tutor, you have proved that you've trained your pupil into a brave and wise person.
+Como mentor, has demostrado que has convertido a tu pupilo en una persona valiente y sabia.
+
+There must be many other incredible memories on the path you've taken together.
+Debe haber muchos otros recuerdos increíbles en el camino que han recorrido juntos.
+
+Do you remember when the pupil was injured in the fight with the demon, and the tutor used Blood Transfusion selflessly?
+¿Recuerdas cuando el pupilo resultó herido en la pelea con los demonios y el mentor usó Transfusión de Sangre desinteresadamente?
+
+Do you remember how the tutor came to the rescue when the pupil was in danger?
+¿Recuerdas cómo el mentor acudió al rescate cuando el pupilo estaba en peligro?
+
+Do you remember how the pupil's heartwarming gift when the tutor's supplies were low?
+¿Recuerdas el regalo conmovedor del pupilo cuando los suministros del mentor escaseaban?
+
+These will all become your most cherished memories.
+Todos estos se convertirán en sus recuerdos más preciados.
+
+Now, it is time to say goodbye. The pupil is now ready to venture into the world alone.
+Ahora, es hora de decir adiós. El pupilo ya está listo para aventurarse solo en el mundo.
+
+In the future, when you feel the loneliness of exploration, the fear of facing powerful demons, the helplessness of encountering difficulties, do not forget the warmth and happiness that someone has brought you.
+En el futuro, cuando sientas la soledad de la exploración, el miedo de enfrentarte a poderosos demonios, la impotencia de encontrarte con las dificultades, no olvides la calidez y la felicidad que alguien te ha brindado.
+
+Waiting for the pupil to complete his/her graduation
+Esperando que el pupilo complete su graduación
+
+Graduation complete
+Completar la graduación
+
+Collect the reward and leave
+Recoger la recompensa y salir
+
+You and tutor are separated. From now on, you will face the world by your own. In the bleak cold wind, you watched tutor depart  across the ruined landscape, gradually disappear from sight. ; 
+El mentor y tú están separados. A partir de ahora te enfrentarás al mundo por tu cuenta. En el sombrío viento frío, ves al mentor partir a través del paisaje desolado, hasta desaparecer gradualmente de la vista...
+
+Can only be opened by the key passed from the pupil
+Solo se puede abrir con la llave, que el pupilo le debe de enviar al mentor
+
+The tutor should enter the west door
+El mentor debe entrar por la puerta oeste
+
+The pupil should enter the east door
+El pupilo debe entrar por la puerta este
+
+the key, cannot unlock
+la llave, no puedes abrir
+
+Please let the pupil do the job
+Deja que el pupilo haga el trabajo
+
+already finished this dungeon
+Ya finalizaste esta mazmorra
+
+sob sob, thank you so much.
+Snif snif, muchas, muchas gracias
+
+Let the pupil do it
+Deja que el pupilo lo haga
+
+You tried hard, but can not be able to move it.
+Aunque tratas de levantarla con fuerza, no eres capaz de moverla
+
+Circular Groove; press to insert the stone ball
+Ranura circular; presiona para insertar la bola de piedra
+
+Three crystal stones have been inserted into the three grooves of the mechanism, but the stone door did not react at all.
+Los tres cristales de piedra han sido insertados en los tres patrones del mecanismo, pero la puerta no se ha movido ni un ápice
+
+You should visit the Mirage Fairy. She has something to say to you. Her Cabin is just across the wisdom bridge.
+Deberías visitar al Hada Espejismo. Ella tiene algo que decirte. Su cabaña está al otro lado del puente de la sabiduría.
+
+You cannot press this button now
+No puedes presionar este botón por ahora
+
+This is a mechanism on the stone wall. It has two circular grooves with a button in the middle.
+Este es un mecanismo en la pared de piedra. Tiene dos ranuras circulares con un botón en medio.
+
+Groove $1; press to insert the stone ball
+Ranura $1; presiona para insertar la bola de piedra
+
+You open the box and there's nothing in it.
+Abres la caja de carga y no ves nada dentro
+
+anything to insert into the gate. Cannot Open the Gate.
+nada para insertar en la puerta, por lo que no se puede abrir
+
+Only the pupil can enter the orchard.
+Solo el pupilo puede entrar a la huerta
+
+Tch, I don't want to talk to you right now!
+Tch, ¡no quiero hablar contigo ahora!
+
+This tree has not yet borne fruit.
+Este árbol todavía no ha dado frutos
+
+You can only press it once every 2 seconds.
+Solo puedes presionarlo una vez cada 2 segundos
+
+Weren't you answering questions at Grumpy? Go find him and answer more questions.
+¿No estabas respondiendo preguntas con Gruñón? Ve a buscarlo y sigue respondiendo.
+
+underground power plant (Difficult)
+Planta de energía subterránea (difícil)
+
+You open the cargo box and there's nothing in it.
+Abres la caja de carga y no ves nada en ella
+
+underground power plant(Difficult); Completed
+Planta de energía subterránea (difícil); completada
+
+the key, cannot open it.
+la llave, no puedes abrirla
+
+unlocked.
+Abierta
+
+button; press to press
+Botón; click para presionar
+
+Groove {d}, press to embed ice bead
+Ranura $1; presiona para insertar la perla de hielo
+
+There are three circular grooves and a button on the ice door.
+Hay tres ranuras circulares y un botón en la puerta de hielo
+
+rampant water monsters
+Monstruos de agua desenfrenados
+
+The water monsters in the peace and tranquility under heaven and Inland Sea Basin are seriously rampant, which has reduced the aquatic production in this area.
+Los monstruos acuáticos de la Paz y Tranquilidad bajo el cielo y de la cuenca del Mar Interior están muy desenfrenados, lo que ha reducido la producción acuática en esta área.
+
+{s}, please go and clear the source of the water monsters.
+{sub2{$1}sub2}, por favor ve y limpia la fuente de donde salen estos monstruos.
+
+Dungeon Level 70, Limited to Level 65 and above; difficulty Ordinary. Completing the dungeon will reward you with Werewolf fusion beasts (the material to craft Crystal Wolf Teeth), Sea Spirit Guardian fusion beasts (the material to craft Crystal coral), other items, and experience.
+Mazmorra de nivel 70, limitada a jugadores de nivel 65 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con dientes de cristal de lobo (material para hacer la bestia de fusión de hombre lobo), corales de cristal (material para hacer la bestia de fusión de espíritu guardián del mar), experiencia y otros objetos.
+
+a water monster's egg
+Un huevo del monstruo acuático
+
+Guardian Stronghold(Difficult)
+Fortaleza del guardián (difícil)
+
+Once, the Guardian Stronghold was an important military facility for humans to defend against demons. Human troops are stationed in it, and there are even more powerful biochemical warrior Guardian Shadick and biochemical beast Guardians guarding it.
+Hubo un tiempo en que la fortaleza del guardián fue un complejo militar importante para que los humanos se defendieran contra los demonios. Había tropas humanas dispuestas en ella, e incluso estaba salvaguardad a por guardianes guerreros sádicos bioquímicos y bestias bioquímicas guardianas.
+
+One day, disaster suddenly struck. Devilish energy permeates the earth, bringing along with it a terrible plague. The soldiers in the guardian stronghold were successively infected by the plague and became terrible vampire zombies. Demons also took advantage of the situation and destroyed the central control system. Guardian Shadick and other Guardians lost control. From then on, the guardian stronghold has been abandoned.
+Pero un día ocurrió un desastre repentino. La energía diabólica impregnó la tierra, trayendo consigo una plaga terrible. Los soldados de la fortaleza del guardián fueron infectados poco a poco por la plaga y se convirtieron en zombis vampiros terroríficos. También los demonios tomaron ventaja de la situación destruyendo el sistema de control central, lo que hizo que se perdiera el control de los guardiánes sádicos y de las bestias guardianas. A partir de entonces la fortaleza ha sido abandonada.
+
+Warriors, please go to eliminate the zombies and guardians in the Guardian Stronghold, regain this important military facility.
+Guerreros, por favor vayan a eliminar a los zombis y a los guardianes en la fortaleza del guardián y recuperen este importante complejo militar.
+
+Dungeon Level 70, Limited to Level 65 and above; difficulty Difficult. Completing the dungeon will reward you with Nightmare beast fusion beasts (the material to craft Nether Fire), other items, and experience.
+Mazmorra de nivel 70, limitada a jugadores de nivel 65 y superior. Dificultad, difícil. Al completar esta mazmorra se te recompensará con Fuego Abisal (material para hacer la bestia de fusión de pesadilla), experiencia y otros objetos.
+
+A group of cruel and bloodthirsty bats live in the Bloody Cave, where pig faced bats are even more common. These bats have a leader named Putra, and many people passing by the cave are captured by the bats and sacrificed to the leader Putra.
+Hay un grupo de murciélagos brutales y sedientos de sangre viviendo en la Cueva Sangrienta, donde son más comunes los murciélagos caradecerdo gigantes. Estos murciélagos son liderados por una criatura llamada Putra. Mucha de la gente que ha pasado por esta cueva ha sido atrapada por los murciélagos e inmolada en el nombre de Putra.
+
+Warriors, please go to destroy the bat leader Putra and his minions.
+Guerreros, por favor vayan a destruir a la líder murciélago Putra y a sus secuaces.
+
+Dungeon Level 70, Limited to Level 65 and above; difficulty Ordinary. Completing the dungeon will reward you with Nightmare beast fusion beasts (the material to craft White Bone Piece), other items, and experience.
+Mazmorra de nivel 70, limitada a jugadores de nivel 65 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con Pedazo de hueso blanco (material para hacer la bestia de fusión de pesadilla), experiencia y otros objetos.
+
+bloody cave(Ordinary)
+Cueva Sangrienta (normal)
+
+Guardian Stronghold(Difficult); Completed
+Fortaleza del Guardián (difícil); completada
+
+bloody cave(Ordinary); Completed
+Cueva Sangrienta (normal); completada
+
+Warriors
+Guerrero
+
+You've got the water monster's egg
+Ya obtuviste el huevo del monstruo acuático
+
+Dryad Jungle (Slightly difficult)
+Jungla de la Dríada (ligeramente difícil)
+
+There is a group of man-eating plants entrenched in the Dryad Jungle, and those who stray into the Jungle never come out alive.
+Hay un grupo de plantas devoradoras de hombres enraizadas en la Jungla de la Dríada, y todo aquel que ha entrado no ha logrado salir con vida.
+
+{s}, please go to destroy the man-eating plants and their dryad leaders in the Dryad Jungle.
+{sub2{$1}sub2}, por favor ve a destruir a las plantas devoradoras de hombres y a sus líderes dríadas en la jungla
+
+Dungeon Level 70, Limited to Level 65 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Turquoise Metal (the material to craft Two Star Attack Medal), other items, and experience.
+Mazmorra de nivel 70, limitada a jugadores de nivel 65 y superior. Dificultad, ligeramente difícil. Al completar esta mazmorra se te recompensará con Metal turquesa (material para hacer una medalla de ataque de dos estrellas), experiencia y otros objetos.
+
+Dryad Jungle (Slightly difficult); Completed
+Jungla de la Dríada (ligeramente difícil); completada
+
+You use your spirit force to make the pool of water in your palm slowly gather.
+Usas toda tu fuerza espiritual para hacer que el agua del pozo se empiece a juntar lentamente en la palma de tu mano.
+
+The water in the hand gradually converges to one point; press to continue
+El agua de tu mano empieza a converger gradualmente en un punto; presiona para continuar
+
+Water that gathers together appears to be solid; press to continue
+Parece que el agua reunida se solidifica; presiona para continuar
+
+It's as if the water that has become solid is gradually taking shape according to your idea; press to continue
+Sientes cómo poco a poco el agua solidificada va tomando la forma que deseas; presiona para continuar
+
+You successfully condensed a convex lens with the water in your hand!
+¡Has condensado una lente convexa con el agua reunida en tu mano!
+
+You hover over the deadwood with the Water Convex Lens.
+Pasas la lente convexa de agua por toda la madera muerta
+
+You adjust the angle so that the sunlight shines on the dead wood through the convex lens.
+Ajustas el ángulo para que la luz del sol brille sobre la madera muerta a través de la lente.
+
+A thin plume of smoke rises from the location of the light spot; press to continue
+Una fina columna de humo se va elevando desde donde surge el punto de luz; presiona para continuar
+
+You successfully ignited the Deadwood!
+¡Has encendido con éxito la madera muerta!
+
+Climb the tree by holding the branch
+Sujetar la rama y trepar al árbol
+
+Hold the branch and slide down the tree
+Sujetar la rama y bajar del árbol
+
+You wait patiently for the position of the blip to get hotter; press to continue
+Esperas pacientemente a que se caliente la posición del punto luminoso; presiona para continuar
+
+A beam of sunlight passes through the convex lens and gathers into a light spot on the surface of dead wood; press to continue
+Un rayo de luz solar pasa a través de la lente convexa, que hace que se vaya creando un punto luminoso en la superficie de la madera muerta; presiona para continuar
+
+You hold the water in your hands.
+Sostienes el agua en tus manos
+
+The stone ball is inserted into circular groove {d}; press to return
+Se ha insertado la bola de piedra en la ranura $1; presiona para regresar
+
+Groove {d}; press to insert the stone ball
+Ranura $1; presiona para insertar la bola de piedra
+
+The operation of the abandoned factories in the Domi Wasteland relies on an underground power plant. The puppet master Pinocchio is creating a highly destructive explosive in the underground power plant. Warriors, please go to the underground power plant to stop Pinocchio's plans.
+Esta planta de energía subterránea produce la potencia suficiente para que puedan operar las fábricas abandonadas del Páramo de Domi. Pinocho, el maestro de marionetas, está creando un explosivo altamente destructivo en lo profundo de este lugar. Guerreros, por favor entren a la planta de energía subterránea para detener los planes de Pinocho.
+
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Werewolf Soul Orb (the material to craft Werewolf fusion beasts), Sea Spirit Soul Orb (the material to craft Sea Spirit Guardian fusion beasts), other items, and experience.
+Mazmorra de nivel 65, limitada a jugadores de nivel 60 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con orbes de alma del hombre lobo (material para crear la bestia de fusión de hombre lobo), orbes de alma de espíritu marino (material para crear la bestia de fusión espíritu guardián del mar), otros objetos y experiencia.
+
+You have caught enough magpies. There's no need to catch more of them.
+Has atrapado suficientes urracas. Ya no es necesario que atrapes más.
+
+The magpies you caught are enough to build half a magpie bridge. Please wait for your partner.
+Las urracas que atrapaste son suficientes para construir medio puente de la urraca. Por favor espera a que termine tu pareja.
+
+Thank you for letting me be together with Cowherd again!
+¡Gracias por permitirme estar junto a mi vaquero otra vez!
+
+I can finally see my beloved weaver girl!
+¡Finalmente puedo ver a mi chica tejedora!
+
+Appointments on the Magpie Bridge
+Cita en el Puente de la Urraca
+
+Situation: The cowherd and the weaver girl are blocked by the Milky Way, and the day when the two meet is again, but the mischievous magpie is unwilling to build a magpie bridge for them.
+Situación: Hoy es el día en que el vaquero y la chica tejedora esperan reunirse, pero están separados por la Vía Láctea, y la traviesa urraca no quiere construir un puente de urracas para ellos.
+
+Mission: Capture enough magpies to build a Magpie Bridge for the cowherd and weaver girl to meet them.
+Misión: Captura las suficientes urracas para construir un puente de urracas y así el vaquero y la chica tejedora puedan reunirse.
+
+Enter;Access is available 2 times a day; You have entered {d} times
+Entrar; Puedes entrar 2 veces al día y ya has entrado $1 veces.
+
+The warriors must be careful of the demonized Death Worm, which is much more powerful than the Death Worm you have encountered before. The Demonized Death Worm lives in the hive north of the wormhole.
+Los guerreros tendrán que extremar precauciones ante el gusano demonizado, que es muchísimo más poderoso que los gusanos con los que se hayan topado antes de él. El gusano demonizado reside en la colmena más septentrional del agujero de gusano.
+
+sprawling desert (Difficult)
+Desierto en expansión (difícil)
+
+sprawling desert (Difficult); Completed
+Desierto en expansión (difícil); completada
+
+The cacti of the Takama Desert began to grow wildly from the depths of the Zagrama Canyon, and wherever these mutated plants went, there would turn into deserts.
+Los cactus del Desierto Takama comenzaron a crecer de forma salvaje desde las profundidades del Cañón Zagrama, y todo lugar a donde iban avanzando estas plantas mutadas se convertía en desierto.
+
+Warriors, please go to eradicate the mutated cacti in the Zagrama Canyon to prevent further expansion of the desert.
+Guerreros, por favor vayan a erradicar a los cactus mutantes en el Cañón Zagrama para prevenir que se siga expandiendo el desierto.
+
+Dungeon Level 70, Limited to Level 65 and above; difficulty Ordinary. Completing the dungeon will reward you with Werewolf Soul Orb (the material to craft Werewolf fusion beasts), Sea Spirit Soul Orb (the material to craft Sea Spirit Guardian fusion beasts), other items, and experience.
+Mazmorra de nivel 70, limitada a jugadores de nivel 65 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con orbes de alma de lobo (material para hacer la bestia de fusión de hombre lobo), orbes de alma de espíritu marino (material para hacer la bestia de fusión de espíritu guardián del mar), experiencia y otros objetos.
+
+Please send me to help the Cowherd!
+¡Por favor envíame a ayudar al vaquero!
+
+Thank you for catching so many magpies to build a magpie bridge for me and Weaver Girl. I'm going to meet her!
+¡Gracias por atrapar tantas urracas para construir un puente con ellas, para que la chica tejedora y yo podamos reunirnos!
+
+You have caught {d} out of 50 magpies; please catch enough magpies and let them form a magpie bridge!
+Has atrapado $1 de 50 urracas. ¡Por favor atrapa suficientes urracas y deja que formen un puente!
+
+Catch magpies
+Atrapar urraca
+
+You have caught a magpie. It will go and help build a magpie bridge for the Cowherd and Weaver Girl.
+Has atrapado a una urraca, que irá a ayudar a construir un puente para que el vaquero y la chica tejedora se reúnan.
+
+I can finally see my beloved Cowherd!
+¡Finalmente puedo ver a mi amado vaquero!
+
+You have caught a magpie. The magpies you caught are enough to build half a magpie bridge. Please wait for your partner to complete the mission.
+Has atrapado una urraca. Las urracas que atrapaste son suficientes para construir medio puente de la urraca. Por favor espera a que tu pareja termine la misión.
+
+Thank you for letting me be together with weaver girl again!
+¡Gracias por permitirme estar de nuevo con mi chica tejedora!
+
+You have caught a magpie. The magpies you caught are enough to build the magpie bridge. Go get the Cowherd and Weaver Girl together!
+Has atrapado una urraca. Las urracas que atraparon son suficientes para construir el puente de la urraca. ¡Vayan a reunir al vaquero y a la chica tejedora!
+
+Marshall's artillery(Difficult)
+La artillería de Marshall (difícil)
+
+Marshall's artillery(Difficult); Completed
+La artillería de Marshall (difícil); completada
+
+Marshall is an evil and cunning killer, countless people died under his blade. Warriors, please go and eradicate this human cancer.
+Marshall es un asesino malvado y astuto. Su puñal ha segado la vida de muchas personas. Guerreros, por favor vayan y erradiquen a este cáncer de la humanidad.
+
+Dungeon Level 75, Limited to Level 70 and above; difficulty Difficult. Completing the dungeon will reward you with Medal of the demon Hunting boy or Medal of the Demon Chasing girl (the material to craft Glazed Diamond), other items, and experience.
+Mazmorra de nivel 75, limitada a jugadores de nivel 70 y superior; dificultad, difícil. Al completar esta mazmorra se te recompensará con diamante vidriado (material para fabricar la medalla del cazademonios o la medalla de la cazademonios), otros objetos y experiencia.
+
+Tip: After the dungeon officially starts, warriors need to enter the blockhouse from the east side door all the way to the east.
+Consejo: Una vez comience la mazmorra, los guerreros deben entrar al fortín desde la puerta del este y seguir el camino hacia el este.
+
+After arriving at the South battery Entrance, you need to lure out the guards in the battery and kill them, otherwise you will face the double threat of antiaircraft gun and guards when you enter the fort.
+Después de llegar a la entrada de la batería sur, deben atraer a los guardias de la batería y matarlos, o de lo contrario enfrentarán dos amenazas, pues además de ellos tendrán que luchar contra los cañones antiaéreos al ingresar al fuerte.
+
+There is an antiaircraft gun in each of the four corners of the South battery. When entering the South battery, warriors need to run to the east and west sides at the same time to smash the antiaircraft gun in the corner, and then go north to smash the other two antiaircraft guns.
+Hay un cañón antiaéreo en cada una de las cuatro esquinas de la batería sur, así que al entrar los guerreros tendrán que correr hacia el este y el oeste para destruir los dos cañones de dichas esquinas, y luego ir hacia el norte para hacer lo mismo con las esquinas de ese extremo.
+
+After passing through the South battery, go to the warehouse in the middle to get two keys, and then open the two locked doors of the Middle battery. After unlocking, lead out the guards inside the middle battery and kill them.
+Después de pasar por la batería sur, vayan al almacén que se encuentra en el medio para obtener dos llaves que les permitirán abrir las dos puertas de la batería central. Luego de abrirla, tendrán que hacer que los guardias salgan de allí y matarlos.
+
+Then be sure to divide into two roads, enter the middle battery from the north and south entrances at the same time, and go west to smash the two antiaircraft guns on the middle battery.If you don't smash the two cannons of the middle battery, you will be attacked by the middle battery after leaving the fort. Then attack the North battery in the same way as the South battery.
+Entonces asegúrense de separarse y tomar dos caminos, entren a la batería central desde las entradas norte y sur al mismo tiempo, y vayan hacia el oeste para destruir los dos cañones antiaéreos de la batería. Si no los destruyen serán atacados por la batería al salir del fuerte. Luego ataquen la batería norte tal y como hicieron con la del sur.
+
+After entering the base, kill a group of guards first, then two players prepare to destroy shells in the south guard room, and one player accacks a smoothbore gun in the north guard room. The smoothbore gun can hold five shells, and you need to lead it to fire up all of its shells before approaching. At this time, the conveyor belt in the south will supply shells to the smoothbore gun. Players in the south need to smash the shells on the conveyor belt in time to prevent the smoothbore gun from being replenished and causing damage to players in the north.
+Una vez dentro de la base, maten al grupo de guardias primero y que dos jugadores se preparen para destruir proyectiles en la sala de guardia sur mientras que el otro destruye el arma de ánima lisa en la sala norte. El arma de ánima lisa puede contener hasta 5 proyectiles, así que tendrán que dejar que el arma dispare todos sus proyectiles antes de acercarse. Una vez que termine, la cinta transportadora al sur le administrará proyectiles al arma. Los jugadores del sur tendrán que destruir los proyectiles de la cinta a tiempo para prevenir que el arma vuelva a ser cargada y ataque al jugador que esté en el norte.
+
+You were too impatient to gather the water in your hand, and the water flowed away through your fingers! ! Press to back
+Fuiste demasiado impaciente para juntar el agua en tu mano, ¡lo que hizo que se escurriera por tus dedos! Presiona para volver
+
+You concentrate and use magic to make the pool of water in your palm slowly gather.
+Te concentras y usas la magia para que el agua del pozo se junte lentamente en la palma de tu mano
+
+You lose patience, the light shifts, it doesn't focus on one spot! Press to back
+Pierdes la paciencia, ¡lo que hace que la luz se mueva y no se concentre en un solo punto! Presiona para volver.
+
+insert magnetic card
+Insertar tarjeta magnética
+
+magnetic card, can't open it
+la tarjeta magnética, no se puede abrir
+
+Dungeon Level 75, Limited to Level 70 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Turquoise Metal (the material to craft Two Star Attack Medal), other items, and experience.
+Mazmorra de nivel 75, limitada a jugadores de nivel 70 y superior. Dificultad, ligeramente difícil. Al completar esta mazmorra se te recompensará con metal turquesa (material para fabricar una medalla de ataque de dos estrellas), otros objetos y experiencia.
+
+Doctor Meow Meow has developed a new weapon based on creatures from other dimensions, named Battle Tyrannosaurus. This weapon is still in the development stage and does not have enough intelligence. Please go to the secret fortress to stop Doctor Meow Meow's plan.
+El Doctor Miaw Miau ha desarrollado un arma basada en criaturas de otras dimensiones, a la que denominó Tiranosaurio de Batalla. Esta arma todavía está en etapa temprana de desarrollo y no tiene la inteligencia suficiente. Por favor ve al fuerte secreto a detener el plan del Doctor.
+
+Machine Fortress (Slightly difficult)
+La Fortaleza de las máquinas (ligeramente difícil)
+
+Machine Fortress (Slightly difficult); Completed
+La Fortaleza de las Máquinas (ligeramente difícil); completada
+
+Lisa's Ukulele (Ordinary)
+El Ukulele de Lisa (normal)
+
+Lisa's Ukulele (Ordinary); Completed
+El Ukulele de Lisa (normal); completada
+
+Lisa's Ukulele makes some weird noises when she plays it, can you help her?
+El ukulele de Lisa hace ruidos extraños cuando lo toca. ¿Le puedes ayudar?
+
+Dungeon Level 75, Limited to Level 70 and above; difficulty Ordinary. Completing the dungeon will reward you with White Bone Piece (the material to craft Nightmare beast fusion beasts), other items, and experience.
+Mazmorra de nivel 75, limitada a jugadores de nivel 70 y superior. Dificultad, normal. Al completar esta mazmorra se te recompensará con Pedazo de hueso blanco (material para hacer la bestia de fusión de pesadilla), experiencia y otros objetos.
+
+Frost magic weapon
+Arma mágica de escarcha
+
+The Ice Queen has refined two magic weapons. Under the effect of the magic weapons, the magic of the Ice Queen is greatly enhanced. Please go and destroy the magic weapons and kill the Ice Queen. Three to five players are required. Tip: Players can resurrect unlimited in the gang dungeons.
+La reina de hielo ha refinado dos armas mágicas. Bajo el efecto de estas armas, la magia de la reina se ve altamente potenciada. Por favor vayan a destruir las armas mágicas de hielo y matar a la reina. Se requiere un equipo de entre tres a cinco personas. Consejo: los jugadores pueden resucitar de manera ilimitada en las mazmorras de pandilla.
+
+ice bead
+perla de hielo
+
+ice door
+Puerta de hielo
+
+Warriors need to act cautiously after entering the quest to avoid being besieged by Warcraft. Open the ice door thick and move separately. The stronger warriors walked east from the thick T-mouth of the ice gate. The weaker warriors walked north from the thick T-mouth of the ice gate. Find and destroy the Ice Queen's magic weapon separately to open the way to the Ice Queen's hiding place.
+Los guerreros deben de actuar de forma cautelosa después de entrar a la mazmorra para no ser emboscados. Abran la puerta de hielo gruesa y sepárense. Los guerreros más fuertes tienen que caminar hacia el este en el cruce en forma de T, mientras que los más débiles deben de ir hacia el norte. Encuentren y destruyan el arma mágica de la reina de hielo para abrir el camino hacia el lugar oculto donde se encuentra la reina.
+
+Tip: Everyone can resurrect unlimited in the gang dungeons.
+Consejo: Todos pueden resucitar de forma ilimitada en las mazmorras de la pandilla.
+
+Groove {d}, Ice bead embedded.
+Ranura $1, perla de hielo anclada
+
+When they asked you their questions, You got two questions right.
+Cuando te hicieron las preguntas, respondiste correctamente dos de ellas
+
+You got two questions right, not bad.
+Respondiste dos preguntas bien, nada mal.
+
+I'm sorry to tell you that you've missed question {d}.
+Siento decirte que fallaste la pregunta $1.
+
+green color area
+área verde
+
+You open the drawer and there is a magnetic card inside.
+Abres el cajón y ves una tarjeta magnética dentro.
+
+There are three drawers on the cabinet.
+Hay tres cajones en el gabinete
+
+Drawer
+Cajón
+
+Pandilla Threlm;omg she's rude and doesn't invite me
+Abres el cajón y no ves nada en él; presiona para volver
+
+you get a magnetic card
+Obtuviste la tarjeta magnética
+
+take the magnetic card
+Tomar la tarjeta magnética
+
+Slot; press to insert a magnetic card
+Ranura; presiona para insertar una tarjeta magnética
+
+The magnetic card has been inserted, the authentication is successful; press to return
+La tarjeta magnética ha sido insertada, autenticación exitosa... presiona para continuar
+
+The green light on the console is blinking, and there's a slot and a switch underneath.
+La luz verde en la consola parpadea y hay un interruptor y una ranura debajo.
+
+The Fortress hub is running; press to stop
+El generador de potencia del fuerte está funcionando. Presiona para detenerlo
+
+opened
+Abierto
+
+Recently, pirates have been plundering merchant ships in the Marion Sea. Warriors, please eliminate these pirates.
+Recientemente los piratas han estado saqueando barcos mercantes en el Mar Marion. Guerreros, por favor eliminen a estos piratas.
+
+After the warriors enter the dungeon, you need to move separately. the stronger team should enter the cabin along the deck, and the weaker team should climb the ladder down to the cargo hold. After both teams get the keys, you should throw the key to the other side through the vent in the cabin.
+Después de que entren a la mazmorra deben separarse. Los más fuertes deben entrar a la cabina adjunta a la cubierta, y los más débiles deben bajar la escalera a la bodega de carga. Una vez que ambos equipos consigan las llaves, deben lanzárselas mutuamente hacia el lado contrario usando los conductos en las cabinas.
+
+Tip: Gang quests can be revived on unlimited maps.
+Consejo: Todos pueden resucitar ilimitadamente en el mapa en las mazmorras de pandilla.
+
+Throw up the blue key
+Lanzar la llave azul
+
+drop the yellow key
+Lanzar la llave amarilla
+
+You found a yellow key inside the vent
+Encontraste una llave amarilla dentro del conducto
+
+You found a blue key inside the vent
+Encontraste una llave azul dentro del conducto
+
+dark air vent
+Conducto de ventilación oscuro
+
+Need a yellow ed key to open
+Necesitas una llave amarilla para abrirla
+
+Need a blue ed key to open
+Necesitas una llave azul para abrirla
+
+hatch
+Escotilla
+
+a yellow key
+Una llave amarilla
+
+a blue key
+Una llave azul
+
+Pirate boat
+Barco pirata
+
+Zombie-infested valley, endangered village, loosed seal, and dark is counterattacking. Warriors, take action, eliminate the revived Super Pharaoh, and save the village shrouded in darkness. .
+Un valle infestado de zombis, una aldea en peligro y un sello roto. La oscuridad contraataca. Guerreros, actúen y eliminen al Súper faraón Revivido, y salven a la aldea de las garras de la oscuridad.
+
+After entered the dungeon, please talk with the villagers to understand the situation.
+Una vez en la mazmorra, hablen con los aldeanos para entender la situación.
+
+Tips: Gang quests can be revived on unlimited maps.
+Consejo: Todos pueden resucitar ilimitadamente en el mapa en las mazmorras de pandilla.
+
+Enter the dungeon; {d} to {d} gang members are required to form a team; Minimum level requirement is {d}
+Entrar a la mazmorra; se requiere un equipo conformado por entre $1 y $2 miembros de la pandilla, de nivel $3 como mínimo.
+
+The plump loofahs are teetering
+Las lufas están tambaleándose
+
+already full of water
+Ya está lleno de agua
+
+already have an empty bucket
+Ya tienes un balde vacío
+
+Please get the spring water first
+Primero obtén el agua del manantial
+
+watering
+Regando
+
+Numerous loofahs are growing on the melon vine, and the growth rate is {d}{s}%
+Están creciendo varias lufas en la enredadera de melón, y su tasa de crecimiento es de $2$3%
+
+You poke away the vines and reveal the dry and cracked soil
+Apartas las enredaderas y descubres un suelo seco y engrietado
+
+Planting luffa seedlings
+Plantar las plántulas de lufa
+
+It has been planted. Please water the melon seedlings
+Ya están plantadas. Por favor riega las plántulas de melón.
+
+bucket, can't fetch water
+baldes, no puedes conseguir agua
+
+cross
+Cruz
+
+Wash the cross
+Empapar la cruz
+
+There is a pool that has been exposed to the sun for a long time at the peak of the mountain. Please take the cross on the altar and soak it in the pool. Putting the washed cross on Pharaoh's body can weaken his ability.
+Hay un pozo que ha estado expuesto al sol mucho tiempo en el pico de la montaña. Por favor toma la cruz del altar y empápala en el pozo. Si pones la cruz mojada en el cuerpo del faraón podrás debilitar sus habilidades.
+
+Warriors, are you going to destroy the Pharaoh in the villa?
+Guerreros, ¿van a ir a destruir al faraón en la villa?
+
+From the south entrance of the village, you can go up the mountain. The monsters there are weaker, but you must be careful either.
+Desde la entrada sur del pueblo se puede subir a la montaña. Los monstruos allí son débiles, pero debes de tener cuidado de todos modos.
+
+take the yellow key
+Tomar la llave amarilla
+
+take the blue key
+Tomar la llave azul
+
+There is an ancient city ruins in the Takama Desert, named amazing old city, which is said to have been the residence of the demons who came out of the ghost cave of the ancient city. This grouph of demons are ruled by a terrifying queen. It is said that the eyes of the queen are connected to the void. If someone violate the queen's will, he or she will disappear out of thin air under the queen's gaze. After the Queen's death, this branch of demon clan also disappeared. Only one devil flower was left to guard the queen's coffin.
+Existe una antigua ciudad en ruinas en el Desierto Takama llamada Asombrosa Ciudad Antigua, en la que se dice que residen los demonios que llegaron desde la cueva fantasma de la ciudad antigua. Estos demonios están bajo las reglas de una reina terrorífica. Se dice que los ojos de la reina están conectados al vacío, por lo que si alguien desobedece a su voluntad, se fundirá con la nada con solo su mirada. Después de que la reina muera, la rama de este clan de demonios también desaparecerá. Solo quedará una flor malvada que custodiará el atahud de la reina.
+
+Dungeon Level 75, Limited to Level 70 and above; difficulty Difficult. Completing the dungeon will reward you with Nightmare beast fusion beasts (the material to craft Nether Fire), other items, and experience.
+Mazmorra de nivel 75, limitada a jugadores de nivel 70 y superior. Dificultad, difícil. Al completar esta mazmorra se te recompensará con Fuego Abisal (material para hacer la bestia de fusión de pesadilla), experiencia y otros objetos.
+
+The stone pillar is covered with spiral symbols.
+El pilar de piedra está cubierto con símbolos en espiral.
+
+You found a jade pendant on it.
+Encontraste un pendiente de jade sobre él.
+
+The pupil on the jade eye seem to be able to embed something.
+Parece que a la pupila en el ojo de jade se le puede anclar algo.
+
+Jade Eye Pupil; press to embed item
+Pupila de ojo de jade; presiona para anclar objeto
+
+You embed the Dragon-Moth Double Jade into the pupil of the jade eye, and the stone platform slowly moves away, revealing a deep pit.
+Anclas el doble jade de polilla dragón en la pupila del ojo de jade y la plataforma de piedra se mueve lentamente a un lado, rebelando un pozo profundo.
+
+the Penetration Ring, cannot go through it.
+el anillo de penetración, no puedes pasar
+
+You threw the yellow key down the vent
+Lanzas la llave amarilla por el conducto
+
+You found a blue key next to the vent
+Encontraste una llave azul al lado del conducto
+
+You flung the key up through the vent, and it landed next to the upper exit.
+Arrojaste la llave a través del conducto; esta aterrizó a un lado de la salida del conducto superior
+
+CD  sec remaining
+Enfriamiento. Espera unos segundos
+
+huge rock
+Roca enorme
+
+Stone Gate
+Puerta de piedra
+
+Need a black ed key to open
+Necesitas una llave negra para abrir
+
+bulkhead
+Mamparo
+
+You open the drawer and there's nothing in it; press to back
+Abres el cajón y no ves nada en él; Presiona para volver
+
+Machine Fortress has ceased operation
+La máquina del fuerte ha cesado sus operaciones
+
+slot; magnetic card inserted
+Ranura; tarjeta magnética insertada
+
+barn door
+Puerta del granero
+
+Both the tutor and the pupil need to be present
+Tanto el mentor como el pupilo deben estar presentes
+
+Goblin excavation plant(Ordinary)
+Planta de excavación goblin (ligeramente difícil)
+
+A group of goblins occupied a mining area rich in minerals, which not only reduced the output of this mining area, but also often attacked humans in mining areas where human activities were active.
+Un grupo de goblins ocuparon una mina rica en minerales, lo que hizo que no solo se redujera la producción, sino que también comenzaron a atacar a los seres humanos de las minas donde predominaba la actividad humana.
+
+Warriors, please go ahead and destroy these cunning little ones.
+Guerreros, por favor vayan y destruyan a esos pequeños astutos.
+
+Dungeon Level 75, Limited to Level 70 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Medal of the demon Hunting boy or Medal of the Demon Chasing girl (the material to craft Lesser Demon Core), other items, and experience.
+Mazmorra de nivel 75, limitada a jugadores de nivel 70 y superior. Dificultad, ligeramente difícil. Al completar esta mazmorra se te recompensará con núcleos de demonio inferior (material para hacer la medalla del cazademonios o de la cazademonios), otros objetos y experiencia.
+
+You push the rock off the cliff.
+Empujas la roca del acantilado
+
+slate
+Pizarra
+
+Demon's Prison (Difficult)
+Prisión del Demonio (difícil)
+
+Demon's Prison (Difficult); completed
+Prisión del Demonio (difícil); completada
+
+In order to enslave human beings, the demons built a prison, in which the imprisoned human beings will be reformed and become minions of the demons. Those who would rather die than surrender will be captured by the Thunder Lord and sent to the Shock Room 13 for cruel electric torture. Countless people died there.
+Para esclavizar a los seres humanos, los demonios construyeron una prisión, donde los encarcelan y son reformados para convertirse en secuaces de los demonios. Aquellos que prefieran morir antes que rendirse serán capturados por el Señor del Trueno y enviados a la Sala de Choque número 13 para sufrir una cruel tortura eléctrica. Allí murieron innumerables personas.
+
+Warriors, please go to rescue the human beings imprisoned in the prison and destroy the Thunder Lord.
+Guerreros, por favor, vayan a rescatar a los seres humanos encarcelados en la prisión y destruyan al Señor del Trueno.
+
+Dungeon Level 80, Limited to Level 75 and above. difficulty Difficult. Completing the dungeon will reward you with weightless sack (the material to craft Liquid metal), other items, and experience.
+Mazmorra de nivel 80, limitada a jugadores de nivel 75 y superior. dificultad Difícil. Al completar esta mazmorra obtendrás metal líquido (el material para fabricar un saco ingrávido), otros elementos y experiencia.
+
+Tip: The area where the prison is located has been cursed by the Thunder Lord. When you are outside, please do not stay in the same position for too long, otherwise you will be hit by a 5-yard-diameter thunderbolt falling down. Listen for the sound of converging thunder and lightning.
+Consejo: el área donde se encuentra la prisión ha sido maldecida por el Señor del Trueno. Cuando estén afuera, no permanezcan en la misma posición durante mucho tiempo, o serán alcanzados por un rayo de 5 metros de diámetro. Presten atención al sonido de truenos y relámpagos.
+
+There are little devils standing guard in the corridor of the prison. Please kill them before they run to report. The little devils and their reinforcements will reappear repeatedly. It is necessary to arrange the route reasonably to avoid repeated encounters.
+Hay diablillos haciendo guardia en el pasillo de la prisión. Asegúrense de matarlos antes de que corran a informar. Los diablillos y sus refuerzos reaparecerán repetidamente. Es necesario planear el recorrido de forma óptima para evitar repetidos encuentros.
+
+Gomez manor (Difficult)
+Mansión Gómez (Difícil)
+
+Gomez manor (Difficult); completed
+Mansión Gómez (Difícil); completada
+
+The former exorcist hero Gomez gradually lost himself in the struggle with the creatures of the demon world. In order to pursue stronger power, he finally sold his soul in exchange for a demonized body and became an evil demon.
+El ex héroe exorcista Gómez se perdió gradualmente en la lucha con las criaturas del mundo de los demonios. Para buscar un mayor poder, finalmente vendió su alma a cambio de un cuerpo demonizado y se convirtió en un demonio malvado.
+
+Not only did he betray the oath of the exorcist, but he also raised a large number of demons in his manor, allowing them to slaughter humans, and threatened to build a new world where the weak prey on the strong.
+No solo traicionó el juramento del exorcista, sino que también crió una gran cantidad de demonios en su mansión, permitiéndoles masacrar humanos, y amenazó con construir un mundo nuevo donde los débiles se aprovechan de los fuertes.
+
+Dungeon Level 80, Limited to Level 75 and above. difficulty Difficult. Completing the dungeon will reward you with Medal of the demon Hunting boy or Medal of the Demon Chasing girl (the material to craft Glazed Diamond), other items, and experience.
+Mazmorra de nivel 80, limitada a jugadores de nivel 75 o superior. Dificultad difícil. Al completarla obtendrás diamantes vidriados (material para hacer la medalla del cazademonios o de la cazademonios), otros objetos y experiencia.
+
+)Who are you?
+¿Quién eres?
+
+I'm here to get you out. I've wiped out all the demons here. you're safe now, come with me.
+Estoy aquí para sacarte. He eliminado a todos los demonios. Ahora estás a salvo, ven conmigo.
+
+Get me out? But I came here for my lover Leo. I'm not leaving until I find him.
+¿Sacarme? Pero vine aquí por mi amante Leo. No me iré hasta que lo encuentre.
+
+You mean Leo the Exorcist Warrior? He already forgot about you.
+¿Te refieres a Leo el Guerrero Exorcista? Ya se olvidó de ti.
+
+)That's impossible! How could Leo possibly forget me??
+)¡Eso es imposible! ¿Cómo podría olvidarme Leo?
+
+I've seen him in a place far away. He said he had started a new life there, and had long forgotten his old flame.
+Lo he visto en un lugar lejano. Dijo que había comenzado una nueva vida allí y que hacía tiempo que había olvidado a su antiguo amor.
+
+)No, you're lying, I can tell from your eyes. Please tell me the truth.
+)No, estás mintiendo, lo puedo ver en tus ojos. Por favor dime la verdad.
+
+Option 1: It's true, you should forget about him.
+Opción 1: Es verdad, deberías olvidarte de él.
+
+Option 2: Leo has died in Marshall's Turret Array trying to save a girl. He thought it was you.
+Opción 2: Leo ha muerto en el fuerte de Marshall intentando salvar a una niña. Pensó que eras tú.
+
+)Oh...really? ...Yes, I know your words are true, I can see that...sob sob...No wonder he never come to Gomez...He's gone, then there's no point for me to live any longer. Argh! uggh...eh...
+)¿Ah, de verdad? ...Sí, sé que tus palabras son ciertas, puedo ver eso...*sniff sniff*...No es de extrañar que nunca haya venido a Gómez...Se ha ido, entonces ya no tiene sentido vivir más.
+
+Silver Peak (Ordinary)
+Pico Plateado (normal)
+
+Silver Peak (Ordinary); completed
+Pico Plateado (normal); completada
+
+In Pine Village under the Silver Peak, villagers have often been kidnapped recently. This is caused by a snow-white humanoid creature. Warriors, please go to eradicate this mysterious creature and restore peace to Pine Village.
+En Aldea Pino, al pie del Pico Plateado, los aldeanos están siendo secuestrados frecuentemente en los últimos tiempos. Parece ser que el causante de estas fechorías es una criatura humanoide blanca como la nieve. Guerreros, vayan a erradicar esta misteriosa criatura y restaurar la paz en la aldea.
+
+Dungeon Level 80, Limited to Level 75 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Lesser Demon Core (the material to craft Medal of the demon Hunting boy or Medal of the Demon Chasing girl), other items, and experience.
+Mazmorra de nivel 80, limitada a jugadores de nivel 75 o superior. Dificultad normal. Al completar la mazmorra obtendrás núcleos de demonio inferior (material para hacer la medalla del cazademonios o de la cazademonios), otros objetos y experiencia.
+
+Are you sure you want to use Phantom Ice Crystal{s}
+¿Seguro que quieres usar el cristal de hielo fantasmal$1
+
+yes
+Sí
+
+silver flying saucer (Difficult)
+platillo Volante plateado (difícil)
+
+silver flying saucer (Difficult); completed
+platillo Volante plateado (difícil); completada
+
+A long time ago, a flying saucer crashed in the southeast of the Garth Empire. Since then, a force that does not belong to this planet has quietly begun to surge underground.
+Hace mucho tiempo, un platillo volante se estrelló en el sureste del Imperio Garth. Desde entonces, una fuerza que no pertenece a este planeta ha comenzado silenciosamente a surgir bajo tierra.
+
+Dungeon Level 80, Limited to Level 75 and above. difficulty Difficult. Completing the dungeon will reward you with Three Star Attack Medal (the material to craft Gel essence), other items, and experience.
+Mazmorra de nivel 80, limitada a jugadores de nivel 75 o superior. Dificultad difícil. Al completar la mazmorra obtendrás Esencia de Gel (material para hacer la medalla de ataque de tres estrellas) otros objetos y experiencia.
+
+Tips: The organs and traps in the silver flying saucer can kill people, please be careful of the conductive plate with high-voltage current and the time bomb that suddenly falls around you.
+Consejos: Las trampas en el platillo volante plateado pueden matarte, ten cuidado con la placa conductora con corriente de alto voltaje y la bomba de relojería que cae repentinamente a tu alrededor.
+
+There will be robot birds patrolling in the hallway, you need to prevent them from calling for reinforcements. The camera in the corridor needs to be destroyed first, otherwise the camera will continuously call the robot dog out if you were found by the camera.
+Habrá pájaros robot patrullando en el pasillo, debes evitar que pidan refuerzos. La cámara en el corredor debe ser destruida primero; de lo contrario, la cámara llamará continuamente al perro robot mientras estés a la vista.
+
+Machining plant(Slightly difficult)
+Planta mecanizada (Ligeramente Difícil)
+
+The Machining plant supplies puppet soldiers continuously for the puppet troops, among which there are destructive super mechanical soldiers. Warriors, please go to the Machining plant to eliminate the puppet troops which pose threat to human beings.
+La Planta mecanizada suministra continuamente soldados títeres para las tropas títeres, entre los cuales se encuentran súper soldados mecánicos destructivos. Guerreros, vayan a la planta mecánica para eliminar a las tropas títeres que representan una amenaza para los seres humanos.
+
+Please keep a distance from the hay cutter in the Machining plant. Even if you are 1 yard away from the hay cutter, you may also be attacked by it. You need to master the time to pass the hay cutter, and you can use it to attack the puppet soldiers.
+Mantente alejado del cortador de heno. Incluso si estás a 1 metro de distancia, serás alcanzado por él. Debes dominar el tiempo para pasar el cortador de heno. También puedes usarlo para atacar a los soldados títeres.
+
+Please be careful to use the time bomb obtained from the Machining plant. After the time bomb is placed, it will explode within three seconds and attack all targets within 8 yards around it indiscriminately.
+Ten cuidado al utilizar la bomba de relojería. Una vez colocada, explotará en tres segundos y atacará indiscriminadamente a todos los objetivos en un radio de 8 metros a su alrededor.
+
+Dungeon Level 80, Limited to Level 75 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Three Star Attack Medal (the material to craft Silver white metal), other items, and experience.
+Mazmorra de nivel 80, limitada a jugadores de nivel 75 o superior. Dificultad ligeramente difícil. Al completar la mazmorra obtendrás metal blanco plateado (material para hacer la medalla de ataque de tres estrellas) otros objetos y experiencia.
+
+drawer
+Cajón
+
+You opened the drawer, There are only a few screws inside; Press to return
+Abriste el cajón, Solo hay unos pocos tornillos adentro; Pulsa para volver
+
+You opened the drawer, there is a time bomb inside.
+Abriste el cajón, hay una bomba de relojería adentro
+
+Take the time bomb
+Tomar la bomba de relojería
+
+You got a time bomb
+Obtuviste una bomba de relojería
+
+You opened the drawer, There is nothing in it; Press to return
+Abriste el cajón, no hay nada en él; Pulsa para volver
+
+Warriors from outside the mountain, please help me! A pig demon came out of this mountain and took away my daughter Orchid. I beg you all to save her!
+Guerreros de más allá de la montaña, ¡por favor ayúdenme! Un demonio jabalí salió de esta montaña y se llevó a mi hija Orquídea. ¡Les ruego a todos que la salven!
+
+We are here to eliminate that pig demon, so leave this matter to us, and we will definitely bring your daughter back safely.
+Estamos aquí para eliminar a ese demonio, así que déjanos este asunto a nosotros. Seguro traeremos a tu hija de regreso sana y salva.
+
+The pig demon lives in the Cave in the northeast. Go out from the East entrance of the Village, then walk northeast along the mountain road. There is a cave like a pig's head.
+El demonio jabalí vive en la cueva del noreste. Salgan por la entrada este del pueblo y luego caminen hacia el noreste por la carretera de montaña. Hay una cueva con forma de cabeza de un cerdo.
+
+There are some wild boars guarding the entrance of the cave. As long as someone approaches, the wild boars will push down the stone from the mountain. The big stone can crush people into a pulp.
+Hay unos jabalíes custodiando la entrada de la cueva. Cuando alguien se acerque, los jabalíes empujarán las rocas de la montaña. Las grandes rocas pueden aplastar a las personas hasta convertirlas en pulpa.
+
+Not only is this cave difficult to break into, but the pig demon is even more formidable. It bounces on its fat body and smashes at the target, stunning the target. He will also use spells to trap the people around him and let him kill those people.
+No solo es difícil entrar en esta cueva, sino que el demonio jabalí es aún más formidable. Rebota sobre su gordo cuerpo y golpea al objetivo, aturdiéndolo. También usa hechizos para atrapar a las personas que lo rodean y así matarlas.
+
+You must be careful!
+¡Deben tener cuidado!
+
+You are?
+¿Ustedes son?
+
+We were entrusted by your father to rescue you.
+Tu padre nos encomendó rescatarte.
+
+ah! Thank you so much, warriors! Please accept these treasure chests.
+¡ah! ¡Muchas gracias guerreros! Por favor acepten estos cofres del tesoro.
+
+accept the treasure chest
+Aceptar el cofre del tesoro
+
+Machining plant(Slightly difficult); Completed
+Planta mecanizada (ligeramente difícil); completada
+
+fully mountain(Slightly difficult)
+Montaña Plena (ligeramente difícil)
+
+Groups of wild boars have often appeared in fully mountain recently, not only destroying crops, but also often hurting people. Warriors, please go and kill the rebellious wild boars in fully mountain.
+Últimamente han aparecido con frecuencia grupos de jabalíes en la Montaña Plena, no sólo destruyendo cultivos sino también hiriendo a menudo a personas. Guerreros, por favor vayan y maten a los jabalíes rebeldes.
+
+Dungeon Level 80, Limited to Level 75 and above. difficulty Slightly difficult. Completing the dungeon will reward you with weightless sack (the material to craft Powerful magnet), other items, and experience.
+Mazmorra de nivel 80, limitada a jugadores de nivel 75 o superior. Dificultad ligeramente difícil. Al completar la mazmorra obtendrás imán potente (material para hacer el saco ingrávido), otros objetos y experiencia.
+
+fully mountain(Slightly difficult); completed
+Montaña Plena (ligeramente difícil); completada
+
+amazing old city(Difficult)
+Asombrosa Ciudad Antigua (difícil)
+
+amazing old city(Difficult); completed
+Asombrosa Ciudad Antigua (difícil); completada
+
+small town cult (Difficult)
+Culto en el Pequeño Pueblo (difícil)
+
+Centralia used to be a beautiful tourist destination. But there has been a cult in the area that believes in the demon Samael. During a sacrificial activity, instead of summoning the demon Samael, they summoned a terrifying plague. The residents of the entire town turned into zombies, and only a few believers survived.
+Centralia solía ser un hermoso destino turístico. Pero había una secta en la zona que creía en el demonio Samael. Durante un sacrificio, en lugar de convocar al demonio Samael, convocaron una terrible plaga. Los residentes de toda la ciudad se convirtieron en zombis y solo unos pocos miembros del culto sobrevivieron.
+
+The believers who have been possessed still do not give up, and prepare a terrible ceremony to summon the demon Samael again. Once the true Samael is summoned from the Demon World, it will bring even greater disasters to the world.
+Los miembros del culto que han sido poseídos aún no se dan por vencidos, y preparan una terrible ceremonia para convocar nuevamente al demonio Samael. Una vez que el verdadero Samael sea convocado desde el Mundo de los  Demonios, provocará enormes y terribles desastres en el mundo.
+
+Please collect the Emblem used to summon Samael, start the ceremony, make Samael hatch in advance and destroy it.
+Hazte con el emblema usado para convocar a Samael, comienza la ceremonia, haz que Samael sea invocado antes de tiempo y destrúyelo.
+
+Dungeon Level 85, Limited to Level 80 and above. Difficulty difficult. Completing the dungeon will reward you with Powerful magnet (the material to craft weightless sack), other items, and experience.
+Mazmorra de nivel 85, limitada a jugadores de nivel 80 o superior. Dificultad difícil. Al completar la mazmorra obtendrás imán potente (material para hacer el saco ingrávido), otros objetos y experiencia.
+
+small town cult (Difficult); completed
+Culto en el Pequeño Pueblo (difícil); completada
+
+Spiral Grottoe (Difficult)
+Gruta Espiral (difícil)
+
+The Whale Monster Bigger has mastered a terrible magic, trying to turn the ocean into a vortex and suck everything on the land into the sea.
+El Monstruo Ballena gigante ha dominado una magia terrible: intenta convertir el océano en un vórtice y succionar todo lo que hay en la tierra hacia el mar.
+
+Dungeon Level 85, Limited to Level 80 and above. difficulty Difficult. Completing the dungeon will reward you with Liquid metal (the material to craft weightless sack), other items, and experience.
+Mazmorra de nivel 85, limitada a jugadores de nivel 80 o superior. Dificultad difícil. Al completar la mazmorra obtendrás metal líquido (material para hacer el saco ingrávido), otros objetos y experiencia.
+
+Tip: Please pay attention to avoid the vortex in the spiral cave, once you are sucked into the center by the vortex, you will die.
+Consejo: presta atención para evitar el vórtice en la gruta espiral; si el vórtice te succiona hacia el centro, morirás.
+
+Never use resurrection crystals in the center of the vortex.
+Nunca uses cristales de resurrección en el centro del vórtice.
+
+Spiral Grottoe (Difficult); completed
+Gruta Espiral (difícil); completada
+
+Awakened Volcano (Difficult)
+Volcán Activo (difícil)
+
+The Fire Lord found a volcano of sufficient energy and awakened it, boosting his magic.
+El Señor del Fuego encontró un volcán con suficiente energía y lo despertó, potenciando su magia.
+
+Warriors, please go to destroy the Fire Lord and prevent the volcano from erupting.
+Guerreros, vayan a destruir al Señor del Fuego y eviten que el volcán entre en erupción.
+
+Dungeon Level 85, Limited to Level 80 and above. difficulty difficult. Completing the dungeon will reward you with Minotaur Soul Orb (the material to craft minotaur fusion beasts), Blood Spirit Soul Orb (the material to craft Blood spirit guardian fusion beasts), other items, and experience.
+Mazmorra de nivel 85, limitada a jugadores de nivel 80 o superior. Dificultad difícil. Al completar la mazmorra obtendrás orbes de alma de minotauro (material para hacer la bestia de fusión minotauro), orbes de alma del espíritu de la sangre (material para hacer la bestia de fusión espíritu guardián de la sangre), otros objetos y experiencia.
+
+Tip: Fissures in the volcano will spew flames periodically, please pass through the fissures during the pause period of the flames.
+Consejo: Las fisuras en el volcán lanzarán llamas cada cierto tiempo; debes atravesar las fisuras durante el período de pausa de las llamas.
+
+Fireballs will jump out of the magma pool where the Fire Lord is. Please don't stay in the same position for too long. You need to lure the Fire Lord to the cave in the west to fight.
+Bolas de fuego saltarán del lago de magma donde está el Señor del Fuego. No debes permanecer en la misma posición por mucho tiempo. Debes atraer al Señor del Fuego a la cueva del oeste para luchar.
+
+Awakened Volcano (Difficult); completed
+Volcán Activo (difícil); completada
+
+Dam repair(Ordinary)
+Reparación de la presa (normal)
+
+The Langley Dam between the inner sea and the open sea was damaged by sea monsters. If it is not repaired urgently, the damaged dam will cause floods.
+La presa Langley que separa el mar interior y el mar abierto fue dañada por monstruos marinos. Si no se repara con urgencia, la presa dañada podría romperse provocando terribles inundaciones.
+
+Warriors, please repair the Langley Dam as soon as possible.
+Guerreros, por favor reparen la presa Langley lo antes posible.
+
+Dungeon Level 85, Limited to Level 80 and above. difficulty ordinary. Completing the dungeon will reward you with Silver white metal (the material to craft Three Star Attack Medal), other items, and experience.
+Mazmorra de nivel 85, limitada a jugadores de nivel 80 y superior. Dificultad normal. Al completar la mazmorra obtendrás metal blanco plateado (material para hacer la medalla de ataque de tres estrellas), otros objetos y experiencia.
+
+The pillars of the Langley Dam have been badly damaged by water monsters. Do you want to repair it?
+Los monstruos acuáticos han dañado gravemente los pilares de la presa Langley. ¿Quieres repararlo?
+
+Start repair
+Empezar a reparar
+
+The repair has completed {d}%, press to continue
+Reparación completada al $1%, pulsa para continuar
+
+You gathered the pillar pieces and put them back together.
+Reuniste las piezas de los pilares y las volviste a armar.
+
+start bonding
+Empezar a unirlas
+
+Do it too fast and the pieces are not yet bonded!
+¡Lo haces demasiado rápido, las piezas aún no están unidas!
+
+Congratulations! You have successfully completed the repair of this pillar!
+¡Felicidades! ¡Has completado con éxito la reparación de este pilar!
+
+Dam repair(Ordinary); completed
+Reparación de la presa (normal); completada
+
+Chronos battleship(Slightly difficult)
+Nave de combate Chronos (ligeramente difícil)
+
+A mysterious spacecraft appeared in the sky over the south area of the sea, and there was a strong energy fluctuation in it. The spacecraft is now flying inland in the northeast direction.
+Una misteriosa nave espacial apareció en el cielo sobre la zona sur del mar y hubo una fuerte fluctuación de energía en ella. La nave espacial ahora vuela hacia el interior en dirección noreste.
+
+Please go to the spaceship to check the situation.
+Vayan a la nave espacial para comprobar la situación.
+
+Tip: The cannon barrel in front of the spaceship can only attack forward, not sideways.
+Consejo: el cañón en la parte delantera de la nave espacial sólo puede atacar hacia adelante, no hacia los lados.
+
+Dungeon Level 85, Limited to Level 80 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Gel essence (the material to craft Three Star Attack Medal), other items, and experience.
+Mazmorra de nivel 85, limitada a jugadores de nivel 80 o superior. Dificultad ligeramente difícil. Al completar la mazmorra obtendrás esencia de gel (material para hacer la medalla de ataque de tres estrellas), otros objetos y experiencia.
+
+Chronos battleship(Slightly difficult); completed
+Nave de combate Chronos (ligeramente difícil); completada
+
+Treasure pavilion(Slightly difficult)
+Pabellón del Tesoro (ligeramente difícil)
+
+Zoira, the godmother of Sarantu, has collected a lot of items from the Demon World. The dark aura of these items has attracted creatures from the Demon World. Please go to Zoira's Treasure pavilion to expel those treasure robbers from the Demon World.
+Zoira, la madrina de Sarantu, ha coleccionado muchos objetos del Mundo Demoniaco. El aura oscura de estos objetos ha atraído a criaturas demoniacas. Dirígete al pabellón del tesoro de Zoira para expulsar a esos ladrones de tesoros provenientes del mundo de los demonios.
+
+Dungeon Level 85, Limited to Level 80 and above. difficulty Slightly difficult. Completing the dungeon will reward you with to craft Crystal horn (the material minotaur fusion beasts crystal), Blood of Source (the material to craft blood spirit fusion beasts crystal), other items, and experience.
+Mazmorra de nivel 85, limitada a jugadores de nivel 80 o superior. Dificultad ligeramente difícil. Al completar la mazmorra obtendrás cuernos de cristal (material para hacer la bestia de fusión minotauro), fuentes de sangre (material para hacer la bestia de fusión espíritu guardián de la sangre), otros objetos y experiencia.
+
+Treasure pavilion(Slightly difficult); completed
+Pabellón del Tesoro (ligeramente difícil); completada
+
+Pinocchio created a giant puppet, want to manipulate the giant puppet to slaughter humans. Just destroying the drive core of the giant puppet can stop Pinocchio's plans. Take action, warriors.
+Pinocho creó un títere gigante y quiere manipularlo para masacrar humanos. Sólo destruir el núcleo impulsor del títere gigante puede detener los planes de Pinocho. Actúen, guerreros.
+
+Warriors need to split up after entering the dungeon. The stronger team takes the north passage, and the weaker team takes the south passage. Be careful of the turbine in the passage, the turbine will suck the people nearby into the turbine chamber, and once you are sucked, you will fall to death. Do not use the resurrection crystal when you fall to death, and you must choose the map to resurrect. There is a switch for controlling the turbine in the channel, and the switch can control the turbine of the opposite channel. The turbos outside the boss room are controlled by a dual toggle switch.
+Los guerreros deben dividirse después de entrar a la mazmorra. El equipo más fuerte toma el pasaje norte y el equipo más débil toma el pasaje sur. Tengan cuidado con cada turbina en el pasaje, si te acercas demasiado te absorberá hacia la cámara de la turbina, donde morirás aplastado. No uses cristales de resurrección cuando mueras, resucita solamente en el mapa. Hay un interruptor para controlar la turbina. Cuando acciones el interruptor controlarás la turbina del pasaje opuesto al tuyo, por lo que necesitan activar los 2 interruptores para detener cada turbina.
+
+Tip: Gang members can get double dungeon rewards when they complete the gang day refreshing dungeon for the first time every week. Players can revive indefinitely in gang dungeons.
+Consejo: Los miembros de la pandilla pueden obtener recompensas dobles de la mazmorra cuando la completan por primera vez cada semana. Los jugadores pueden revivir ilimitadamente en las mazmorras de pandilla.
+
+The switch is on; press to close
+El interruptor está encendido; pulsa para apagarlo
+
+The opposite turbo turned off
+La turbina opuesta se apagó
+
+switch is off
+el interruptor está apagado
+
+plot of sneak attack
+complot de ataque furtivo
+
+The Evil elves are digging a tunnel Toward Moon City, preparing to attack Moon City from underground. Warriors, please go into the tunnel under the Kajaro Mountain and sabotage the elves's plot of sneak attack.
+Los elfos malvados están cavando un túnel hacia Ciudad Lunar, preparándose para atacarla desde el subsuelo. Guerreros, por favor entren al túnel bajo la montaña Kajaro y saboteen el plan de ataque furtivo de los elfos.
+
+After entering the dungeon, warriors need to act separately. In some dark caves, they need to approach with Tinder, and light the torch, so that the ambush elves can show up.
+Después de entrar a la mazmorra, los guerreros deben actuar por separado. En algunas cuevas oscuras, necesitan acercarse con yesca y encender la antorcha para que los elfos de la emboscada puedan aparecer.
+
+Tip: Players can resurrect unlimitedly in gang dungeons.
+Consejo: Los jugadores pueden resucitar de forma ilimitada en las mazmorras de la pandilla.
+
+Enter the dungeon, Requires {d} to {d} gang members to work as a team, and requires level {d}
+Entrar a la mazmorra. Se requiere un equipo de entre $1 y $2 miembros de la pandilla de nivel $3 o superior
+
+Dino Might (Slightly Difficult)
+Podría ser un dinosaurio (ligeramente difícil)
+
+The sudden appearance of the portal, the huge amount of magic gas escaping from the portal, the powerful beast, and the village shrouded in the fog, all of which, the warrior please enter to find the source of the magic gas and solve it.
+Ha aparecido de repente un portal del cual escapa mucho gas mágico. Además, hay rumores sobre una gran bestia y de una misteriosa villa envuelta en la niebla. Guerreros, vayan y descubran la fuente del gas mágico y resuelvan estos misterios.
+
+Dungeon Level 90, Limited to Level 85 and above. Slightly difficult. Completing the dungeon will reward you with Bright Yellow Metal (the material to craft four stars attack medal), other items, and experience.
+Mazmorra de nivel 90, limitada a jugadores de nivel 85 o superior. Dificultad ligeramente difícil. Al completar la mazmorra obtendrás metal amarillo brillante (material para hacer la medalla de ataque de cuatro estrellas), otros objetos y experiencia.
+
+The Dragon Village teleportation channel was damaged by a giant dragon and is about to collapse. Please run north quickly after entering. If you die in the channel, please do not use the resurrection crystal to resurrect in that place.
+El canal de teletransportación a la Aldea del Dragón ha sido dañado por un dragón gigante y está a punto de derrumbarse. Corre hacia el norte lo más rápido que puedas después de entrar. Si mueres en el canal, no uses cristal de resurrección para resucitar en ese lugar.
+
+teleportate
+Teleportarse
+
+Outsiders, after thousands of years, someone finally came here. Is it because the space seal set by Mist God has failed, allowing the Great Dragon Valley to reappear in the outside world? It seems that we can't wait any longer. The future of this world depends on you. Please do your best to stop this. I can't tell you about the mission of Great Dragon Valley here. Thirty years ago, a group of adventurers also came here. We thought they could bring relief, but it turned out... Please forgive my concealment, children believe me, do as I say, otherwise it will be too late.
+Forasteros, después de miles de años, alguien por fin ha venido. ¿Es porque el sello espacial invocado por el Dios de la Niebla ha fallado, permitiendo que el Valle del Gran Dragón reaparezca en el mundo exterior? Parece que no podemos esperar más. El futuro de este mundo depende de ustedes. Por favor hagan lo posible para detener esto. No puedo contarles sobre la misión del Valle del Gran Dragón aquí. Hace treinta años también vino un grupo de aventureros. Pensábamos que podrían traer alivio, pero resultó... Por favor, perdonen mis reservas, niños, créanme, hagan lo que les digo, de lo contrario será demasiado tarde.
+
+Submit Dragon Village Token
+Entregar ficha de la Aldea del Dragón
+
+Dino Might (Slightly Difficult); Completed
+Podría ser un dinosaurio (ligeramente difícil); Completada
+
+Iron stone (Difficult)
+Piedra de Hierro (difícil)
+
+The crisis in dragon Village still exists. A kind of magic ore they guard attracts a group of horrible beasts. What secret is hidden in it?
+La crisis en la Aldea del Dragón aún no ha desaparecido. Una especie de mineral mágico que custodian atrae a horribles bestias. ¿Qué secreto se esconde en este material?
+
+Dungeon Level 90, Limited to Level 85 and above.difficulty difficult. Completing the dungeon will reward you with Lake Blue Diamond (the material to craft Medal of adored by Female Soldiers and Medal of loved by the Counts), other items, and experience.
+Mazmorra de nivel 90, limitada a jugadores de nivel 85 o superior. Dificultad difícil. Al completar la mazmorra obtendrás diamante azul del lago (material para hacer la Medalla del adorado por Mujeres Soldado y la Medalla de la amada por los Condes), otros objetos y experiencia.
+
+Tip: fiery magma with instant lethal effect will emerge from the four corners of the cave. Please pay attention to the location of the magma. Through the Longli crystal in the central cave, you can see how long the magma will change position.
+Consejo: Un magma ardiente letal emergerá de las cuatro esquinas de la cueva. Presta atención a la ubicación del mismo. A través del cristal de poder del dragón en la cueva central, puedes ver cada cuánto tiempo cambiará de posición el magma.
+
+Magnetized {d}%; press to refresh
+Magnetizada $1%; pulsa para refrescar
+
+start to magnetize
+Empezar a magnetizar
+
+Magnetized 1%; magnetization takes about 1 minute; press to refresh
+Magnetizada 1%; la magnetización tarda alrededor de un minuto; pulsa para refrescar
+
+In the east there is a Iron Stone Mountain, where a group of iron eaters guard the dragon power stone. Once they feel the breath of humans, they will eat the Dragon Power Stone in front of them. So dragon Power Stones can only be collected when the Iron Eaters are gone. Please find a way to bring back 20 Dragon Power Stones.
+En el este está la Montaña de la Piedra de Hierro, donde un grupo de devoradores de hierro protegen las piedras de poder del dragón. Una vez que sientan el aliento de los humanos, comenzarán  a comerse las Piedras de Poder del Dragón para evitar que las recuperemos. Entonces, estas piedras solo se pueden recolectar cuando los devoradores de hierro ya no están. Encuentren una manera de recuperar 20 piedras de poder del dragón.
+
+The most dangerous thing about Iron Stone Mountain is not the iron eater, be careful of the blazing magma, it can melt anything in this world.
+Lo más peligroso de la montaña de la piedra de hierro no son los devoradores de hierro, ten cuidado con el magma ardiente, puede derretir cualquier cosa en este mundo.
+
+After {d} seconds the magma will change position; press to refresh
+El magma cambiará de posición después de $1 segundos; pulsa para refrescar
+
+Have collect {d}/20 dragon power stones
+Han recolectado $1/20 piedras de poder del dragón
+
+The Iron Eater has eaten {d}/50 dragon power stones
+Los devoradores de hierro se han comido $1/50 piedras de poder del dragón
+
+Have no magnet, the dragon power stone cannot be magnetized.
+No tienes imán, la piedra de poder del dragón no se puede magnetizar.
+
+{d} dragon power stones have been submitted; press to submit
+Se han entregado $1 piedras de poder del dragón; pulsa para entregar
+
+Well done you guys, these stones are of great use.
+Bien hecho chicos, estas piedras son de gran utilidad.
+
+mission accomplished
+Misión cumplida
+
+Iron stone (Difficult); Completed
+Piedra de Hierro (difícil); Completada
+
+Wild Dragon (Difficult)
+Dragón Salvaje (difícil)
+
+With the powerful ancient dragon and the loose seal of the Mist God, can the people of dragon Village complete their mission?
+Ahora que el dragón ancestral está suelto y el sello de los dioses de la niebla se ha roto, ¿podrán los habitantes de la Aldea del Dragón completar su misión?
+
+Tip: You need to kill the monster correctly to promote the progress of the dungeon, otherwise it will fall into an infinite loop. Please pay attention to dodging the boss' nirvana.
+Consejo: debes matar a los monstruos en el orden adecuado para progresar en la mazmorra; de lo contrario, caerás en un bucle infinito. Presta atención a esquivar el nirvana del jefe.
+
+Dungeon Level 90, Limited to Level 85 and above.difficulty difficult. Completing the dungeon will reward you with Fire-capped tit soul orb (the material to craft Fire-Capped Tit Crystal), other items, and experience.
+Mazmorra de nivel 90, limitada a jugadores de nivel 85 o superior. Dificultad difícil. Al completar la mazmorra obtendrás Orbe de alma de gorrión de cabeza llameante (material para hacer la bestia de fusión gorrión de cabeza llameante), otros objetos y experiencia.
+
+Wild Dragon (Difficult); Completed
+Dragón Salvaje (difícil); completada
+
+remnants' base (Difficult)
+Base de restos (difícil)
+
+View Dungeon Description
+Ver la descripción de la mazmorra
+
+After Marshall was eliminated, a wave of remnants of his forces assembled into a new evil group, continued to do harm in one place. Please go and destroy these remnants.
+Después de que Marshall fue eliminado, parte de restos de sus fuerzas se organizaron en un nuevo grupo malvado y continuaron causando daño. Por favor, ve y destruye estos restos.
+
+Tips: Please put the remote control bomb in a place with a bunker, make sure you hide behind the bunker, and control the detonation when the remote control bomb cannot harm yourself. If you are not sure whether the remote control bomb is successfully detonated, you can press the remote control again to make the remote control bomb self-destruct. There is a place where you need to use specific props to get past the grenade thrown.
+Consejos: coloca la bomba de control remoto en un lugar con un búnker, asegúrate de esconderte detrás del búnker y detona la bomba cuando no pueda dañarte. Si no tienes claro si la bomba de control remoto se detonó con éxito, puedes presionar el control remoto nuevamente para que la bomba se autodestruya. Hay un lugar donde necesitas usar objetos específicos para pasar entre las granadas.
+
+Dungeon Level 90, Limited to Level 85 and above. difficulty difficult. Completing the dungeon will reward you with Minotaur Soul Orb (the material to craft minotaur fusion beasts), Blood Spirit Soul Orb (the material to craft Blood spirit guardian fusion beasts), other items, and experience.
+Mazmorra de nivel 90, limitada a jugadores de nivel 85 o superior. Dificultad difícil. Al completar la mazmorra obtendrás orbes de alma del minotauro (material para hacer la bestia de fusión minotauro), orbes de alma del espíritu de sangre (material para hacer la bestia de fusión  espíritu guardián de la sangre), otros objetos y experiencia.
+
+a Remote Control Bomb
+Una bomba a control remoto
+
+a Remote Control
+Un control remoto
+
+1 energy shield; use within one minute.
+Un escudo de energía; úsalo antes de que haya pasado un minuto
+
+1 remote control bomb
+Una bomba a control remoto
+
+remnants' base (Difficult); Completed
+Base de restos (difícil); Completada
+
+ghost house (Difficult)
+Casa encantada (difícil)
+
+There is a scary ghost house, in which no living creatures can be seen, only mysterious boxes are placed in the house.
+Hay una aterradora casa encantada , en la que no se ven seres vivos, sólo cajas misteriosas colocadas en la casa.
+
+Tip: Only specific props can kill ghosts, and you will be killed instantly if you are attacked by ghosts.
+Consejo: solo objetos específicos pueden usarse para matar los fantasmas. Si los fantasmas te alcanzan, morirás instantáneamente.
+
+Dungeon Level 90, Limited to Level 85 and above. difficulty difficult. Completing the dungeon will reward you with Flame Feather (the material to craft Fire-Capped Tit fusion beasts), other items, and experience.
+Mazmorra de nivel 90, limitada a jugadores de nivel 85 o superior. Dificultad difícil. Al completar la mazmorra obtendrás plumas llameantes (material para hacer la bestia de fusión gorrión de cabeza llameante), otros objetos y experiencia.
+
+Open
+Abrir
+
+1 silver cross
+Una cruz de plata
+
+1 flashbang
+Una bomba relámpago
+
+ghost house (Difficult); Completed
+Casa encantada (difícil); Completada
+
+Tiger Roaring Forest(Ordinary)
+Bosque del tigre rugiente (normal)
+
+Lots kinds of beasts live in the Beast Mountain. Due to the infiltration of demon energy, they are gradually demonized, especially the Tiger King, whose ability has been greatly improved under the influence of the mysterious law of time. Please go and destroy the demonized creatures in Beast Mountain.
+Muchos tipos de bestias viven en la Montaña de las Bestias. Debido a la infiltración de energía demoníaca, estas bestias han sido demonizadas poco a poco, especialmente el Rey Tigre, cuya habilidad ha mejorado enormemente bajo la influencia de la misteriosa ley del tiempo. Por favor, ve y destruye a las criaturas demonizadas en la Montaña de las Bestias.
+
+Tip: When using the jumping spring to jump over the cliff, please put it next to the wall, and stand by the wall yourself, in line with it, so that you can be sure to be ejected to the opposite side of the cliff.
+Consejo: Cuando utilices el resorte de salto para saltar sobre el acantilado, colócalo al lado de la pared y colócate junto a la pared, en línea con ella, para estar seguro de ser catapultado al lado opuesto del acantilado.
+
+Dungeon Level 90, Limited to Level 85 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Blood spirit Crystal (the material to craft Crystal horn), Sea Spirit Guardian fusion beasts (the material to craft Blood of Source), other items, and experience.
+Mazmorra de nivel 90, limitada a jugadores de nivel 85 o superior. Dificultad normal. Al completar la mazmorra obtendrás cuernos de cristal (material para hacer la bestia de fusión minotauro), fuentes de sangre (material para hacer la bestia de fusión espíritu guardián de la sangre), otros objetos y experiencia.
+
+Are you sure you want to use Jumping Spring{s}
+¿Confirmas que quieres usar el resorte de salto$1
+
+bounce
+Lanzarse
+
+Tiger Roaring Forest(Ordinary); Completed
+Bosque del tigre rugiente (normal); Completada
+
+bloody pagan(Slightly difficult)
+Paganos Sangrientos (ligeramente difícil)
+
+They have betrayed God, faith and the world they are guarding. They have embarked on the road of betraying the world. Once they were invincible crusaders, once they fought for the people, but one day they changed completely. They became the subordinates of the devil. The crusader representing the guard is no longer there, and they have become the bloody pagans representing the cruelty.
+Han traicionado a Dios, a la fe y al mundo que protegen. Están recorriendo el camino de la traición. Eran cruzados invencibles, una vez lucharon por el pueblo, pero un día cambiaron por completo. Se convirtieron en subordinados del diablo. Los cruzados que representaban protección y justicia ya no existen, y se han convertido en los sanguinarios paganos que representan la crueldad.
+
+The dark night camp is connected with the abyss. If you fall into the abyss, you will die immediately. Do not use the resurrection crystal to resurrect in situ after falling into the abyss.
+El campamento nocturno oscuro está conectado con el abismo. Si caes al abismo, morirás inmediatamente. No utilices cristal de resurrección para resucitar en el lugar después de caer.
+
+Dungeon Level 90, Limited to Level 85 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Medium Demon Essence (the material to craft Medal of adored by Female Soldiers or Medal of loved by the Counts), other items, and experience.
+Mazmorra de nivel 90, limitada a jugadores de nivel 85 o superior. Dificultad ligeramente difícil. Al completar la mazmorra obtendrás esencias de demonio medianas (material para hacer la medalla del adorado por mujeres soldado o la medalla de la amada por los condes), otros objetos y experiencia.
+
+The opposite door lock is open
+La cerradura de la puerta opuesta está abierta
+
+bloody pagan(Slightly difficult); Completed
+Paganos Sangrientos (ligeramente difícil); Completada

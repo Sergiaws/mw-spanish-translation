@@ -1,0 +1,1304 @@
+Wrecked 
+Roto
+
+Damaged 
+Dañado
+
+inserted with 
+engarzado con 
+
+plus: When casting skills healing increase {d}%
+adicional: al lanzar habilidades la curación aumenta en $1%
+
+plus: When attacked healing increase {d}%
+adicional: al ser atacado la curación aumenta en $1%
+
+plus: healing increase {d}%
+adicional: la curación aumenta en $1%
+
+plus: When casting skills physical damage increase {d}%
+adicional: al lanzar habilidades el daño físico aumenta en $1%
+
+plus: When attacked physical damage increase {d}%
+adicional: al ser atacado el daño físico aumenta en $1%
+
+plus: When casting skills magic damage increase {d}%
+adicional: al lanzar habilidades el daño mágico aumenta en $1%
+
+plus: When attacked magic damage increase {d}%
+adicional: al ser atacado el daño mágico se incrementa en un $1%
+
+plus: When casting skills damage increase {d}%
+adicional: al lanzar habilidades el daño aumenta en $1%
+
+plus: When attacked damage increase {d}%
+adicional: al ser atacado el daño aumenta en $1%
+
+plus: When casting skills healing reduce {d}%
+adicional: al lanzar habilidades se reduce la curación en $1%
+
+plus: When attacked healing reduce {d}%
+adicional: al atacar la curación se reduce en $1%
+
+plus: healing reduce {d}%
+adicional: la curación se reduce en $1%
+
+plus: When casting skills physical damage reduce {d}%
+adicional: al lanzar habilidades el daño físico se reduce en $1%
+
+plus: When attacked physical damage reduce {d}%
+adicional: al ser atacado el daño físico se reduce en $1%
+
+plus: When casting skills magic damage reduce {d}%
+adicional: al lanzar habilidades el daño mágico se reduce en $1%
+
+plus: When attacked magic damage reduce {d}%
+adicional: al ser atacado el daño mágico se reduce en $1%
+
+plus: When casting skills damage reduce {d}%
+adicional: al lanzar habilidades el daño se reduce en $1%
+
+plus: When attacked damage reduce {d}%
+adicional: al ser atacado el daño se reduce en $1%
+
+plus: Disable Skill
+adicional: habilidades desactivadas
+
+plus: When casting skills hit chance increase {d}
+adicional: al lanzar habilidades la precisión aumenta en $1
+
+plus: When attacked dodge chance increase {d}
+adicional: al ser atacado la evasión aumenta en $1
+
+plus: When casting skills defense break chance increase {d}
+adicional: al lanzar habilidades la posibilidad de romper defensa aumenta en $1
+
+plus: When casting skills defense break damage increase {d}
+adicional: al lanzar habilidades el daño al romper la defensa aumenta en $1
+
+plus: When attacked toughness increase {d}
+adicional: al ser atacado la dureza aumenta en $1
+
+plus: When casting skills critical hit chance increase {d}
+adicional: al lanzar habilidades la posibilidad de un golpe crítico aumenta en $1
+
+plus: When casting skills critical hit damage increase {d}
+adicional: al lanzar habilidades el daño crítico aumenta en $1
+
+plus: When attacked critical hit resistance increase {d}
+adicional: al ser atacado la resistencia a golpes críticos aumenta en $1
+
+strengthen ; HP {d}; MP {d}; physical attack {d}; magic attack {d}; physical Defense {d}; magic Defense {d}
+Aumenta la salud $1, el mana $2, el ataque físico $3, el ataque mágico $4, la defensa física $5 y la defensa mágica $6
+
+strengthen 
+Aumenta 
+
+ HP {d}
+salud: $1
+
+ MP {d}
+mana: $1
+
+level {d} 
+nivel $1
+
+weight {d} 
+peso $1
+
+The badge symbolizing honor.
+La insignia que simboliza el honor.
+
+Enhancement level: {d};quality {s} 
+Nivel de mejora: $1; calidad {sub2{$2}sub2}
+
+Enhancement level: {d}
+Nivel de mejora: $1
+
+quality {s} 
+calidad {sub2{$1}sub2}
+
+strengthen ; physical attack {d}-{d}
+aumenta el ataque físico entre $1 y $2
+
+ physical attack {d}-{d}
+ataque físico: entre $1 y $2
+
+enhance Level {d}
+mejorado a nivel $1
+
+enhance Level {d};quality: {s} 
+mejorado a nivel $1; calidad {sub2{$2}sub2}
+
+quality: {s} 
+calidad {sub2{$1}sub2}
+
+soul bound
+Vinculado
+
+durability {d}; full is {d}
+Durabilidad $1 de $2
+
+level {d} ;{s}
+Nivel $1; {sub2{$2}sub2}
+
+A self-defense stick with weak attack power. 
+Un palo para defensa personal con un poder de ataque débil.
+
+A simple bow made of bamboo with weak attack power.
+Un simple arco hecho de bambú con un poder de ataque débil.
+
+A straw hat made of wild grass has a weak defense.
+Un sombrero de paja de defensa débil hecho con hierba silvestre
+
+A necklace made of mahogany beads is said to bring courage.
+Un collar hecho con cuentas de caoba. Se dice que trae valentía al portador.
+
+A cloak made of tulle with weak defense.
+una capa hecha de tul con defensa débil.
+
+A piece of clothing made of cotton with a weak defense.
+Ropa hecha de algodón con defensa débil.
+
+A girdle made of rotten bark gives the girdle weak protection.
+Un cinturón hecho de corteza podrida que ofrece protección débil.
+
+A pair of straw sandals for long-distance travel
+Un par de sandalias de paja para viajes de larga distancia.
+
+A pair of trousers made of linen, which does not look very strong.
+Un par de pantalones hechos de lino que no parece que vayan a aguantar mucho.
+
+A pair of bracelets made of mahogany beads, which can give people a weak strength when worn.
+hechos con cuentas de caoba que al usarse brindan un poco de fuerza.
+
+A ring made of mahogany, which can give people a weak strength when worn.
+Un anillo hecho de caoba que al usarse brinda un poco de fuerza.
+
+A ring made of mahogany, which can give people a weak strength when worn.
+Un anillo hecho de caoba que al usarse brinda un poco de fuerza.
+
+A rusted iron sword, although it looks sharp, it is not very solid.
+Una espada de hierro oxidada que, aunque parece filosa, no es muy sólida.
+
+A broken hammer abandoned by the orcs, it looks heavy.
+un martillo roto abandonado por los orcos que parece pesado.
+
+A short dagger used-stab.
+Una daga corta usada para apuñalar.
+
+A longbow commonly used by hunters, much stronger than bamboo bows
+Un arco largo comúnmente usado por cazadores, más fuerte que el arco de bambú.
+
+A staff made of ivy with some pretty patterns wrapped around it.
+tiene algunos patrones llamativos grabados.
+
+A scepter made of ivy with some pretty patterns wrapped around it.
+tiene algunos patrones llamativos grabados.
+
+A bronze helmet with better physical resistance than magic resistance.
+Un yelmo de bronce con más resistencia física que mágica.
+
+A golden necklace with great flexibility.
+Un collar de oro con gran flexibilidad.
+
+Shoulder pads made of bronze and cloth, with better physical resistance than magic resistance.
+Hombreras de bronce y tela con más resistencia física que mágica.
+
+A piece of bronze armor with better physical resistance than magic resistance.
+Una armadura de bronce con más resistencia física que mágica.
+
+A belt made of bronze plates with better physical resistance than magic resistance.
+Un cinturón hecho de placas de bronce con más resistencia física que mágica.
+
+A pair of boots made of bronze plates with better physical resistance than magic resistance.
+Un par de botas hechas con placas de bronce que tiene más resistencia física que mágica.
+
+A pair of leggings covered with bronze plates to better protect your knees.
+Un par de polainas reforzadas con placas de bronce para proteger tus rodillas.
+
+A pair of gold bracelets with great flexibility.
+Un par de brazaletes de oro con gran flexibilidad.
+
+A left-hand ring made of gold, with good flexibility.
+Un anillo para la mano izquierda hecho de oro, con gran flexibilidad.
+
+A right hand ring made of gold with good flexibility.
+Un anillo para la mano derecha hecho de oro, con gran flexibilidad.
+
+A silk hat with better magic resistance than physical resistance.
+Un sombrero de seda con más resistencia mágica que física.
+
+A jade necklace shining with cyan light.
+Un collar de jade que brilla con una luz cian.
+
+The cape made of silk has better magic resistance than physical resistance.
+Esta capa hecha de seda tiene más resistencia mágica que física.
+
+A silk-woven robe with better magic resistance than physical resistance.
+Una túnica tejida de seda con más resistencia mágica que física.
+
+A belt made of silk with better magic resistance than physical resistance.
+Un cinturón hecho de seda con más resistencia mágica que física.
+
+A pair of boots made of silk, with better magic resistance than physical resistance.
+Un par de botas hecho de seda con más resistencia mágica que física.
+
+A pair of trousers made of silk can make you more secure.
+Un par de pantalones hechos de seda que te permitirán estar más protegido.
+
+This is a pair of jade bracelets, so pretty that you can't put it down.
+Este es un par de bonitos brazaletes de jade que puedes ponerte.
+
+A left hand ring made of jade can give you strength.
+Un anillo para la mano izquierda hecho de jade que otorga fuerza.
+
+A right hand ring made of jade can give you strength.
+Un anillo para la mano derecha hecho de jade que otorga fuerza.
+
+This is made of fine iron by dwarves, which is very sharp and common for warriors.
+Fue fabricada con hierro fino por los enanos. Es muy afilada y es usada comúnmente por guerreros.
+
+A bright machete, who knows what it feels like to use it to cut meat.
+Un machete brillante que sabe cómo se siente ser usado para cortar carne.
+
+A sharp dagger, a weapon for assassination.
+hecha para asesinar.
+
+A bow made of hard wood and animal tendons, hunters can shoot farther with it.
+Un arco hecho de madera dura y tendones de animales con el que los cazadores pueden disparar a larga distancia.
+
+The materials are taken from more than 100-year-old trees, which contain the power of nature.
+Fue hecho a partir de árboles de más de 100 años de antigüedad que contienen el poder de la naturaleza.
+
+Contains the power of protection.
+Contiene el poder de proteger.
+
+A scepter crafted from unknown bones.
+Un cetro fabricado con huesos que quién sabe de dónde vienen.
+
+A sturdy helmet with better protection.
+Un yelmo resistente con buena protección.
+
+A pendant crafted from beast teeth.
+Un colgante fabricado con dientes de bestias.
+
+The perfect combination of steel and fabric ensures both comfort and protection.
+La combinación perfecta entre tela y acero asegura tanto comodidad como protección.
+
+Sturdy armor for better protection.
+Armadura robusta que ofrece buena protección.
+
+The belt made of animal skin can protect the waist well without affecting the action of the waist.
+Esta escarcela hecha con pieles de animales protege bien la cintura sin afectar su movimiento.
+
+Wearing it will walk lightly.
+Aquel que use estas botas caminará de forma ligera.
+
+Sturdy leg armor, can play a better protection role.
+Armadura robusta para las piernas que puede proteger bastante bien.
+
+Made of soft fabric with foil.
+hechos de tela suave y aluminio.
+
+A ring made from animal bones.
+Un anillo hecho de huesos de animales.
+
+A large and sturdy helmet that only an orc can wear.
+Un yelmo grande y robusto que solo puede ser usado por los orcos.
+
+A pendant made from bear's paw bone.
+Un colgante hecho a partir de un hueso de pata de oso.
+
+This armor makes the orc even more powerful.
+Esta armadura hace al orco aún más poderoso.
+
+Thick armor has better protection.
+Armadura gruesa que ofrece buena protección.
+
+The belts made of animal skins look thick and wild.
+Esta escarcela hecha de pieles de animales se ve salvaje y gruesa.
+
+Iron boots, very powerful and heavy.
+Botas de hierro, muy pesadas y potentes.
+
+The thick leg armor has a good protective effect.
+Esta armadura robusta para las piernas ofrece buena protección.
+
+Made of coarse cloth and foil, the shape is tough.
+Están hechos de tela gruesa y aluminio y parecen ser resistentes.
+
+A ring made of animal bones.
+Un anillo hecho de huesos de animales.
+
+Assassin with it can better hide the breath.
+Esta armadura le permite a los asesinos atenuar el sonido de su respiración.
+
+A pendant made of wolf teeth.
+Un colgante hecho de dientes de lobo.
+
+Good gear is gear that allows you-hide.
+Buena pieza de equipo de asesino que le permite ocultarse.
+
+Lightweight armor that provides protection while still keeping you agile.
+Armadura de peso ligero que te protege mientras te permite seguir manteniéndote ágil.
+
+Fasten your belt and don't let your clothes make noise during an assassination.
+Abróchate el cinturón y no permitas que tu ropa haga ruido durante un asesinato.
+
+Assassin's boots, walking very lightly.
+Botas que le permiten al asesino caminar de forma ligera y sigilosa.
+
+Lightweight leggings that protect you while still keeping you agile.
+Polainas ligeras que te protegen mientras te permiten seguir manteniéndote ágil.
+
+The hands that carry it make opponents terrified.
+Las manos que portan estos guantes aterrorizan a los oponentes.
+
+The hands that carry it make opponents terrified.
+La mano que porta este anillo aterroriza a los oponentes.
+
+Although not made of steel, it is most suitable for hunters.
+Aunque no está hecho de acero, es el más conveniente para los cazadores.
+
+A pendant made from eagle talons.
+Un colgante hecho de garras de águila.
+
+chasing is fundamental to the survival of hunters.
+La persecución es fundamental para la supervivencia de los cazadores, y esta capa les permite ser sigilosos a la hora de perseguir.
+
+made from the hide of the king of beasts.
+hecha con la piel del rey de las bestias.
+
+When hunting in the wild all day, be sure to do a good job of protecting your waist.
+Al cazar en terreno salvaje durante todo el día, con esta escarcela te aseguras de proteger tu cintura.
+
+Put on a good pair of shoes, and even the hardest road will appear smooth.
+Ponte este par de botas e incluso el camino más duro te parecerá suave.
+
+Leather pants made from the hide of the king of beasts.
+Pantalones de cuero hechos de la piel del rey de las bestias.
+
+Made of leather, it adds even more defense.
+hechos de cuero, otorgan defensa extra.
+
+A ring made of animal bones and inlaid with gemstones shaped like eagle eyes.
+Un anillo hecho de huesos de animales con piedras de gema en forma de ojos de águila incrustadas.
+
+Wearing it is more intelligent.
+Usarlo es la decisión más inteligente.
+
+A pendant made of blue crystal.
+Un colgante hecho con un cristal azul.
+
+The cloak that condenses the wisdom of the mage.
+La capa que condensa la sabiduría de los magos.
+
+There are many mysterious symbols drawn on it, which will have better magic resistance.
+Tiene varios símbolos dibujados que hacen que tenga una buena resistencia mágica.
+
+A belt engraved with mysterious runes, the mage wears more wisdom.
+Un cinturón con misteriosas runas grabadas que hace a los magos más sabios cuando lo usan.
+
+Boots carved with runes, upon which the power of magic flows.
+Botas con runas talladas sobre las que corre el poder de la magia.
+
+There are many mysterious symbols drawn on it, which will have better magic resistance.
+Tienen varios símbolos dibujados que hacen que tengan una buena resistencia mágica.
+
+The bracelet made of blue crystal has a hint of coolness.
+Los brazaletes, hechos de cristal azul, siempre permanecen fríos al tacto.
+
+The ring made of blue crystal has a hint of coolness.
+El anillo, hecho de cristal azul, siempre permanece frío al tacto.
+
+Elves have always liked to be close to nature.
+A los elfos siempre les ha gustado estar cerca de la naturaleza.
+
+Pendant made of red crystal.
+Un colgante hecho con un cristal rojo.
+
+With wings made of maple leaves, elves are always the prettiest.
+Con alas hechas de hojas de arce, los elfos siempre son los más bonitos.
+
+Made of plant fiber, it has good magic resistance.
+hecha de fibra vegetal, posee una gran resistencia mágica.
+
+a belt made of ivy vine, full of nature.
+Un cinturón lleno de naturaleza hecho de vid de hiedra.
+
+Boots made from lotus leaves.
+Botas hechas de hojas de loto.
+
+Made of plant fiber, it has good magic resistance.
+hecha de fibra vegetal, tiene una gran resistencia mágica.
+
+The bracelet made of red crystal has a faint flame beating in it.
+Los brazaletes hechos de cristal rojo tienen una tenue llama latiendo.
+
+The ring made of red crystal has a faint flame beating in it.
+El anillo hecho de cristal rojo tiene una tenue llama latiendo.
+
+Wearing it symbolizes going on the charity path.
+Usar esta prenda simboliza que estás siendo caritativo.
+
+Pendant made of green crystal.
+Un colgante hecho con un cristal verde.
+
+Love is the eternal theme of life.
+El amor siempre será el camino eterno de la vida.
+
+Great love resists all attacks.
+El amor eterno resiste cualquier ataque.
+
+Good always binds evil.
+El bien siempre triunfará sobre el mal.
+
+The path of love is bound to become wider and wider.
+El camino del amor siempre está destinado a volverse cada vez más largo.
+
+Great love resists all attacks.
+El amor eterno resiste cualquier ataque.
+
+Bracelet made of green crystal, revealing full of vitality.
+hechos con un cristal verde de donde emerge la fuente de la vida.
+
+Rings made of green crystals reveal full of vitality.
+Anillo hecho con un cristal verde de donde emerge la fuente de la vida.
+
+Such a terrifying thing, only Sorcerer can carry it.
+Una cosa terrorífica que solo el hechicero puede llevar.
+
+Pendant made of amethyst.
+Un colgante hecho de amatista.
+
+It is said to be made from the skin of a century-old zombie.
+Se dice que fue fabricada a partir de la piel de un zombi centenario.
+
+It is said to be a robe made from the hide of an aged carrion.
+Se dice que esta túnica se hizo a partir de la piel de una carroña vieja.
+
+A belt made of strong, aged mummy bandages.
+Un cinturón hecho de resistentes vendas de momia antigua.
+
+It is said to be made from the skin of a century-old zombie.
+hechas a partir de la piel de un zombi centenario.
+
+Leggings crafted from aged skeleton.
+Polainas fabricadas a partir de un esqueleto antiguo.
+
+A bracelet made of amethyst and mysterious dead bones.
+Brazaletes hechos de amatista y de misteriosos huesos de muertos.
+
+A ring made of amethyst, it is said that the undead are sealed in it.
+se dice que los no muertos están encerrados en él.
+
+A thick stick, the sound is like a tsunami when Waving.
+Un palo grueso que emite un sonido parecido a un tsunami al sacudirse.
+
+A hammer made of black iron, weighing up to a thousand pounds, when strike, as if there is a landslide. 
+Un martillo hecho de hierro negro que pesa miles de kilos al sacudirse, como si se tratara de un alud.
+
+A black dagger makes no sound when stabbing, as silent as a shadow's kissing. 
+Una daga negra que no emite sonido al empuñarse, lo que la hace tan silenciosa como un beso de sombra.
+
+A crossbow can shoot arrows very fast. When the arrow feather skims the air, it will bring a whirlwind.
+Una ballesta que puede disparar flechas bastante rápido. Cuando la pluma de la flecha roza el aire genera un torbellino.
+
+The top of the staff is decorated with blue ice stone.
+La parte superior del bastón está decorada con una piedra de hielo azul.
+
+The top of the staff is decorated with red flaming stones.
+La parte superior del bastón está decorada con piedras rojas llameantes.
+
+The top of the scepter is decorated with silver crystals emitting light.
+La parte superior del cetro está decorada con cristales de plata que emiten luz.
+
+The top of the scepter is decorated with obsidian, which can absorb all light.
+La parte superior del cetro está decorada con obsidiana, que puede absorber toda la luz.
+
+A sea blue helmet made of special metal.
+Un yelmo de mar hecho de metal especial.
+
+A pendant with sea blue stone.
+Un colgante con una piedra de mar.
+
+Sea blue shoulder pads made of flexible fabrics and special metals.
+Hombreras de mar hechas con tela flexible y metal especial.
+
+Armor made of flexible fabric and special metal has good defense.
+Una armadura que ofrece buena defensa, hecha de tela flexible y metal especial.
+
+Waist guard in flexible fabric and special metal.
+Una escarcela hecha de tela flexible y metal especial.
+
+Boots made of flexible fabric.
+Botas hechas de tela flexible.
+
+Leg armors made of flexible fabrics and special metals have good defense.
+Armadura para las piernas que ofrece buena defensa, hecha de tela flexible y metal especial.
+
+Made of flexible fabric with special metal foil.
+hechos de tela flexible y metal especial.
+
+The ring made of special metal is set with aquamarine gemstones.
+El anillo, hecho de metal especial, tiene incrustadas gemas de aguamarina.
+
+A khaki helmet made of special metal.
+Un yelmo caqui hecho de metal especial.
+
+A pendant with khaki stones.
+Un colgante con piedras color caqui.
+
+Shoulder pads in khaki color made of thick fabric and special metal.
+Hombreras de color caqui, hechas con tela gruesa y metal especial.
+
+Armor made of thick fabric and special metal has good defense.
+Una armadura con buena defensa, hecha de tela gruesa y metal especial.
+
+Waist support made of thick fabric and special metal.
+Apoyo para la cintura hecho de tela gruesa y metal especial.
+
+Boots made of thick fabric.
+Botas hechas de tela gruesa.
+
+Leg armor made of thick fabric and special metal, has a good defense
+Armadura para las piernas hecha de tela gruesa y metal especial que ofrece buena defensa.
+
+Made of thick fabric with special metal foil.
+hechos de tela gruesa y metal especial.
+
+The ring made of special metal is set with bright yellow gemstones.
+Es un anillo hecho de metal especial, que tiene incrustadas gemas brillantes amarillas.
+
+The vicious emoji on the mask is terrifying.
+La cara de psicópata que tiene dibujada la máscara es aterradora.
+
+A pendant made from the most dangerous demon cores.
+Un colgante hecho de los corazones de los demonios más peligrosos.
+
+The surface of the cloak resembled the deep night sky.
+hecha en semejanza a la vista del profundo cielo nocturno.
+
+It will make you blend into the dark better.
+Quien use este traje podrá camuflarse mejor con la oscuridad.
+
+A belt crafted from the fur of the most dangerous monsters.
+Un cinturón elaborado con la piel de los monstruos más peligrosos.
+
+Assassins are walkers in the dark.
+Los asesinos son caminantes de la oscuridad.
+
+It will make you blend into the dark better.
+Quien use estas polainas podrá camuflarse mejor con la oscuridad.
+
+Gloves crafted from the fur of the most dangerous monsters.
+Guantes fabricados a partir de piel de los monstruos más peligrosos.
+
+The ring is inlaid with the magic crystal of the beast.
+El anillo tiene incrustado un cristal mágico de la bestia.
+
+A hood made of golden eagle fur.
+Una capucha hecha de piel de águila dorada.
+
+A pendant made from the most agile monster core.
+Un colgante hecho del corazón de los monstruos más ágiles.
+
+A cloak made of golden eagle feathers.
+Una capa hecha de plumas de águila dorada.
+
+Armor made of golden eagle fur and hard animal bones.
+Una armadura hecha de piel de águila dorada y huesos duros de animales.
+
+A belt crafted from the fur of the most agile raptors.
+Un cinturón fabricado a partir de las pieles de los animales rapaces más ágiles.
+
+Ride the wind like an eagle.
+Usa estas botas para cabalgar el viento como un águila.
+
+Leather pants made of golden eagle fur.
+Estos pantalones fueron hechos de piel de águila dorada.
+
+Bracers crafted from the fur of the most agile raptors.
+Guanteletes fabricados a partir de las pieles de los animales rapaces más ágiles.
+
+The ring is inlaid with the magic crystal of the bird of prey.
+El anillo tiene incrustado un cristal mágico del ave de rapiña.
+
+Made of ice silk, the coolness will lift your spirits.
+hecha de seda de hielo que ayudará a elevar tu espíritu.
+
+The light blue transparent gemstone on the pendant exudes an endless chill.
+La piedra preciosa azul claro incrustada en el colgante emana un frescor infinito.
+
+A cape made of ice silk.
+Una capa hecha de seda de hielo.
+
+The robe made of ice silk has many mysterious symbols drawn on it.
+La túnica, hecha de seda de hielo, tiene varios símbolos misteriosos dibujados.
+
+Belt made of ice silk.
+Cinturón hecho de seda de hielo.
+
+Boots made of ice silk.
+Botas hechas de seda de hielo.
+
+The leggings made of ice silk have many mysterious symbols drawn on them.
+Las polainas, hechas de seda de hielo, tienen varios símbolos misteriosos dibujados.
+
+Crafted from Froststone.
+Fabricados a partir de rocas de hielo.
+
+Glittering sapphires set on a ring made of ice stone.
+Un anillo hecho de rocas de hielo con zafiros brillantes engastados en él.
+
+A wreath made of flame flowers.
+Una guirnalda hecha con flores de fuego.
+
+The gems on the pendant shone with a fiery red light.
+Las gemas de este colgante brillan con una luz roja incandescente.
+
+A cape made of flame flower petals.
+Una capa hecha de pétalos de flores de fuego.
+
+The robes are made of plant fibers extracted from flame flowers, and the symbols on them appear as if the flames are beating.
+los símbolos en ellas hacen parecer como si estuvieran incendiándose.
+
+Belt made from flame flower plant fibers.
+Un cinturón hecho de fibra vegetal de flores de fuego.
+
+Boots crafted from flame flower plant fibers.
+Botas fabricadas a partir de fibra vegetal de flores de fuego.
+
+Leggings made of plant fibers extracted from flame flowers, the symbols on them seem to beat like flames.
+los símbolos dibujados en ellas las hace parecer como si estuvieran ardiendo en llamas.
+
+Crafted from Fire Flower Seeds.
+Fabricados a partir de semillas de flores de fuego.
+
+A ring made of flaming stone set with sparkling rubies.
+Un anillo hecho de piedra flamígera engastada con rubíes brillantes.
+
+On the front of the white hat is a golden crown representing light.
+La parte frontal del sombrero blanco tiene una corona dorada que representa la luz.
+
+A golden gem dangles from the silver necklace.
+Una gema dorada pende de este collar de plata.
+
+The silver cloak is painted with the holy light symbol representing light.
+La capa plateada tiene pintado el símbolo de la luz sagrada que representa lo divino.
+
+A silver and gold robe.
+Una túnica reluciente de oro y plata.
+
+A golden belt.
+Un cinturón dorado.
+
+The white boots were tied with golden knots.
+Estas botas blancas están atadas con agujetas doradas.
+
+A pair of silver and gold leggings.
+Un par de polainas de colores oro y plata.
+
+In the transparent bracelet, the golden holy light keeps flowing.
+La luz sagrada fluye y fluye en estos brazaletes transparentes de oro.
+
+The gems on the ring enhance the power of the Holy Light spell.
+Las gemas en el anillo potencian los hechizos de luz sagrada.
+
+The helmet is surrounded by transparent smoke, perhaps from which it got its name.
+El casco está rodeado por humo transparente, quizá de ello proviene su nombre.
+
+Collect more souls.
+Sirve como recolector de almas.
+
+How many souls are floating around.
+¿Cuántas almas flotarán alrededor?
+
+Concentrate the power of the dead to protect you.
+Concentra el poder de los muertos, además de que sirve como protección.
+
+Only wizards like the haunting of the dead.
+Solo los hechiceros están dispuestos a cazar a los muertos.
+
+Through the underworld full of undead.
+Para atravesar el submundo repleto de no muertos.
+
+Countless dead souls are sealed in this pair of bracelets.
+Incontables almas de muertos están selladas en este par de brazaletes.
+
+The power of the Ghost is attached to the weapon through your hands.
+El poder fantasmal está aderido a este anillo, lo que hace que cualquier arma que esté en tus manos sea más mortífera.
+
+A slender sword with a sharp blade that seems to cut through everything.
+Una espada delgada con una hoja afilada que parece ser capaz de cortar todo.
+
+A heavy sledgehammer with a sense of oppression that destroys the world.
+Un mazo pesado con el que puedes provocar la opresión suficiente para conquistar el mundo.
+
+A sharp dagger, the target in front of it will never survive.
+Una daga afilada que hará que cualquier objetivo que se le enfrente no sobreviva a ella.
+
+A majestic longbow, the arrows it shoots make monsters unable to escape.
+Un arco magestuoso que hace que no puedan escapar los monstruos de las flechas que dispara.
+
+The spherical translucent sapphire on the top of the gray blue staff has ice blue light flowing constantly.
+El zafiro translúcido en forma de esfera en la parte superior del bastón gris azulado tiene un chorro de luz que fluye constantemente.
+
+The spherical translucent ruby at the top of the orange-red staff has flames that keep beating.
+El rubí translúcido en forma de esfera en la parte superior del bastón naranja rojizo tiene llamas que se mantienen ardiendo.
+
+There is a vibrant green glow in the spherical translucent emerald on top of the sage green scepter.
+La esmeralda translúcida en forma de esfera colocada en la parte superior del cetro verde salvia emite un resplandor verde vibrante.
+
+The spherical translucent gray-black gemstone on top of the black scepter seemed to be filled with a continuous flow of gray mist.
+La gema gris negruzca esférica translúcida en la parte superior del cetro negro parece estar llena de una niebla gris que va fluyendo.
+
+This helmet looks very spirited.
+Este yelmo parece lleno de fuerza.
+
+It symbolizes the honor of warriors.
+Simboliza el honor de los guerreros.
+
+Soldiers are charged with defending their homes.
+Hechas para aquellos soldados encargados de defender sus hogares.
+
+Safety is key in battle, let this armor protect you.
+La seguridad es lo primordial en una batalla, deja que esta armadura te proteja.
+
+A flexible waistband.
+Un cinturón flexible.
+
+Charge forward for honor.
+Para que camines siempre hacia adelante con honor.
+
+Charge forward for honor, and let this legplate keep you safe.
+Para que camines hacia adelante con honor, haz que estas perneras te mantengan seguro.
+
+Strengthen your wrist so that you can break through any obstacles and stick to your responsibilities.
+Potencian tus muñecas para que puedas romper cualquier obstáculo y así cumplir con tus responsabilidades.
+
+The gems in the ring contain invincible power.
+Las gemas incrustadas en el anillo contienen un poder inmenso.
+
+With a huge helmet, orcs can protect their heads in battle.
+Con este enorme casco, los orcos pueden protegerse la cabeza durante la batalla.
+
+A pendant made from the strongest demon core.
+Un colgante hecho del núcleo del demonio más poderoso.
+
+Its rugged shape goes well with the Orc.
+Su forma rugosa es ideal para los orcos.
+
+The heavy armor is lined with the thick fur of demon, which plays a double protective role.
+La pesada armadura está forrada con piel gruesa de demonio, lo que le da una doble capa de defensa.
+
+A belt made of strong monster hide.
+Una correa hecha del cuero de un monstruo poderoso.
+
+The footprints of the orcs are all over the land.
+Para que las huellas de los orcos estén bien marcadas en la tierra.
+
+The heavy legplates are lined with the thick fur of the monsters, which doubles as protection.
+Las perneras pesadas están forradas con el cuero de poderosos monstruos, lo que les da una capa extra de defensa.
+
+Bracers crafted from the strongest monster fur.
+Brazales fabricados con piel de monstruos poderosos.
+
+The ring is inlaid with the magic crystal of the giant beast.
+El anillo tiene incrustado el cristal mágico de una bestia gigante.
+
+Hide the expression of penance.
+Útil para ocultar la expresión de penitencia.
+
+Asceticism makes assassins more powerful.
+El espiritualismo hace que los asesinos sean más poderosos.
+
+The taupe cape looks unremarkable.
+Esta capa gris pardo no parece tener nada especial.
+
+The black battle suit can bring the power of hell.
+Este traje negro de batalla hace que el asesino lleve consigo el poder del infierno.
+
+Belt made of black fabric.
+Un cinturón hecho de tela negra.
+
+Boots made of black fabric.
+Botas hechas de tela negra.
+
+Leggings made of black fabric.
+Polainas hechas de tela negra.
+
+Black gloves are more suitable for practicing in hardships.
+Estos guantes de color negro son ideales para los tiempos duros.
+
+The ring made of special metal is set with black gemstones.
+Este anillo hecho con metal especial tiene incrustadas gemas negras.
+
+You would like to be a low-profile attacker in the team.
+Te hará ver como un atacante de bajo perfil en tu equipo.
+
+Your arrow will make the most correct choice.
+Con este colgante tu flecha siempre pegará en el punto preciso.
+
+Ride among wild beasts and mighty enemies.
+Para que tus hombros estén cubiertos de los ataques de los monstruos salvajes y los enemigos poderosos.
+
+The protective color of this leather armor will keep you from falling prey to others.
+La protección que te ofrece esta armadura hará que no seas presa fácil para otros.
+
+When wear the belt, you will not be found by the prey.
+Al usar este cinturón tu presa no podrá detectarte.
+
+New prey is ahead.
+Para que siempre vayas un paso más allá de tu presa.
+
+The protective color of these leather pants will keep you from becoming prey.
+La protección que te ofrecen estos pantalones de cuero evitará que tú te conviertas en una presa.
+
+The effect of this pair of bracers is steady and precise.
+Con estos guanteletes tus muñecas estarán más firmes y precisas.
+
+This ring will inject more power into your bow and arrows.
+Este anillo le dará más potencia a tu arco y a tus flechas.
+
+A white helmet oozing with chills.
+Un yelmo blanco que rezuma un aura helada.
+
+The soul of Frost is imprisoned in the white pendant.
+El alma de la escarcha está aprisionada en este colgante.
+
+A cold mist emanated from behind the shawl, like a pair of upturned wings.
+Una niebla fría emana desde el interior del manto en forma de alas inclinadas hacia arriba.
+
+The surface of the armor was covered with a layer of frost.
+La superficie de esta armadura está cubierta con una capa de escarcha.
+
+A chain of ice beads condensed from frost.
+Una correa hecha de perlas de hielo condensadas en escarcha.
+
+Where the mage passed, there was a frosty cold air.
+Hacen que el mago que va pasando se deje sentir con un aire helado y escarchado.
+
+A layer of frost is wrapped around the surface of the leggings.
+Estas polainas están envueltas con una capa de escarcha.
+
+White frost is circulating in the transparent bracelet.
+Una escarcha blanca va fluyendo en estos brazaletes transparentes.
+
+The ring is set with a white frost gem.
+Este anillo tiene incrustada una gema blanca de escarcha.
+
+A fiery red helmet.
+Un yelmo rojo ardiente.
+
+A fiery flame is imprisoned in the red pendant.
+Una llama ardiente está aprisionada en este colgante rojo.
+
+The red cloak fluttered like countless tongues of fire.
+Una capa roja con una gran cantidad de lenguas de fuego serpenteando.
+
+Dark red flames loomed on the surface of the armor.
+Llamas rojo oscuro lamen la superficie de esta armadura.
+
+The bright red belt is like a crawling fire snake.
+Este cinturón rojo brillante es como una serpiente de fuego arrastrándose.
+
+Wherever the elves pass, they leave burning footprints.
+Botas que dejan una marca ardiente por donde sea que vayan los elfos.
+
+Dark red flames loomed over the surface of the leggings.
+Llamas rojo oscuro lamen la superficie de estas polainas.
+
+A pair of bracelets that seal the power of fire.
+Un par de brazaletes que contienen sellado el poder del fuego.
+
+The ring is set with a red fire element gemstone.
+El anillo está incrustado con una gema de fuego rojo ardiente.
+
+There is a golden halo on the white hat.
+Este sombrero emite un halo dorado.
+
+Legend has it that this golden pendant was made from an angel's teardrop and contained the most sacred blessing.
+Cuenta la leyenda que este colgante fue hecho de las lágrimas que cayeron de los ojos de un ángel, y que por ello contiene la bendición más sagrada.
+
+Behind the white cape are three teams of transparent golden wings.
+Detrás de esta capa hay tres pares de alas de ángel transparentes.
+
+The gold shirt is fitted to the body and is protected by a white robe.
+La camisa dorada va ceñida al cuerpo y está protegida por una túnica blanca.
+
+Every inch of this belt is poured with angelic blessings.
+Cada pedazo de este cinturón fue bendecido por los ángeles.
+
+The messenger of God will come to you.
+Resistentes y útiles para que camines a entregar el mensaje de Dios.
+
+A golden leggings.
+Unas polainas doradas.
+
+A bracelet that stores the power of the Holy Light.
+Unos brazaletes que contienen el poder de la luz sagrada.
+
+The ring is set with brilliant golden gemstones.
+El anillo está incrustado con gemas brillantes doradas.
+
+A spooky mask.
+Una máscara espeluznante.
+
+It is said that only wizards favored by the Lich King can get this pendant.
+Se dice que solo aquellos hechiceros que tengan el favor del Rey Lich pueden usar este colgante.
+
+The blue-black cloak exudes a chilly aura.
+Esta capa azul negruzca emite un aura escalofriante.
+
+The blue and black robes are painted with abstract symbols representing witchcraft.
+La túnica negroazulada está pintada con símbolos abstractos de brujería.
+
+According to legend, it is a belt made by the lich from the grudges that congealed into silk.
+Según la leyenda, este es un cinturón hecho por los liches con cadáveres congelados y convertidos en seda después.
+
+Collecting more witchcraft materials is the driving force for wizards to move forward.
+Recolectar más material para brujería es la energía que los hechiceros necesitan para moverse.
+
+The blue to black leggings are painted with abstract symbols representing witchcraft.
+Estas polainas negroazuladas están pintadas con símbolos abstractos de brujería.
+
+A bracelet that seals the power of magic.
+Brazaletes que contienen sellado el poder de la magia.
+
+The gems on the ring are said to be congealed by the lich with thousands of ghosts.
+Se dice que las gemas incrustadas en este anillo fueron fabricadas por los liches a partir de miles de fantasmas congelados.
+
+strengthen ; physical attack {d}-{d}; physical Defense {d}-{d}; magic Defense {d}-{d}
+aumenta el ataque físico entre $1 y $2, la defensa física entre $3 y $4 y la defensa mágica entre $5 y $6
+
+ physical Defense {d}-{d}
+defensa física: entre $1 y $2
+
+ magic Defense {d}-{d}
+defensa mágica: entre $1 y $2
+
+warrior  
+guerreros
+
+orc  
+orcos
+
+assassin  
+asesinos
+
+hunter  
+cazadores
+
+mage  
+magos
+
+priest  
+sacerdotes
+
+witcher  
+hechiceros
+
+elf  
+elfos
+
+strengthen ; HP {d}; MP {d}; physical attack {d}-{d}
+aumenta la salud $1, el mana $2 y el ataque físico entre $3 y $4
+
+strengthen ; physical Defense {d}-{d}; magic Defense {d}-{d}
+aumenta la defensa física entre $1 y $2 y la defensa mágica entre $3 y $4
+
+Backpack locked
+Bloqueado en la mochila
+
+strengthen ; physical Defense {d}; magic Defense {d}
+aumenta la defensa física $1 y la defensa mágica $2
+
+It has excellent toughness, can disperse the load pressure, and fully expand the storage capacity of the backpack.
+Tiene una dureza excelente y puede dispersar la presión de carga, lo que hace que la capacidad de almacenamiento de la mochila se expanda.
+
+A flawless aqua blue diamond ring set with a heart-shaped ruby, it bears witness to your unwavering love.
+Un impecable anillo de diamantes azul aguamarina engastado con un rubí en forma de corazón, que es testigo de vuestro amor inquebrantable.
+
+A sparkling platinum ring engraved with the shape of a heart, it means your love will never fade.
+Un anillo de platino brillante grabado con la forma de un corazón, significa que tu amor nunca se desvanecerá.
+
+A golden ring with the shape of a heart engraved on it, which means that your love is stronger than gold.
+Un anillo de oro con un corazón grabado, lo que significa que tu amor es más fuerte que el oro.
+
+strengthen ; magic attack {d}-{d}
+aumenta el ataque mágico entre $1 y $2
+
+ magic attack {d}-{d}
+ataque mágico: entre $1 y $2
+
+strengthen ; magic attack {d}-{d}; physical Defense {d}-{d}; magic Defense {d}-{d}
+aumenta el ataque mágico entre $1 y $2, la defensa física entre $3 y $4 y la defensa mágica entre $5 y $6
+
+Commemorative medal for beating monsters when reaching the highest level
+Medalla conmemorativa por vencer monstruos en el nivel máximo
+
+Medal of Honor worn by the top thirty players in the level {d} Arena match.
+Medalla de honor otorgada a los jugadores clasificados entre los puestos 11 y 30 del ranking semanal de la Arena de nivel $1.
+
+available for {s}
+hecho para {sub2{$1}sub2}
+
+Medal of Honor worn by the top 100 players in the level {d} Arena match.
+Medalla de honor usada por los jugadores clasificados entre los puestos 31 y 100 del ranking semanal de la Arena de nivel $1.
+
+strengthen ; physical attack {d}; magic attack {d}; physical Defense {d}; magic Defense {d}
+aumenta el ataque físico $1, el ataque mágico $2, la defensa física $3 y la defensa mágica $4
+
+available time: until {s} {d}, {d}:{d}:{d}, {d}
+Disponible hasta el $2 de {sub2{$1}sub2} de $6, a las $3:$4:$5
+
+Growing old together, forever in one heart. Tanabata exclusive equipment, cannot be taken off after wearing.
+Envejeciendo juntos, para siempre en un solo corazón. Equipo exclusivo de Tanabata, no se puede quitar después de usarlo.
+
+A heavy metal stick.
+Un palo pesado de metal.
+
+A huge scimitar.
+Una cimitarra enorme.
+
+A transparent dagger.
+Una daga transparente.
+
+There is only one dead end for the target it aims at.
+Solo la muerte es el final para el objetivo  de este arco.
+
+The top of the staff is decorated with blue polyhedral gemstones.
+La parte superior del bastón está decorada con piedras preciosas poliédricas de color azul.
+
+The top of the staff is inlaid with many red gems in the shape of flames.
+La parte superior de este bastón tiene incrustadas muchas gemas rojas en forma de llama.
+
+From time to time, the gem on the top of the staff radiated golden light to the surroundings.
+De vez en cuando, la gema que decora la parte superior de este cetro irradia una luz dorada que cubre todo a su alrededor.
+
+This scepter will bring deep fear to your opponent.
+Este cetro hará que tu oponente sienta un miedo profundo.
+
+Whoever wears this helmet will be the winner on the battlefield.
+Quien sea que use este yelmo será el ganador en el campo de batalla.
+
+This pendant carries the belief in fighting for the championship.
+Este colgante transmite seguridad a quien lo use para combatir por ser campeón.
+
+Bearing the mission of victory on your arms.
+En tus hombros recae la misión por ganar.
+
+Through hard training, perfect skills are created.
+A través de un duro entrenamiento se desarrollan habilidades perfectas.
+
+Withstand thousands of shocks in confrontation.
+Te hará resistir miles y miles de confrontaciones.
+
+Win the championship with a steady pace.
+Para que ganes el campeonato con paso firme.
+
+Withstand thousands of shocks in confrontation.
+Te harán resistir miles y miles de confrontaciones.
+
+A good pair of bracers can make you a champion warrior.
+Un buen par de brazales te podrían convertir en un guerrero campeón.
+
+A ring worn by many champions.
+Un anillo utilizado por muchos campeones.
+
+The orcs looked even more ferocious with this helmet on.
+Los orcos se ven aún mucho más feroces con este yelmo puesto.
+
+Use the most violent power to protect the comrades around you.
+Usa el poder de violencia más potente para proteger a los camaradas que estén cerca de ti.
+
+Your burden is everyone's safety.
+Te harán soportar la carga de proteger a todos los que te importen.
+
+This Heavy Armor can naturally withstand the most violent attacks.
+Esta armadura puede resistir de forma natural los ataques más violentos.
+
+Bearing the belief of protecting teammates.
+Para que al tener tu cintura protegida te sientas con la confianza de proteger a tus compañeros de equipo.
+
+Don't try to make the orc take on the rampage.
+No intentes hacer que el orco se vuelva violento.
+
+Rampage Legplates naturally withstand the most frantic attacks.
+Estas perneras de violencia soportan de forma natural los ataques más frenéticos.
+
+Dare to compare the arm strength with the orcs?
+¿Te atreverías a comparar la fuerza de tus brazos con la de los orcos?
+
+Don't provoke the orc, no one can resist his rage.
+No provoques a los orcos, nadie es capaz de resistir su ira.
+
+Cover your face and sneak behind enemies.
+Cubre tu cara y escóndete tras los enemigos.
+
+It represents the forbearance of the stalker.
+Lleva consigo el símbolo de la vigilancia.
+
+Assassins shoulder the responsibility of stalkers.
+Los asesinos llevan en sus hombros la responsabilidad de la vigilancia.
+
+This garment is light and provides great protection.
+Esta vestimenta es ligera y provee una gran protección.
+
+A silky belt.
+Un cinturón protector.
+
+Watch out for assassins sneaking up behind you.
+Ten cuidado con los asesinos que se esconden tras de ti.
+
+These shorts are light and provide great protection.
+Estos shorts son ligeros y proveen una gran protección.
+
+This pair of gloves can strengthen your wrist, make your dagger more stable and attack harder.
+Este par de guantes pueden fortalecer el agarre de tu daga, lo que la hace más estable y te permite atacar de forma más precisa.
+
+The gems on the ring can make your assassination more deadly.
+Las gemas en este anillo hacen que tu habilidad de asesinar sea más certera.
+
+Snipers can't show up easily.
+Los francotiradores no se dan a notar fácilmente.
+
+It represents the focus of the sniper.
+Representan el enfoque del francotirador.
+
+The hunter takes on the task of a sniper.
+Para que el cazador cargue en sus hombros la tarea de ser un francotirador.
+
+Snipers' biggest enemies are other snipers, let this armor protect you.
+deja que esta armadura te proteja de ellos.
+
+A soft leather belt.
+Un cinturón de cuero suave.
+
+The best position for sniping should be carefully searched.
+La mejor posición para colocarte siendo un francotirador debe de ser buscada con cuidado.
+
+Snipers' worst enemies are other snipers, let this legging protect you.
+deja que estas polainas te protejan de ellos.
+
+This pair of bracers can enhance your wrist strength, make your bow more stable, and your arrows set more accurately.
+Este par de brazales pueden mejorar la fuerza de agarre de tu arco, haciendo que sea más estable y que tus flechas se coloquen en el punto preciso.
+
+The gems on the ring can increase the lethality of arrows.
+Las gemas incrustadas en este anillo pueden incrementar la letalidad de tus flechas.
+
+Strings of ice beads hang from the snow-white hat.
+Una cadena de perlas de hielo cuelga de este sombrero blanco como la nieve.
+
+A hexagonal white crystal hangs from the dark blue necklace.
+Un cristal blanco exagonal cuelga de este collar azul oscuro.
+
+The snow-white cloak contains the power of ice and snow.
+Esta capa blanca como la nieve contiene el poder del hielo y de la nieve.
+
+The ice-blue robe is dotted with fluttering snowflakes.
+Esta túnica azul hielo está salpicada de copos de nieve.
+
+A white belt woven from extremely rare ice cicada silk.
+Un cinturón blanco tegido con una seda de cigarra extremadamente rara.
+
+Stepping on the snow without trace.
+Para que camines por la nieve sin resbalar.
+
+The icy blue leggings are painted with hexagonal snowflake patterns and mysterious symbols.
+Estas polainas heladas están pintadas con patrones de copos de nieve exagonales y símbolos misteriosos.
+
+The white bracelet exudes a cold light.
+Estos brazaletes blancos exudan un poco de frío glacial.
+
+The snowflake gems on the ring enhance the power of ice magic.
+Las gemas de este anillo, hechas con copos de nieve, aumentan el poder de la magia de hielo.
+
+An ancient crown, inlaid with orbs that flickered with flames.
+Una corona antigua incrustada con orbes que resplandecen como llamas.
+
+It is said that the power of the original fire element remains in the pendant, which can enhance the power of all fire-based magic.
+Se dice que el poder del elemento de fuego primigéneo permanece en este colgante, lo que potencia el poder de toda la magia basada en fuego.
+
+This cloak, which seems to be made of flame, floats behind him, showing a violent beauty.
+Esta capa, que parece hecha de llamas, flotará tras de ti, lo que te hará tener una apariencia salvajemente bella.
+
+This tabard is a layer of flame barrier that will block any attack for you.
+Este tabardo tiene trazada una barrera de llamas, que bloqueará cualquier ataque dirigido hacia ti.
+
+The flashing fire waist protector symbolizes the endless fire element.
+Este protector para la cintura con fuego ardiendo simboliza la infinitud del elemento de fuego.
+
+The elf's feet are always accompanied by the heating element of fire.
+Los pies de los elfos siempre estarán cálidos debido al calor del elemento de fuego que los protege.
+
+These leggings are a fire barrier that will ward off any attack for you.
+Estas polainas tienen trazada una barrera de fuego que bloqueará cada ataque que lancen hacia ti.
+
+It is said that the power of the original fire element remains in the bracelet, which allows you to control the fire element like your arms.
+Se dice que el poder del elemento de fuego primigenio permanece en estos brazaletes, lo que hace que puedas controlar el fuego con tus brazos.
+
+The ring is inlaid with fiery red gems, which can bring you the power of the original fire energy.
+Este anillo tiene incrustadas gemas rojas ardientes, lo que hará que puedas controlar el poder de la energía de fuego primigenia.
+
+On the front of the white hat is a golden crown representing light.
+Una corona dorada que representa la luz decora el frente de este sombrero blanco.
+
+A golden gem dangles from the silver necklace.
+Una gema dorada cuelga de este collar de plata.
+
+The silver cloak is painted with the holy light symbol representing light.
+Esta capa plateada tiene trazado el símbolo de la luz sagrada, que representa la luz.
+
+A silver and gold robe.
+Una túnica oro y plata.
+
+A golden belt.
+Un cinturón dorado.
+
+The white boots were tied with golden knots.
+Estas botas blancas están atadas con nudos dorados.
+
+A pair of silver and gold leggings.
+Un par de polainas oro y plata.
+
+In the transparent bracelet, the golden holy light keeps flowing.
+La luz sagrada fluye de este par de brazaletes transparentes.
+
+The gems on the ring enhance the power of the Holy Light spell.
+Las gemas en este anillo aumentan el poder de los hechizos de luz sagrada.
+
+A mask that combines all elements of horror.
+Una máscara que combina todos los elementos terroríficos.
+
+The orb that imprisoned the most terrifying soul.
+Un orbe que aprisionó las almas más terroríficas.
+
+Your opponent will never forget the figure wearing this cloak.
+Los oponentes jamás olvidarán a la figura que porte esta capa.
+
+A robe with a terrifying aura.
+Una túnica con un aura terrorífica.
+
+A belt with terrifying resentment attached.
+Un cinturón que provoca una sensación terrorífica.
+
+Let the wizards take you into the abyss of terror.
+Deja que los hechiceros te transporten a un abismo de terror.
+
+Leggings with a terrifying aura.
+Polainas con un aura terrorífica.
+
+A pair of bracelets is engraved with a circle of terrifying reliefs.
+Este par de brazaletes tiene grabado un círculo de relieves terroríficos.
+
+Endless terror is sealed in the ring.
+Un terror infinito está sellado en este anillo.
+
+Two stars
+Dos estrellas
+
+The Mid-Autumn Festival commemorative badge is a one-to-one restoration of the shape of the five-nuts mooncake, decorated with osmanthus patterns.
+La medalla conmemorativa del Festival del Otoño Medio tiene la forma exacta del pastel lunar de cinco nueces, y está decorada con patrones de osmanthus.

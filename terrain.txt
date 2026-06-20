@@ -1,0 +1,5654 @@
+lawn
+césped
+
+grass
+hierba
+
+weed
+maleza
+
+fallen leaves
+hojas caídas
+
+land
+tierra
+
+sand
+arena
+
+beach
+playa
+
+wetlands
+humedales
+
+mud
+barro
+
+shore
+costa
+
+stream
+arroyo
+
+river underground
+río subterráneo
+
+snow
+nieve
+
+snow road
+camino de nieve
+
+river
+río
+
+lake
+lago
+
+cliff
+acantilado
+
+cave
+cueva
+
+cave
+cueva
+
+path
+sendero
+
+steps
+escalones
+
+inside the house
+interior de la casa
+
+stairs
+escaleras
+
+bridge
+puente
+
+iron plate
+placa de hierro
+
+pipeline
+tubería
+
+ruins
+ruinas
+
+seabed
+fondo del mar
+
+Ice
+Hielo
+
+cavern
+caverna
+
+silent
+silencioso
+
+edge
+borde
+
+plank
+tablón
+
+obstacle
+obstáculo
+
+reef
+arrecife
+
+fence
+valla
+
+Door
+Puerta
+
+railing
+barandilla
+
+Pillar
+Pilar
+
+Tree
+Árbol
+
+board
+tablero
+
+ironware
+ferretería
+
+iron pillar
+pilar de hierro
+
+wooden box
+caja de madera
+
+fence
+valla
+
+crystal wall
+muro de cristal
+
+cabinet
+gabinete
+
+mountain wall
+pared de la montaña
+
+ 
+ 
+
+nameless
+sin nombre
+
+high platform 
+plataforma alta 
+
+pool
+pozo de agua
+
+intersection
+intersección
+
+bank
+banco
+
+up the waterfall
+arriba de la cascada
+
+fall
+catarata
+
+downward
+hacia abajo
+
+teleportation point
+punto de teletransporte
+
+la
+la
+
+mi
+mi
+
+do
+do
+
+sol
+sol
+
+Enchantment
+Encantamiento
+
+slide
+desliza
+
+mountain
+montaña
+
+barrack
+barracón
+
+test room
+sala de pruebas
+
+camp
+campamento
+
+doorway
+puerta
+
+rock
+roca
+
+southwest turn
+giro al suroeste
+
+mountain road
+camino de la montaña
+
+hole
+hoyo
+
+northeast turn
+giro al noreste
+
+south door of the test room
+puerta sur de la sala de pruebas
+
+rear door of the barracks
+puerta trasera de los barracones
+
+outside the village
+exterior de la aldea
+
+village
+aldea
+
+center of the village
+Centro de la aldea
+
+South Street of the village
+Calle sur de la aldea
+
+North Street of the village
+Calle norte de la aldea
+
+West Street of the village
+Calle oeste de la aldea
+
+East Street of the village
+Calle este de la aldea
+
+gate
+Reja
+
+Grove
+Arboleda
+
+road outside the village
+camino en el exterior de la aldea
+
+pharmacy
+pharmacia
+
+blacksmith shop
+herrería
+
+chalet
+cabaña
+
+granary
+granero
+
+end of the path
+final del sendero
+
+mountains
+montañas
+
+house
+casa
+
+courtyard wall
+pared del patio
+
+courtyard gate
+reja del patio
+
+courtyard doorway
+puerta del patio
+
+well
+pozo
+
+stone ladder
+escalera de piedra
+
+stone ladder  entrance
+entrada a la escalera de piedra
+
+crossing
+cruce
+
+barn door
+puerta del granero
+
+courtyard
+patio
+
+door
+puerta
+
+bottom
+inferior
+
+aisle
+pasillo
+
+bottom center
+centro inferior
+
+deep water
+agua profunda
+
+wall of the cave
+pared de la cueva
+
+slope, northeast turn
+giro al noreste de la pendiente
+
+slope
+pendiente
+
+Slope, Southwest turn
+Giro al suroeste de la pendiente
+
+Cave entrance, northeast turn
+Giro al noreste de la entrada de la cueva
+
+west entrance
+entrada oeste
+
+snake cave
+cueva de la serpiente
+
+side road
+camino lateral
+
+slope, southeast turn
+giro al sureste de la pendiente
+
+slope, northwest turn
+giro al noroeste de la pendiente
+
+path, southeast turn
+giro al sureste del sendero
+
+Outside the cave, southwest turn
+Giro al suroeste del exterior de la cueva
+
+Outer road
+Camino al exterior
+
+north entrance
+entrada norte
+
+well entrance
+entrada al pozo
+
+snake cave
+cueva de la serpiente
+
+Dirt road in the cave
+camino de tierra en la cueva
+
+dirt road crossing
+cruce de caminos de tierra
+
+path, southwest turn
+giro al suroeste del sendero
+
+Southwest turn
+Giro al suroeste
+
+Northeast turn
+Giro al noreste
+
+southeast turn
+giro al sureste
+
+Northwest turn
+Giro al noroeste
+
+well steps
+escalones al pozo
+
+well steps
+escalones al pozo
+
+water
+agua
+
+lower stairs
+escaleras inferiores
+
+upper stairs
+escaleras superiores
+
+Abandoned pipeline
+Tubería abandonada
+
+dirt road
+camino de tierra
+
+Snake Cave Center
+Centro de la cueva de la serpiente
+
+pipe wall
+pared de la tubería
+
+outskirts
+afueras
+
+In the city
+En la ciudad
+
+wall
+muralla
+
+dragon mountain
+montaña del dragón
+
+green mountain
+montaña verde
+
+crest  mountain
+Cresta de la montaña
+
+squama mountain
+montaña de la escama
+
+canyon
+cañón
+
+cottage
+choza
+
+floor
+piso
+
+west gate
+Puerta oeste
+
+north gate
+Puerta norte
+
+east gate
+Puerta este
+
+south gate
+Puerta sur
+
+fence
+valla
+
+north highroad
+carretera norte
+
+East T-shaped
+cruce este en forma de T
+
+west Street
+calle oeste
+
+east Street
+calle este
+
+north Street
+calle norte
+
+south Street
+calle sur
+
+farmland
+tierras de cultivo
+
+field ridge
+cresta de campo
+
+woods
+bosque
+
+road in the woods
+camino en el bosque
+
+bush
+arbusto
+
+grove
+arboleda
+
+south highroad
+carretera sur
+
+North T-shaped
+Cruce Norte en forma de T
+
+young tree
+árbol joven
+
+scarecrow
+espantapájaros
+
+lane
+callejón
+
+Chalet
+Cabaña
+
+entrance of the village
+entrada a la aldea
+
+town
+pueblo
+
+market
+mercado
+
+courtyard
+patio
+
+Sunset Square
+Plaza del Atardecer
+
+Town centre
+Centro del pueblo
+
+City Lord's Mansion
+Mansión del Señor de la Ciudad
+
+master's Mansion
+mansión de los maestros
+
+breeding garden
+jardín de crianza
+
+Royal Bank
+Banco Real
+
+Restaurant
+Restaurante
+
+Jewelry shop
+Joyería
+
+Armor shop
+Tienda de armaduras
+
+weapon shop
+armería
+
+gang unions
+sindicato de pandillas
+
+gem room
+sala de gemas
+
+grocery store
+tienda general
+
+west Entrance of the town
+entrada oeste del pueblo
+
+east Entrance of the town
+entrada este del pueblo
+
+house
+casa
+
+Shrine
+Santuario
+
+main hall
+salón principal
+
+west of the front hall
+oeste del salón frontal
+
+aisle
+pasillo
+
+East of the front hall
+este del salón frontal
+
+wasteland
+páramo
+
+boulder
+roca
+
+airship
+dirigible
+
+Wilderness
+Tierra salvaje
+
+rushing River
+río bravo
+
+crisp stream
+arroyo nítido
+
+smoke stream
+arroyo ahumado
+
+east of the city
+este de la ciudad
+
+Rock Square
+Plaza de la Roca
+
+palace of Central kingdom
+Palacio del Reino Central
+
+Holy Light Cathedral
+Catedral de la Luz Sagrada
+
+Cathedral Square
+Plaza de la Catedral
+
+Railing
+Barandilla
+
+stairway
+escalera
+
+square road
+camino de la plaza
+
+front hall
+salón frontal
+
+palace doorway
+puerta del palacio
+
+flower bed
+lecho de flores
+
+meadow
+prado
+
+wooden bridge
+puente de madera
+
+suspension bridge
+puente colgante
+
+east highroad
+carretera este
+
+west highroad
+carretera oeste
+
+sand dune
+duna de arena
+
+herby Mountain
+Montaña de hierbas
+
+valley
+valle
+
+mountain forest
+bosque montañoso
+
+war guild
+gremio de guerra
+
+magic guild
+gremio de magia
+
+profession guild
+gremio de profesiones
+
+front street
+calle frontal
+
+corridor
+corredor
+
+guardrail
+barandilla de protección
+
+stone beam
+az de piedra
+
+cable car
+teleférico
+
+southeast turn
+giro al sureste
+
+car
+coche
+
+in the car
+en el coche
+
+car door
+puerta del coche
+
+outpost
+puesto de avanzada
+
+Room
+Sala
+
+Northwest turn
+Giro al noroeste
+
+exterior wall
+muralla exterior
+
+forecourt
+patio delantero
+
+barren mountain
+Montaña Estéril
+
+dimensional wall
+Pared Divisoria
+
+doorway of the outpost
+puerta del puesto de avanzada
+
+Tiger Mountain
+Montaña del Tigre
+
+North T-shaped; the tutor goes west, the pupil goes east
+Cruce Norte en forma de T; el mentor va hacia el oeste, el pupilo hacia el este
+
+Bandit Village on the Peak
+Aldea de bandidos en el pico
+
+Loyalty Hall
+Salón de Lealtad
+
+backyard
+patio trasero
+
+gazebo
+quiosco
+
+tunnel
+túnel
+
+end of the tunnel
+final del túnel
+
+West T-shaped
+Cruce Oeste en forma de T
+
+South T-shaped
+Cruce Sur en forma de T
+
+South T-shaped; the tutor goes west, the pupil goes east
+Cruce Sur en forma de T; el tutor va hacia el oeste, el pupilo hacia el este
+
+palace
+palacio
+
+Stone Gate
+Puerta de piedra
+
+Cat king's Castle
+Castillo del Rey Gato
+
+bedroom
+recámara
+
+enclosure
+recinto
+
+Fire Pit Upon The Deep
+Pozo de fuego hacia lo profundo
+
+bridgehead
+cabeza de puente
+
+bridge fence
+valla de puente
+
+Brave Bridge
+Puente de la Valentía
+
+North T-shaped; pupil continue to go east to get the key
+Cruce Norte en forma de T; el pupilo continúa hacia el este para conseguir la llave
+
+mouth of Valley
+boca del valle
+
+orchard
+huerta
+
+incubator
+incubadora
+
+Wisdom Bridge
+Puente de la Sabiduría
+
+Wisdom River
+Río de la Sabiduría
+
+stone wall
+muro de piedra
+
+Precipice
+Precipicio
+
+mountain gate
+Puerta de la montaña
+
+training ground
+campo de entrenamiento
+
+lounge
+salón
+
+Lookout
+Mirador
+
+offstage
+entre vastidores
+
+White Sand square
+Plaza de arena blanca
+
+north of the city
+norte de la ciudad
+
+south of the city
+sur de la ciudad
+
+west of the city
+oeste de la ciudad
+
+Path outside the city
+Sendero al exterior de la ciudad
+
+Gravel road
+Camino de grava
+
+west entrance of the village
+entrada oeste de la aldea
+
+house
+casa
+
+Tari Village
+Aldea Tari
+
+ridge
+cresta
+
+main road
+camino principal
+
+road outside the Camp
+camino al exterior del campamento
+
+north door of the Camp
+puerta norte del campamento
+
+east door of the Camp
+puerta este del campamento
+
+traveller camp
+campamento errante
+
+road in the camp
+camino en el campamento
+
+Camp Center
+Centro del Campamento
+
+grass
+hierba
+
+dirt road
+camino de tierra
+
+paddy field
+arrozal
+
+ancient mountain
+montaña antigua
+
+mountain pass
+paso de la montaña
+
+diversion channels
+canal de desviación
+
+bank of the channels
+banco del canal
+
+master's Guild
+gremio de maestros
+
+east entrance of the village
+entrada este de la aldea
+
+Howling Mountain
+Montaña Aulladora
+
+Gale  Mountain
+Montaña del Vendabal
+
+forest
+bosque
+
+forest path
+sendero del bosque
+
+forest wetland
+humedal forestal
+
+Mountain road
+Camino de la Montaña
+
+slate
+pizarra
+
+canal
+canal
+
+estuary
+desembocadura
+
+river course
+curso del río
+
+beach
+playa
+
+uphill
+cuesta arriba
+
+Snow beside the cave
+Nieve al lado de la cueva
+
+stagnant water
+agua estancada
+
+crushed ice
+Hielo picado
+
+End of passage
+Final del pasadizo
+
+doorway of secret room
+puerta de la habitación secreta
+
+Secret passages
+Pasadizos secretos
+
+secret room
+habitación secreta
+
+doorway of secret room
+puerta de la habitación secreta
+
+base
+base
+
+Insulated corridor
+Corredor aislado
+
+warning corridor
+corredor vigilado
+
+outer corridor
+corredor del exterior
+
+top
+superior
+
+bottom
+inferior
+
+porch
+porche
+
+live wire channel
+canal de cable activo
+
+neutral wire channel
+canal de cable neutro
+
+sideway
+camino lateral
+
+square
+plaza
+
+explosive barracks
+barracón explosivo
+
+West Control Room
+Sala de control oeste
+
+East Control Room
+Sala de control este
+
+Lead Wire Channel
+Canal de cable conductor
+
+air duct
+ducto de aire
+
+Secret passage
+Pasadizo secreto
+
+iron gate
+reja de hierro
+
+cellar
+bodega
+
+vegetable cellar
+bodega de verduras
+
+wine cellar
+bodega de vinos
+
+end of aisle
+final del pasillo
+
+Bandit Camp
+Campamento de bandidos
+
+Bandit Camp
+Campamento de bandidos
+
+snowfield
+campo de nieve
+
+battery
+batería
+
+flagpole
+asta de bandera
+
+colorful river
+río colorido
+
+graceful mountain
+montaña elegante
+
+iris
+iris
+
+water pine forest
+bosque de pinitos de agua
+
+water pine
+pinito de agua
+
+reeds
+cañas
+
+pond
+estanque
+
+quagmire
+ciénaga
+
+slab bridge
+puente de losas
+
+tulip square
+plaza de tulipanes
+
+parliament hall
+salón del parlamento
+
+tulip
+tulipán
+
+backstreet
+callejuela
+
+capsule toy house
+casa de juego
+
+lucky house
+casa de la fortuna
+
+union bank
+banco del sindicato
+
+training ground
+campo de entrenamiento
+
+wooden ladder
+escalera de madera
+
+tree house
+casa del árbol
+
+training room
+sala de entrenamiento
+
+boulevard
+camino
+
+South Gate of the Training Room
+Reja sur de la sala de entrenamiento
+
+wooden door
+puerta de madera
+
+grassland
+pradera
+
+official road
+camino oficial
+
+Moon Square
+Plaza de la Luna
+
+moonlight Pool
+pozo de agua a la luz de la luna
+
+wood fence
+valla de madera
+
+south gate of plantation
+reja sur de la plantación
+
+plantation
+plantación
+
+Flagstone Road
+Camino de losas
+
+plantation center
+centro de la plantación
+
+north gate of plantation
+reja norte de la plantación
+
+pond
+estanque
+
+pasture
+pasto
+
+tent
+tienda de campaña
+
+rolling mountain
+montaña rodante
+
+east gate of plantation
+reja este de la plantación
+
+west gate of plantation
+reja oeste de la plantación
+
+city hall
+municipalidad
+
+sacrifice house
+casa de sacrificios
+
+ranch doorway 
+puerta del rancho
+
+stone bench
+banca de piedra
+
+steep slope
+pendiente pronunciada
+
+stone chamber
+cámara de piedra
+
+soil slope
+pendiente de suelo
+
+steep wall
+pared empinada
+
+green grass
+césped
+
+bullpen
+corral de toros
+
+stable
+establo
+
+sheep pen
+corral de ovejas
+
+Artemisia bushe
+Artemisa seca
+
+orange blossom bush
+arbusto de azahar
+
+in the courtyard
+en el patio
+
+doorway of tent
+puerta de la tienda de campaña
+
+tent
+tienda de campaña
+
+Yurt
+Yurta
+
+stone house
+casa de piedra
+
+emperor square
+plaza del emperador
+
+platform
+plataforma
+
+stone steps
+escalones de piedra
+
+The Holy See of Sarantu
+Santa Sede de Sarantu
+
+Antechamber of the Holy See
+Antecámara de la Santa Sede
+
+upper floor of the Holy See
+Planta superior de la Santa Sede
+
+cloister
+claustro
+
+Stair handrail
+Pasamanos
+
+foot of the mountain
+pie de la montaña
+
+empire bank
+banco del imperio
+
+employment union
+sindicato de empleados
+
+skull mountain
+montaña de la calavera
+
+religious academy
+academia religiosa
+
+Secret training room
+Sala secreta de entrenamiento
+
+Silver gate
+Reja de plata
+
+darkroom
+habitación oscura
+
+Proving Ground
+Campo de pruebas
+
+hillside
+ladera
+
+fruit tree
+árbol frutal
+
+hill
+colina
+
+riverside
+orilla del río
+
+river surface
+superficie del río
+
+doorway of the outpost
+puerta del puesto de avanzada
+
+east street of the city
+calle este de la ciudad
+
+Gouging knife square
+Plaza del Cuchillo desenterrado
+
+city doorway
+puerta de la ciudad
+
+Not yet open
+Todavía sin abrir
+
+Magnet Hill
+Colina Magnet
+
+Inquisition
+Inquisición
+
+barrier
+barrera
+
+cell
+celda
+
+prison door
+puerta de la prisión
+
+warehouse
+almacén
+
+workshop
+taller
+
+Defensive line
+Línea defensiva
+
+clay block
+bloque de arcilla
+
+secluded mountain
+montaña aislada
+
+gravel pile
+montón de grava
+
+north mouth of Valley
+boca norte del valle
+
+north entrance of the village
+entrada norte de la aldea
+
+south entrance of the village
+entrada sur de la aldea
+
+south mouth of Valley
+boca sur del valle
+
+east of village
+este de la aldea
+
+north of village
+Norte de la aldea
+
+west of village
+Oeste de la aldea
+
+south of village
+Sur de la aldea
+
+field road
+Camino del campo
+
+Southern Flowering Shrub
+sur de los arbustos floridos
+
+western Flowering Shrub
+oeste de los arbustos floridos
+
+northern Flowering Shrub
+norte de los arbustos floridos
+
+outside the city
+al exterior de la ciudad
+
+Violet Square
+Plaza Violeta
+
+quiet river
+río pacífico
+
+quiet  Lake
+lago pacífico
+
+lakeside
+junto al lago
+
+hall
+salón
+
+riverbed
+cauce
+
+wilderness
+tierra salvaje
+
+weeds
+malezas
+
+dead leaves
+hojas muertas
+
+fallen leaves path
+sendero de hojas caídas
+
+dead tree
+árbol muerto
+
+strange rock
+roca extraña
+
+dark night square
+plaza de la noche oscura
+
+dark temple
+templo oscuro
+
+lobby
+vestíbulo
+
+main temple
+templo principal
+
+idol
+ídolo
+
+magic circle
+círculo mágico
+
+eye of magic circle
+ojo del círculo mágico
+
+Scorched earth
+Tierra quemada
+
+church
+iglesia
+
+prayer room
+sala de oración
+
+confession room
+confesionario
+
+South Gate of the Confession Room
+Puerta sur del confesionario
+
+back door of the church
+puerta trasera de la iglesia
+
+Research room
+Sala de análisis
+
+South Gate of the Research room
+Puerta sur de la sala de análisis
+
+side of the rushing river
+orilla del río bravo
+
+side of the colorful river
+orilla del río colorido
+
+golden river
+río dorado
+
+side of the golden river
+orilla del río dorado
+
+north lake
+lago norte
+
+middle lake
+lago central
+
+South Lake
+Lago sur
+
+reservoir
+reservorio
+
+side of the north lake
+orilla del lago norte
+
+side of the south lake
+orilla del lago sur
+
+waterfall
+cascada
+
+Hive nest
+Colmena
+
+Northwest corner
+Esquina noroeste
+
+northeast corner
+esquina noreste
+
+southeast corner
+esquina sureste
+
+southwest corner
+esquina suroeste
+
+west exit
+salida oeste
+
+East Exit
+Salida este
+
+North Exit
+Salida norte
+
+South Exit
+Salida sur
+
+mountain stream
+arroyo de la montaña
+
+abyss
+abismo
+
+South T-shaped; creek
+Cruce sur en forma de T; cala
+
+creek
+Cala
+
+pool
+pozo de agua
+
+fissure
+fisura
+
+Tranquil River
+Río manso
+
+Three River Mouth
+Boca de tres ríos
+
+Imbrication River
+Río Imbricación
+
+peace and tranquility under heaven
+paz y tranquilidad bajo el cielo
+
+crossing of waterway
+cruce de vías fluviales
+
+west waterway
+Vía fluvial oeste
+
+East Waterway
+Vía fluvial este
+
+West Sea
+Mar oriental
+
+Middle Sea
+Mar central
+
+East Sea
+Mar occidental
+
+estuary
+desembocadura
+
+goon mountain
+Montaña Goon
+
+sea dam
+represa
+
+side of Tranquil River
+orilla del río manso
+
+side of Imbrication River
+orilla del río Imbricación
+
+ancestral temple
+Templo ancestral
+
+backyard of the ancestral temple
+Patio trasero del templo ancestral
+
+doorway
+Puerta
+
+firewood room
+Almacén de leña
+
+Sundries room
+Almacén de artículos diversos
+
+coffin
+ataúd
+
+plank road
+camino de tablones
+
+West Cave
+Cueva oeste
+
+East Cave
+Cueva este
+
+mountain spring
+Manantial de la montaña
+
+Platform mouth
+Boca de la plataforma
+
+swirl
+remolino
+
+west yard
+patio oeste
+
+east yard
+patio este
+
+concierge
+conserjería
+
+South Corridor
+Corredor sur
+
+front hall
+salón frontal
+
+West Corridor
+Corredor oeste
+
+East Corridor
+Corredor este
+
+main hall
+salón principal
+
+East bedroom
+Recámara este
+
+West bedroom
+Recámara oeste
+
+windowsill
+vista de la colina
+
+crossroad
+cruce de caminos
+
+secret door
+puerta secreta
+
+stone road
+camino de piedra
+
+grotto
+gruta
+
+edge of the abyss
+al borde del abismo
+
+abyss
+abismo
+
+Stone Hall
+Salón de piedra
+
+hall door
+puerta del salón
+
+grottoe
+gruta
+
+shoal
+cardúmen
+
+Turbulence
+Turbulencia
+
+South Exit 1
+Salida sur 1
+
+South Exit 2
+Salida sur 2
+
+South Exit 3
+Salida sur 3
+
+South Exit 4
+Salida sur 4
+
+North Exit 4
+Salida norte 4
+
+north exit 3
+Salida norte 3
+
+North Exit 2
+Salida norte 2
+
+North Exit 1
+Salida norte 1
+
+West Exit 1
+Salida oeste 1
+
+West Exit 2
+Salida oeste 2
+
+desert island
+isla desértica
+
+gravel road
+camino de grava
+
+sparrow mountain
+montaña del gorrión
+
+Bo Sea
+Mar agradable
+
+South Sea
+Mar del sur
+
+temple
+templo
+
+shattered pedestal
+pedestal destrozado
+
+collapsed statue
+estatua derrumbada
+
+cargo ship
+barco de carga
+
+reef
+arrecife
+
+workshop
+taller
+
+guillotine
+guillotina
+
+courtyard
+patio
+
+Tusk stone
+colmillo de piedra
+
+Pig nose slope
+pendiente de nariz de cerdo
+
+Stone slope
+Pendiente de piedra
+
+bunker
+búnker
+
+sea surface
+superficie del mar
+
+Langley Dam
+dique radiado
+
+Pillar
+Pilar
+
+mast
+mástil
+
+battleship
+acorazado
+
+bulkhead
+mamparo
+
+barrel
+barril
+
+crumbs
+fragmentos
+
+cabin
+cabaña
+
+ladder
+escalera
+
+storage cabinet
+gabinete de almacenamiento
+
+Showroom
+Sala de espectáculos
+
+safe
+seguridad
+
+Beast Mountain
+Montaña bestial
+
+gravel
+grava
+
+pit
+Pozo
+
+treetop
+cima de árbol
+
+wilderness
+tierra salvaje
+
+command room
+sala de mando
+
+Camp Gate
+Reja del campamento
+
+forest path
+sendero del bosque
+
+jungle
+jungla
+
+old tree
+árbol viejo
+
+flower bush
+arbusto florido
+
+flower path
+sendero de flores
+
+crisp woods
+madera crugiente
+
+sea of flowers
+mar de flores
+
+jade river
+río de jade
+
+Export
+Exportación
+
+Secret practice room
+Sala secreta de prácticas
+
+bubble barrier
+barrera de burbujas
+
+green area
+área verde
+
+blue area
+área azul
+
+purple area
+área púrpura
+
+yellow area
+área amarilla
+
+Central region
+Región Central
+
+cyan area
+área cian
+
+black area
+área negra
+
+red area
+área roja
+
+white area
+área blanca
+
+ice wall
+muro de hielo
+
+ice gate
+Puerta de hielo
+
+fence wall
+pared de la valla
+
+village
+aldea
+
+trail
+camino
+
+ox demon cave
+cueva del demonio del buey
+
+inner room
+interior de la sala
+
+wok
+wok
+
+Artemisia annua
+Artemisa de temporada
+
+Center of the Forest
+Centro del bosque
+
+temple gate
+Puerta del templo
+
+ridge
+cresta
+
+root
+raíz
+
+trunk
+tronco
+
+tree hole
+Hoyo del árbol
+
+inner road
+camino interior
+
+Center of the Tree Hole
+centro del agujero del árbol
+
+dead wood
+madera seca
+
+Zagrama Mountain
+Montaña Zagrama
+
+neck
+cuello
+
+Fingerboard
+Diapasón
+
+nut
+castaña
+
+frets
+trastos
+
+Sound board
+Tablero resonante
+
+fortress
+fuerte
+
+control room
+sala de control
+
+armory
+armería
+
+Wall barricade
+barricada
+
+front gate
+Puerta frontal
+
+southeast exit
+salida sureste
+
+Southwest Exit
+Salida suroeste
+
+Northwest Exit
+Salida noroeste
+
+Northeast Exit
+Salida noreste
+
+mountain peak
+pico de montaña
+
+ramp
+rampa
+
+Escarpment
+Escarpa
+
+peak
+pico
+
+jungle
+jungla
+
+big tree
+árbol grande
+
+Platoon room
+Sala del pelotón
+
+corridor
+corredor
+
+compound
+compuesto
+
+blockhouse
+casa de block
+
+broken box
+caja rota
+
+broken door
+puerta rota
+
+small door
+puerta pequeña
+
+Side door
+Puerta lateral
+
+inner hall
+salón interior
+
+Outer hall
+Salón exterior
+
+Reception
+Recepción
+
+Room 101
+Sala 101
+
+Room 102
+Sala 102
+
+Room 103
+Sala 103
+
+Room 104
+Sala 104
+
+Room 105
+Sala 105
+
+Room 106
+Sala 106
+
+Room 107
+Sala 107
+
+Room 108
+Sala 108
+
+stair case
+pie de la escalera
+
+Room 201
+Sala 201
+
+Room 202
+Sala 202
+
+Room 203
+Sala 203
+
+Room 204
+Sala 204
+
+Room 205
+Sala 205
+
+Room 206
+Sala 206
+
+Room 207
+Sala 207
+
+Room 208
+Sala 208
+
+Room 301
+Sala 301
+
+Room 302
+Sala 302
+
+Room 303
+Sala 303
+
+Room 304
+Sala 304
+
+Room 305
+Sala 305
+
+Room 306
+Sala 306
+
+Room 307
+Sala 307
+
+Room 308
+Sala 308
+
+Room 401
+Sala 401
+
+Room 402
+Sala 402
+
+Room 403
+Sala 403
+
+Room 404
+Sala 404
+
+Room 405
+Sala 405
+
+Room 406
+Sala 406
+
+Room 407
+Sala 407
+
+Room 408
+Sala 408
+
+Room 501
+Sala 501
+
+Room 502
+Sala 502
+
+Room 503
+Sala 503
+
+Room 504
+Sala 504
+
+Room 505
+Sala 505
+
+Room 506
+Sala 506
+
+Room 507
+Sala 507
+
+Room 508
+Sala 508
+
+rooftop
+techo
+
+Broken wooden case
+Caja de madera rota
+
+Haystack
+montón de heno
+
+South mining area
+Área sur de minado
+
+West mining area
+Área oeste de minado
+
+Central mining area
+Área central de minado
+
+East mining area
+Área este de minado
+
+vein
+vena
+
+mine
+mina
+
+mine heart
+corazón de la mina
+
+mine road
+camino de la mina
+
+Vein turn
+giro de la veta
+
+rock
+roca
+
+mine Well
+pozo de la mina
+
+Cross Well
+Cruce de la mina
+
+West T-Well
+Pozo en T oeste
+
+Lifts
+Ascensores
+
+Wraith Portal
+Portal espectral
+
+Wraith Cave
+cueva espectral
+
+Nether Portal
+Portal abisal
+
+Nether Cave
+Cueva abisal
+
+Demon  Portal
+Portal demoníaco
+
+boarding  Gate 1
+reja de abordaje 1
+
+North T-Well
+Pozo en T norte
+
+boarding  Gate 2
+reja de abordaje 2
+
+boarding  Gate 3
+reja de abordaje 3
+
+black gate
+Puerta negra
+
+space
+espacio
+
+Guard room
+sala de guardia
+
+indoor
+interior
+
+Black Gate Road
+Camino de la Puerta negra
+
+tower
+torre
+
+west ground
+campo oeste
+
+east ground
+campo este
+
+West of the Detention Area
+oeste del área de detención
+
+West of the Severe punishment area
+oeste del área de castigos severos
+
+Cell 1
+Celda 1
+
+Cell 2
+Celda 2
+
+Cell 3
+Celda 3
+
+Cell 4
+Celda 4
+
+Warden's Office
+Oficina de los guardias
+
+East of the Detention Area
+este del área de detención
+
+East of the Severe punishment area
+este del área de castigos severos
+
+Front prison door
+Puerta frontal de la prisión
+
+back prison door
+puerta trasera de la prisión
+
+prison gate
+reja de la prisión
+
+Tomb passage
+Pasaje de tumbas
+
+main burial chamber
+cámara funeraria principal
+
+ear chamber
+cámara del oído
+
+Stone Hall Center
+centro del salón de piedra
+
+sarcophagus
+sarcófago
+
+freight corridor
+corredor de carga
+
+Energy room
+Sala de energía
+
+Radiant corridor
+Corredor radiante
+
+Radiant Wall
+Pared radiante
+
+energy room
+sala de energía
+
+storage room
+almacén
+
+black sand
+arena negra
+
+grottoe
+gruta
+
+fault zone
+zona de falla
+
+black cemetery
+cementerio negro
+
+sedimentary rock
+roca sedimentaria
+
+deep pit
+agujero profundo
+
+inclined pit
+agujero inclinado
+
+crack
+fisura
+
+Bevel
+Bisel
+
+pit edge
+filo del pozo
+
+lower steps
+escalones bajos
+
+Abyssal cliffs
+Acantilados abisales
+
+cemetery
+cementerio
+
+burial chamber
+cámara funeraria
+
+Cross lawn
+Cruz de césped
+
+Tower of Babel
+Torre de Babel
+
+Magic gate
+Puerta mágica
+
+Tower base
+Base de la torre
+
+Northwest of the city
+Noroeste de la ciudad
+
+Southwest of the city
+Suroeste de la ciudad
+
+southeast of the city
+sureste de la ciudad
+
+Northeast of the city
+Noreste de la ciudad
+
+upper layer
+planta superior
+
+lower layer
+planta inferior
+
+fracture layer
+capa fracturada
+
+Plague Abyss
+Abismo de la plaga
+
+quagmire
+ciénaga
+
+Guardian Temple
+Guardián del templo
+
+North Corridor
+Corredor norte
+
+Ring corridor
+Corredor resonante
+
+West Guard Hall
+salón de la guardia oeste
+
+East Guard Hall
+Salón de la guardia este
+
+explosive path
+sendero explosivo
+
+stone fort
+fuerte de piedra
+
+inner fort
+interior del fuerte
+
+outer fort
+fuerte exterior
+
+explosive track
+pista explosiva
+
+sinkhole
+sumidero
+
+underground palace
+palacio subterráneo
+
+throne
+trono
+
+burial pit
+fosa funeraria
+
+mountainside
+orilla de la montaña
+
+stone beam edge
+borde de viga de piedras
+
+Ghost Cave
+Cueva fantasmal
+
+earth pit
+agujero de tierra
+
+Mine cave
+Cueva de la mina
+
+position
+posición
+
+guard room
+habitación del guardia
+
+South battery Entrance
+entrada de la planta de energía sur
+
+South battery
+Planta de energía sur
+
+Entrance to the Central Battery
+Entrada a la planta de energía central
+
+Middle battery
+Planta de energía central
+
+aisle
+pasillo
+
+North battery entrance
+Entrada a la planta de energía norte
+
+North battery
+Planta de energía norte
+
+warehouse
+almacén
+
+conveyor belt
+cinta transportadora
+
+ammo compartment
+compartimiento de munición
+
+base
+base
+
+corridor
+corredor
+
+side road
+camino lateral
+
+main road
+camino principal
+
+Stealth artillery area
+Área de la artillería sigilosa
+
+sedimentary rock
+roca sedimentaria
+
+Conductive plate
+Placa conductora
+
+cab
+tapa
+
+hatch
+escotilla
+
+High wall
+Pared alta
+
+jail
+cárcel
+
+Shock Room 13
+Sala de choque 13
+
+electric chair
+silla eléctrica
+
+South Watchtower
+Torre de vigilancia sur
+
+North Watchtower
+Torre de vigilancia norte
+
+demon cave
+Cueva demoníaca
+
+hotel
+hotel
+
+shop
+tienda
+
+School
+Escuela
+
+Hospital
+Hospital
+
+hotel lobby
+vestíbulo del hotel
+
+school hall
+vestíbulo de la escuela
+
+classroom
+salón
+
+office
+oficina
+
+Ward
+Pabellón
+
+altar
+altar
+
+burn platform
+plataforma incendiada
+
+stake
+poste
+
+waterway
+camino acuático
+
+central waterhole
+agujero de agua central
+
+whirlpool center
+Centro del remolino de arena
+
+magma pool
+pozo de magma
+
+rock wall
+muro de roca
+
+pub
+pub
+
+wine barrel
+barril de vino
+
+stove
+estufa
+
+tower wall
+pared de la torre
+
+Tiankeng
+Gran sumidero
+
+pedestal
+pedestal
+
+broken wall
+pared quebrada
+
+statue
+estatua
+
+giant gate
+Puerta gigante
+
+spa
+spa
+
+blackstone
+piedra negra
+
+pit
+agujero
+
+stone
+piedra
+
+Dragon Barrier
+Barrera de dragón
+
+dragon scale tree
+árbol de escamas de dragón
+
+dragon Village
+aldea dragón
+
+Iron Stone Mountain
+montaña de la piedra de hierro
+
+wild cave
+cueva salvaje
+
+brick wall
+pared de ladrillo
+
+collapse channel
+canal derrumbado
+
+Dragon's Nest
+Nido de dragón
+
+Dragon Mire
+fango de dragón
+
+jungle road
+camino de la jungla
+
+glade
+claro
+
+south entrance of the village
+entrada sur de la aldea
+
+entrance of the Open space
+entrada del espacio abierto
+
+collapsed brick wall
+pared de ladrillo derrumbada
+
+pass of the iron stone mountain
+paso de la montaña de hierro
+
+Northwest Cave
+Cueva noroeste
+
+Northeast Cave
+Cueva noreste
+
+Southeast Cave
+Cueva sureste
+
+Southwest Cave
+Cueva suroeste
+
+central cave
+Cueva central
+
+Road in the cave
+Camino en la cueva
+
+mysterious space
+Espacio misterioso
+
+Desolate Dragon's Nest
+Nido del dragón desolado
+
+Right channel
+canal derecho
+
+center channel
+Canal central
+
+Left channel
+Canal izquierdo
+
+doorway of the Garden
+puerta del jardín
+
+doorway of the Library
+Puerta de la biblioteca
+
+Dirt road
+camino de tierra
+
+garden path
+Sendero del jardín
+
+doorway of the courtyard, southwest turn
+Giro al oeste de la puerta del patio
+
+Entrance of jewelry exhibition room
+Entrada de la sala de joyas en exhibición
+
+wet soil
+Tierra mojada
+
+pondside
+Orilla del estanque
+
+pond wall
+Pared del estanque
+
+pond gap
+Brecha del estanque
+
+altar side
+Orilla del altar
+
+Ruined soil
+Suelo destruido
+
+gazebo steps
+Escaleras al quiosco
+
+pavilion column
+Columna del pavellón
+
+Rockery fissure
+fisura rocosa
+
+Rockery
+cúmulo de rocas
+
+Inside Rockery
+dentro del cúmulo de rocas
+
+doorway of the courtyard
+Puerta del patio
+
+kennel fence
+Valla de la perrera
+
+kennel
+perrera
+
+courtyard center
+centro del patio
+
+stone table
+Plataforma de piedra
+
+central aisle
+Pasillo central
+
+aisle; Southwest Color
+pasillo. color del suroeste
+
+Jewelry Showroom
+sala de joyas en exhibición
+
+showcase
+escaparate
+
+gallery
+galería
+
+Passage West Fork Road
+pasadizo del camino bifurcado
+
+Passage southeast turn
+giro al sureste del pasadizo
+
+red carpet
+alfombra roja
+
+library
+biblioteca
+
+bookshelf
+estante de libros
+
+library secret room
+sala secreta de la biblioteca
+
+deep in the secret room
+Profundidades de la havitación secreta
+
+doorway of the Arsenal
+puerta del arsenal
+
+doorway of the warehouse
+puerta del almacén
+
+Warehouse entrance, southwest turn
+jiro suroeste de la entrada del almacén
+
+dark passage
+pasadizo oscuro
+
+basement
+sótano
+
+underground chamber
+cámara subterránea
+
+Armory
+arsenal
+
+Armor library
+libros de armaduras
+
+Church entrance
+Entrada de la Iglesia
+
+Church entrance, southwest turn
+Giro al suroeste de la entrada de la Iglesia
+
+pool entrance
+entrada del pozo de agua
+
+Pool entrance, Three fork road
+entrada al pozo de agua, camino con 3 bifurcaciones
+
+pool
+pozo de agua
+
+waterway
+camino de agua
+
+Pool core, Three fork road
+Corazón del pozo de agua, camino con 3 bifurcaciones
+
+upper waterway
+camino de agua superior
+
+silt
+lodo
+
+square entrance, east-west passage
+entrada de la plaza, pasadizo este a oeste
+
+front platform
+plataforma frontal
+
+front door of the church
+Puerta frontal de la Iglesia
+
+deep in the church
+Profundidades de la iglesia
+
+Crystal Throne
+Trono de cristal
+
+Land of redemption
+Tierra de la expiación
+
+East Fork Road
+Este del camino bifurcado
+
+Fork road
+Camino bifurcado
+
+West Fork Road
+Oeste del camino bifurcado
+
+Meditation room
+sala de meditación
+
+square Entrance
+Entrada de la plaza
+
+flower bed gap
+brecha en la cama de flores
+
+groove
+ranura
+
+gate of the Kennel Fence
+reja de la valla de la perrera
+
+gate of the Jewelry showroom
+puerta de la sala de joyas en exhibición
+
+library
+biblioteca
+
+arsenal
+arsenal
+
+church gate
+Puerta de la Iglesia
+
+library gate
+Puerta de la biblioteca
+
+Arsenal gate
+Puerta del arsenal
+
+Rolling Stone Storage
+almacén de piedras rodantes
+
+Rolling Stones Launch
+Lanzamiento de piedras rodantes
+
+doorway of the church
+Puerta de la Iglesia
+
+main entrance
+Entrada Principal
+
+open space behind camp
+espacio abierto detrás del campamento
+
+open space in front of camp
+espacio abierto frente al campamento
+
+path in front of camp
+sendero frente al campamento
+
+watchtower
+torre de vigilancia
+
+path in the Camp
+sendero en el campamento
+
+moat
+foso
+
+Mystery Room
+Sala misteriosa
+
+three fork road
+camino CON tres bifurcaciones
+
+living room
+SALA DE ESTAR
+
+canopy
+dosel
+
+southeast turn; stone steps
+Giro al sureste de Escalones de Piedra
+
+Northwest turn; stone steps
+Giro al noroeste de escalones de piedra
+
+Southwest turn; stone steps
+Giro al suroeste de escalones de piedra
+
+stone table
+Plataforma de piedra
+
+edge of stone table
+borde de la plataforma de piedra
+
+dungeon
+mazmorra
+
+back door of the cave
+puerta trasera de la cueva
+
+fault
+falla
+
+balcony
+balcón
+
+secret test room
+sala secreta de pruebas
+
+South Gate of the Secret Room
+Puerta sur de la sala secreta de pruebas
+
+snow mountain
+montaña de niebe
+
+Gorge passage
+pasadizo de la garganta
+
+Gorge
+garganta
+
+cave
+cueva
+
+glacier
+glaciar
+
+meditation room
+sala de meditación
+
+extinguished torch
+antorcha extinguida
+
+energy barrier
+barrera de energía
+
+null
+inválido
+
+avenue
+avenida
+
+green land
+tierra fértil
+
+seaside
+orilla del mar
+
+lava island
+isla de lava
+
+Magma
+Magma
+
+rock
+roca
+
+Martial Arts Hall
+salón de artes marciales
+
+martial arts field
+campo de artes marciales
+
+mud pond
+estanque lodoso
+
+Reeds
+cañas
+
+the sea
+el mar
+
+island
+isla
+
+North Road
+camino norte
+
+South Road
+camino sur
+
+East Street
+Calle del este
+
+West Street
+Calle del oeste
+
+desert
+desierto
+
+rock formation
+formación de rocas
+
+dune
+duna
+
+in the tower
+dentro de la torre
+
+wind magic circle
+círculo mágico de viento
+
+Earth Magic circle
+círculo mágico de tierra
+
+water magic circle
+círculo mágico de agua
+
+fire magic circle
+círculo mágico de fuego
+
+mountainside
+orilla de la montaña
+
+Ice layer
+capa de hielo
+
+snowdrift
+ventisquero
+
+inside the cave
+interior de la cueva
+
+Trench
+zanja
+
+Undersea Garden
+Jardín submarino
+
+sea flower bush
+arbusto de flores marinas
+
+seaweed
+algas marinas
+
+South Gate of the Dungeon
+Reja sur de la mazmorra
+
+lakeshore
+a orillas del lago
+
+West coast
+costa oeste
+
+east coast
+costa este
+
+red camp
+campamento rojo
+
+blue camp
+campamento azul
+
+center bridge
+puente central
+
+main road in front of camp
+camino principal frente al campamento
+
+center Island
+isla central
+
+bench
+banca
+
+small bridge
+puente pequeño
+
+north branch road
+Camino bifurcado norte
+
+playground
+campamento base
+
+south branch road
+Camino bifurcado sur
+
+gap
+brecha
+
+ramp entrance
+entrada de la rampa
+
+ruins
+ruinas
+
+Flying sand alley
+callejón de la arena boladora
+
+collapsed wall
+muro derrumbado
+
+north hillside
+norte de la orilla de la colina
+
+mountaintop
+cima de la montaña
+
+south hillside
+sur de la orilla de la colina
+
+east hillside
+este de la orilla de la colina
+
+west hillside
+oeste de la orilla de la colina
+
+north foothill
+al pie norte de la colina
+
+east foothill
+al pie este de la colina
+
+west foothill
+al pie oeste de la colina
+
+south foothill
+al pie sur de la colina
+
+roots
+raíces
+
+Cross Mountain
+cruce de montaña
+
+North Pit 1
+Foso norte 1
+
+North Pit 2
+Foso norte 2 
+
+North Pit 3
+Foso norte 3
+
+North Pit 4
+Foso norte 4
+
+middle platform 1
+plataforma media 1
+
+middle pit 2
+Foso medio 2
+
+middle pit 3
+Foso medio 3
+
+middle platform 4
+plataforma media 4
+
+South Pit 1
+Foso sur 1
+
+South Pit 2
+Foso sur 2
+
+South Pit 3
+Foso sur 3
+
+South Pit 4
+Foso sur 4
+
+corridor
+corredor
+
+terrace
+terraza
+
+ground
+suelo
+
+SouthWest of the Highland
+suroeste de las tierras altas
+
+SouthEast of the Highland
+sureste de las tierras altas
+
+ground fence
+valla de tierra
+
+canteen
+cantina
+
+bathroom
+baño
+
+Guardian room
+sala de guardia
+
+step bottom
+primer escalón
+
+middle path
+sendero intermedio
+
+Walking stage
+plataforma de andar
+
+front door of the ground
+puerta frontal del suelo
+
+back door of the ground
+puerta trasera del suelo
+
+safe door
+puerta de seguridad
+
+ice cave
+cueva de hielo
+
+hidden grid
+cuadrícula oculta
+
+Snow Cave
+cueva de nieve
+
+Ice Cave Center
+centro de la cueva de hielo
+
+orizontal Road 1
+camino horizontal 1
+
+orizontal Road 2
+camino horizontal 2
+
+orizontal Road 3
+camino horizontal 3
+
+orizontal Road 4
+camino horizontal 4
+
+Vertical Road No. 1
+camino vertical 1
+
+vertical road 2
+camino vertical 2
+
+vertical road 3
+camino vertical 3
+
+vertical road 4
+camino vertical 4
+
+end of orizontal road
+final del camino horizontal
+
+end of vertical road
+final del camino vertical
+
+ship's rail
+borda del barco
+
+deck
+cubierta
+
+stern
+popa
+
+bow
+Proa
+
+captain's room
+camarote del capitán
+
+cargo hold
+bodega de carga
+
+cargo box
+cajas para carga
+
+gangway
+pasarela
+
+Towering Mountain
+montaña imponente
+
+farm warehouse
+granero
+
+mountainside
+orilla de la montaña
+
+villa road
+camino de la villa
+
+back room
+sala trasera
+
+middle room
+sala central
+
+front room
+sala frontal
+
+grass
+césped
+
+gravel slope
+pendiente inclinada de grava
+
+willow
+sauce
+
+Heaven Pool
+pozo de agua celestial
+
+Villa gate
+Puerta de la villa
+
+inner wall
+pared interior
+
+transmission shaft
+eje de transmisión
+
+Turbine cabin
+cabina de turbina
+
+switch
+interruptor
+
+Power cabin
+cabaña de energía
+
+pothole
+bache
+
+kitchen
+cocina
+
+pharmacy room
+farmacia
+
+study
+estudio
+
+Breeding room
+sala de crianza
+
+Smelting room
+sala de fundido
+
+Washing and grinding room
+Sala de síntesis e incrustación de gemas
+
+Storage Room
+almacén
+
+exercise room
+sala de ejercicios
+
+main mansion
+mansión principal
+
+inner hall
+pasillo interior
+
+backyard west
+oeste del patio trasero
+
+backyard east
+este del patio trasero
+
+front yard west
+oeste del porche frontal
+
+front yard east
+este del porche frontal
+
+west grass
+oeste del césped
+
+east flower bush
+arbusto de flores este
+
+road in front of mansion
+camino frente a la mansión
+
+west side road
+camino del lado oeste
+
+east side road
+camino del lado este
+
+road behind mansion
+camino detrás de la mansión
+
+inner door
+puerta interior
+
+lake
+lago
+
+West Lake
+oeste del lago
+
+East Lake
+Lago oriental
+
+water platform
+plataforma acuática
+
+west platform
+oeste de la plataforma
+
+east platform
+este de la plataforma
+
+South Bridge
+puente sur
+
+North Bridge
+puente norte
+
+west side bridge
+puente del lado oeste
+
+east side bridge
+puente del lado este
+
+Southwest Platform
+suroeste de la plataforma
+
+Southeast Platform
+sureste de la plataforma
+
+East side platform
+lado este de la plataforma
+
+west side platform
+lado oeste de la plataforma
+
+Northwest Platform
+plataforma noroeste
+
+Northeast Platform
+plataforma noreste
+
+courtyard
+patio
+
+East side courtyard
+lado este del patio
+
+West side courtyard
+lado oeste del patio
+
+front avenue of the mansion
+avenida frontal de la mansión
+
+back avenue of the mansion
+avenida trasera de lamansión
+
+west side snowfield
+lado oeste del campo nevado
+
+east side snowfield
+lado este del campo nevado
+
+steel platform
+plataforma de acero
+
+fortress
+fuerte
+
+Steel Avenue
+avenida de acero
+
+west side passage
+lado oeste del pasadizo
+
+East side  Passage
+lado este del pasadizo
+
+northwest
+noroeste
+
+north
+norte
+
+northeast
+noreste
+
+West
+oeste
+
+East
+este
+
+southwest
+suroeste
+
+South
+sur
+
+southeast
+sureste
+
+Northwest of the pit
+noroeste del pozo
+
+North of the pit
+norte del pozo
+
+Northeast of the Pit
+noreste del pozo
+
+East of the pit
+este del pozo
+
+Center of the pit
+centro del pozo
+
+West of the pit
+oeste del pozo
+
+Southwest of the pit
+suroeste del pozo
+
+south of the pit
+sur del pozo
+
+southeast of the pit
+sureste del pozo
+
+stone maze
+laberinto de piedra
+
+center stone room
+sala central de piedra
+
+end of the maze
+final del laberinto
+
+Entrance
+entrada
+
+west mouth of Valley
+boca oeste del valle
+
+east mouth of Valley
+boca este del valle
+
+maze entrance
+entrada del laberinto
+
+Herb field
+campo de hierba
+
+curly tree
+árbol torcido
+
+Outer ring of tree hole
+anillo exterior del hoyo del árbol
+
+annual ring wall
+pared anillada
+
+Inner ring of tree hole
+anillo interior del hoyo del árbol
+
+tree heart
+corazón del árbol
+
+turn southeast
+giro al sureste
+
+turn northwest
+giro al noroeste
+
+turn southwest
+giro al suroeste
+
+turn northeast
+giro al noreste
+
+turn east
+giro al este
+
+turn south
+giro al sur
+
+turn north
+giro al norte
+
+turn west
+giro al oeste
+
+water lily
+lirio de agua
+
+North Shore
+costa del norte
+
+South Shore
+costa del sur
+
+northern waters
+aguas del norte
+
+Northeast waters
+aguas del noreste
+
+Eastern Waters
+aguas del este
+
+Southeast waters
+aguas del sureste
+
+southern waters
+aguas del sur
+
+Southwest waters
+aguas del suroeste
+
+western waters
+aguas del oeste
+
+Northwest Waters
+aguas del noroeste
+
+central waters
+aguas centrales
+
+west river estuary
+desembocadura oeste del río
+
+west river
+oeste del río
+
+East River Estuary
+desembocadura este del río
+
+east river
+este del río
+
+giant snail reef
+arrecife gigante de caracoles
+
+snail heart
+corazón del caracol
+
+hall
+salón
+
+Red carpet
+alfombra roja
+
+stage
+escenario
+
+pink petals
+pétalos de rosa
+
+curtain wall
+telón
+
+river
+río
+
+love Bridge
+puente del amor
+
+pontoon
+gabarra
+
+floating platform
+plataforma flotante
+
+storehouse
+almacén
+
+stone lion
+león de piedra
+
+North Street
+calle norte
+
+South Street
+calle sur
+
+wish alley
+callejón de los deseos
+
+peace alley
+callejón de la paz
+
+Outer teleportation room
+exterior de la sala de teletransportación
+
+episcopal room
+sala episcopal
+
+Inner teleportation room
+interior de la sala de teletransportación
+
+dais
+estrado
+
+baptismal room
+sala bautismal
+
+fjord river
+fiordo del río
+
+upper river
+río alto
+
+lower river
+río bajo
+
+Iron railing
+barandal de hierro
+
+central camp
+campamento central
+
+west camp
+campamento oeste
+
+east camp
+campamento este
+
+south camp
+campamento sur
+
+demonization Cabin
+cabaña de exorcismos
+
+north camp
+campamento norte
+
+starting point
+punto de partida
+
+end
+final
+
+artillery array
+conjunto de artillería
+
+piano
+piano
+
+Do
+Do
+
+Re
+Re
+
+Mi
+Mi
+
+Fa
+Fa
+
+Sol
+Sol
+
+floor 5
+piso 5
+
+floor 4
+piso 4
+
+floor 3
+piso 3
+
+floor 2
+piso 2
+
+floor 1
+piso 1
+
+up the ladder
+arriba de la escalera
+
+down the ladder
+abajo de la escalera
+
+sea ​​floor
+en lo profundo del mar
+
+beach
+playa
+
+Sea
+mar
+
+Evil Temple
+templo maldito
+
+blood pool
+charco de sangre
+
+front road of the Village
+camino frontal de la aldea
+
+Grocery store
+tienda general
+
+paddy
+arrozal
+
+wheat field
+campo de trigo
+
+Orchard
+huerta
+
+Sapphire River
+río de zafiro
+
+Hearth
+hogar
+
+laundry tub
+aspersor
+
+fish tank
+pecera
+
+oven
+horno
+
+fish basket
+cesta de peces
+
+table
+mesa
+
+clothesline
+tendedero
+
+central platform
+plataforma central
+
+north platform
+plataforma norte
+
+East Platform
+plataforma este
+
+South platform
+plataforma sur
+
+West Platform
+plataforma oeste
+
+edge of the platform
+borde de la plataforma
+
+black purgatory
+purgatorio negro
+
+magma hell
+infierno de magma
+
+Abyss Demon realm
+reino demoníaco abismal
+
+magnolia tree
+árbol de magnolia
+
+Garden under the Moon
+jardín bajo la luna
+
+galaxy
+vía fluvial
+
+Magpie Bridge
+puente de la urraca
+
+cattles Mountain
+montaña de ganado
+
+house
+casa
+
+West Wing
+ala oeste
+
+main room
+habitación principal
+
+East wing
+ala este
+
+Downside Room
+habitación inferior
+
+doorway
+puerta
+
+Lancang River
+Río Lancang
+
+tree stump
+tocón de árbol
+
+igloo
+iglú
+
+auditorium
+auditorio
+
+Dining room
+comedor
+
+dining table
+mesa del comedor
+
+Chair
+silla
+
+hill bag
+colina escarpada
+
+rock pile
+montón de rocas
+
+stalagmite
+estalagmita
+
+channel
+canal
+
+forest export
+exportación forestal
+
+ancient tree
+árbol ancestral
+
+tree heart entrance
+entrada del corazón del árbol
+
+grass
+césped
+
+wolf head mountain
+montaña cabeza de lobo
+
+swamp
+pantano
+
+puddle
+charco
+
+swamp tree
+árbol pantanoso
+
+sea river
+río marítimo
+
+east sea Bridge
+puente este del mar
+
+big quagmire
+gran ciénaga
+
+quagmire entrance
+entrada de la ciénaga
+
+mud slope
+pendiente lodosa
+
+port
+puerto
+
+West Port
+oeste del puerto
+
+east port
+este del puerto
+
+Dock Bridge
+puente del muelle
+
+coconut tree
+árbol de cocos
+
+Nepeta bush
+arbusto de nepeta
+
+bunker
+búnker
+
+Villa of the cat king
+Villa del rey gato
+
+villa gate
+reja de la villa
+
+staircase
+escalera
+
+side yard
+patio lateral
+
+side door
+puerta lateral
+
+Sand Holly
+protuberancia de arena
+
+Collapsed courtyard wall
+pared derrumbada del patio
+
+workshop
+taller
+
+collapsed gate
+reja derrumbada
+
+main hallway
+pasillo principal
+
+broken window
+ventana rota
+
+south side corridor
+corredor del lado sur
+
+North side Corridor
+corredor del lado norte
+
+dirt road in the courtyard
+camino de tierra en el patio
+
+production workshop
+taller de producción
+
+single conveyor belt
+cinta transportadora simple
+
+workshop channel
+taller de canal
+
+conveyor belt entrance
+entrada a la cinta transportadora
+
+conveyor belt exit
+salida de la cinta transportadora
+
+doorway of the control room
+entrada a la sala de control
+
+connecting corridor
+corredor de conexión
+
+Stone Hall in the center
+salón central de piedra
+
+stone steps of the secret path
+escalones de piedra del sendero secreto
+
+abrupt gravel
+graba abrupta
+
+stone ladder of the secret path
+escalera de piedra del sendero secreto
+
+stone ladder entrance
+entrada de la escalera de piedra
+
+Circling Stone Ladder
+escalera circular de piedra
+
+Tomb of the Pharaoh
+tumba del faraón
+
+hillside road
+camino de la colina
+
+crater
+cráter
+
+torch tree
+árbol de antorcha
+
+flame flower bush
+arbusto de flores en llamas
+
+hot spring pool
+pozo de aguas termales
+
+Flaming Mountain
+montaña llameante
+
+stone bridge
+puente de piedra
+
+lava lake
+lago de lava
+
+cabin
+cabaña
+
+artificial island
+isla artificial
+
+lighthouse
+faro
+
+doorway of the Captain's room
+entrada al camarote del capitán
+
+finger hill
+colina del dedo
+
+Basalt
+Basalto
+
+cave in the sea
+cueva marina
+
+Cave mouth
+boca de la cueva
+
+river
+río
+
+large eucalyptus
+gran eucalipto
+
+root of the large eucalyptus
+raíz del gran eucalipto
+
+tree hole tunnel
+hoyo del túnel del árbol
+
+tree hole mouth
+boca del hoyo del árbol
+
+Hovering Wooden Ladder
+escalera flotante de madera
+
+lacquer tree
+árbol de laca
+
+Parasitic vine
+Vid parasitaria
+
+parasitic root
+raíz parasitaria
+
+banyan trunk
+tronco de baniano
+
+banyan root
+raíz de baniano
+
+Poison Swamp
+pantano venenoso
+
+mud
+barro
+
+tree top
+copa del árbol
+
+tree branch
+rama del árbol
+
+turkey mountain
+montaña del pavo
+
+weathered rock
+roca erosionada
+
+halfway up the mountain
+a la mitad del camino de la montaña
+
+mountain fissure
+fisura en la montaña
+
+narrow road
+camino estrecho
+
+earth wall
+pared de tierra
+
+house
+casa
+
+collapsed earth wall
+pared de tierra colapsada
+
+collapsed wooden wall
+pared de madera colapsada
+
+dry well
+pozo seco
+
+back hallway
+pasillo trasero
+
+bed
+cama
+
+ancient clock
+reloj antiguo
+
+closet
+armario
+
+ocean
+océano
+
+Great Trench
+gran trinchera
+
+Crystal Palace
+palacio de cristal
+
+cobblestone path
+sendero pedregoso
+
+Coral island
+isla de coral
+
+back hall
+salón trasero
+
+central hall
+salón central
+
+side hall
+salón lateral
+
+Blood sucking tree
+árbol chupasangre
+
+broken sand
+arena quebradiza
+
+bloodstone
+piedra sangrienta
+
+weeds
+maleza
+
+Burial Ground
+cementerio
+
+grave bag
+sudario
+
+dead woods
+bosques muertos
+
+dead leaf forest
+bosque de hojas muertas
+
+gravel
+grava
+
+doorway of the blood red castle
+puerta del castillo rojo sangre
+
+blood red castle
+castillo rojo sangre
+
+main hall
+salón principal
+
+Gobi
+Gobi
+
+desert
+desierto
+
+oasis
+oasis
+
+Populus euphratica
+Populus euphratica
+
+desert export
+exportación desértica
+
+quicksand whirlpool
+remolino de arenas movedizas
+
+ice pine
+pino de hielo
+
+iceberg
+iceberg
+
+ice wall
+muro de hielo
+
+Ice Palace
+palacio de hielo
+
+side hall
+salón lateral
+
+mirrored hallway
+pasillo espejado
+
+ice brick steps
+escalones de ladrillos de hielo
+
+central cave
+cueva central
+
+center pit
+agujero central
+
+Entrance to the pool
+entrada al pozo de agua
+
+torch
+antorcha
+
+hallway
+pasillo
+
+central fortress
+fuerte central
+
+steps handrail
+pasamanos
+
+laboratory
+laboratorio
+
+energy storage room
+almacén de energía
+
+power room
+sala de poder
+
+energy delivery pipe
+tubería de reparto de energía
+
+Magic Research Laboratory
+laboratorio de análisis mágico
+
+Magic Item Storage Room
+Almacén de artículos mágicos
+
+Liaison Room
+Sala de cooperación
+
+monitoring room
+sala de monitoreo
+
+Robot warehouse
+Almacén de robots
+
+monster training room
+Sala de entrenamiento de monstruos
+
+showroom
+Sala de exposición
+
+guard house
+casa del guardia
+
+Machine production room
+Sala de máquinas de producción
+
+exhibition room
+sala de exhibición
+
+escalator
+escalador
+
+platform of the escalator
+plataforma del escalador
+
+escalator entrance
+entrada al escalador
+
+machine training ground
+campo de entrenamiento de máquinas
+
+Machine production room
+Sala de máquinas de producción
+
+energy reaction pit
+agujero de reacción energética
+
+energy delivery port
+puerto de reparto de energía
+
+energy delivery table
+mesa de reparto de energía
+
+petri dish
+placa pedregosa
+
+parts making machine
+máquina que fabrica piezas
+
+main control room
+sala de control principal
+
+Thunder Mountain
+Montaña del Trueno
+
+Monster Mountain
+Montaña del Monstruo
+
+Thunder Dragon Mountain
+Montaña del Dragón Trueno
+
+wilderness
+tierra salvaje
+
+Crescent Moon Spring
+Luna primaveral creciente
+
+attic
+ático
+
+dark shrine
+santuario oscuro
+
+ancient well
+pozo antiguo
+
+Pure Land Temple
+templo de la tierra pura
+
+Dead Water Temple
+Templo del Agua Muerta
+
+Dark Flame Temple
+Templo de la Llama Oscura
+
+Evil Wind Temple
+Templo del Viento Maldito
+
+stone pillar
+pilar de piedra
+
+bonfire
+hoguera
+
+black quagmire
+ciénaga negra
+
+turning place
+lugar giratorio
+
+sacrificial hall
+salón de sacrificio
+
+south gate of the cell
+reja sur de la celda
+
+barrack
+barracón
+
+Brute Valley Entrance
+Entrada al Valle Brutal
+
+Stone Ladder of the well
+Escalera de piedra del pozo
+
+ Granary doorway
+Puerta del granero
+
+northern town
+pueblo septentrional
+
+breezy Village
+Aldea ventosa
+
+Entrance to Takama Desert
+Entrada al Desierto Takama
+
+Entrance to Karst cave
+Entrada a la Cueva Kárstica
+
+Entrance to Fred  Forest
+Entrada al Bosque Fred
+
+main entrance of the shrine
+entrada principal al santuario
+
+south entrance  of the town
+entrada sur del pueblo
+
+north entrance  of the town
+entrada norte del pueblo
+
+main hall entrance
+entrada principal del salón
+
+Butterfly Valley
+Valle Mariposa
+
+entrance to beauty of river and mountain
+Entrada a la belleza del río y la montaña
+
+Entrance to Wolfe Prairie
+Entrada a la Pradera del Lobo
+
+underground entrance
+entrada subterránea
+
+Entrance to Abundant green hills
+Entrada a las Colinas Verdes Abundantes
+
+back to the ground
+de regreso al suelo
+
+Cable Car; to Lifting Platform No. 1
+Teleférico que asciende a la plataforma 1
+
+Cable car; to Tulip City
+Teleférico que va hacia la ciudad Tulipán
+
+Cable car; to holy blood city
+Teleférico que va hacia la Ciudad Sangre Santa
+
+spy base
+Base de espionaje
+
+doorway of room
+puerta de la sala
+
+Demon Banner
+estandarte demoníaco
+
+brave Valley
+Valle Valentía
+
+Wisdom Forest
+Bosque de la Sabiduría
+
+Wisdom Cabin; Wisdom Forest
+Cabaña de la sabiduría del bosque de la Sabiduría
+
+Stone maze: Wisdom Forest
+Laberinto de piedra del bosque de la sabiduría
+
+Wisdom Cabin
+Cabaña de la Sabiduría
+
+deep in the diversion channel
+Profundidades del canal de desviación
+
+Entrance to Polson Wetland
+Entrada al humedal Polson
+
+uphill road
+camino cuesta arriba
+
+Gale  Cave
+Cueva del Vendabal
+
+Wolf Prairie
+Pradera del Lobo
+
+underground cave
+cueva subterránea
+
+stone gate of cave
+Puerta de piedra de la cueva
+
+west stairwell
+escalera oeste
+
+east stairwell
+escalera este
+
+Stairwell No. 1
+Escalera 1
+
+Stairwell No. 2
+Escalera 2
+
+Stairwell No. 3
+Escalera 3
+
+Stairwell No. 4
+Escalera 4
+
+Stairwell No. 5
+Escalera 5
+
+Stairwell No. 6
+Escalera 6
+
+Stairwell No. 7
+Escalera 7
+
+Stairwell No. 8
+Escalera 8
+
+Stairwell No. 9
+Escalera 9
+
+Stairwell No. 10
+Escalera 10
+
+Stairwell 11
+Escalera 11
+
+Stairwell No. 12
+Escalera 12
+
+Stairwell 13
+Escalera 13
+
+Stairwell No. 14
+Escalera 14
+
+Stairwell No. 15
+Escalera 15
+
+Stairwell 16
+Escalera 16
+
+Stairwell No. 17
+Escalera 17
+
+Stairwell No. 18
+Escalera 18
+
+Stairwell No. 19
+Escalera 19
+
+Stairwell No. 20
+Escalera 20
+
+Passage doorway
+puerta del pasadizo
+
+cellar exit
+salida de la bodega
+
+doorway of vegetable cellar
+puerta de la bodega de verduras
+
+doorway of wine cellar
+puerta de la bodega de vinos
+
+doorway of barracks
+puerta de los barracones
+
+doorway of parliament hall
+puerta del parlamento
+
+Domi Wasteland
+Páramo de Domi
+
+Entrance to Margit Rainforest
+Entrada a la selva tropical Margit
+
+Oaks Tribe
+Tribu de Robles
+
+Cable Car; to lifting platform No. 2
+Teleférico que asciende a la plataforma 2
+
+Cable car; to Giant Rock City
+Teleférico hacia la Ciudad Rocagigante
+
+North Mountain Plantation
+Plantación de la montaña del norte
+
+entrance to Domi wasteland
+entrada al páramo de Domi
+
+ranch gate
+reja del rancho
+
+Entrance to Glorious Grassland
+Entrada a la pradera gloriosa
+
+Entrance to Dark pit City
+Entrada a la Ciudad Agujero Oscuro
+
+Stone Cliff Village
+Aldea Acantilado de Piedra
+
+Rogue Camp
+Campamento de Pícaros
+
+doorway of Holy See
+Puerta de la Santa Sede
+
+Entrance to Flaming Mountain
+Entrada a la Montaña Llameante
+
+Entrance to skeleton Basin
+Entrada a la Cuenca del Esqueleto
+
+Cable Car; to lifting platform No. 3
+Teleférico que asciende a la plataforma 3
+
+Stonehelm Outpost
+Puesto de avanzada de Stonehelm
+
+gouging knife city
+Ciudad del Cuchillo Desenterrado
+
+Outpost North Gate
+Reja norte del puesto de avanzada
+
+Outpost West Gate
+Reja oeste del puesto de avanzada
+
+Entrance to Magnet Hill
+Entrada a la Colina Magnética
+
+Outpost South Gate
+Reja sur del puesto de avanzada
+
+Outpost East Gate
+Reja este del puesto de avanzada
+
+Entrance to Devil's Valley
+Entrada al Valle del Diablo
+
+Camp South Gate
+Reja sur del campamento
+
+Camp West Gate
+Reja oeste del campamento
+
+Camp North Gate
+Reja norte del campamento
+
+Camp East Gate
+Reja este del campamento
+
+doorway of temple
+puerta del templo
+
+night sky plain
+llanura del cielo nocturno
+
+black forest
+bosque negro
+
+secret room underground
+sala subterránea secreta
+
+crystal ball
+bola de cristal
+
+graceful Lake
+lago agraciado
+
+Tranquil River estuary
+Desenvocadura del río manso
+
+Entrance to Central Plains
+Entrada a las llanuras centrales
+
+Entrance to Tuneful Wetland
+Entrada al humedal Armonioso
+
+water curtain cave
+cueva del velo acuático
+
+inland sea
+mar interior
+
+river bend
+curba del río
+
+Hanging bell
+Campana colgante
+
+entrance to graceful Lake
+entrada al lago agraciado
+
+entrance to open sea
+entrada al mar abierto
+
+Entrance to the dark river cave
+Entrada a la cueva del Río Oscuro
+
+upper floor of  Villa
+Planta superior de la aldea
+
+Lower floor  of villa
+Planta inferior de la aldea
+
+Nepeta
+Nepeta
+
+gear 1
+equipamiento 1
+
+earth array
+matriz de la tierra
+
+water array
+matriz del agua
+
+fire array
+matriz del fuego
+
+wind array
+matriz del viento
+
+center maze
+laberinto central
+
+Baru Stone Room
+Sala de piedra de Baru
+
+Inland Sea entrance
+Entrada al mar interior
+
+hay cutter
+cortador de heno
+
+golf villa
+aldea Golf
+
+pig head stone
+Cabeza de cerdo de piedra
+
+Evergreen Valley
+Valle de Hoja Perene
+
+tree Valley
+valle del árbol
+
+flower Valley
+valle de la flor
+
+grass Valley
+césped del valle
+
+North of Colorful Valley
+Norte del Valle Colorido
+
+South of Colorful Valley
+Sur del Valle Colorido
+
+hidden water cave
+cueva de agua oculta
+
+Entrance to High climbing grassland
+Entrada a la pradera de alta escalada
+
+Entrance  of hidden water cave
+Entrada a la cueva de agua oculta
+
+Entrance to Valley of Luxuriant forests
+Entrada al Valle de los bosques exuberantes
+
+Herbs Village
+Aldea Hierba
+
+Verdant Valley
+Valle Verde
+
+Sapphire Valley
+Valle de Zafiro
+
+branch
+rama
+
+floor 1
+planta 1
+
+floor 2
+planta 2
+
+floor 3
+planta 3
+
+floor 4
+planta 4
+
+floor 5
+planta 5
+
+to Lifting No. 1
+para ascender a la 1
+
+to Lifting No. 2
+para ascender a la 2
+
+to Lifting No. 3
+para ascender a la 3
+
+Entrance to Ancient Ruins
+Entrada a las Ruinas Ancestrales
+
+Entrance to South mining area
+Entrada al Área sur de minado
+
+Cable Car No. 1
+Teleférico 1
+
+Cable Car No. 2
+Teleférico 2
+
+Entrance to West mining area
+Entrada al Área oeste de Minado
+
+Cable Car No. 3
+Teleférico 3
+
+doorway of main cemetery
+Puerta del cementerio principal
+
+doorway of the ear room
+Puerta de la sala del oído
+
+doorway of Energy room
+puerta de la sala de energía
+
+doorway of the research room
+puerta de la sala de análisis
+
+doorway of storage room
+puerta del almacén
+
+slump zone
+zona de hundimiento
+
+City of the Ancient tower
+Ciudad de la Torre Ancestral
+
+entrance to underground mine
+Entrada a la Mina Subterránea
+
+doorway of West Guard Hall
+Puerta del salón de guardia oeste
+
+doorway of East Guard Hall
+puerta del salón de guardia este
+
+doorway of Guardian Temple
+puerta del templo de guardia
+
+fortress gate
+Puerta del fuerte
+
+Sarcophagus under stone beams
+Sarcófago bajo vigas de piedra
+
+Ghost Cave; die instantly; When falling to death, do not use the resurrection crystal to revive in situ
+cueva fantasmal; muere instantáneamente; Si caes y mueres, no uses el cristal de resurrección para revivir in situ
+
+prison gate
+reja de la prisión
+
+Pentagram Altar
+Pentagrama en altar
+
+East Gate of the Hospital
+Puerta este del hospital
+
+West Gate of the Hospital
+Puerta oeste del hospital
+
+East gate of the school
+Puerta este de la escuela
+
+West gate of the school
+Puerta oeste de la escuela
+
+doorway of the house
+puerta de la casa
+
+Hotel entrance
+Entrada al hotel
+
+store entrance
+entrada a la tienda
+
+East Sealing Tower
+torre de sellado este
+
+West Sealing Tower
+Torre de sellado oeste
+
+stone pier
+muelle de piedra
+
+collapse channel
+canal derrunbado
+
+jungle road
+camino de la jungla
+
+Cathedral of Darkness
+Catedral de la oscuridad
+
+dark library
+biblioteca oscura
+
+Dark Arsenal
+Arsenal oscuro
+
+dark monastery
+monasterio oscuro
+
+gate of the monastery
+Puerta del monasterio
+
+Orc Cave
+Cueva de los orcos
+
+Legacy Chamber of Secrets
+Cámara antigua de los secretos
+
+red banner
+Bandera roja
+
+blue banner
+bandera azul
+
+railing gap
+brecha en la barandilla
+
+North Gate of Cabin No.1
+Puerta norte de la cabaña 1
+
+South Gate of Cabin No.1
+Puerta sur de la cabaña 1
+
+South Gate of Cabin No.2
+Puerta sur de la cabaña 2
+
+North Gate of Cabin No.2
+Puerta norte de la cabaña 2
+
+North Gate of Cabin No.3
+Puerta norte de la cabaña 3
+
+South Gate of Cabin No.3
+Puerta sur de la cabaña 3
+
+doorway of the cabin
+puerta de la cabaña
+
+mountains
+montañas
+
+Willows Villa
+Aldea de los sauces
+
+bright peak
+pico brillante
+
+back to map 1
+de regreso al mapa 1
+
+inner hall
+salón interior
+
+Outer hall
+Salón exterior
+
+Northwest of Herbal Garden
+Noroeste del jardín herbal
+
+Northeast of Herbal Garden
+Noreste del jardín herbal
+
+East of Herbal Garden
+Este del jardín herbal
+
+central of Herbal Garden
+centro del jardín herbal
+
+West of Herbal Garden
+Oeste del jardín herbal
+
+Southwest of Herbal  Garden
+Suroeste del jardín herbal
+
+South of Herbal Garden
+Sur del jardín herbal
+
+Southeast of Herbal  Garden
+Sureste del jardín herbal
+
+North of Herbal Garden
+Norte del jardín herbal
+
+tree hole 1
+hoyo de árbol 1
+
+tree hole 2
+Hoyo de árbol 2
+
+tree hole 3
+Hoyo de árbol 3
+
+tree hole 4
+Hoyo de árbol 4
+
+tree hole 5
+Hoyo de árbol 5
+
+tree hole 6
+Hoyo de árbol 6
+
+tree hole 7
+Hoyo de árbol 7
+
+tree hole 8
+Hoyo de árbol 8
+
+grass and insects
+césped e insectos
+
+church hall
+salón de la iglesia
+
+garden
+jardín
+
+ancient building
+construcción antigua
+
+Ghost Canyon
+Cañón fantasmal
+
+cave
+cueva
+
+peach orchard Village
+Aldea Huerta de Duraznos
+
+doorway of Grocery store
+puerta de la tienda general
+
+North of the Blackwater
+norte de las aguas negras
+
+East of the Blackwater
+Este de las aguas negras
+
+South of the Blackwater
+Sur de las aguas negras
+
+West of the Blackwater
+Oeste de las aguas negras
+
+north of the magma field
+norte del campo de magma
+
+east of the magma field
+este del campo de magma
+
+south of the magma field
+sur del campo de magma
+
+west of the magma field
+oeste del campo de magma
+
+Abyss Domain
+dominio del abismo
+
+Northwest of the Blackwater
+Noroeste de las aguas negras
+
+Northeast of the Blackwater
+Noreste de las aguas negras
+
+Southeast of the Blackwater
+Sureste de las aguas negras
+
+Southwest of the Blackwater
+Suroeste de las aguas negras
+
+Southwest of the magma field
+Suroeste del campo de magma
+
+Southeast of the magma field
+Sureste del campo de magma
+
+Northwest of the magma field
+Noroeste del campo de magma
+
+Northwest
+Noroeste
+
+north
+norte
+
+northeast
+noreste
+
+west
+oeste
+
+Central
+Centro
+
+east
+este
+
+Southwest
+Suroeste
+
+south
+sur
+
+Southeast
+Sureste
+
+entrance to corpse cave
+Entrada a la cueva del cadáver
+
+Bruder Cave
+Cueva Bruder
+
+Mario Basin
+Cuenca de Mario
+
+cannibal cave
+cueva del caníbal
+
+central plains
+llanuras centrales
+
+Fertile Wilds
+Tierras salvajes fértiles
+
+Entrance to Carter Plain
+Entrada a la llanura de Carter
+
+Entrance to Fertile Wilds
+Entrada a las tierras salvajes fértiles
+
+sailing port
+Puerto Velero
+
+Entrance to Marion Sea
+Entrada al Mar Marion
+
+center
+centro
+
+Entrance to Carter tribe
+Entrada a la tribu de Carter
+
+abandoned factory
+fábrica abandonada
+
+Entrance to Tuneful Wetland
+Entrada al humedal armonioso
+
+second floor of the factory
+segundo piso de la fábrica
+
+broken window
+ventana rota
+
+top floor of the factory
+último piso de la fábrica
+
+mysterious tomb
+tumba misteriosa
+
+second floor underground
+segundo piso subterráneo
+
+upper floor of the tomb
+planta superior de la tumba
+
+third floor underground
+tercer piso subterráneo
+
+Entrance to hilly terrain
+entrada al terreno montañoso
+
+Entrance to Flame Cave
+Entrada a la cueva en llamas
+
+entrance to volcanic cave
+entrada a la cueva volcánica
+
+finger Cave
+cueva del dedo
+
+Reef Cave
+Cueva de Arrecife
+
+deep in the cave
+Profundidades de la cueva
+
+reef cave
+cueva del arrecife
+
+entrance to secluded valley
+entrada al valle aislado
+
+Entrance to the cave
+Entrada a la cueva
+
+upper exit
+salida superior
+
+Lower exit
+Salida inferior
+
+old tree under mountain
+árbol viejo bajo la montaña
+
+entrance to black wasteland
+entrada al páramo negro
+
+old house
+casa vieja
+
+High climbing grassland
+Pradera de alta escalada
+
+Blood Wasteland
+Humedal sangriento
+
+western gobi
+Gobi occidental
+
+central desert
+desierto central
+
+Eastern desert
+Desierto Oriental
+
+Entrance to Mario Basin
+Entrada a la cuenca de mario
+
+Underground Wormhole
+Agujero de gusano subterráneo
+
+ice cave entrance
+entrada a la cueva de hielo
+
+Earles Palace
+Palacio Earles
+
+lower palace
+palacio inferior
+
+doorway of the palace
+puerta del palacio
+
+rolling mountain cave
+cueva de la montaña rodante
+
+upper palace
+palacio superior
+
+Throne Gem
+gema del trono
+
+torche on the wall
+antorcha en la pared
+
+west gate of the fortress
+Puerta oeste del fuerte
+
+East Gate of the fortress
+Puerta este del fuerte
+
+North Gate of the fortress
+Puerta norte del fuerte
+
+South Gate of the fortress
+Puerta sur del fuerte
+
+go to the upper level
+nivel superior
+
+return to lower level
+nivel inferior
+
+Thunder Cave
+Cueva del Trueno
+
+upper entrance
+entrada superior
+
+Entrance to secluded valley
+Entrada al Valle Aislado
+
+black wasteland
+Páramo negro
+
+Chasing Star Pavilion
+Pabellón de las estrellas perseguidas
+
+down stairs
+escaleras hacia abajo
+
+Temple Dungeon
+Templo de la mazmorra
+
+lower of the temple
+nivel inferior del templo
+
+up stairs
+escaleras hacia arriba
+
+mist gods Ruins
+ruinas de los dioses de la niebla
+
+Dream Barrier
+Barrera de ensueño
+
+Dream Palace
+palacio de ensueño
+
+Broken Idol
+Ídolo roto
+
+Control Monster C1 of 4
+Control del monstruo C1 de 4
+
+Southwest turn; slope
+Giro suroeste de la pendiente
+
+Northwest turn; slope
+Giro noroeste de la pendiente
+
+Southeast turn; slope
+Giro sureste de la pendiente
+
+Northeast turn; slope
+Giro noreste de la pendiente
+
+Dark Demon Tower
+Torre del demonio oscuro
+
+Wasteland
+Páramo
+
+Side wall
+Pared lateral
+
+spectre wilderness
+tierra salvaje espectral
+
+Sunset City
+Ciudad del Atardecer
+
+Giant Rock City
+Ciudad Rocagigante
+
+mettle village
+Aldea Mettle
+
+starlight Village
+Aldea Starlight
+
+White Sand City
+Ciudad Arena Blanca
+
+Tulip City
+Ciudad Tulipán
+
+Aria Village
+Aldea Aria
+
+Tucana Village
+Aldea Tucana
+
+Moon City
+Ciudad Lunar
+
+holy blood city
+Ciudad Sangre Santa
+
+Gouging knife City
+Ciudad Cuchillo Desenterrado
+
+East Lake Village
+Aldea del Lago Oriental
+
+Violet City
+Ciudad violeta
+
+dark night City
+Ciudad Noche Oscura
+
+sunless camp
+Campamento Sin Sol
+
+Soul Burial Village
+Aldea Descanso de las almas
+
+Orchid woods Village
+Aldea de los Bosques Orquídea
+
+Hermit Camp
+Campamento Hermitaño
+
+Garlic Village
+Aldea Garlic
+
+Wedding Site
+Salón de bodas
+
+Gale   Cave
+Cueva del Vendabal
+
+hall door
+Puerta del salón
+
+North T-shaped; the tutor goes west; the pupil goes east
+Cruce Norte en forma de T; el mentor va al oeste, el pupilo al este
+
+South T-shaped; the tutor goes west; the pupil goes east
+Cruce Sur en forma de T; el mentor va al  oeste, el pupilo al este
+
+Gate
+Reja
+
+desert exit
+Salida del desierto
+
+forest exit
+Salida del bosque
+
+东矿区入口
+Entrada al área este de minado
+
+middle  platform {d}
+Plataforma central $1
+
+South of Herbal  Garden
+Sur del jardín
+
+Grove on the west side
+Arboleda en el lado oeste
+
+Forest entrance
+Entrada al bosque
+
+Forest export
+Salida del bosque
+
+Grove on the east side
+Arboleda en el lado este
+
+sparrow  mountain
+Montaña del Gorrión
+
+Turbo chamber
+Cámara de la turbina
+
+wine table
+Mesa de vinos
+
+phonograph
+Fonógrafo
+
+conveyor belt
+Cinta transportadora

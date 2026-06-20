@@ -1,0 +1,8 @@
+Treasure chest
+Cofre del tesoro
+
+Empty chest
+Cofre vacío
+
+ belongs to {s}
+ de $1

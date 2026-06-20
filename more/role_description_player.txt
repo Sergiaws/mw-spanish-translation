@@ -1,0 +1,941 @@
+male 
+masculino 
+
+female 
+femenino 
+
+; level {d}
+; nivel $1
+
+; upgrading requires {d} experience
+; necesitas $1 experiencia para el siguiente nivel
+
+; Contribution {d}
+; Contribución $1
+
+; battlefield merit points {d}
+; puntos de mérito del campo de batalla $1
+
+; {c} gang leader
+; líder de la pandilla $1
+
+; {c} gang internal affairs elder
+; mayor de asuntos internos de la pandilla $1
+
+; {c} gang foreign affairs elder
+; mayor de relaciones exteriores de la pandilla $1
+
+; {c} gang development elder
+; mayor de desarrollo de la pandilla $1
+
+; {c} gang war elder
+; mayor de guerra de la pandilla $1
+
+; {c} gang member
+; miembro de la pandilla $1 
+
+; {c} team
+; equipo $1
+
+Outfit attack and defense value {d}
+Valor de ataque y defensa $1
+
+; View details
+; Ver detalles
+
+no set bonus
+sin bonus
+
+{c} {c} Set of equipments
+{sub2{(1($1 $2 Set)1)}sub2}
+
+; increase {d}% attack damage
+; aumenta $1% el daño de ataque
+
+; reduce {d}% damage taken during defense
+; reduce $1% el daño recibido
+
+ holding {t}\>\|\|\<{n}
+ sosteniendo {sub2{$2>||<$1}sub2}
+
+ wearing {t}\>\|\|\<{n} on the head
+ {sub2{$2>||<$1}sub2} puesto en la cabeza
+
+ wearing {t}\>\|\|\<{n} on the neck
+ llevando {sub2{$2>||<$1}sub2} en el cuello
+
+ wearing {t}\>\|\|\<{n} on the shoulders
+ llevando {sub2{$2>||<$1}sub2} sobre los hombros
+
+ wearing {t}\>\|\|\<{n} on the body
+ vistiendo {sub2{$2>||<$1}sub2} en el cuerpo
+
+ hands wearing {t}\>\|\|\<{n} , {t}\>\|\|\<{n} , {t}\>\|\|\<{n}
+ usando {sub2{$2>||<$1}sub2}, {sub2{$4>||<$3}sub2}, {sub2{$6>||<$5}sub2} en las manos
+
+ hands wearing {t}\>\|\|\<{n}, {t}\>\|\|\<{n}
+ usando {sub2{$2>||<$1}sub2},{sub2{$4>||<$3}sub2} en las manos
+
+ hands wearing {t}\>\|\|\<{n}
+ usando {sub2{$2>||<$1}sub2} en las manos
+
+ {t}\>\|\|\<{n} is wrapped around the waist
+ {sub2{$2>||<$1}sub2} puesto en la cintura
+
+ wearing {t}\>\|\|\<{n} on the legs
+ vistiendo {sub2{$2>||<$1}sub2} en las piernas
+
+ wearing {t}\>\|\|\<{n} on the feet
+ llevando {sub2{$2>||<$1}sub2} en los pies
+
+ carrying {m}
+ cargando con {sub2{$1}sub2} a la espalda
+
+ with {n} on your clothes
+ con {sub2{$1}sub2} en la ropa
+
+ with {n}, {n} on your clothes
+ con {sub2{$1}sub2},{sub2{$2}sub2} en la ropa
+
+ with {n}, {n}, {n} on your clothes
+ con {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2} en la ropa
+
+ with {n}, {n}, {n}, {n} on your clothes
+ con {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2} en la ropa
+
+ with {n}, {n}, {n}, {n}, {n} on your clothes
+ con {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2} en la ropa
+
+ with {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+ con {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2} en la ropa
+
+ with {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+ con {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2} en la ropa
+
+ with {n}, {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+ con {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2},{sub2{$8}sub2} en la ropa
+
+ with {n}
+ con {sub2{$1}sub2}
+
+{n} on your clothes
+{sub2{$1}sub2} en la ropa
+
+ incarnate in the form of {n}
+ transformado en {sub2{$1}sub2}
+
+equipment name: {t}\>\|\|\<{n}\>\|\|\<;{c} 
+nombre del equipo: {sub2{$2>||<$1>||<;>||<$3}sub2}
+
+equipment name: {t}\>\|\|\<{n}\>\|\|\<
+nombre del equipo: {sub2{$2>||<$1}sub2}
+
+{t}\>\|\|\<{n}
+{sub2{$2>||<$1}sub2}
+
+state of the insert is{s}
+el estado del engarce es$1
+
+ no socketing
+ sin engarces
+
+Crimson socket
+Engarce carmesí
+
+increase maximum HP {d}
+incrementa la salud máxima en $1
+
+Dark Blue socket
+Engarce Azul Oscuro
+
+increase maximum mana {d}
+aumenta el mana máximo en $1
+
+Brown Yellow socket
+Engarce Marrón
+
+increase physical attack {d}
+incrementa el ataque físico en $1
+
+Honey Yellow socket
+Engarce Amarillo Miel
+
+increase magic attack {d}
+incrementa el ataque mágico en $1
+
+Pink socket
+Engarce rosa
+
+increase physical defense {d}
+incrementa la defensa física en $1
+
+Blue socket
+Engarce Azul
+
+increase magic defense {d}
+incrementa la defensa mágica en $1
+
+Dark Purple socket
+Engarce Morado Oscuro
+
+increase hit chance {d}
+incrementa la precisión en $1
+
+Dark Yellow socket
+Engarce Amarillo Oscuro
+
+increase dodge chance {d}
+incrementa la evasión en $1
+
+Blue purple socket
+Engarce Azul Púrpura
+
+increase defense break chance {d}
+incrementa la posibilidad de romper la defensa en$1
+
+Dark green socket
+Engarce Verde Oscuro
+
+increase defense break damage {d}
+incrementa el daño al romper la defensa en $1
+
+Golden yellow socket
+Engarce Dorado
+
+increase toughness {d}
+incrementa la dureza en $1
+
+Black socket
+Engarce Negro
+
+increase critical hit chance {d}
+incrementa la posibilidad de dar un golpe crítico en$1
+
+Orange socket
+Engarce Naranja
+
+increase critical hit damage {d}
+incrementa el daño crítico en $1
+
+White socket
+Engarce Blanco
+
+increase critical hit resistance {d}
+incrementa la resistencia a golpes críticos en$1
+
+Emerald Green socket
+Engarce Verde Esmeralda
+
+increase movement speed {d}
+incrementa la velocidad de movimiento en $1
+
+Ordinary straw Set
+Conjunto de paja ordinario
+
+Ordinary bronze Set
+Conjunto de bronce ordinario
+
+Refined bronze Set
+Conjunto de bronce refinado
+
+Ordinary silk Set
+Conjunto de seda ordinario
+
+Refined silk Set
+Conjunto de seda refinado
+
+Ordinary Sword of Fighter
+Espada de luchador ordinaria
+
+Refined Sword of Fighter
+Espada de luchador refinada
+
+Ordinary machete of Berserker
+Machete de berserker ordinario
+
+Refined machete of Berserker
+Machete de berserker refinado
+
+Ordinary Blade of Killer
+Cuchilla de asesino ordinaria
+
+Refined Blade of Killer
+Cuchilla de asesino refinada
+
+Ordinary Bow of chaser
+Arco de cazador ordinario
+
+Refined Bow of chaser
+Arco de cazador refinado
+
+Ordinary Staff of Wisdom
+Bastón de sabio ordinario
+
+Refined Staff of Wisdom
+Bastón de sabio refinado
+
+Ordinary Staff of Nature
+Bastón de la naturaleza ordinario
+
+Refined Staff of Nature
+Bastón de la naturaleza refinado
+
+Ordinary Scepter of Mercy
+Cetro de la misericordia ordinario
+
+Refined Scepter of Mercy
+Cetro de la misericordia refinado
+
+Ordinary Scepter of Bones
+Cetro de huesos ordinario
+
+Refined Scepter of Bones
+Cetro de huesos refinado
+
+Ordinary fighter Set
+Conjunto de luchador ordinario
+
+Refined fighter Set
+Conjunto de luchador refinado
+
+Ordinary Berserker Set
+Conjunto de berserker ordinario
+
+Refined Berserker Set
+Conjunto de berserker refinado
+
+Ordinary killer Set
+Conjunto de asesino ordinario
+
+Refined killer Set
+Conjunto de asesino refinado
+
+Ordinary chaser Set
+Conjunto de cazador ordinario
+
+Refined chaser Set
+Conjunto de cazador refinado
+
+Ordinary Wisdom Set
+Conjunto de sabio ordinario
+
+Refined Wisdom Set
+Conjunto de sabio refinado
+
+Ordinary colorful Set
+Conjunto colorido ordinario
+
+Refined colorful Set
+Conjunto colorido refinado
+
+Ordinary charity Set
+Conjunto de caridad ordinario
+
+Refined charity Set
+Conjunto de caridad refinado
+
+Ordinary Skull Set
+Conjunto de calavera ordinario
+
+Refined Skull Set
+Conjunto de calavera refinado
+
+Ordinary Ocean Roaring
+Rugido del Océano ordinario
+
+Refined Ocean Roaring
+Rugido del Océano refinado
+
+Ordinary Mountain Crushing
+Alud de la Montaña ordinario
+
+Refined Mountain Crushing
+Alud de la Montaña refinado
+
+Ordinary Shadow Kissing
+Beso de Sombra ordinario
+
+Refined Shadow Kissing
+Beso de Sombra refinado
+
+Ordinary Wind Dancing
+Danza de Viento ordinaria
+
+Refined Wind Dancing
+Danza de Viento refinada
+
+Ordinary Ice Sighing
+Soplo de Hielo ordinario
+
+Refined Ice Sighing
+Soplo de Hielo refinado
+
+Ordinary Fire Enveloping
+Fuego envolvente ordinario
+
+Refined Fire Enveloping
+Fuego Envolvente refinado
+
+Ordinary Light Weaving
+Tejido de Luz ordinario
+
+Refined Light Weaving
+Tejido de Luz refinado
+
+Ordinary Soul Sucking
+Succión de Alma ordinaria
+
+Refined Soul Sucking
+Succión de Alma refinada
+
+Ordinary Fencer Set
+Conjunto de esgrimista ordinario
+
+Refined Fencer Set
+Conjunto de Esgrimista refinado
+
+Ordinary Gladiator Set
+Conjunto de Gladiador ordinario
+
+Refined Gladiator Set
+Conjunto de Gladiador refinado
+
+Ordinary Tearer Set
+Conjunto de Destripador ordinario
+
+Refined Tearer Set
+Conjunto de Destripador refinado
+
+Ordinary Windrunner Set
+Conjunto de Corredor del Viento ordinario
+
+Refined Windrunner Set
+Conjunto de Corredor del Viento refinado
+
+Ordinary Freezing Set
+Conjunto Helado ordinario
+
+Refined Freezing Set
+Conjunto Helado refinado
+
+Ordinary Flaming Set
+Conjunto Llameante ordinario
+
+Refined Flaming Set
+Conjunto Llameante refinado
+
+Ordinary Radiant Set
+Conjunto Radiante ordinario
+
+Refined Radiant Set
+Conjunto Radiante refinado
+
+Ordinary Ghost Set
+Conjunto Fantasmal ordinario
+
+Refined Ghost Set
+Conjunto Fantasmal refinado
+
+Ordinary Solemn Oath
+Juramento Solemne ordinario
+
+Refined Solemn Oath
+Juramento Solemne refinado
+
+Ordinary Savage invader
+Invasor salvaje ordinario
+
+Refined Savage invader
+Invasor salvaje refinado
+
+Ordinary Grief Bringer
+Portador de desgracias ordinario
+
+Refined Grief Bringer
+Portador de desgracias refinado
+
+Ordinary Mutant Slayer
+Matamutantes ordinario
+
+Refined Mutant Slayer
+Matamutantes refinado
+
+Ordinary Frost Sorrow
+Lamento de escarcha ordinario
+
+Refined Frost Sorrow
+Lamento de escarcha refinado
+
+Ordinary Scorching Torch
+Antorcha abrasadora ordinaria
+
+Refined Scorching Torch
+Antorcha abrasadora refinada
+
+Ordinary Praying seraph
+Oración del serafín ordinaria
+
+Refined Praying seraph
+Oración del serafín refinada
+
+Ordinary Griffin Claw
+Garra de grifo ordinaria
+
+Refined Griffin Claw
+Garra de grifo refinada
+
+Ordinary Honor Set
+Conjunto de honor ordinario
+
+Refined Honor Set
+Conjunto de honor refinado
+
+Ordinary Barbarian Set
+Conjunto de bárbaro ordinario
+
+Refined Barbarian Set
+Conjunto de bárbaro refinado
+
+Ordinary ascetic Set
+Conjunto de asceta ordinario
+
+Refined ascetic Set
+Conjunto de asceta refinado
+
+Ordinary Raider Set
+Conjunto de asaltante ordinario
+
+Refined Raider Set
+Conjunto de asaltante refinado
+
+Ordinary Frost Set
+Conjunto de escarcha ordinario
+
+Refined Frost Set
+Conjunto de escarcha refinado
+
+Ordinary wildfire Set
+Conjunto de fuego silvestre ordinario
+
+Refined wildfire Set
+Conjunto de fuego silvestre refinado
+
+Ordinary angel Set
+Conjunto angelical ordinario
+
+Refined angel Set
+Conjunto angelical refinado
+
+Ordinary Lich Set
+Conjunto de lich ordinario
+
+Refined Lich Set
+Conjunto de Lich refinado
+
+Ordinary Ribcracker
+Quebrantahuesos ordinario
+
+Refined Ribcracker
+Quebrantahuesos refinado
+
+Ordinary Tornado Scourge
+Azote de tornado ordinario
+
+Refined Tornado Scourge
+Azote de tornado refinado
+
+Ordinary Invisible Claw
+Garra invisible ordinaria
+
+Refined Invisible Claw
+Garra invisible refinada
+
+Ordinary Heart Hitter
+Rompecorazones ordinario
+
+Refined Heart Hitter
+Rompecorazones refinado
+
+Ordinary Pelting Hail
+granizo torrencial ordinario
+
+Refined Pelting Hail
+Granizo torrencial refinado
+
+Ordinary Thousands Blast
+Explosión expansiva ordinaria
+
+Refined Thousands Blast
+Explosión expansiva refinada
+
+Ordinary Inspire Scepter
+Cetro inspirador ordinario
+
+Refined Inspire Scepter
+Cetro inspirador refinado
+
+Ordinary Terror Scepter
+Cetro terrorífico ordinario
+
+Refined Terror Scepter
+Cetro terrorífico grandioso
+
+Ordinary Champion Set
+Conjunto de campeón ordinario
+
+Refined Champion Set
+Conjunto de campeón refinado
+
+Ordinary Rampage Set
+Conjunto de violencia ordinario
+
+Refined Rampage Set
+Conjunto de violencia refinado
+
+Ordinary Stealth Set
+Conjunto de sigiloso ordinario
+
+Refined Stealth Set
+Conjunto de sigiloso refinado
+
+Ordinary sniper Set
+Conjunto de francotirador ordinario
+
+Refined sniper Set
+Conjunto de francotirador refinado
+
+Ordinary Blizzard Set
+Conjunto de ventisca ordinario
+
+Refined Blizzard Set
+Conjunto de ventisca refinado
+
+Ordinary Firestorm Set
+Conjunto incinerante ordinario
+
+Refined Firestorm Set
+Conjunto incinerante refinado
+
+Ordinary Sermon Set
+Conjunto de orador ordinario
+
+Refined Sermon Set
+Conjunto de orador refinado
+
+Ordinary Horror Set
+Conjunto de terror ordinario
+
+Refined Horror Set
+Conjunto de terror refinado
+
+Ordinary Royal Victory
+Victoria Real ordinaria
+
+Refined Royal Victory
+Victoria Real refinada
+
+Ordinary Lethal Warhammer
+Martillo de guerra letal ordinario
+
+Refined Lethal Warhammer
+Martillo de guerra letal refinado
+
+Ordinary Bloodletting razor	
+Navaja sanguinaria ordinaria
+
+Refined Bloodletting razor	
+Navaja sanguinaria refinada
+
+Ordinary Hydra crossbow
+Ballesta de la hidra ordinaria
+
+Refined Hydra crossbow
+Ballesta de la hidra refinada
+
+Ordinary Sealing Moon
+Sello lunar ordinario
+
+Refined Sealing Moon
+Sello lunar refinado
+
+Ordinary eruption Magma
+Erupción de magma ordinaria
+
+Refined eruption Magma
+Erupción de magma refinada
+
+Ordinary Pure Wisdom
+Sabiduría pura ordinaria
+
+Refined Pure Wisdom
+Sabiduría pura refinada
+
+Ordinary mummy Curse
+Maldición de momia ordinaria
+
+Refined mummy Curse
+Maldición de momia refinada
+
+Ordinary hero Set
+Conjunto de héroe ordinario
+
+Refined hero Set
+Conjunto de héroe refinado
+
+Ordinary Sentinel Set
+Conjunto de centinela ordinario
+
+Refined Sentinel Set
+Conjunto de centinela refinado
+
+Ordinary Executioner Set
+Conjunto de verdugo ordinario
+
+Refined Executioner Set
+Conjunto de verdugo refinado
+
+Ordinary Penetrator Set
+Conjunto de perforador ordinario
+
+Refined Penetrator Set
+Conjunto de perforador refinado
+
+Ordinary Glacier Set
+Conjunto glaciar ordinario
+
+Refined Glacier Set
+Conjunto glaciar refinado
+
+Ordinary Volcano Set
+Conjunto volcánico ordinario
+
+Refined Volcano Set
+Conjunto volcánico refinado
+
+Ordinary Saint Set
+Conjunto de santo ordinario
+
+Refined Saint Set
+Conjunto de santo refinado
+
+Ordinary Toxin Set
+Conjunto de toxinas ordinario
+
+Refined Toxin Set
+Conjunto de toxinas refinado
+
+Ordinary Broken Sky
+Trozo de cielo ordinario
+
+Refined Broken Sky
+Trozo de cielo refinado
+
+Ordinary Lost Eternity
+Eternidad perdida ordinaria
+
+Refined Lost Eternity
+Eternidad perdida refinada
+
+Ordinary Dragon Scale
+Escama de dragón ordinaria
+
+Refined Dragon Scale
+Escama de dragón refinada
+
+Ordinary Star Fury
+Furia estelar ordinaria
+
+Refined Star Fury
+Furia estelar refinada
+
+Ordinary Desolate Snow
+Nieve desolada ordinaria
+
+Refined Desolate Snow
+Nieve desolada refinada
+
+Ordinary Black Smoke
+Humo negro ordinario
+
+Refined Black Smoke
+Humo negro refinado
+
+Ordinary Redemption finger
+Dedo de la redención ordinario
+
+Refined Redemption finger
+Dedo de la redención refinado
+
+Ordinary Demon Spine
+Columna vertebral demoníaca ordinaria
+
+Refined Demon Spine
+Columna vertebral demoníaca refinada
+
+Ordinary Pioneer Set
+Conjunto de pionero ordinario
+
+Refined Pioneer Set
+Conjunto de pionero refinado
+
+Ordinary Giant Set
+Conjunto de gigante ordinario
+
+Refined Giant Set
+conjunto de gigante refinado
+
+Ordinary Reaper Set
+Conjunto de segador ordinario
+
+Refined Reaper Set
+Conjunto de segador refinado
+
+Ordinary Destroyer Set
+Conjunto de destructor ordinario
+
+Refined Destroyer Set
+Conjunto de destructor refinado
+
+Ordinary Winter Set
+Conjunto invernal ordinario
+
+Refined Winter Set
+Conjunto invernal refinado
+
+Ordinary Inferno Set
+Conjunto invernal ordinario
+
+Refined Inferno Set
+Conjunto invernal refinado
+
+Ordinary Revival Set
+Conjunto de reanimador ordinario
+
+Refined Revival Set
+Conjunto de reanimador refinado
+
+Ordinary Undead Set
+Conjunto de no muerto ordinario
+
+Refined Undead Set
+Conjunto de no muerto refinado
+
+Ordinary Evil Purger
+Pulga maldita ordinaria
+
+Refined Evil Purger
+Purga maldita refinada
+
+Ordinary Thor Hammer
+Martillo de Thor ordinario
+
+Refined Thor Hammer
+Martillo de Thor refinado
+
+Ordinary Revenge Tooth
+Talión ordinario
+
+Refined Revenge Tooth
+Talión refinado
+
+Ordinary Phoenix Longbow
+Arco largo de fénix ordinario
+
+Refined Phoenix Longbow
+Arco largo de fénix refinado
+
+Ordinary Poseidon Trident
+Tridente de Poseidón ordinario
+
+Refined Poseidon Trident
+Tridente de Poseidón refinado
+
+Ordinary Burning Corona
+Corona ardiente ordinaria
+
+Refined Burning Corona
+Corona ardiente refinada
+
+Ordinary Salvation Cross
+Cruz de salvación ordinaria
+
+Refined Salvation Cross
+Cruz de salvación refinada
+
+Ordinary Death Scythe
+Guadaña de la muerte ordinaria
+
+Refined Death Scythe
+Guadaña de la muerte refinada
+
+Ordinary Saviour Set
+Conjunto de redentor ordinario
+
+Refined Saviour Set
+Conjunto de redentor refinado
+
+Ordinary Patronus Set
+Conjunto de patronus ordinario
+
+Refined Patronus Set
+Conjunto de patronus refinado
+
+Ordinary Slaughterer Set
+Conjunto de ejecutor ordinario
+
+Refined Slaughterer Set
+Conjunto de ejecutor refinado
+
+Ordinary Dominator Set
+Conjunto de dominador ordinario
+
+Refined Dominator Set
+Conjunto de dominator refinado
+
+Ordinary Tsunami Set
+Conjunto de tsunami ordinario
+
+Refined Tsunami Set
+conjunto de tsunami refinado
+
+Ordinary Sunfire Set
+Conjunto de fuego solar ordinario
+
+Refined Sunfire Set
+Conjunto de fuego solar refinado
+
+Ordinary Celestial Set
+Conjunto de los cielos ordinario
+
+Refined Celestial Set
+conjunto de los cielos refinado
+
+Ordinary Sacrifice Set
+Conjunto de sacrificio ordinario
+
+Refined Sacrifice Set
+Conjunto de sacrificio refinado
+
+male
+masculino
+
+female
+femenino
+
+ wearing {n} on finger
+ {sub2{$1}sub2} puesto en el dedo
+
+ wearing lzs0lzs2243lzs1lzsdiamond wedding ring on finger
+ lzs0lzs2243lzs1lzsAnillo de boda de diamantes puesto en el dedo
+
+_{n} on your clothes
+{sub2{$1}sub2} en la ropa
+
+ hands wearing {n} , {t}\>\|\|\<{n} , {t}\>\|\|\<{n}
+ usando {sub2{$1}sub2}, {sub2{$3>||<$2}sub2}, {sub2{$5>||<$4}sub2} en las manos
+
+ hands wearing {t}\>\|\|\<{n} , {n} , {t}\>\|\|\<{n}
+ usando {sub2{$2>||<$1}sub2}, {sub2{$3}sub2}, {sub2{$5>||<$4}sub2} en las manos
+
+ hands wearing {t}\>\|\|\<{n} , {t}\>\|\|\<{n} , {n}
+ usando {sub2{$2>||<$1}sub2}, {sub2{$4>||<$3}sub2}, {sub2{$5}sub2} en las manos

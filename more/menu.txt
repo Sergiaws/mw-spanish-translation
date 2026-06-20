@@ -1,0 +1,3179 @@
+ battlefield merit points {d}
+ puntos de mérito del campo de batalla $1
+
+ level {d}
+ nivel $1
+
+ magic attack {d};+;{d}
+Ataque mágico: $1 + $2
+
+ physical attack {d};+;{d}
+Ataque físico: $1 + $2
+
+ physical Defense {d};+;{d}
+Defensa física: $1 + $2
+
+ magic Defense {d};+;{d}
+Defensa mágica: $1 + $2
+
+marked targets {d}
+objetivos marcados: $1
+
+fire element {d}
+Elementos de fuego: $1
+
+Ice Spike {d}
+Espinas de Hielo: $1
+
+hit chance {d}
+Precisión: $1
+
+dodge chance {d}
+Evasión: $1
+
+defense break chance {d}
+Romper defensa: $1
+
+defense break damage {d}
+Daño al romper la defensa: $1
+
+toughness {d}
+Dureza: $1
+
+critical hit chance {d}
+Golpe crítico: $1
+
+critical hit damage {d}
+Daño crítico: $1
+
+critical hit resistance {d}
+Resistencia a golpes críticos: $1
+
+movement speed:{d}
+Velocidad de movimiento: $1
+
+movement speed:{d}+{d}
+Velocidad de movimiento: $1+$2
+
+rage {d}
+Ira: $1
+
+combo {d}
+combos: $1
+
+fusion power {d}
+Poder de fusión: $1
+
+talent points {d}
+Puntos de talento: $1
+
+ magic attack {d}
+Ataque mágico: $1
+
+ physical attack {d}
+Ataque físico: $1
+
+ physical Defense {d}
+Defensa física: $1
+
+ magic Defense {d}
+Defensa mágica: $1
+
+return
+Atrás
+
+Today remaining {d} daily adventure points;participated in: Solo Arena Fight {d}; Duo Arena Fight {d}; Trio Tactical Battle {d}; 5-player Tactical Battle {d};public area drop {d} hours  remaining
+Quedan $1 puntos de aventura diarios; Participaste en $2 arenas individuales; $3 arenas en parejas; $4 batallas tácticas de 3 jugadores; $5 batallas tácticas de cinco jugadores; quedan $6 horas de caída de recompensas en áreas públicas
+
+Today remaining {d} daily adventure points;participated in: Solo Arena Fight {d}; Duo Arena Fight {d}; Trio Tactical Battle {d}; 5-player Tactical Battle {d};public area drop {d} hours {d} minutes {d} seconds  remaining
+Quedan $1 puntos de aventura diarios; Participaste en $2 arenas individuales; $3 arenas en parejas; $4 batallas tácticas de 3 jugadores; $5 batallas tácticas de cinco jugadores; quedan $6 horas, $7 minutos y $8 segundos de caída de recompensas en áreas públicas
+
+participated in: Solo Arena Fight {d}; Duo Arena Fight {d}; Trio Tactical Battle {d}; 5-player Tactical Battle {d}
+Participaste en $1 arenas individuales; $2 arenas en parejas; $3 batallas tácticas de 3 jugadores; $4 batallas tácticas de cinco jugadores
+
+Today remaining {d} daily adventure points
+Quedan $1 puntos de aventura diarios
+
+Vitality {d}; Press to buy;View Description
+Vitalidad $1; Pulsa para comprar;Ver Descripción
+
+Vitality {d}; Press to buy
+Vitalidad $1; Pulsa para comprar
+
+View Description
+Ver Descripción
+
+gray name
+Nombre gris
+
+ green name
+Nombre verde
+
+white name
+Nombre blanco
+
+ red name
+Nombre rojo
+
+ black name
+Nombre negro
+
+Morality {d};{s}
+Moralidad $1;{sub2{$2}sub2}
+
+Morality {d}
+Moralidad $1
+
+Account Diamonds {d}; recharge points {d}; character-bound diamonds {d};Enter the mall;Recharge
+Diamantes de cuenta $1; puntos de recarga $2; diamantes vinculados al personaje $3;Entrar al centro comercial;Recargar
+
+Account Diamonds {d}; recharge points {d}; character-bound diamonds {d}
+Diamantes de cuenta $1; puntos de recarga $2; diamantes vinculados al personaje $3
+
+Recharge
+Recargar
+
+load {d}/{d}
+carga $1/$2
+
+ HP {d}/{d}; MP {d}/{d};{s};fusion power {d};talent points {d}; physical attack {d}; physical Defense {d}; magic attack {d}; magic Defense {d}
+ salud $1/$2; mana $3/$4;{sub2{$5}sub2}; poder de fusión $6; puntos de talento $7; ataque físico $8; defensa física $9; ataque mágico $10; defensa mágica $11
+
+ HP {d}/{d}; MP {d}/{d};fusion power {d};talent points {d}; physical attack {d}; physical Defense {d}; magic attack {d}; magic Defense {d}
+ salud $1/$2; mana $3/$4; poder de fusión $5; puntos de talento $6; ataque físico $7; defensa física $8; ataque mágico $9; defensa mágica $10
+
+ HP {d}/{d}; MP {d}/{d}; physical attack {d}; physical Defense {d}; magic attack {d}; magic Defense {d}
+ salud $1/$2; mana $3/$4; ataque físico $5; defensa física $6; ataque mágico $7; defensa mágica $8
+
+ HP {d}/{d}
+ salud $1/$2
+
+ MP {d}/{d}
+ mana $1/$2
+
+{c} team;{c}'s Companion; with {d} intimacy
+Equipo $1; Pareja de $2, con $3 intimidad
+
+{c}'s Companion; with {d} intimacy
+Pareja de $1, con $2 intimidad
+
+{c} team
+Equipo $1
+
+no team
+Sin equipo
+
+internal affairs
+asuntos internos
+
+foreign affairs
+relaciones exteriores
+
+development
+desarrollo
+
+war
+guerra
+
+{c} gang {s} elder
+Mayor de {sub2{$2}sub2} de la pandilla $1
+
+{c} gang leader
+Líder de la pandilla $1
+
+{c} gang
+Pandilla $1
+
+View the gang introduction
+Ver la introducción de la pandilla
+
+{c} gang;Gang Contributions {d};Gang Points {d}
+Pandilla $1; tributo de pandilla $2; puntos de pandilla $3
+
+{c} gang leader;Gang Contributions {d};Gang Points {d}
+Líder de la pandilla $1; tributo de pandilla $2; puntos de pandilla $3
+
+{c} gang {s} elder;Gang Contributions {d};Gang Points {d}
+Mayor de {sub2{$2}sub2} de la pandilla $1; Tributo de pandilla $3; puntos de pandilla $4
+
+Gang Contributions {d}
+Tributo de pandilla: $1
+
+Gang Points {d}
+Puntos de pandilla: $1
+
+quit
+Abandonar
+
+Action menu; lag {d}
+Menú: Latencia $1
+
+Create a team;Create a dungeon team;View dungeon teams
+Crear un equipo; Crear un equipo de mazmorra; Ver equipos de mazmorra disponibles
+
+Create a team
+Crear un equipo
+
+Create a dungeon team
+Crear un equipo de mazmorra
+
+View dungeon teams
+Ver equipos de mazmorra disponibles
+
+There is no level dungeon team to join
+No hay equipos de mazmorra disponibles
+
+select dungeon
+selecciona la mazmorra
+
+{c} gang;transfer the gang;disband;send system message;send broadcast;send an announcement
+Pandilla $1;transferir la pandilla;disolver;enviar mensaje del sistema;enviar transmisión;enviar un anuncio
+
+{c} gang;resign elder;quit;send system message;send broadcast;send an announcement
+Pandilla $1;renunciar al puesto de mayor;salir;enviar mensaje del sistema;enviar transmisión;enviar un anuncio
+
+transfer the gang
+transferir la pandilla
+
+resign elder
+renunciar al puesto de mayor
+
+send system message
+enviar mensaje del sistema
+
+send broadcast
+enviar transmisión
+
+send an announcement
+enviar un anuncio
+
+{c} gang;quit
+Pandilla $1; Salir
+
+Gang breed beasts
+Bestias de la pandilla
+
+send Potion and Food;Sell Potion and Food
+Enviar pociónes y comida; Vender pociónes y comida
+
+send Potion and Food
+Enviar pociónes y comida
+
+Sell Potion and Food
+Vender pociónes y comida
+
+View contacts;View international channel groups;View private channel groups
+Ver contactos; Ver canales internacionales; Ver canales privados
+
+View contacts
+Ver contactos
+
+View international channel groups
+Ver canales internacionales
+
+View private channel groups
+Ver canales privados
+
+Enter the Outer hall of the gang
+Entrar al salón exterior de la pandilla.
+
+Enter the inner  hall of the gang
+Entrar al salón interior de la pandilla.
+
+Allied gangs
+Pandillas aliadas
+
+all gangs
+Todas las pandillas
+
+{d};{c}; level {d}
+$1; $2; nivel $3
+
+members {d}; leader: {c}
+$1 miembros; líder: $2
+
+{d}% EXP bonus;Paused; press to resume;{d} minutes {d} seconds remaining
+quedan $2 minutos y $3 segundos del bonus de $1% de experiencia; pausado; pulsa para reanudar
+
+{d}% EXP bonus;{d} minutes {d} seconds remaining
+Quedan $2 minutos y $3 segundos del bonus de $1% de experiencia
+
+{d}% EXP bonus;{d} minutes{d} seconds remaining
+Quedan $2 minutos y $3 segundos del bonus de $1% de experiencia
+
+{d} minutes{d} seconds remaining
+Quedan $1 minutos y $2 segundos
+
+Paused; press to resume
+Pausado; pulsa para reanudar
+
+{d}% EXP bonus; press to pause;{d} minutes {d} seconds remaining
+quedan $2 minutos y $3 segundos del bonus de $1% de experiencia; pulsa para pausar
+
+press to pause
+pulsa para pausar
+
+Pause EXP bonus will be deducted by one minute, and pause is invalid in dungeon. Are you sure you want to pause?
+Al pausar se reducirá un minuto del tiempo de bonus y no se puede pausar en mazmorras. ¿Deseas continuar?
+
+{d} minutes {d} seconds remaining
+$1 minutos y $2 segundos restantes
+
+{d}% EXP bonus
+$1% de bonus de experiencia
+
+{c} team;rename;disband;View dungeon teams
+Equipo $1;renombrar;disolver;Ver equipos de mazmorra disponibles
+
+{c} team
+Equipo $1
+
+rename
+renombrar
+
+disband
+disolver
+
+Private chat;add to contact;Block messages
+Chat privado;añadir a contactos;Bloquear
+
+Private chat
+Chat privado
+
+add to contact
+añadir a contactos
+
+Block messages
+Bloquear
+
+{c} team
+equipo $1
+
+{c}'s Companion
+Pareja de $1
+
+apply to join
+aplicar para unirse
+
+Please enter a team name
+Por favor, introduce un nombre de equipo
+
+Do you want to quit the {c} gang{s}
+¿Quieres dejar la pandilla $1$2
+
+Please enter a new name
+Por favor, introduce un nuevo nombre
+
+Are you sure you want to disband the team?
+¿Confirmas que quieres disolver el equipo?
+
+quit the dungeon
+Abandonar la mazmorra
+
+my mission: {d}
+Mis misiones: $1
+
+apply to join: {d} 
+solicitudes para unirse: $1
+
+Are you sure you want to resign from your gang eldership?
+¿Estás seguro de que quieres renunciar a tu cargo en la pandilla?
+
+Please enter the message content
+Introduce el contenido del mensaje
+
+Please enter broadcast content
+Introduce el contenido de la transmisión
+
+Please enter the announcement content
+Introduce el contenido del anuncio
+
+release {s};{d} remaining
+libera {sub2{$1}sub2}; Quedan $2
+
+release {s}
+Libera {sub2{$1}sub2}
+
+{d} remaining
+quedan $1
+
+Cannot be released in the safe area
+No puede ser liberado en zona segura.
+
+Please enter the character ID you want to send to
+Introduce el ID del personaje al que le quieres enviar
+
+Please select the Potion or Food to give to player {c}, up to 200 at a time
+Selecciona la poción o comida  que le darás al jugador $1, hasta 200 a la vez
+
+Please enter the quantity to give away
+Por favor introduce la cantidad a enviar
+
+Please enter quantity
+Ingresa la cantidad
+
+Please select the Potion or food you want to sell, up to 500 at a time; the listed sale is only valid within ten minutes, other players need to open your dialogue menu to buy it
+Selecciona la poción o comida que quieres vender, hasta 500 a la vez; la venta solo es válida durante diez minutos. Otros jugadores deben abrir tu menú para poder comprarlas.
+
+Please fill in the selling price, minimum 20 gold coins, maximum 10000000 gold coins
+Introduce el precio de venta, el mínimo son 20 monedas de oro y máximo 10000000.
+
+You are going to sell {d} {s}, the price is {d} gold coins, the listing is valid within ten minutes, and a 5% handling fee will be deducted after the successful sale. Are you sure you want to continue{s}
+Vas a vender $1 {sub2{$2}sub2}, el precio es de $3 monedas de oro, la transacción es válida por diez minutos. Se deducirá una tarifa del 5% después de la venta. ¿Deseas continuar$4
+
+supply camps and offensive and defensive facilities
+campamentos de suministros e instalaciones ofensivas y defensivas
+
+place Level {d} {s};{d} remaining
+Poner un {sub2{$2}sub2} de nivel $1. Quedan $3
+
+leave royal training ground
+Salir del campo de entrenamiento
+
+no gang
+No tienes pandilla
+
+Purchase Medicine
+Comprar medicina
+
+Make Medicine
+Fabricar medicina
+
+Fuse Medicine
+Combinar medicina
+
+Enter the mall;recharge
+Entrar a la tienda; Recargar
+
+Enter the mall
+Entrar a la tienda
+
+recharge
+Recargar
+
+leave Rosha Continent
+dejar el continente Rosha
+
+Do you want to quit the {c} team{s}
+¿Quieres abandonar el equipo $1$2
+
+Do you want to quit the {n} team{s}
+¿Quieres abandonar el equipo $1$2
+
+Do you want to quit the {s} team{s}
+¿Quieres abandonar el equipo $1$2
+
+Do you want to quit the {c} gang?
+¿Quieres abandonar la pandilla $1?
+
+{c} quit the gang
+$1 abandonó la pandilla
+
+List of applications to join a gang
+Lista de solicitudes para unirse a la pandilla
+
+{c} joined a gang
+$1 se unió a la pandilla
+
+take Mission
+Pedir misión
+
+Donation
+Donación
+
+Auction
+Subasta
+
+{d};{d}  {s};Open bidding; currently no bids;started at {s} {d}, {d}:{d}:{d}, {d}
+$1; $2 {sub2{$3}sub2}; subasta abierta; no hay pujas; comenzó el $5 de {sub2{$4}sub2} de $9 a las $6:$7:$8
+
+{d};{d}  {s};Open bidding; currently bidding gang points are {d};started at {s} {d}, {d}:{d}:{d}, {d}
+$1; $2 {sub2{$3}sub2}; subasta abierta; la puja actual es de $4 puntos de pandilla; comenzó el $6 de {sub2{$5}sub2} de $10 a las $7:$8:$9
+
+trading restricted Item; {s}
+Objeto que no se puede comerciar; {sub2{$1}sub2}
+
+Open bidding
+Subasta abierta
+
+start time {s} {d}, {d}:{d}:{d}, {d};End time {s} {d}, {d}:{d}:{d}, {d};If a player bids within three minutes before the end time, the auction will continue until no player bids for three consecutive minutes.
+Fecha de inicio $2 $1 de $6 a las $3:$4:$5; fecha de finalización $8 $7 de $12 a las $9:$10:$11; Si un jugador hace una oferta durante los tres minutos previos a la hora de finalización, la subasta continuará hasta que ningún jugador haga una oferta durante tres minutos consecutivos.
+
+Starting gang points {d}; No bidding yet
+Puntos de pandilla iniciales $1; sin pujas todavía
+
+Current bid is {d} gang points, bidder is {c}. The next bit should be at least {d} gang points. Bid {d} times, press to view the record. 
+La puja actual es de $1 puntos de pandilla, el pujador es $2. La siguiente puja debe ser al menos de $3 puntos de pandilla. Se han recibido $4 pujas, pulsa para ver el registro
+
+press to bid
+Pulsa para pujar
+
+Issue a kill order
+Emitir una orden de asesinato
+
+require Gang Kill Order Token to issue a chase order
+Necesitas una ficha de orden de asesinato de pandilla para emitir una orden de asesinato
+
+Mentorship Points exchange for gang contributions; For tutor
+Intercambio de puntos de mentoría por tributo de pandilla; para mentor
+
+gang Affairs Management
+Gestión de asuntos de pandilla
+
+donate {d} Arnebia, can get {d} gang Contributions, {d} gang points, , gang fund can get {d} arnebia
+dona $1 Arnebia, obtendrás $2 tributo de pandilla y $3 puntos de pandilla; la pandilla obtendrá $4 arnebia
+
+donate 20 diamonds, can get 5000 gang Contributions, 5000 gang points, 1  2x experience acceleration card;, gang fund can get 30000 arnebia
+dona 20 Diamantes, obtendrás 5000 tributo de pandilla, 5000 puntos de pandilla y una tarjeta de aumento de experiencia por 2; la pandilla obtendrá 30000 arnebia
+
+Check the donation record; press a single item to view the record of single  member
+Revisar el registro de donaciones; presiona sobre un miembro en concreto para ver su registro específico
+
+Note: Each member can only donate once a day
+Nota: Cada miembro solo puede donar una vez al día
+
+There are currently no items and equipment up for auction
+Actualmente no hay objetos ni equipos en subasta.
+
+Gang Item and Equipment Management
+Gestión de objetos y equipo de la pandilla
+
+Skills Tax Administration
+Administración de impuestos a las habilidades
+
+Mission management
+Gestión de misiones
+
+On; {s}; require gang level {d}; cost {d} arnebia per day
+Activada; {sub2{$1}sub2}; requiere nivel $2 de pandilla; cuesta $3 arnebia por día
+
+{s}; require gang level {d}; cost {d} arnebia per day
+{sub2{$1}sub2}; requiere nivel $2 de pandilla; cuesta $3 arnebia por día
+
+Limit {d} times per person per day
+Limitado a $1 veces por persona por día
+
+Close Mission
+Desactivar misión
+
+Are you sure you want to close the mission？
+¿Confirmas que quieres desactivar la misión?
+
+Open Mission
+Activar misión
+
+When the mission is open, the gang resources to be consumed today will be deducted. Are you sure you want to open it?
+Cuando actives la misión se consumirán los recursos que cuesta la misión hoy. ¿Confirmas que quieres activarla?
+
+Appointment and removal of facility administrators
+Designación y eliminación de administradores de instalaciones
+
+Please select a job title
+Selecciona un cargo
+
+Tax officer; none
+Oficial de impuestos; nadie
+
+Breeder; none
+Criador; nadie
+
+medicine storehouse administrator; none
+Administrador del almacén de medicina; nadie
+
+material storehouse administrator; none
+Administrador del almacén de materiales; nadie
+
+armory administrator; none
+Administrador de la armería; nadie
+
+Tower keeper; none
+Guardián de la torre; nadie
+
+highland {d} Turret keeper; none
+Guardián de la torreta de las tierras altas $1: Nadie
+
+gang lake administrator; none
+Administrador del lago de la pandilla; nadie
+
+gang mining area administrator; none
+Administrador de la mina de la pandilla; nadie
+
+gang herbal garden administrator; none
+Administrador del jardín de la pandilla; nadie
+
+Tax officer; {c}; {d}
+Oficial de impuestos; $1; $2
+
+highland {d} Turret keeper; {c}; {d}
+Guardián de la torreta de las tierras altas $1: $2; $3
+
+Breeder; {c}; {d}
+Criador; $1; $2
+
+medicine storehouse administrator; {c}; {d}
+Administrador del almacén de medicina; $1; $2
+
+material storehouse administrator; {c}; {d}
+Administrador del almacén de materiales; $1; $2
+
+armory administrator; {c}; {d}
+Administrador de la armería; $1; $2
+
+Tower keeper; {c}; {d}
+Guardián de la torre; $1; $2
+
+gang lake administrator; {c}; {d}
+Administrador del lago de la pandilla; $1; $2
+
+gang mining area administrator; {c}; {d}
+Administrador de la mina de la pandilla; $1; $2
+
+gang herbal garden administrator; {c}; {d}
+Administrador del jardín de la pandilla; $1; $2
+
+Please select the member to be appointed
+Selecciona el miembro a designar
+
+fire the administrator
+Despedir al administrador actual
+
+Diplomatic management
+Gestión diplomática
+
+Dungeon management
+Gestión de mazmorras
+
+Construction management
+Gestión de construcción
+
+Initiate construction
+Iniciar construcción
+
+Cancel construction
+Cancelar construcción
+
+Facility Construction Description
+Descripción de la construcción de instalaciones
+
+Gang upgrading construction; level {d} to level {d}; {s}
+Construcción de actualización de pandilla; de nivel $1 a nivel $2; {sub2{$3}sub2}
+
+already two facilities under construction, and no new construction can be added
+ya hay dos instalaciones en construcción. No se pueden iniciar nuevas construcciones
+
+Gang Skill Management
+Gestión de habilidades de pandilla
+
+View existing skills
+Ver habilidades existentes
+
+{s};takes 12 talent point;{s}
+{sub2{$1}sub2}; usa 12 puntos de talento; {sub2{$2}sub2}
+
+press here to delete
+Pulsa aquí para eliminar
+
+Are you sure you want to delete this gang Skill?
+¿Confirmas que quieres eliminar esta habilidad de pandilla?
+
+Develop new skills
+Desarrollar nuevas habilidades
+
+{s}; R&D cost {d} arnebia; R&D time: {d} days and {d} hours;skill takes 12 talent point;{s}
+{sub2{$1}sub2}; coste de desarrollo $2 arnebia; tiempo de desarrollo: $3 días y $4 horas; la habilidad usa 12 puntos de talento; {sub2{$5}sub2}
+
+Are you sure you want to develop {s} skill?
+¿Confirmas que quieres iniciar el desarrollo de la habilidad {sub2{$1}sub2}?
+
+Note: Gang skills are all talent skills. Each gang can have up to 3 gang skills. When a player exits a gang or a gang deletes a gang skill, the gang skills have learned by the player will also be deleted
+Nota: las habilidades de pandilla son todas habilidades de talento. Cada pandilla puede tener hasta 3 habilidades. Cuando un jugador abandona una pandilla o una pandilla elimina una habilidad, las habilidades de pandilla aprendidas por el jugador también se eliminarán.
+
+war management
+Gestión de guerra
+
+Set Put Permission
+Establecer permisos de colocación
+
+Declare Highland War
+Declarar guerra en las tierras altas
+
+To refuse highland war
+Rechazar la guerra en las tierras altas
+
+Highland description
+Descripción de las tierras altas
+
+{c};{d}; Allow to place; Press to Prohibit
+$1;$2; colocación permitida; pulsa para prohibir
+
+{c};{d}; Prohibit placing; Press to Allow
+$1;$2; colocación prohibida; pulsa para permitir
+
+prohibited
+Prohibido
+
+allowed
+Permitido
+
+{d};{c};leader {c}; gang highlands: {d}; occupied highlands: {d}
+$1;$2; líder $3; tierras altas de la pandilla: $4; tierras altas conquistadas: $5
+
+No highlands
+Sin tierras altas
+
+Item management; Press G to view item information
+Gestión de objetos; presiona G para ver la información del objeto
+
+Equipment management; Press G to view equipment information
+Gestión de equipo; presiona G para ver la información del equipo
+
+View member points
+Ver los puntos de cada miembro
+
+Items and Equipments Management Instructions
+Instrucciones de la gestión de objetos y equipos
+
+Note: Set the tax for learning from the Guru Elder. There are six levels in total. The higher the value, the heavier the tax.
+Nota: Establece el impuesto por aprender del Anciano Gurú. Hay seis niveles en total. Cuanto mayor sea el valor, mayor será el impuesto.
+
+gang skill learning and talent cultivation tax:{d}
+Impuesto al aprendizaje de habilidades y el cultivo de puntos de talento: $1
+
+profession skills learning tax:{d}
+Impuesto al aprendizaje de habilidades de profesión: $1
+
+Foreign Affairs
+relaciones exteriores
+
+War
+guerra
+
+Operation prohibited, you are not the {s} elder
+Operación prohibida, no eres el mayor de {sub2{$1}sub2}
+
+You are not the {s} elder
+No eres el mayor de {sub2{$1}sub2}
+
+you are not the gang leader
+No eres el líder de la pandilla
+
+You are not the {s} Elder
+No eres el mayor de {sub2{$1}sub2}
+
+Operation prohibited. You are not the {s} Elder
+Operación prohibida, no eres el mayor de {sub2{$1}sub2}
+
+Please select
+Por favor selecciona
+
+gang level {d}; members: {d};Gang Funds {d} arnebia
+Pandilla nivel $1; miembros: $2; Fondos de la pandilla $3 arnebia
+
+gang level {d}; members: {d}
+Pandilla nivel $1; miembros: $2
+
+Gang Funds {d} arnebia
+Fondos de la pandilla $1 arnebia
+
+View upgrade conditions
+Ver condiciones para actualizar
+
+Activity {d}growth index {d}
+Actividad $1, índice de crecimiento $2
+
+View Growth History
+Ver historial de crecimiento
+
+Daily growth record
+Registro de crecimiento diario
+
+View growth instructions
+Ver instrucciones de crecimiento
+
+View Activity Accumulation Description
+Ver descripción de acumulación de actividad
+
+{s} {d}, {d};Get activity points {d};Consumption and growth to be counted
+$2 de {sub2{$1}sub2} de $3; puntos de actividad conseguidos $4; consumo y crecimiento por contar
+
+{s} {d}, {d};Get activity points {d};Consume activity points {d};grow up {d}
+$2 de {sub2{$1}sub2} de $3; puntos de actividad conseguidos $4; puntos de actividad consumidos $5; crecimiento $6
+
+Get activity points {d}
+puntos de actividad conseguidos $1
+
+Consume activity points {d}
+puntos de actividad consumidos $1
+
+grow up {d}
+crecimiento $1
+
+Consumption and growth to be counted
+Consumo y crecimiento por contar
+
+Construction and Donation Information
+Información de construcción y donación
+
+{c};{d}; built in {s} {d}, {d}
+$1;$2; construyó el $4 $3 de $5
+
+{c};{d}; no built;View donation record
+$1; $2; no ha construido; ver registro de donaciones
+
+{c};{d}; no built
+$1; $2; no ha construido
+
+View donation record
+Ver registro de donaciones
+
+{d};{c} donated {d} Arnebia; {s} {d}, {d}:{d}:{d}, {d}
+$1; $2 donó $3 arnebia; el $5 de {sub2{$4}sub2} de $9, a las $6:$7:$8
+
+{d};{c} donated {d} diamonds; {s} {d}, {d}:{d}:{d}, {d}
+$1; $2 donó $3 diamantes; el $5 de {sub2{$4}sub2} de $9, a las $6:$7:$8
+
+Construction task: {s}; Completed {d}%
+Tarea de construcción: {sub2{$1}sub2}; completado $2%
+
+Allied gangs;{s}
+Pandillas Aliadas: $1
+
+View the dungeon of the gang 
+Ver mazmorras de pandilla
+
+View existing supply camps and offensive and defensive facilities
+Ver campamentos de suministro existentes e instalaciones ofensivas y defensivas
+
+{s};have {d}
+{sub2{$1}sub2}; hay $2
+
+{s};Refresh once a day;at {d}:{d};Wait for refresh
+{sub2{$1}sub2}; Se reinicia una vez al día; a las $2:$3; Esperando que se reinicie
+
+{s};Refresh once a day;at {d}:{d};Accessible
+{sub2{$1}sub2}; Se reinicia una vez al día; a las $2:$3; Accesible
+
+{s};Refresh once a week;at {d}:{d} {c} ;Accessible
+{sub2{$1}sub2}; se reinicia una vez por semana; a las $2:$3 del {sub2{$4}sub2}; accesible
+
+{s};Refresh once a week;at {d}:{d} {c} ;Wait for refresh
+{sub2{$1}sub2}; se reinicia una vez por semana; a las $2:$3 del {sub2{$4}sub2}; esperando a que se reinicie
+
+Refresh once a day
+Se reinicia una vez al día
+
+Refresh once a week
+Se reinicia una vez por semana
+
+at {d}:{d}
+a las $1:$2
+
+at {d}:{d} {c} 
+A las $1:$2 del {sub2{$3}sub2}
+
+Monday
+Lunes
+
+Tuesday
+Martes
+
+Wednesday
+Miércoles
+
+Thursday
+Jueves
+
+Friday
+Viernes
+
+Saturday
+Sábado
+
+Sunday
+Domingo
+
+Wait for refresh
+Esperando a que se reinicie
+
+Thank you for your donation
+Gracias por tu donación
+
+Are you sure you want to donate {d} Arnebia to the gang{s}
+Quieres donar $1 arnebia a la pandilla$2
+
+already donated today
+Ya donaste hoy
+
+{s}; Completed {d}%
+{sub2{$1}sub2}; completado $2%
+
+{s}, When build, each time can get {d}gang contributions; {d}gang points; {d} Arnebia; Press to view the description
+{sub2{$1}sub2}, cada vez que construyas obtendrás $2 tributo de pandilla, $3 puntos de pandilla y $4 arnebia; Presiona  para ver la descripción
+
+build
+Construir
+
+Participating in gang construction tasks every day can accumulate construction times. Different times correspond to different gang construction levels. The higher the level, the more rewards you will get when participating in construction. If a player does not build on a certain day, his gang construction level will drop by one level, and the construction times will be reduced accordingly.
+Participar en tareas de construcción de pandilla todos los días aumentará tu rango de construcción. Cuanto más alto sea el rango, más recompensas obtendrás al participar en la construcción. Si un jugador no construye un día, su rango de construcción se reducirá en un nivel y los tiempos de construcción se reducirán en consecuencia.
+
+You are {s}, you have reached the max level, you have built {d} times in a row
+Eres {sub2{$1}sub2}, has alcanzado el máximo rango y has construido $2 veces seguidas
+
+You are {s}, you have built {d} times in a row, and you need to build {d} more times before you reach the next level
+Eres {sub2{$1}sub2}, has construído $2 veces seguidas y necesitas construir $3 veces más para subir al siguiente rango
+
+construction general
+general de construcción
+
+construction soldier
+soldado de construcción
+
+construction Sergeant
+sargento de construcción
+
+construction captain
+capitán de construcción
+
+construction colonel
+Coronel de construcción
+
+{d} gang Contributions and {d} gang points
+$1 tributo de pandilla y $2 puntos de pandilla
+
+You've participated in this construction today
+Has participado en esta construcción hoy
+
+Breeding {s}; {d}% complete; press to feed
+Crianza de {sub2{$1}sub2}; $2% completado; pulsa para alimentar
+
+each feed can get 500 gang contributions, 500 gang points and 2000 arnebia. Are you sure you want to feed?
+Cada alimentación te dará 500 tributo de pandilla, 500 puntos de pandilla y 2000 arnebia. Quieres alimentar?
+
+You have fed today
+Ya le has alimentado hoy
+
+View the existing breed beasts
+Ver las bestias existentes
+
+{s};has {d};{s}
+{sub2{$1}sub2}; hay $2; {sub2{$3}sub2}
+
+Administration
+Administración
+
+Start new breeding
+Iniciar nueva crianza
+
+Breed {s}, require {d} arnebia; need {d} times of feeding to complete;{s}
+Criar {sub2{$1}sub2}, cuesta $2 arnebia; necesita $3 alimentaciones para completarse; {sub2{$4}sub2}
+
+Are you sure you want to start breeding this beast?
+¿Confirmas que quieres comenzar a criar esta bestia?
+
+Give up the current breeding
+Cancelar la crianza actual
+
+Are you sure you want to give up the breed beast you are breeding?
+¿Confirmas que quieres cancelar la crianza de la bestia actual?
+
+Manage released permissions
+Administrar permisos de liberación
+
+{c};{d}; Prohibit release; press to allow
+$1;$2; liberación prohibida; pulsa para permitir
+
+{c};{d}; Allow Release; press to Prohibit
+$1;$2; liberación permitida; pulsa para prohibir
+
+{c};{d};{s} elder
+$1;$2; mayor de {sub2{$3}sub2}
+
+{c};{d};gang leader
+$1;$2; líder de la pandilla
+
+The breeding has started. Please call on gang members to feed it
+La crianza ha comenzado. Por favor llama a los miembros de la pandilla para que lo alimenten.
+
+You are not the keeper of the breeding room
+No eres el encargado de la sala de crianza
+
+Note: Gang members with release permission can release gang breed beasts in any public  area but not in safe areas and dungeons; The released breed beast cannot be retrieved. It will disappear when it dies or the server restarts
+Nota: Los miembros de la pandilla con permiso de liberación pueden liberar bestias de la pandilla en cualquier área pública, pero no en áreas seguras y mazmorras. La bestia liberada no se puede recuperar. Desaparecerá cuando muera o el servidor se reinicie.
+
+Level {d} sentry tower
+Torre centinela de nivel $1
+
+look out
+Mirar
+
+lookout the main mansion
+Mirar en el salón principal
+
+lookout the gang's lake
+Mirar en el lago de la pandilla
+
+lookout the gang's mining area
+Mirar en la mina de la pandilla
+
+lookout the gang's herbal garden
+Mirar en el jardín de la pandilla
+
+ main mansion; currently {d} people online
+Salón principal; actualmente $1 personas en línea
+
+lake; currently {d} people online
+Lago; actualmente $1 personas en línea
+
+mining area; currently {d} people online
+Mina; actualmente $1 personas en línea
+
+herbal garden; currently {d} people online
+Jardín; actualmente $1 personas en línea
+
+search
+Buscar
+
+Please enter the player ID
+Por favor introduce el ID del jugador
+
+Sentinel record
+Registro de centinela
+
+No record
+Sin registro
+
+Alert management
+Gestión de alertas
+
+By gang
+Por pandilla
+
+By person
+Por persona
+
+ Warning when entering the main mansion; seleccionado
+Aviso al entrar en el salón principal; seleccionado
+
+ Warning when entering the main mansion; no seleccionado
+Aviso al entrar en el salón principal; no seleccionado
+
+ Warning when entering the production area; seleccionado
+Aviso al entrar en el área de producción; seleccionado
+
+ Warning when entering the production area; no seleccionado
+Aviso al entrar en el área de producción; no seleccionado
+
+Has been set
+Ha sido establecido
+
+no gang is in the alert list yet, press here to add
+ninguna pandilla está en la lista de alertas todavía, pulsa aquí para añadir
+
+Add more gangs to the alert list
+Añadir más pandillas a la lista de alertas
+
+level 3 sentry tower function
+Función solo disponible para torres centinela de nivel 3
+
+{c}; gang leader: {c}; Warning when entering the main mansion; Warning when entering the production area; Press to Modify
+$1; líder de la pandilla: $2; Aviso al entrar en el salón principal; Aviso al entrar en el área de producción; Pulsa para modificar
+
+{c}; gang leader: {c}; Warning when entering the main mansion; Press to Modify
+$1; líder de la pandilla: $2; Aviso al entrar en el salón principal; Pulsa para modificar
+
+{c}; gang leader: {c}; Warning when entering the production area; Press to Modify
+$1; líder de la pandilla: $2; Aviso al entrar en el área de producción; Pulsa para modificar
+
+{c};{d}; Warning when entering the main mansion; Warning when entering the production area; Press to Modify
+$1; $2; Aviso al entrar en el salón principal; Aviso al entrar en el área de producción; Pulsa para modificar
+
+{c};{d}; Warning when entering the production area; Press to Modify
+$1; $2; Aviso al entrar en el área de producción; Pulsa para modificar
+
+{c};{d}; Warning when entering the main mansion; Press to Modify
+$1; $2; Aviso al entrar en el salón principal; Pulsa para modificar
+
+no player is in the alert list yet, press here to add
+ningún jugador está en la lista de alertas todavía, pulsa aquí para añadir
+
+Add more players to the alert list
+Añadir más jugadores a la lista de alertas
+
+List of gang tax rates; Description: The range of tax rates that can be set for players of this gang is 0-100, the range of tax rates that can be set for players of allied gangs is 10-100, and the range of tax rates that can be set for other players is 20-100
+Lista de tasas de impuestos de la pandilla; Descripción: El rango de tasas de impuestos que se pueden establecer para jugadores de esta pandilla es de 0 a 100, para jugadores de pandillas aliadas es 10 a 100, y para otros jugadores es 20 a 100
+
+Pharmaceutical tax rate for {s}: {d}%; Press to modify
+Tasa de impuesto a la farmacia para {sub2{$1}sub2}: $2%; pulsa para modificar
+
+Cooking tax rate for {s}: {d}%; Press to modify
+Tasa de impuesto a la cocina para {sub2{$1}sub2}: $2%; pulsa para modificar
+
+Equipment Enhancing tax rate for {s}: {d}%; Press to modify
+Tasa de impuesto a la mejora de equipo para {sub2{$1}sub2}: $2%; Pulsa para modificar
+
+Equipment making tax rate for {s}: {d}%; Press to modify
+Tasa de impuesto a la fabricación de equipo para {sub2{$1}sub2}: $2%; Pulsa para modificar
+
+Gem synthesis tax rate for {s}: {d}%; Press to modify
+Tasa de impuesto a la síntesis de gemas para {sub2{$1}sub2}: $2%; Pulsa para modificar
+
+Gem socketing tax rate for {s}: {d}%; Press to modify
+Tasa de impuesto a la elaboración de engarces para {sub2{$1}sub2}: $2%; Pulsa para modificar
+
+Gang construction tax rate: {d}%; Press to modify
+Tasa de impuesto a la construcción de la pandilla: $1%; Pulsa para modificar
+
+Please enter tax rate
+Por favor introduce la tasa de impuesto
+
+gang members
+miembros de la pandilla
+
+allied gangs
+miembros de pandillas aliadas
+
+other players
+otros jugadores
+
+Level {d} armory, there's {d} shelfs
+Armería de nivel $1, hay $2 estantes
+
+deposit
+Depositar
+
+No equipment to deposit
+Sin equipo para depositar
+
+administer
+Administrar
+
+Default Setting
+Configuración predeterminada
+
+Available by default; seleccionado
+Disponible por defecto; seleccionado
+
+Available by default; no seleccionado
+Disponible por defecto; no seleccionado
+
+Set Equippment Permission & Discard Equippment
+Establecer permiso por cada equipo o descartar equipo
+
+Set Permission
+Establecer permisos
+
+ prohibit viewing; no seleccionado
+ prohibir visualización; no seleccionado
+
+ prohibit viewing; seleccionado
+ prohibir visualización; seleccionado
+
+ Prohibit deposit; no seleccionado
+ Prohibir depositar; no seleccionado
+
+ Prohibit deposit; seleccionado
+ Prohibir depositar; seleccionado
+
+ Prohibit take out; no seleccionado
+ Prohibir retirar; no seleccionado
+
+ Prohibit take out; seleccionado
+ Prohibir retirar; seleccionado
+
+{c}; prohibit viewing; Prohibit deposit; Prohibit take out
+$1; Visualización prohibida; depositar prohibido; retirar prohibido
+
+{c}; prohibit viewing; Prohibit deposit
+$1; Visualización prohibida; depositar prohibido
+
+{c}; prohibit viewing; Prohibit take out
+$1; Visualización prohibida; retirar prohibido
+
+{c}; Prohibit deposit; Prohibit take out
+$1; depositar prohibido; retirar prohibido
+
+{c}; prohibit viewing
+$1; visualización prohibida
+
+{c}; Prohibit deposit
+$1; depositar prohibido
+
+{c}; Prohibit take out
+$1; retirar prohibido
+
+Gang Storage Room description
+Descripción de la sala de almacenamiento de la pandilla
+
+Level {d} medicine storehouse, there's {d} shelfs, and each shelf can store {d}
+Almacén de medicina de nivel $1, hay $2 estantes, cada estante puede contener $3
+
+No medicine
+Sin medicinas
+
+Set the default available quantity
+Establecer la cantidad disponible por defecto
+
+Default quantity available for each medicine: {d}
+Cantidad por defecto disponible para cada medicina: $1
+
+Description: It can be set from 0 to 30. When set to 0, the medicine cannot be taken out by default.
+Descripción: Se puede configurar de 0 a 30. Cuando se configura en 0, por defecto la medicina no se puede retirar.
+
+Set Quantity
+Establecer cantidad
+
+Set the available quantity of each medicine
+Establecer la cantidad disponible de cada medicina
+
+{d};{d} {s}; Use by default; Press to change
+$1;$2 {sub2{$3}sub2}; uso por defecto; pulsa para cambiar
+
+{d};{d} {s}; limited to {d}; Press to change
+$1;$2 {sub2{$3}sub2}; limitado a $4; pulsa para cambiar
+
+{d};{d} {s}; Use prohibited; Press to change
+$1;$2 {sub2{$3}sub2}; Uso prohibido; pulsa para cambiar
+
+Set deposit and take out permissions
+Establecer permisos de depósito y retiro
+
+Level {d} material storehouse, there's {d} shelfs, and each shelf can store {d}
+Almacén de materiales de nivel $1, hay $2 estantes, cada estante puede contener $3
+
+Set the available quantity of each material
+Establecer la cantidad disponible de cada material
+
+By default
+Por defecto
+
+limited to {d}
+Limitado a $1
+
+Use prohibited
+Prohibir el uso
+
+gang level upgrades from {d} to {d}
+Actualización de la pandilla de nivel $1 a $2
+
+require up to {d} growth index;and {d} players who have been in the gang for more than 7 days, including {d} players above level {d}
+requiere un índice de crecimiento de $1 o superior; además $2 jugadores que hayan estado en la pandilla durante más de 7 días, incluidos $3 jugadores de nivel $4 o superior
+
+Study; required
+Requiere tener un estudio
+
+Requires level {d} Sentry Tower
+Requiere tener una torre centinela de nivel $1
+
+lake of the gang; level {d}; saturation {d}%
+Lago de la pandilla; nivel $1; saturación $2%
+
+mining area of the gang; level {d}; saturation {d}%
+Mina de la pandilla; nivel $1; saturación $2%
+
+herbal garden of the gang; level {d}; saturation {d}%
+Jardín de la pandilla; nivel $1; saturación $2%
+
+Entry costs {d} arnebia
+La entrada cuesta $1 arnebia
+
+Enter
+Entrar
+
+fish reef Sturdiness {d} ;saturation {d};location: {d}; {d}
+Robustez del arrecife de peces $1; saturación $2; localización: $3; $4
+
+Magnetic car Sturdiness {d} ;saturation {d};location: {d}; {d}
+Robustez del carro magnético$1; saturación $2; localización: $3; $4
+
+root package Sturdiness {d} ;saturation {d};location: {d}; {d}
+Robustez del paquete de raíces $1; saturación $2; localización: $3; $4
+
+Maximum chargeable fee: {d} arnebia
+Tarifa máxima de entrada: $1 arnebia
+
+Entry fee rate for players of this gang: {d}%
+Tarifa de entrada para miembros de la pandilla: $1%
+
+press to change
+pulsa para cambiar
+
+Entry fee rate for players of Allied gangs: {d}%
+Tarifa de entrada para jugadores de pandillas aliadas: $1%
+
+Entry fee rate for other players: {d}%
+Tarifa de entrada para otros jugadores: $1%
+
+Note: The entry fee rate for the players of this gang can be set to 0-100%; the players of Allied  gangs can be set to 10-100%; other players can be set to 20-100%
+Nota: La tarifa de entrada para los jugadores de la pandilla se puede establecer entre 0 y 100%; para los jugadores de las pandillas aliadas se puede establecer entre 10 y 100%; y para otros jugadores entre 20 y 100%
+
+Enter (Administration)
+Entrar (administración)
+
+instruction
+Instrucciones
+
+Please select the player to hand over to; you can hand over to members who have joined the gang for more than ten days.
+Selecciona a qué jugador quieres transferirle el liderato de la pandilla; Puedes transferírselo a cualquier miembro que haya estado en la pandilla durante diez días o más.
+
+Name: {c} gang; level {d}; leader {c}
+Nombre: pandilla $1; nivel $2; líder $3
+
+Current business rate
+Tasa comercial actual
+
+Cooking and pharmacy;outsider {d}%;Alliance gang {d}%;own gang {d}%
+Cocina y Farmacia; externos $1%; aliados $2%; miembros $3%
+
+Equipment making and enhancement;outsider {d}%;Alliance gang {d}%;own gang {d}%
+Fabricación y mejora de equipo; externos $1%; aliados $2%; miembros $3%
+
+Gem and crystal Processing;outsider {d}%;Alliance gang {d}%;own gang {d}%
+Procesamiento de gemas y cristales; externos $1%; aliados $2%; miembros $3%
+
+Cooking and pharmacy
+Cocina y Farmacia
+
+Equipment making and enhancement
+Fabricación y mejora de equipo
+
+Gem and crystal Processing
+Procesamiento de gemas y cristales
+
+Edit the introduction
+Editar la introducción
+
+No introduction yet
+Sin introducción todavía
+
+outsider {d}%
+externos $1%
+
+Alliance gang {d}%
+aliados $1%
+
+own gang {d}%
+miembros $1%
+
+Apply to join the gang
+Solicitar unirse a la pandilla
+
+{c}, welcome, you have {d} diamonds in the bank
+Bienvenido $1, tienes $2 diamantes en el banco
+
+{c}, welcome, you have no deposit in the bank
+Bienvenido $1, no tienes depósito en el banco
+
+The current daily income of 10,000 diamonds is {d} gold coins and {d} arnebia;Press to view instructions
+El ingreso diario actual por un depósito de 10.000 diamantes es $1 monedas de oro y $2 arnebia; Pulsa para ver las instrucciones
+
+The current daily income of 10,000 diamonds is {d} gold coins and {d} arnebia
+El ingreso diario actual por un depósito de 10.000 diamantes es $1 monedas de oro y $2 arnebia
+
+Press to view instructions
+Pulsa para ver las instrucciones
+
+deposit diamonds
+Depositar diamantes
+
+withdraw the diamonds
+Retirar diamantes
+
+Please enter the number of diamonds to withdraw
+Por favor introduce el número de diamantes a retirar
+
+Please enter the number of diamonds to deposit
+Por favor introduce el número de diamantes a depositar
+
+get deposit income
+Recibir ingresos por depósito
+
+Value Product
+Producto de valor
+
+VIP And Income monthly card;After purchase, you can claim 60 bound Diamonds (bound to the character) and 50000 Arnebia per day at the Royal Bank of any city for 30 consecutive days. In addition, your storage is increased by 20 tiles, and you can give or sell potions to other players up to 3000 bottles per day.
+Tarjeta VIP mensual; Después de la compra, puedes reclamar 60 Diamantes (vinculados al personaje) y 50000 Arnebia diariamente en cualquier banco real durante 30 días. Además tu almacén se expandirá 20 espacios, podrás dar y vender pociones a otros jugadores (hasta un máximo de 3000 por día) y viajar en los dirigibles y teleféricos sin pagar arnebia.
+
+Newcomer Value Product;A Value Product worthy of $20, can only be purchased at level 30 to 40, and each person is limited to one purchase. After purchase, you can collect 120 bound diamonds and 20,000 arnebia from the Royal Bank of any city for 10 consecutive days.
+Producto de valor para recién llegados;Un producto de valor valorado en 20 dólares, solo se puede comprar entre los niveles 30 a 40, y cada personaje solo lo puede comprar una vez. Después de la compra, puedes reclamar 120 diamantes vinculados al personaje y 20000 arnebia en el banco de cualquier ciudad durante 10 días consecutivos.
+
+Valid from {s} {d}, {d}; to ;{s} {d}, {d}
+Válido desde el $2 de {sub2{$1}sub2} de $3, hasta el $5 de {sub2{$4}sub2} de $6
+
+get income
+Recibir ingreso
+
+Successfully received {d} character bound diamonds
+Recibido con éxito $1 diamantes vinculados
+
+Successfully received
+Recibido con éxito
+
+{d}% EXP bonus; press to pause
+$1% de bonus de experiencia. Presiona para pausar
+
+You have gotten the income of this value product today
+Ya has recibido el ingreso de este producto de valor hoy
+
+{d} seconds remaining
+$1 segundos restantes
+
+{d}% EXP bonus;Paused; press to resume;{d} seconds remaining
+Quedan $2 segundos del bonus de $1% de experiencia; pausado; pulsa para reanudar
+
+{d}% EXP bonus;{d} seconds remaining
+Quedan $2 segundos del bonus de $1% de experiencia
+
+{d}% EXP bonus; press to pause;{d} seconds remaining
+Quedan $2 segundos del bonus de $1% de experiencia; pulsa para pausar
+
+Not enough time to pause
+No le queda suficiente tiempo para pausarlo
+
+Are you sure you want to block all messages from this role?
+¿Quieres bloquear todos los mensajes de este personaje?
+
+{d};{s}Limit access to {d}
+$1; {sub2{$2}sub2}; limitado a $3
+
+{d}; Completed at {s} {d}, {d}:{d}, {d};{c}
+$1; $7 la terminó el $3 de {sub2{$2}sub2} del $6 a las $4:$5
+
+You have no Value Product
+No tienes productos de valor
+
+Are you sure you want to donate 20 diamonds to the gang?
+¿Confirmas que quieres donarle 20 diamantes a la pandilla?
+
+You are not the administrator of this mining area
+No eres el administrador de esta mina
+
+you've already built twice today
+Ya construiste dos veces hoy
+
+Enter Inner hall
+Entrar al salón interior
+
+cannot donate on the first day of joining a gang
+No puedes donar el primer día tras unirte a una pandilla
+
+cannot build on the day you join a gang
+No puedes construir el día que te unes a la pandilla
+
+Get Rebirth
+Hacer un renacimiento
+
+Pet Rebirth Instruction
+Instrucciones de renacimiento de mascotas
+
+Change the character of blessed pet; Fee 50 diamonds
+Cambiar la personalidad de la mascota bendita; cuesta 50 diamantes
+
+Change blessed pet; Fee 500 diamonds
+Cambiar la mascota bendita; cuesta 500 diamantes
+
+Are you sure you want to put this item in the gang Armory?
+¿Confirmas que quieres poner este objeto en la armería?
+
+Are you sure you want to use this equipment?
+¿Confirmas que quieres usar este equipo?
+
+Are you sure you want to deposit this equipment?
+¿Confirmas que quieres depositar este equipo?
+
+no equipment
+No hay equipo
+
+Repair equipment
+Reparar equipo
+
+Craft Equipment
+Fabricar equipo
+
+Breakdown Equipment
+Romper equipo
+
+level {d} equipment
+Equipo de nivel $1
+
+Warrior equipment
+Equipo de guerrero
+
+Orc equipment
+Equipo de orco
+
+Assassin equipment
+Equipo de asesino
+
+Hunter equipment
+Equipo de cazador
+
+Mage equipment
+Equipo de mago
+
+Elf equipment
+Equipo de elfo
+
+Priest equipment
+Equipo de sacerdote
+
+Sorcerer equipment
+Equipo de hechicero
+
+You have no equipment can be decomposed
+No tienes equipo que se pueda romper
+
+enhance equipment
+Mejorar equipo
+
+smelt equipment
+Fundir equipo
+
+elevate equipment; Exclusive operation for Great, Epic, Heavenly and Godbless equipment
+Elevar equipo; operación exclusiva para equipo grandioso, épico, celestial y bendito
+
+View instruction
+Ver las instrucciones
+
+{s};Durability {d} of {d};cost {d} gang contributions
+{sub2{$1}sub2}; durabilidad $2 de $3; cuesta $4 tributo de pandilla
+
+Are you sure you want to repair this equipment?
+¿Confirmas que quieres reparar este equipo?
+
+Durability {d} of {d}
+Durabilidad $1 de $2
+
+cost 200 gang contributions
+Cuesta $1 tributo de pandilla
+
+Craft equipment
+Fabricar equipo
+
+breakdown equipment
+Romper equipo
+
+Are you sure you want to transfer the team leader to this member?
+¿Quieres transferir el liderato del equipo a este jugador?
+
+Are you sure you want to remove this team member?
+¿Quieres eliminar a este jugador del equipo?
+
+Please take off this equipment first
+Desequípatelo primero.
+
+The equipment you are wearing cannot be elevated
+El equipo que llevas puesto no puede ser elevado
+
+No craftable equipment
+No hay equipo que se pueda fabricar.
+
+The equipment is not suitable for your class
+Este equipo no es de tu clase
+
+{s} group; Has joined; members {d};You are an common member
+Grupo en {sub2{$1}sub2}; te uniste; $2 miembros; eres un miembro común
+
+Member List
+Lista de miembros
+
+Exit Group
+Salir del grupo
+
+Are you sure you want to exit the  group?
+¿Confirmas que quieres salir del grupo?
+
+{s}; Press to join
+{sub2{$1}sub2}; Presiona para unirte
+
+{s}; Joined
+{sub2{$1}sub2}; miembro
+
+English
+Inglés
+
+Spanish
+Español
+
+French
+Francés
+
+Arabic
+Árabe
+
+Portuguese
+Portugués
+
+Chinese
+Chino
+
+Japanese
+Japonés
+
+Russian
+Ruso
+
+German
+Alemán
+
+Vietnamese
+Vietnamita
+
+Turkish
+Turco
+
+Thai
+Tailandés
+
+Indonesian
+Indonesio
+
+Polish
+Polaco
+
+Serbian Croatian
+Serbio y croata
+
+Czech
+Checo
+
+Romanian
+Rumano
+
+Channel Group List
+Lista de canales
+
+{s}; leader {c}; Press to Apply to Join
+{sub2{$1}sub2}; líder $2; presiona para aplicar para unirte
+
+View all channel groups
+Ver todos los canales
+
+{s} group; Has joined; members {d}
+Grupo en {sub2{$1}sub2}; te uniste; miembros $2
+
+You are an common member
+Eres un miembro común
+
+All members
+Todos los miembros
+
+{c};Mage
+$1; Mago
+
+{c};Warrior
+$1; Guerrero
+
+{c};Elf
+$1; Elfo
+
+{c};Priest
+$1; Sacerdote
+
+{c};Hunter
+$1; Cazador
+
+{c};Orc
+$1; Orco
+
+{c};Assassin
+$1; Asesino
+
+{c};Sorcerer
+$1; Hechicero
+
+{c};Sorceress
+$1; Hechicera
+
+Restricted members
+Miembros restringidos
+
+common members
+Miembros comunes
+
+administrators
+Administradores
+
+Are you sure you want to join?
+¿Confirmas que quieres unirte?
+
+Application submitted
+Solicitud enviada
+
+You are applying to join the {c} group; Press to cancel
+Solicitaste unirte al canal $1; presiona para cancelar
+
+You have joined another group or are applying to join another group
+Estás unido en otro canal o solicitaste unirte a uno
+
+Pet name: {s} 
+Nombre de la mascota: {sub2{$1}sub2}
+
+Please choose a pet
+Por favor elige una mascota
+
+primary mutation;assets range {d} to {d}
+Mutación primaria; rango de estadísticas $1 a $2
+
+Current assets {d}; mean value {d}, specifically are: Strength {d}, Physique {d}, Spirit {d}, Resolve {d}, Agility {d}, 
+Estadísticas actuales $1, valor promedio $2. Se desglosan en: Fuerza $3, Físico $4, Espíritu $5, Resolución $6 y Agilidad $7
+
+Breakthrough Index {d};include Foundation {d};this week's Rebirth Points {d}
+Índice de avance $1; incluye $2 puntos de crianza; esta semana obtuvo $3 puntos de renacimiento
+
+maximum Index {d};Note: The higher the Breakthrough Index, the greater the chance of pet mutation when undergoing Pet Rebirth. When the Breakthrough Index reaches maximum level, pet mutation has a 100% chance to happen.
+Índice máximo $1;Nota: Mientras más alto sea el índice de avance, mayores serán las probabilidades de que la mascota mute al hacer un renacimiento. Cuando el índice de avance alcance el nivel máximo, la mutación de la mascota tendrá un 100% de probabilidades de ocurrir.
+
+You still have {d} free Pet Rebirth times today; press here to Rebirth
+Todavía tienes $1 renacimientos gratuitos hoy; presiona aquí para hacer que renazca
+
+Press to  rebirth, fee 50 diamonds
+Presiona para hacer un renacimiento; coste 50 diamantes
+
+The team name already exists or contains illegal characters
+El nombre del equipo ya existe o contiene caracteres no permitidos
+
+no mission
+No hay misiones
+
+No equipment available for elevation 
+No tienes equipo para elevar
+
+Are you sure you want to undo {c}{s}s {s} elder{s}
+¿Confirmas que quieres despedir a $1 del cargo de mayor de {sub2{$3}sub2}$4
+
+Are you sure about the appointment?
+¿Confirmas el nombramiento?
+
+you already have a team
+Ya tienes un equipo
+
+There is no corresponding equipment that can be used as material
+No hay equipo similar que se pueda usar como material
+
+You can only take two kinds of gang missions every day
+Solo puedes tomar dos tipos de misiones de pandilla cada día
+
+Please choose a blessed pet you have
+Por favor elige una mascota bendita que tengas
+
+Please select the personality of the blessed pet you want to change into
+Selecciona la personalidad de la mascota bendita a la que deseas cambiar
+
+Cautious {s}: quick attack monsters that are not locked on them; change the target along with the player; Level 30 reference stats: {d} HP, {d} MP, {d} magic attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} cauteloso: Ataca rápido a los monstruos que no están enfocados en él; cambia el objetivo junto con el jugador. Stats de referencia a nivel 30: Salud $2, mana $3, ataque mágico $4, defensa física $5 y defensa mágica $6
+
+Smart {s}: quick attack monsters that are targeting them, and will not change target until the monster is slain, good at helping the player alleviate the pressure of incoming attacks during combat; Level 30 reference stats: {d} HP, {d} MP, {d} magic attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} inteligente: Ataca rápido a los monstruos que le están atacando y no cambiará de objetivo hasta que el monstruo sea asesinado. Recomendable para ayudar al jugador a aliviar la presión de los ataques entrantes durante el combate. Stats de referencia a nivel 30: Salud $2, mana $3, ataque mágico $4, defensa física $5 y defensa mágica $6
+
+Courageous {s}: quick attack monsters that the player is attacking and will not change target until the monster is slain, good at helping the player alleviate the pressure of incoming attacks during combat; Level 30 reference stats: {d} HP, {d} MP, {d} magic attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} valiente: Ataca rápido a los monstruos a los que está atacando el jugador y no cambiará de objetivo hasta que el monstruo sea asesinado. Recomendable para ayudar al jugador a aliviar la presión de los ataques entrantes durante el combate. Stats de referencia a nivel 30: Salud $2, mana $3, ataque mágico $4, defensa física $5 y defensa mágica $6
+
+Loyal {s}: quick attack monsters that are attacking the player; change the target along with the player, good at supporting the player's attacks; Level 30 reference stats: {d} HP, {d} MP, {d} magic attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} leal: Ataca rápido a los monstruos que atacan al jugador, y cambia el objetivo junto con el jugador. Recomendable para apoyar los ataques del jugador. Stats de referencia a nivel 30: Salud $2, mana $3, ataque mágico $4, defensa física $5 y defensa mágica $6
+
+Cautious {s}: quick attack monsters that are not locked on them; change the target along with the player; Level 30 reference stats: {d} HP, {d} MP, {d} physical attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} cauteloso: Ataca rápido a los monstruos que no están enfocados en él; cambia el objetivo junto con el jugador. Stats de referencia a nivel 30: Salud $2, mana $3, ataque físico $4, defensa física $5 y defensa mágica $6
+
+Smart {s}: quick attack monsters that are targeting them, and will not change target until the monster is slain, good at helping the player alleviate the pressure of incoming attacks during combat; Level 30 reference stats: {d} HP, {d} MP, {d} physical attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} inteligente: Ataca rápido a los monstruos que le están atacando y no cambiará de objetivo hasta que el monstruo sea asesinado. Recomendable para ayudar al jugador a aliviar la presión de los ataques entrantes durante el combate. Stats de referencia a nivel 30: Salud $2, mana $3, ataque físico $4, defensa física $5 y defensa mágica $6
+
+Courageous {s}: quick attack monsters that the player is attacking and will not change target until the monster is slain, good at helping the player alleviate the pressure of incoming attacks during combat; Level 30 reference stats: {d} HP, {d} MP, {d} physical attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} valiente: Ataca rápido a los monstruos a los que está atacando el jugador y no cambiará de objetivo hasta que el monstruo sea asesinado. Recomendable para ayudar al jugador a aliviar la presión de los ataques entrantes durante el combate. Stats de referencia a nivel 30: Salud $2, mana $3, ataque físico $4, defensa física $5 y defensa mágica $6
+
+Loyal {s}: quick attack monsters that are attacking the player; change the target along with the player, good at supporting the player's attacks; Level 30 reference stats: {d} HP, {d} MP, {d} physical attack, {d} physical defense, {d} magic defense
+{sub2{$1}sub2} leal: Ataca rápido a los monstruos que atacan al jugador, y cambia el objetivo junto con el jugador. Recomendable para apoyar los ataques del jugador. Stats de referencia a nivel 30: Salud $2, mana $3, ataque físico $4, defensa física $5 y defensa mágica $6
+
+Please select the blessed pet to be replaced
+Selecciona la mascota que quieres para reemplazar tu mascota bendita actual
+
+Pix
+Had
+
+Spr
+Due
+
+Che
+Que
+
+Not enough gold coins
+No tienes suficientes monedas de oro
+
+Purchase vitality; Replenish vitality for 30 points at a time
+Comprar vitalidad; Repone 30 puntos de vitalidad a la vez
+
+This is your {d}th purchase today; Need to pay {d} diamonds
+Esta es tu $1ª compra hoy, tendrás que pagar $2 diamantes
+
+Buy
+Comprar
+
+Not enough diamonds? Press here to recharge
+No tienes suficientes diamantes? Pulsa aquí para recargar
+
+Purchase succeeded, vitality {d}
+Compra exitosa, vitalidad $1
+
+Each account can only use one character to receive rewards, Are you sure you want to use the current character?
+Cada cuenta puede usar solamente un personaje para recibir las recompensas. Estás seguro de usar el personaje actual?
+
+Already received
+Ya las has recibido
+
+{d} diamond {d} USD
+$1 diamantes $2 USD
+
+a wanted target of your gang
+objetivo buscado por la pandilla
+
+No contacts
+No tienes contactos
+
+gang Mining Area; level {d}
+Mina; nivel $1
+
+Are you sure you want to blow up the gang Mining Area?
+¿Confirmas que quieres explotar la mina de la pandilla?
+
+Start blowing up
+Comenzando explosión...
+
+require {d} Arnebia; Build {d} times to complete
+Cuesta $1 arnebia; requiere construir $2 veces para completarla
+
+Construction started
+Construcción iniciada
+
+Successfully bred
+Criado con éxito
+
+wrong length
+Longitud incorrecta
+
+the rate are too low
+La tarifa es muy baja
+
+Bid successful
+Pujado con éxito
+
+Open bidding; currently bidding gang points are {d}
+Subasta abierta; la puja actual es de $1 puntos de pandilla
+
+started at {s} {d}, {d}:{d}:{d}, {d}
+comenzó el $2 de {sub2{$1}sub2} de $6 a las $3:$4:$5
+
+item storage is full
+El almacén de objetos está lleno
+
+{d} minutes remaining
+$1 minutos restantes
+
+Gang upgrading construction; level {d} to level {d}
+Construcción de mejora de pandilla; nivel $1 a nivel $2
+
+no mentor achievement;Mentorship Points {d};Currently pupil: {d}
+Sin logros de mentor; Puntos de mentoría $1; Pupilos actuales: $2
+
+no mentor achievement;Mentorship Points {d}
+Sin logros de mentor; Puntos de mentoría $1
+
+no mentor achievement
+Sin logros de mentor
+
+Mentorship Points {d}
+Puntos de mentoría $1
+
+Currently pupil: {d}
+Pupilos actuales: $1
+
+my pupils
+Mis pupilos
+
+find pupil
+Buscar pupilo
+
+graduated pupil
+Pupilos graduados
+
+No pupil
+Sin pupilos
+
+apply  to take him as your pupil
+Aplicar para tomarlo como tu pupilo
+
+Lake Upgrading to level {d} construction
+Mejora de lago a nivel $1
+
+Sentry tower Upgrading to level {d} construction
+Mejora de torre centinela a nivel $1
+
+mining area Upgrading to level {d} construction
+Mejora de mina a nivel $1
+
+Herbal Garden Upgrading to level {d} construction
+Mejora de jardín a nivel $1
+
+Material Storage Upgrading to level {d} construction
+Mejora de almacén de materiales a nivel $1
+
+Medicine Storage Upgrading to level {d} construction
+Mejora de almacén de medicina a nivel $1
+
+Armory Upgrading to level {d} construction
+Mejora de armería a nivel $1
+
+Requires either a Level {d} Medicine Storage or a Level {d} Material Storage or a Level {d} Armory
+Requiere ya sea una armería de nivel $1, un almacén de medicinas de nivel $2 o un almacén de materiales de nivel $3
+
+my tutor
+Mi mentor
+
+{c};{d};{s};{s} ; Cumulative Mentorship points {d};last logged in;{s} {d}, {d}:{d}:{d}, {d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 puntos de mentor acumulados; último acceso; $7 de {sub2{$6}sub2} de $11, $8:$9:$10
+
+summon tutor
+Invocar
+
+send gift to the tutor
+Enviarle un regalo
+
+sever ties
+Cortar lazos
+
+forcibly sever ties
+Cortar lazos a la fuerza
+
+Please select the item you want to send to tutor {c}
+Por favor selecciona el objeto que le quieras dar a tu mentor $1
+
+Cannot summon within 5 minutes of being online
+Debes permanecer 5 minutos en línea antes de poder invocar a tu mentor
+
+{s}; have {d}
+{sub2{$1}sub2}; tienes $2
+
+Tutor is not on this map and cannot send
+El mentor no está en este mapa, por lo que no se le puede enviar
+
+{c};{d};{s};{s} ; level {d}; Cumulative Mentorship points {d};last logged in;{s} {d}, {d}:{d}:{d}, {d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; $6 puntos de mentoría acumulados; último acceso; $8 de {sub2{$7}sub2} de $12, $9:$10:$11
+
+{c};{d};{s};{s} ; level {d}; Cumulative Mentorship points {d}; online
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; $6 puntos de mentoría acumulados; conectado
+
+Highland construction
+Construcción de las tierras altas
+
+{s};achievement points {d};Mentorship Points {d};Currently pupil: {d}
+{sub2{$1}sub2}; puntos de logro $2; puntos de mentoría $3; pupilos actuales: $4
+
+New Mentor
+Mentor novato
+
+achievement points {d}
+Puntos de logro $1
+
+Seasoned Mentor
+Mentor experimentado
+
+Accomplished Mentor
+Mentor Consumado
+
+Esteemed Mentor
+Mentor Estimado
+
+Prestigious Mentor
+Mentor Prestigioso
+
+Legendary Mentor
+Mentor Legendario
+
+enhancement level: {d}
+Nivel de mejora: $1
+
+{c};{d};gang leader;{s};{s} ; level {d};last logged in;{s} {d}, {d}
+$1; $2; líder de la pandilla; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; último acceso; $7 de {sub2{$6}sub2} de $8
+
+{c};{d};internal affairs elder;{s};{s} ; level {d};last logged in;{s} {d}, {d}
+$1; $2; mayor de asuntos internos; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; último acceso; $7 de {sub2{$6}sub2} de $8
+
+{c};{d};foreign affairs elder;{s};{s} ; level {d};last logged in;{s} {d}, {d}
+$1; $2; mayor de relaciones exteriores; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; último acceso; $7 de {sub2{$6}sub2} de $8
+
+{c};{d};development elder;{s};{s} ; level {d};last logged in;{s} {d}, {d}
+$1; $2; mayor de desarrollo; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; último acceso; $7 de {sub2{$6}sub2} de $8
+
+{c};{d};war elder;{s};{s} ; level {d};last logged in;{s} {d}, {d}
+$1; $2; mayor de guerra; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; último acceso; $7 de {sub2{$6}sub2} de $8
+
+{c};{d};{s};{s} ; level {d};last logged in;{s} {d}, {d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; último acceso; $7 de {sub2{$6}sub2} de $8
+
+private message
+Mensaje privado
+
+Ban gang chat
+Prohibirle chatear en la pandilla
+
+expel
+Expulsar
+
+appoint elder
+Nombrarle mayor
+
+dismiss
+Despedir
+
+leader
+Líder
+
+wrong format
+Formato incorrecto
+
+{d}% success rate
+$1% de probabilidad de ser mejorado
+
+When the forging fails, the enhancement level is reduced by 1 level
+Cuando la forja falla, el equipo se degrada un nivel
+
+This is the {d}th attempt at this stage, press to view the meaning of this accumulation
+Este es el $1º intento en esta etapa, presiona para ver el significado de esta acumulación
+
+This is the {d}nd attempt at this stage, press to view the meaning of this accumulation
+Este es el $1º intento en esta etapa, presiona para ver el significado de esta acumulación
+
+This is the {d}st attempt at this stage, press to view the meaning of this accumulation
+Este es el $1º intento en esta etapa, presiona para ver el significado de esta acumulación
+
+This is the {d}rd attempt at this stage, press to view the meaning of this accumulation
+Este es el $1º intento en esta etapa, presiona para ver el significado de esta acumulación
+
+This is the  attempt at this stage, it will be directly success;press to view the meaning of this accumulation
+Este es el intento definitivo en esta etapa, será directamente exitoso. presiona para ver el significado de esta acumulación
+
+banned
+Prohibido
+
+Allow gang chat
+Permitirle chatear
+
+Are you sure you want to expel {c} from the gang{s}
+¿Confirmas que quieres expulsar a $1 de la pandilla$2
+
+Game Hotkeys
+Teclas del juego
+
+Basic Rules of the Game
+Reglas básicas del juego
+
+Game Guide
+Guía del juego
+
+buy point card
+comprar tarjeta de puntos
+
+Mist World website
+Sitio web de Mist World
+
+feedback
+Soporte
+
+Voice and Game Sound Volume Control
+Control de volumen de sonido y voz del juego
+
+Controls for Basic Menu and Copying the Read Content
+Controles para el menú básico y para copiar el contenido leído
+
+Shortcuts for Character Movement, Backpack, and Item
+Teclas para el movimiento del personaje, la mochila y los objetos
+
+How to Switch Targets and Navigate to a Certain Target
+Cómo cambiar de objetivo y navegar a un determinado objetivo
+
+Combat Skills and Professional Skills
+Habilidades de combate y habilidades de profesión
+
+Game Information and System Prompt Message
+Información del juego y mensajes de aviso del sistema
+
+Chat Controls
+Controles de chat
+
+Quick Phrase Controls
+Controles de frases rápidas
+
+Experience Calculation Rules
+Reglas de cálculo de experiencia
+
+Experience and Loot Distribution Rules
+Reglas de distribución de experiencia y botín
+
+Morality Rules
+Reglas de moralidad
+
+Buff and Debuff Skill Rules
+Reglas de habilidades de Buff y Debuff
+
+Control Skill Rules
+Reglas de habilidades de control
+
+Threat Rules
+Reglas de odio
+
+Game Introduction
+Introducción al juego
+
+How do I Choose My Class
+¿Cómo elijo mi clase?
+
+What should I do as a New Player
+¿Qué debo hacer como nuevo jugador?
+
+What are Talents
+¿Qué son los Talentos?
+
+What are Professional Skills
+¿Qué son las Habilidades de profesión?
+
+Map Introduction
+Introducción al mapa
+
+Item Drop Summary
+Resumen de caída de artículos
+
+What are the Benefits of the Bonus Attributes Provided by Socketed Gems
+¿Cuáles son los beneficios de los atributos de bonificación proporcionados por las gemas engarzadas?
+
+Pet In-Depth Introduction
+Introducción a las mascotas
+
+What are Fusion Beasts
+¿Qué son las bestias de fusión?
+
+What are the Benefits of Becoming a Tutor
+¿Cuáles son los beneficios de convertirse en mentor?
+
+Marriage In-Depth Introduction
+Introducción sobre el matrimonio
+
+What are the Benefits of Joining a Gang
+¿Cuáles son los beneficios de unirse a una pandilla?
+
+Different levels of combat skills to learn
+Cómo aprender las habilidades de combate
+
+What to do if you receive a harassing message from someone else in the game
+¿Qué hacer si recibes un mensaje de acoso de otra persona en el juego?
+
+The Meanings of Game Sounds
+Los significados de los sonidos del juego
+
+the completeness is {d}%
+Completado $1%
+
+{s}, Each time of repair can get {d}gang contributions; {d}gang points; {d} Arnebia; press to view the description
+{sub2{$1}sub2}, cada vez que repares obtendrás $2 tributo de pandilla, $3 puntos de pandilla y $4 arnebia; Presiona  para ver la descripción
+
+Return to Main mansion
+Regresar al salón principal
+
+Lake Upgrading to level {d} construction; {s}
+Mejora de lago a nivel $1; {sub2{$2}sub2}
+
+Sentry tower Upgrading to level {d} construction; {s}
+Mejora de torre centinela a nivel $1; {sub2{$2}sub2}
+
+Mining area Upgrading to level {d} construction; {s}
+Mejora de mina a nivel $1; {sub2{$2}sub2}
+
+Herbal Garden Upgrading to level {d} construction; {s}
+Mejora de jardín a nivel $1; {sub2{$2}sub2}
+
+Material Storage Upgrading to level {d} construction; {s}
+Mejora de almacén de materiales a nivel $1; {sub2{$2}sub2}
+
+Medicine Storage Upgrading to level {d} construction; {s}
+Mejora de almacén de medicina a nivel $1; {sub2{$2}sub2}
+
+Armory Upgrading to level {d} construction; {s}
+Mejora de armería a nivel $1; {sub2{$2}sub2}
+
+Level {d} mining area construction; west; {s}
+Construcción de mina oeste de nivel $1; {sub2{$2}sub2}
+
+Level {d} mining area construction; East; {s}
+Construcción de mina este de nivel $1; {sub2{$2}sub2}
+
+Level {d} Herbal Garden construction; west; {s}
+Construcción de jardín oeste de nivel $1; {sub2{$2}sub2}
+
+Level {d} Herbal Garden construction; East; {s}
+Construcción de jardín este de nivel $1; {sub2{$2}sub2}
+
+Level {d} Lake construction; west; {s}
+Construcción de lago oeste de nivel $1; {sub2{$2}sub2}
+
+Level {d} Lake construction; East; {s}
+Construcción de lago este de nivel $1; {sub2{$2}sub2}
+
+Level {d} supply camp construction; {s}
+Construcción de campamento de suministros de nivel $1; {sub2{$2}sub2}
+
+Level {d} Magic Cannon Construction; {s}
+Construcción de cañón mágico de nivel $1; {sub2{$2}sub2}
+
+Level {d} mining area construction; west
+Construcción de mina oeste de nivel $1
+
+Level {d} mining area construction; East
+Construcción de mina este de nivel $1
+
+Level {d} Herbal Garden construction; west
+Construcción de jardín oeste de nivel $1
+
+Level {d} Herbal Garden construction; East
+Construcción de jardín este de nivel $1
+
+Level {d} Lake construction; west
+Construcción de lago oeste de nivel $1
+
+Level {d} Lake construction; East
+Construcción de lago este de nivel $1
+
+Level {d} supply camp construction
+Construcción de campamento de suministros de nivel $1
+
+Level {d} Magic Cannon Construction
+Construcción de cañón mágico de nivel $1
+
+Highland construction; {s}
+Construcción de las tierras altas; {sub2{$1}sub2}
+
+leave Wedding Site
+Abandonar el salón de bodas
+
+submit
+Enviar
+
+Exceeds the number of gangs that can add to the alert list
+Excede el número de pandillas que pueden estar en la lista de alertas
+
+You are not the material storehouse administrator
+No eres el administrador del almacén de materiales
+
+You are not the armory administrator
+No eres el administrador de la armería
+
+You are not the medicine storehouse administrator
+No eres el administrador del almacén de medicina
+
+This is the  attempt at this stage, it will be directly success
+Este es el intento en esta etapa en el que el equipo tiene 100% de posibilidades de mejorar
+
+tutor {d}{c}
+Mentor; $2
+
+Required player level {d}
+Se necesita ser nivel $1
+
+Required gang level {d}
+La pandilla tiene que ser nivel $1
+
+Daily cost of maintaining this mission is {d} arnebia
+El costo diario para mantener esta misión es $1 arnebia
+
+Transfer team leader
+Transferir equipo
+
+remove
+Eliminar
+
+no open dungeon
+No hay mazmorras abiertas
+
+{c};{d};Enter the gang lake;{c} {d}, {d}:{d}:{d}, {d}
+$1; $2; Entró al lago de la pandilla; $4 $3 de $8, a las $5:$6:$7
+
+{c};{d};Enter the gang mining area;{c} {d}, {d}:{d}:{d}, {d}
+$1; $2; Entró a la mina de la pandilla; $4 $3 de $8, a las $5:$6:$7
+
+{c};{d};Enter the gang herbal garden;{c} {d}, {d}:{d}:{d}, {d}
+$1; $2; Entró al jardín de la pandilla; $4 $3 de $8, a las $5:$6:$7
+
+you are not the tower keeper
+No eres el guardián de la torre
+
+{c};{d};{s};{s} ; level {d}; own gang player; location: {d};{d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; miembro de la pandilla; ubicación: $6; $7
+
+There are corresponding construction mission, and the construction of the East encampment reinforced construction is closed
+Hay una construcción en curso y la construcción de refuerzo del campamento Este está cerrada
+
+There are corresponding construction mission, and the construction of the West encampment reinforced construction is closed
+Hay una construcción en curso y la construcción de refuerzo del campamento oeste está cerrada
+
+It has been less than half an hour since the last summon, so you cannot summon again
+Ha pasado menos de media hora desde la última invocación, así que por ahora no puedes invocar.
+
+The quality and additional attributes of the material equipment are lower than the equipment to be smelted, smelting failed
+La calidad y los atributos adicionales del equipo usado como material son inferiores a los del equipo a fundir. Fundición fallida.
+
+{d};{s};{s} ;{s}; {s};started at {s} {d}, {d}:{d}:{d}, {d}
+$1; {sub2{$2}sub2}; {sub2{$3}sub2}; {sub2{$4}sub2}; {sub2{$5}sub2}; comenzó el $7 de {sub2{$6}sub2} de $11 a las $8:$9:$10
+
+currently bidding gang points are {d}
+la puja actual es de $1 puntos de pandilla
+
+Open bidding; currently no bids
+Subasta abierta; no hay pujas
+
+currently no bids
+no hay pujas
+
+{s};achievement points {d};Mentorship Points {d}
+{sub2{$1}sub2}; puntos de logro $2; puntos de mentoría $3
+
+Occupied Highlands
+Tierras altas ocupadas
+
+Gang Highlands
+Tierras altas de la pandilla
+
+Declaring war on Highland {d}
+Guerra declarada en la tierra alta $1
+
+Description
+Descripción
+
+{c} Gang's Highland {d}
+Las tierras altas $2, originalmente de la pandilla $1
+
+the own Gang's Highland {d}
+Las tierras altas $1, originalmente de esta pandilla
+
+Highland {d}
+Tierras altas $1
+
+You are not the turret administer
+No eres el administrador de la torreta
+
+Feedback system for plays outside of China. If one of your characters has reached level 15, or you have recharged 100RMB, you can send message from here. One account can send only one message per day. 
+Sistema de soporte para jugadores fuera de China. Si uno de tus personajes ha alcanzado el nivel 15 o has recargado 1000 diamantes, puedes enviar un mensaje desde aquí. Una cuenta puede enviar solo un mensaje por día.
+
+Submit feedback
+Pedir soporte
+
+Choose type
+Elige una opción
+
+have not received cards
+Tarjetas no recibidas
+
+suggestions
+Sugerencias
+
+bugs and problems
+Bugs y problemas
+
+type: {s}
+Tipo: {sub2{$1}sub2}
+
+IF there are bugs in the game, or you have problems in the game, can tell us here. 
+SI hay bugs o tienes algún problema en el juego, puedes informarnos aquí. Nota del traductor: Los mensajes que envíes deberían ser en inglés.
+
+If you recharged in paypal, but have not received cards in 24 hours, you can tell us the paypal transaction EMail here. 
+Si recargaste mediante paypal, pero no has recibido las tarjetas después de 24 horas, puedes indicarnos el correo electrónico y el ID de transacción de paypal aquí. Nota del traductor: Los mensajes que envíes deberían ser en inglés.
+
+If you have any good ideas for this game, can tell us here. 
+Si tienes alguna buena idea para este juego, puedes decírnosla aquí. Nota del traductor: Los mensajes que envíes deberían ser en inglés.
+
+Press for feedback
+Pulsa para escribir un mensaje
+
+My feedback record
+Mi registro de comentarios
+
+{s};Administrator has replied, waiting for further feedback
+{sub2{$1}sub2}; El administrador ha respondido, esperando por más comentarios
+
+Administrator has replied, waiting for further feedback
+El administrador ha respondido, esperando por más comentarios
+
+{s};In progress, waiting for administrator to reply
+{sub2{$1}sub2}; En progreso, esperando que el administrador responda
+
+In progress, waiting for administrator to reply
+En progreso, esperando que el administrador responda
+
+{s};Closed
+{sub2{$1}sub2}; Cerrado
+
+Closed
+Cerrado
+
+Aim at {c} gang area
+Apuntar al área de la pandilla $1
+
+Aim at other highlands
+Apuntar a otras tierras altas
+
+{d}; {c}; leader: {c}; has {d} Gang Highlands and {d} occupied Highlands
+$1; $2; Líder: $3; tiene $4 tierras altas construídas y $5 tierras altas ocupadas
+
+highland {d}, the completeness of crystal turret is {d}%; the completeness of Wall barricade is {d}%
+Tierra alta $1, la torreta de cristal está al $2%; la barricada está al $3%
+
+Hit Crystal Turret
+Disparar a la torreta de cristal
+
+Hit Wall barricade
+Disparar a la barricada
+
+Highland {d}; {d} days remaining in the protection period
+Tierra alta $1; le quedan $2 días del período de protección
+
+You are going to sell {s}, the price is {d} gold coins, the listing is valid within ten minutes, and a 5% handling fee will be deducted after the successful sale. Are you sure you want to continue{s}
+Vas a vender {sub2{$1}sub2} por $2 monedas de oro. Los objetos estarán a la venta por 10 minutos. Se deducirá un 5% del precio después de que se concrete la venta. ¿Confirmas que quieres continuar$3
+
+wanted{s}; {d};not online;  times remaining, time {d} days {d} hours {d} minutes {d} seconds 
+Cazando a $1; $2; desconectado; veces restantes, tiempo restante $3 días, $4 horas, $5 minutos y $6 segundos
+
+wanted{s}; {d};online;  times remaining, time {d} days {d} hours {d} minutes {d} seconds 
+Cazando a $1; $2; conectado; veces restantes, tiempo restante $3 días, $4 horas, $5 minutos y $6 segundos
+
+wanted{s}; {d};not online;  times remaining, time {d} hours {d} minutes {d} seconds 
+Cazando a $1; $2; desconectado; veces restantes, tiempo restante $3 horas, $4 minutos y $5 segundos
+
+wanted{s}; {d};online;  times remaining, time {d} hours {d} minutes {d} seconds 
+Cazando a $1; $2; conectado; veces restantes, tiempo restante $3 horas, $4 minutos y $5 segundos
+
+wanted{s}; {d};not online;  times remaining, time {d} minutes {d} seconds 
+Cazando a $1; $2; desconectado; veces restantes, tiempo restante $3 minutos y $4 segundos
+
+wanted{s}; {d};online;  times remaining, time {d} minutes {d} seconds 
+Cazando a $1; $2; conectado; veces restantes, tiempo restante $3 minutos y $4 segundos
+
+wanted{s}; {d};not online;  times remaining, time {d} seconds 
+Cazando a $1; $2; desconectado; veces restantes, tiempo restante $3 segundos
+
+wanted{s}; {d};online;  times remaining, time {d} seconds 
+Cazando a $1; $2; conectado; veces restantes, tiempo restante $3 segundos
+
+You've repaired the crystal turret today
+Hoy ya reparaste la torreta de cristal
+
+Highland {d}; under attack
+Tierra alta $1; bajo ataque
+
+The highland originally owned by the {c} Gang; now occupied by the {c}
+Tierra alta originalmente construida por la pandilla $1, ahora ocupada por la pandilla $2
+
+Start time: {d}:{d}, {s} 
+Hora de inicio: $1:$2, {sub2{$3}sub2}
+
+Players who want to participate in the battle should press here to enter the highland 2 to 10 minutes before the start of the war
+Los jugadores que quieran participar en la batalla deben pulsar aquí para entrar a las tierras altas de 2 a 10 minutos antes del comienzo
+
+Enter the highland
+Entrar a la tierra alta
+
+{s} for sale, the price is {d} gold coins; press to buy
+A la venta {sub2{$1}sub2} por $2 monedas de oro. Presiona para comprar
+
+Are you sure you want to use {d} gold coins to buy this player's {s}{s}
+¿Confirmas que quieres usar $1 monedas de oro para comprarle {sub2{$2}sub2} a este jugador$3
+
+have not received cards;Finished
+Tarjetas no recibidas; resuelto
+
+Select the option below, press Enter to open the payment page, and after payment, we will email you the game point card. 
+Selecciona la opción a continuación, pulsa enter para abrir la página de pago y, después del pago, te enviaremos por correo electrónico la tarjeta de puntos.
+
+To avoid not receiving a Point Card, please add our email address paypal@rgong.com to your email whitelist or contacts.
+Para asegurarte de recibir la tarjeta de puntos, agrega nuestra dirección de correo electrónico paypal@rgong.com a tu lista blanca o contactos de correo electrónico.
+
+If you have not received your Point Card within 24 hours, please submit your feedback in the feedback section with your PayPal email address and transaction ID. Don't worry, Point Card doesn't expire, you can always submit feedback to us and we'll deal with it promptly.
+Si no has recibido tu tarjeta de puntos después de 24 horas, solicita soporte en la sección de soporte con tu dirección de correo electrónico de PayPal y tu ID de transacción. No te preocupes, la tarjeta de puntos no caduca, siempre puedes enviarnos tus comentarios y nos ocuparemos de ello de inmediato.
+
+Welcome to our website to download game-related resources.
+Bienvenido a nuestro sitio web para descargar recursos relacionados con el juego.
+
+Click here to go to the Mist World website
+Haz clic aquí para ir al sitio web de Mist World
+
+Click here to copy the Mist World website URL
+Haz clic aquí para copiar la URL del sitio web de Mist World
+
+The level of the equipment is too high to be repaired
+El nivel de este equipo es muy alto para ser reparado
+
+{c};{d};{s};{s} ; level {d}; Foreign player; location: {d};{d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; jugador externo; ubicación: $6; $7
+
+Aim at the main mansion
+Apuntar al salón principal
+
+Aim at the lake
+Apuntar al lago
+
+Aim at the minning area
+Apuntar a la mina
+
+Aim at the herbal garden
+Apuntar al jardín
+
+{c} lake; currently {d} people online
+Lago de $1; actualmente $2 personas en línea
+
+{c} main mansion; currently {d} people online
+Salón principal de $1; actualmente $2 personas en línea
+
+{c};{d}; in non-shelled areas;{c};{c} ; level {d}; own gang player
+$1;$2; en zona no bombardeable;{sub2{$3}sub2}; {sub2{$4}sub2} ; nivel $5; jugador de la pandilla
+
+agree
+Aceptar
+
+Point card recharge
+Recarga de tarjeta de puntos
+
+Please enter the point card ID
+Introduce el ID de la tarjeta de puntos
+
+Please enter the point card password
+Introduce la contraseña de la tarjeta de puntos
+
+Feedback submitted
+Comentarios enviados
+
+Please fill in the feedback content, the length is 20 to 1000 characters
+Introduce tu mensaje, la longitud debe ser entre 20 y 1000 caracteres
+
+Pet name: {s} {s}
+Nombre de la mascota: {sub2{$1}sub2} {sub2{$2}sub2}
+
+No graduated pupil
+No tienes pupilos graduados
+
+hunting record
+Registro de cacerías
+
+Heroes
+Héroes
+
+heroic Gangs
+Pandillas heroicas
+
+{s} hunt records; page {d}
+Registro de cacerías de {sub2{$1}sub2}; página $2
+
+{d};{c};{s};{s} ; hunted at {s} {d}, {d}:{d}:{d}, {d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; lo cazó el $6 de {sub2{$5}sub2} de $10 a las $7:$8:$9
+
+{s} Hunt Heroes List; updated at {s} {d}, {d}:{d}:{d}, {d}
+Lista de héroes que cazaron a {sub2{$1}sub2}; actualizada el $3 de {sub2{$2}sub2} de $7, a las $4:$5:$6
+
+{d};{c};{s};{s} ; hunts {d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 cacerías
+
+{s} Hunt gangs List; updated at {s} {d}, {d}:{d}:{d}, {d}
+Lista de pandillas que cazaron a {sub2{$1}sub2}; actualizada el $3 de {sub2{$2}sub2} de $7, a las $4:$5:$6
+
+{d};{c} gang; hunts {d}
+$1; pandilla $2; $3 cacerías
+
+Exceeds available quantity
+Excede la cantidad permitida
+
+Forcibly severing ties can only take effect when the pupil has not been online for seven consecutive days. After it takes effect, you will receive 50% of the accumulated mentoring points. Are you sure you want to sever ties with pupil {c} directly{s}
+Solo se pueden cortar lazos a la fuerza cuando el pupilo no se haya conectado durante 7 días consecutivos. Una vez se efectúe, recibirás el 50% de los puntos de mentoría acumulados. ¿Confirmas que quieres cortar lazos definitivamente con tu pupilo $1$2
+
+{d};{c};{d};{s};{s} took at level {d}, on {s} {d}, {d}:{d}:{d}, {d}; graduated at level {d}, on {s} {d}, {d}:{d}:{d}, {d}
+$1; $2; $3; {sub2{$4}sub2}; {sub2{$5}sub2}; lo tomaste como pupilo siendo nivel $6 el $8 de {sub2{$7}sub2} del $12 a las $9:$10:$11, y se graduó siendo nivel $13 el $15 de {sub2{$14}sub2} de $19 a las $16:$17:$18
+
+equipment storage is full
+El almacén de equipos está lleno
+
+closed
+Desactivada
+
+Exceeding the number of shelves of the {s}
+Excede el número de estanterías disponibles del {sub2{$1}sub2}
+
+public area drop {d} hours  remaining
+Quedan $1 horas de caída de recompensas en áreas públicas
+
+public area drop {d} hours {d} minutes {d} seconds  remaining
+Quedan $1 horas, $2 minutos y $3 segundos de caída de recompensas en áreas públicas
+
+Are you sure you want to start the {s} Construction{s}
+¿Confirmas que quieres iniciar la construcción de {sub2{$1}sub2}$2
+
+Are you sure you want to start the {s} construction{s}
+¿Confirmas que quieres iniciar la construcción de {sub2{$1}sub2}$2
+
+Today remaining {d} daily adventure points;participated in: Solo Arena Fight {d}; Duo Arena Fight {d}; Trio Tactical Battle {d}; 5-player Tactical Battle {d};public area drop {d} seconds  remaining
+Quedan $1 puntos de aventura diarios; Participaste en $2 arenas individuales; $3 arenas en parejas; $4 batallas tácticas de 3 jugadores; $5 batallas tácticas de cinco jugadores; quedan $6 segundos de caída de recompensas en áreas públicas
+
+Are you sure you want to merge this item into the latest similar item?
+¿Confirmas que quieres combinar este objeto con el objeto similar más reciente?
+
+{d};{d} {s}; restricted
+$1; $2 {sub2{$3}sub2}; no se puede comerciar
+
+merge
+Combinar
+
+Launch auction
+Subastar
+
+Put into the Medicine Storage
+Colocar en el almacén de medicina
+
+delete
+Eliminar
+
+added at {s} {d}, {d}:{d}:{d}, {d}
+Añadido el $2 de {sub2{$1}sub2} de $6 a las $3:$4:$5
+
+Merged
+Combinado
+
+Put it in the Armory
+Colocar en la armería
+
+Are you sure you want to delete this contact?
+¿Confirmas que quieres eliminar a este contacto?
+
+Deleted
+Eliminado
+
+Declaring war costs {d} arnebia; Are you sure you want to declare war on the highland{s}
+Declarar la guerra cuesta $1 arnebia. ¿Confirmas que quieres declarar guerra en las tierras altas$2
+
+Highland {d}; crystal turret completeness {d}%; Wall barrier completeness {d}%
+Tierras altas $1; la torreta de cristal está al $2%; la barricada está al $3%
+
+{c};{d};{s};{s} ; level {d}; Cumulative Mentorship points {d};last logged in;{s} {d}, {d}:{d}:{d}, {d};{s}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 puntos de mentor acumulados; último acceso; $7 de {sub2{$6}sub2} de $11, $8:$9:$10; {sub2{$12}sub2}
+
+Pupil is applying to sever ties, there are {d} days {d} hours {d} minutes {d} seconds  before it takes effect
+El pupilo quiere cortar lazos. Esto se hará efectivo en $1 días, $2 horas, $3 minutos y $4 segundos
+
+Agree to sever
+Aceptar cortar lazos
+
+Are you sure you want to agree to sever ties? After severing ties, you will get 60% of the pupil's accumulated mentoring points
+¿Confirmas que quieres aceptar cortar lazos? Después de cortar lazos obtendrás el 60% de los puntos de mentoría acumulados
+
+You've repaired the Wall barricade today
+Hoy ya reparaste la barricada
+
+Level {d} Armory construction
+Construcción de armería de nivel $1
+
+{c};{d};{s};{s} ; level {d}; Allied gang player; location: {d};{d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; jugador de pandilla aliada; ubicación: $6; $7
+
+Pharmaceutical tax rate for {s}: {d}%
+Tasa de impuesto a la farmacia para {sub2{$1}sub2}: $2%
+
+Cooking tax rate for {s}: {d}%
+Tasa de impuesto a la cocina para {sub2{$1}sub2}: $2%
+
+Equipment Enhancing tax rate for {s}: {d}%
+Tasa de impuesto a la mejora de equipo para {sub2{$1}sub2}: $2%
+
+Equipment making tax rate for {s}: {d}%
+Tasa de impuesto a la fabricación de equipo para {sub2{$1}sub2}: $2%
+
+Gem synthesis tax rate for {s}: {d}%
+Tasa de impuesto a la síntesis de gemas para {sub2{$1}sub2}: $2%
+
+Gem socketing tax rate for {s}: {d}%
+Tasa de impuesto a la elaboración de engarces para {sub2{$1}sub2}: $2%
+
+Gang construction tax rate: {d}%
+Tasa de impuesto a la construcción de la pandilla: $1%
+
+Joined
+Añadido
+
+nothing newer
+Nada más nuevo
+
+Are you sure you want to put this item in the gang Medicine Storage?
+¿Confirmas que quieres poner este objeto en el almacén de medicina?
+
+saved
+Guardado
+
+The potion exceeds the storage quantity
+Las pociones exceden la cantidad que se puede almacenar
+
+Level {d} Material Storage construction
+Construcción del almacén de materiales de nivel $1
+
+Please select an appointment
+Por favor selecciona un cargo
+
+internal affairs elder
+Mayor de asuntos internos
+
+foreign affairs elder
+Mayor de relaciones exteriores
+
+development elder
+Mayor de desarrollo
+
+war elder
+Mayor de guerra
+
+public area drop {d} minutes {d} seconds  remaining
+Quedan $1 minutos y $2 segundos de caída de recompensas en áreas públicas
+
+Being declared war by the {c} gang
+La pandilla $1 declaró la guerra por ellas
+
+Level {d} Sentry tower construction
+Construcción de torre centinela de nivel $1
+
+none
+Ninguno
+
+{c};Join time: {s} {d}, {d}:{d}, {d}
+$1; se unió el $3 de {sub2{$2}sub2} de $7 a las $4:$5:$6
+
+Join time: {s} {d}, {d}:{d}, {d}
+Se unió el $2 de {sub2{$1}sub2} de $6 a las $3:$4:$5
+
+Are you sure you want to abdicate and hand over the gang leader to {c}{s}
+¿Confirmas que quieres abdicar y entregarle el liderato de la pandilla a $1$2
+
+This member has been in the gang for less than ten days
+Este miembro no ha cumplido 10 días en la pandilla
+
+No items
+Sin objetos
+
+Today remaining {d} daily adventure points;participated in: Solo Arena Fight {d}; Duo Arena Fight {d}; Trio Tactical Battle {d}; 5-player Tactical Battle {d};public area drop {d} minutes {d} seconds  remaining
+Quedan $1 puntos de aventura diarios; Participaste en $2 arenas individuales; $3 arenas en parejas; $4 batallas tácticas de 3 jugadores; $5 batallas tácticas de cinco jugadores; quedan $6 minutos y $7 segundos de caída de recompensas en áreas públicas
+
+There is already an internal affairs elder
+Ya hay un mayor de asuntos internos
+
+This equipment cannot be taken out until level {d}
+No puedes retirar este equipo hasta ser nivel $1
+
+Study construction
+Construcción del estudio
+
+{d}; {c}; level {d}; leader: {c}; has {d} members
+$1; $2; nivel $3; líder $4; tiene $5 miembros
+
+Aim at the mining area
+Apuntar al área de minado
+
+Completed {d}%
+Completada $1%
+
+{c} group; Has joined; Deadline: {s} {d}, {d}; members {d};You are an common member
+Canal $1; te uniste; termina el $3 de {sub2{$2}sub2} de $4; miembros $5; eres un miembro común
+
+You are not the administrator of this herbal garden
+No eres el administrador de este jardín
+
+Need to build 1 gang highlands
+Requiere construir unas tierras altas
+
+{d}; {c}, {d}, Sorcerer
+$1; $2; $3; hechicero
+
+{d}; {c}, {d}, Sorceress
+$1; $2; $3; hechicera
+
+{d}; {c}, {d}, Hunter
+$1; $2; $3; cazador
+
+{d}; {c}, {d}, Warrior
+$1; $2; $3; guerrero
+
+{d}; {c}, {d}, Assassin
+$1; $2; $3; asesino
+
+{d}; {c}, {d}, Mage
+$1; $2; $3; mago
+
+{d}; {c}, {d}, Priest
+$1; $2; $3; sacerdote
+
+{d}; {c}, {d}, Elf
+$1; $2; $3; elfo
+
+{d}; {c}, {d}, Orc
+$1; $2; $3; orco
+
+Applying ({d})
+Solicitudes ($1)
+
+Dissolve Group
+Disolver canal
+
+{c} group; Has joined; Deadline: {s} {d}, {d}; members {d};You are the group leader
+Canal $1; te uniste; termina el $3 de {sub2{$2}sub2} de $4; miembros $5; eres líder del canal
+
+mining area current saturation {d}%
+La mina tiene un $1% de saturación
+
+Breeding room construction
+Construcción del criadero
+
+{c};{d};{s};{s} ; Cumulative Mentorship points {d}; online
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; $5 puntos de mentoría acumulados; en línea
+
+You already have a gang
+Ya tienes una pandilla
+
+{c};{d};dug mining area magnetic car;{s} {d}, {d}:{d}:{d}, {d}
+$1; $2; desenterró el carro magnético de la mina; $4 de {sub2{$3}sub2} de $8, a las $5:$6:$7
+
+mining area saturation {d};magnetic car sturdiness {d}; magnetic car saturation {d};location: {d};{d}
+Saturación de la mina $1; robustez del carro magnético $2; saturación del carro magnético $3; ubicación: $4; $5
+
+mining area saturation {d}
+Saturación de la mina $1
+
+magnetic car sturdiness {d}; magnetic car saturation {d}
+Robustez del carro magnético $1; saturación del carro magnético $2
+
+location: {d};{d}
+Ubicación: $1; $2
+
+No material
+No hay material
+
+The player is no longer online
+Ese jugador no está conectado
+
+The player has been hunted within 10 days, and cannot be hunted again
+Ese jugador ha sido cazado hace menos de 10 días. No puede ser cazado de nuevo hasta entonces.
+
+no mutation;assets range {d} to {d}
+Sin mutación; rango de estadísticas $1 a $2
+
+ is in the {s}
+está en {sub2{$1}sub2}
+
+{c};{d};{s}; {s} ; level {d}; Press g to check information
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; Presiona G para ver su información
+
+{c};{d};{n};{n} ; level {d}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5
+
+{c};{d};{s};{n} ; level {d};{n}
+$1; $2; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5; {sub2{$6}sub2}
+
+{c};{d};leader;{s};{s} ; level {d}
+$1; $2; líder; {sub2{$3}sub2}; {sub2{$4}sub2}; nivel $5
+
+sent
+Enviado
+
+This map disables transferring items. Please use the operation menu to leave
+Este mapa prohibe el uso de objetos de teletransportación. Por favor usa el menú de acciones para salir.
+
+already fired today
+Hoy ya se disparó
+
+The private channel group administrator has rejected your application
+El administrador del canal privado ha rechazado tu solicitud.
+
+Not online
+No conectado
+
+Pets below level 30 cannot use skill crystal
+Las mascotas que tengan un nivel inferior a 30 no pueden usar cristales de habilidades
+
+Exceeded the maximum number of collected items that one member can take out per day
+Excede el número de objetos de recolección que un miembro puede retirar por día
+
+You have applied to take pupil for three times within one hour, and cannot continue to apply
+Has intentado tomar un pupilo tres veces en una hora. Debes esperar antes de volver a intentarlo.
+
+exchange of commemorative medals for competitions; Limited to level 70 and above
+Canjear fichas de las competencias por medallas; limitado a jugadores de nivel 70 o superior
+
+The tokens obtained by the competition can be exchanged for different competition medals, please submit the tokens you have obtained first, and you need to submit 4 identical tokens each time, and then you can receive the competition medals. The more the number of identical tokens submitted cumulatively, the higher the corresponding medal level.
+Las fichas obtenidas en la competencia se pueden canjear por diferentes medallas. Primero envía las fichas que has obtenido (tienes que tener 4 fichas idénticas cada vez) y luego podrás recibir las medallas de la competencia. Cuanto mayor sea el número de fichas idénticas enviadas acumulativamente, mayor será el nivel de medalla correspondiente.
+
+Submit the Star Token
+Enviar ficha de estrella
+
+Get the Order of the Star
+Recibir medalla de estrella
+
+Submit the Moon Token
+Enviar ficha de luna
+
+Get the Order of the Moon
+Recibir medalla de luna
+
+Please select the token you want to submit
+Selecciona la ficha que quieres enviar
+
+{s}; press enter submit
+{sub2{$1}sub2}; pulsa enter para enviar
+
+{s} submitted
+{sub2{$1}sub2} enviada
+
+Please select the medal you want to receive
+Selecciona la medalla que quieres recibir
+
+{s}; press enter get
+{sub2{$1}sub2}; presiona enter para recibirla
+
+Received the {s}
+Has recibido la medalla {sub2{$1}sub2}
+
+There are no moon medals that can be claimed yet
+Todavía no hay ninguna medalla de luna que puedas reclamar
+
+There are no star medals that can be claimed yet
+Todavía no hay ninguna medalla de estrella que puedas reclamar
+
+enough Star Tokens
+suficientes fichas de estrella
+
+enough Moon Tokens
+suficientes fichas de luna
+
+The gang points are insufficient, and the bid fails
+Los puntos de gang son insuficientes, tu puja ha fallado
+
+Demon Domain description
+Descripción del Dominio Demoníaco
+
+The entrance to the Demon Domain opens at 2:00, 10:00 and 18:00 UTC0 every day. To enter the Demon Domain, you need to join a gang, and each person can enter once a day.
+La entrada al Dominio Demoníaco se abre a las 2:00, 10:00 y 18:00 UTC0 todos los días. Para ingresar al Dominio Demoníaco, debes pertenecer a una pandilla. Cada persona puede ingresar una vez al día.
+
+The terrain of the Demon Domain is dangerous, and there are demonized bosses gathered in it. They are much stronger than before, and all gang members have to to work together to kill the bosses.
+El terreno del Dominio Demoníaco es peligroso y hay jefes demonizados reunidos en él. Son mucho más fuertes que antes y todos los miembros de la pandilla tienen que trabajar juntos para matar a los jefes.
+
+When a boss dies, the gang which has the player with the highest Threat in the boss's hostile list can get the killing treasure boxes. Every member of that gang in the Demon Domain at that time can get a treasure box, Each gang has a chance to obtain a treasure chest when the entrance to the Demon World is open. Therefore, each gang can choose a time that suits them to enter among the three open time periods every day. Please pick up the dropped treasure box in time, if you don't pick it up for a long time, the treasure box will disappear.
+Cuando un jefe muere, la pandilla que tiene a uno de sus miembros en la primera posición en la lista hostil del jefe obtendrá los cofres del tesoro. Todos los miembros de esa pandilla en el Dominio Demoníaco en ese momento recibirán un cofre del tesoro, pero cada pandilla tiene una sola oportunidad para obtenerlo cada vez que la entrada al Mundo Demoníaco esté abierta. Por tanto, cada pandilla puede elegir el horario que más le convenga para entrar entre los tres horarios disponibles cada día. Abre el cofre del tesoro a tiempo; si no lo haces durante mucho tiempo, el cofre del tesoro desaparecerá.
+
+It should be noted that when the treasure chests drop, No matter where the gang members are, the treasure chests will drop in front of them, but only gang members who are in a surviving state can get them. 
+Cabe señalar que cuando caen los cofres del tesoro, no importa dónde estén los miembros de la pandilla, los cofres del tesoro caerán frente a ellos. No obstante, solo los miembros de la pandilla que estén con vida podrán abrirlos.
+
+Enter the Demon Domain
+Entrar al Dominio Demoníaco
+
+leave Demon Domain
+Abandonar el Dominio Demoníaco
+
+No application to join the team
+No hay ninguna solicitud para unirse al equipo
+
+Content is too long
+El contenido es demasiado largo
+
+Add to friends
+Añadir a amigos
+
+Sent, waiting for the player to reply
+Enviado, esperando que el jugador responda
+
+You are already friends.
+Ya son amigos
+
+Already applying
+Ya le has enviado una solicitud
+
+information
+Información
+
+delete friend
+Eliminar amigo
+
+friends
+Amigos
+
+Find friends
+Buscar amigos
+
+Please enter player ID
+Por favor introduce el ID del jugador
+
+Block list
+Lista de bloqueados
+
+Application: {d}
+Solicitudes: $1
+
+Accept to be friends
+Aceptar ser amigos
+
+Reject to be friends
+Rechazar ser amigos
+
+Add to block list
+Añadir a la lista de bloqueados
+
+List is empty
+La lista está vacía
+
+invite
+Invitar
+
+Invite friends
+Invitar amigos
+
+Inviting Gang Members
+Invitar miembros de la pandilla
+
+Invitation sent
+Invitación enviada
+
+This player is already in a team
+Este jugador ya está en un equipo
+
+{c} invites you to join the "{c}" team. Do you want to accept it{s}
+$1 te invita a unirte al equipo "$2". ¿Aceptas$3
+
+This player is busy
+Este jugador está ocupado
+
+No friends yet
+Sin amigos todavía
+
+Are you sure you want to add this player to the block list?
+¿Confirmas que quieres agregar este jugador a la lista de bloqueados?
+
+Remove from block list
+Eliminar de la lista de bloqueados
+
+The number of friends has reached the upper limit
+Se ha alcanzado el límite de número de amigos
+
+Are you sure you want to delete your friend {c}{s}
+¿Confirmas que quieres eliminar a tu amigo $1$2
+
+Blocking setting
+Configuración de bloqueo de mensajes
+
+You have not blocked this player, please choose
+No has bloqueado a este jugador, por favor selecciona
+
+Block friend application
+Bloquear solicitudes de amistad
+
+Block friend application and chat messages
+Bloquear solicitudes de amistad y mensajes
+
+Block friend application and chat message
+Bloquear solicitudes de amistad y mensajes
+
+You have blocked this player's friend application, please choose
+Has bloqueado las solicitudes de amistad provenientes de este jugador, por favor selecciona
+
+You have blocked this player's friend application and chat messages, please choose
+Has bloqueado las solicitudes de amistad y los mensajes provenientes de este jugador, por favor selecciona
+
+Unblock chat messages
+Desbloquear mensajes de chat
+
+Block chat messages
+Bloquear mensajes de chat
+
+Moved out
+Eliminado
+
+Set chat channel group
+Configurar canales grupales
+
+Switch international channel group
+Cambiar entre grupos de canal internacional
+
+View all international channel groups
+Ver todos los grupos de canal internacional
+
+Switch private channel group
+Cambiar entre grupos de canal privado
+
+View all private channel groups
+Ver todos los grupos de canal privado
+
+The group has expired; the group will be cancelled after 10 days of expiration
+El grupo ha caducado. Será cancelado 10 días después de la fecha de vencimiento
+
+The channel group has expired and cannot send messages
+El canal del grupo ha caducado, no puedes enviar mensajes
+
+Iron Beetle Crystal; limited to Level 45 exchange; requires 12 Ironclad crystal, 18 Greenleaf Fish, 16 Bigmouth Fish, 14 Red Shrimp; A crystal containing a Iron Beetle(Fierce Fusion Beast). You can use it to transform into a Iron Beetle. Requires Level 45; increases 3000 max HP, 4000 max MP, 29 Physical attacks, 27 Magic attacks, 19 physical defense, 18 magic defense. 
+Cristal de Escarabajo de Hierro; limitado a jugadores de nivel 45 o superior; requiere 12 cristales acorazados, 18 pez hoja, 16 pez de boca grande y 14 camarones rojos; Un cristal que contiene un Escarabajo de Hierro (bestia de fusión de combate). Puedes usarlo para transformarte en un escarabajo de hierro. Requiere Nivel 45; aumenta 3000 puntos de salud máxima, 4000 puntos de mana máximo, 29 ataque físico, 27 ataque mágico, 19 defensa física, 18 defensa mágica.
+
+Firefly Crystal; limited to Level 50 exchange; requires 16 Glowstone, 21 Licorice, 19 Destruction Weeds, 17 Wild Chrysanthemum; A crystal containing a Firefly (Fierce Fusion Beast). You can use it to transform into a Firefly. Requires Level 50; increases 3500 max HP, 4800 max MP, 33 Physical attacks, 32 Magic attacks, 22 physical defense, 21 magic defense. 
+Cristal de Luciérnaga; limitado a jugadores de nivel 50 o superior; requiere 16 fluorita, 21 regaliz, 19 maleza destructiva y 17 crisantemos salvajes; Un cristal que contiene una luciérnaga (bestia de fusión de combate). Puedes usarlo para transformarte en una luciérnaga. Requiere Nivel 50; aumenta 3500 puntos de salud máxima, 4800 puntos de mana máximo, 33 ataque físico, 32 ataque mágico, 22 defensa física, 21 defensa mágica.
+
+Werewolf Crystal; limited to Level 65 exchange; requires 19 Crystal Wolf Teeth, 19 Werewolf Soul Orb, 24 Spring grass, 22 Acacia Bean, 20 Lantern Flower; A crystal containing a Werewolf (Fierce Fusion Beast). You can use it to transform into a Werewolf. Requires Level 65; increases 6000 max HP, 8100 max MP, 57 Physical attacks, 56 Magic attacks, 38 physical defense, 37 magic defense. 
+Cristal de Hombre Lobo; limitado a jugadores de nivel 65 o superior; requiere 19 dientes de cristal de lobo, 19 orbes de alma del hombre lobo, 24 césped primaveral, 22 abas de acacias y 20 linternas chinas; Un cristal que contiene un Hombre Lobo (bestia de fusión de combate). Puedes usarlo para transformarte en un hombre lobo. Requiere Nivel 65; aumenta 6000 puntos de salud máxima, 8100 puntos de mana máximo, 57 ataque físico, 56 ataque mágico, 38 defensa física, 37 defensa mágica.
+
+Sea Spirit Crystal; limited to Level 65 exchange; requires 19 Crystal coral, 19 Sea Spirit Soul Orb, 39 Crystal Fish, 36 Scallop, 33 Pink Fish; A crystal containing a Sea Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Sea Spirit. Requires Level 65; increases 6000 max HP, 8100 max MP, 57 Physical attacks, 56 Magic attacks, 38 physical defense, 37 magic defense. 
+Cristal de Espíritu del Mar; limitado a jugadores de nivel 65 o superior; requiere 19 corales de cristal, 19 orbes de alma del Espíritu Marino, 39 peces de cristal, 36 vieiras y 33 peces rosados; Un cristal que contiene un Espíritu Guardián del Mar (bestia de fusión de combate). Puedes usarlo para obtener el aspecto del espíritu Guardián del mar. Requiere Nivel 65; aumenta 6000 puntos de salud máxima, 8100 puntos de mana máximo, 57 ataque físico, 56 ataque mágico, 38 defensa física, 37 defensa mágica.
+
+Nightmare Beast Crystal; limited to Level 70 exchange; requires 19 White Bone Piece, 19 Nether Fire, 33 Dancing Grass, 27 Albizia Flower, 26 Edelweiss; A crystal containing a Nightmare Beast Swift Fusion Beast. You can use it to transform into a Nightmare Beast. Requires Level 70，increases 1.6 movement speed, 7130 max HP, 9650 max MP, 44 physical defense, 43 magic defense; additional effect: you cannot use any skill.
+Cristal de Bestia de Pesadilla; limitado a jugadores de nivel 70 o superior; requiere 19 pedazos de hueso blanco, 19 fuegos abisales, 33 césped danzarín, 27 Acacias de flores sedosas y 26 flores de las nieves; Un cristal que contiene una Bestia de Pesadilla (bestia de fusión de velocidad). Puedes usarlo para transformarte en una Bestia de Pesadilla. Requiere nivel 70, aumenta 1.6 la velocidad de movimiento, 7130 puntos de salud máxima, 9650 puntos de mana máxima, 44 defensa física, 43 defensa mágica; efecto adicional: no puedes usar ninguna habilidad.
+
+Minotaur Crystal; limited to Level 85 exchange; requires 32 Crystal horn, 32 Minotaur Soul Orb, 30 Milkfish, 28 Bullfrog, 25 Blue Goldfish; A crystal containing a Minotaur (Fierce Fusion Beast). You can use it to transform into a Minotaur. Requires Level 80; increases 10000 max HP, 13600 max MP, 95 Physical attacks, 92 Magic attacks, 63 physical defense, 61 magic defense. 
+Cristal de Minotauro; limitado a jugadores de nivel 85 o superior; requiere 32 cuernos de cristal, 32 orbes de alma de minotauro, 30 sabalotes, 28 ranas toro y 25 peces dorados azules; Un cristal que contiene un Minotauro (Bestia de fusión de combate). Puedes usarlo para transformarte en un Minotauro. Requiere Nivel 80; aumenta 10000 puntos de salud máxima, 13600 puntos de mana máximo, 95 ataque físico, 92 ataque mágico, 63 defensa física, 61 defensa mágica.
+
+Blood spirit Crystal; limited to Level 85 exchange; requires 32 Blood of Source, 32 Blood Spirit Soul Orb, 28 Long-age Turtle, 24 Mitten Crab, 23 Flying Fish; A crystal containing a Blood Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Blood Spirit. Requires Level 80; increases 10000 max HP, 13600 max MP, 95 Physical attacks, 92 Magic attacks, 63 physical defense, 61 magic defense. 
+Cristal de Espíritu de la Sangre; limitado a jugadores de nivel 85 o superior; requiere 32 fuentes de sangre, 32 orbes de alma del espíritu de sangre, 28 tortugas viejas, 24 cangrejos manopla y 23 peces voladores; Un cristal que contiene un Espíritu Guardián de la Sangre (bestia de fusión de combate). Puedes usarlo para obtener el aspecto del espíritu guardián de la sangre. Requiere Nivel 80; aumenta 10000 puntos de salud máxima, 13600 puntos de mana máximo, 95 ataque físico, 92 ataque mágico, 63 defensa física, 61 defensa mágica.
+
+Fire-Capped Tit Crystal; limited to Level 90 exchange; requires 36 Flame Feather, 36 Fire-capped tit soul orb, 16 Thorium ore, 16 Black Crystal ore, 15 Black Iron ore; A crystal containing a Fire-Capped Tit Swift Fusion Beast. You can use it to transform into a Fire-Capped Tit. Requires Level 90，increases 2.4 movement speed, 16800 max HP, 22800 max MP, 105 physical defense, 102 magic defense; additional effect: you cannot use any skill.
+Cristal de Gorrión de Cabeza Llameante; limitado a jugadores de nivel 90 o superior; requiere 36 plumas llameantes, 36 orbes de alma del Gorrión de Cabeza Llameante, 16 mineral de torio, 16 mineral de cristal negro y 15 mineral de hierro negro; Un cristal que contiene un Gorrión de Cabeza Llameante (bestia de fusión de velocidad). Puedes usarlo para transformarte en un Gorrión de Cabeza Llameante. Requiere nivel 90, aumenta 2.4 la velocidad de movimiento, 16800 puntos de salud máxima, 22800 puntos de mana máxima, 105 defensa física, 102 defensa mágica; efecto adicional: no puedes usar ninguna habilidad.
+
+Mammoth Crystal; limited to Level 95 exchange; requires 43 Crystal ivory, 43 Mammoth Soul Orb, 21 Golden bean, 20 Maltiflower, 19 Honeysuckle; A crystal containing a Mammoth (Fierce Fusion Beast). You can use it to transform into a Mammoth. Requires Level 90; increases 14200 max HP, 19300 max MP, 134 Physical attacks, 131 Magic attacks, 89 physical defense, 87 magic defense. 
+Cristal de Mamut; limitado a jugadores de nivel 95 o superior; requiere 43 marfiles de cristal, 43 orbes de alma de mamut, 21 frígoles pintos, 20 margaritas y 19 madreselvas; Un cristal que contiene un Mamut (bestia de fusión de combate). Puedes usarlo para transformarte en un Mamut. Requiere Nivel 90; aumenta 14200 puntos de salud máxima, 19300 puntos de mana máximo, 134 ataque físico, 131 ataque mágico, 89 defensa física, 87 defensa mágica.
+
+Flame Spirit Crystal; limited to Level 95 exchange; requires 43 Seed of Blaze, 43 Flame Spirit Soul Orb, 28 Lobster, 27Map Turtle, 25 Puffer Fish; A crystal containing a Flame Spirit (Fierce Fusion Beast). You can use it to obtain the aspect of Flame Spirit. Requires Level 90; increases 14200 max HP, 19300 max MP, 134 Physical attacks, 131 Magic attacks, 89 physical defense, 87 magic defense. 
+Cristal de Espíritu de las Llamas; limitado a jugadores de nivel 95 o superior; requiere 43 semillas de fuego, 43 orbes de alma del Espíritu de la Llama, 28 langostas, 27 tortugas mapa y 25 peces globo; Un cristal que contiene un Espíritu Guardián de las Llamas (bestia de fusión de combate). Puedes usarlo para obtener el aspecto del espíritu guardián de las llamas. Requiere Nivel 90; aumenta 14200 puntos de salud máxima, 19300 puntos de mana máximo, 134 ataque físico, 131 ataque mágico, 89 defensa física, 87 defensa mágica.
+
+Exchange the event-exclusive fusion beast: Wind Chaser
+Intercambiar la bestia de fusión exclusiva del evento: Cazador del Viento
+
+exchange Commemorative Fusion Beast Glacier Giant Bear 
+Intercambiar la bestia de fusión conmemorativa: Oso Glaciar Gigante
+
+One Star Attack Medal; limited to Level 55 exchange; requires 12 Ebony Metal, 12 Suspicious Plating, 25 Iron ore, 20 Copper ore, 15Silica ore, 50.0/50.0 Durability; increases 80 Physical attacks64 Magic attacks20 physical defense16 magic defense; requires level 1; Equipment weight 1
+Medalla de ataque de una estrella; limitada a jugadores de nivel 55 o superior; requiere 12 metales de ébano, 12 enchapados sospechosos, 25 mineral de hierro, 20 mineral de cobre y 15 mineral de silicio; durabilidad 50.0; aumenta el ataque físico 80, el ataque mágico 64, la defensa física 20 y la defensa mágica 16; nivel 1; peso 1
+
+Two Star Attack Medal; limited to Level 70 exchange; requires 28 Turquoise Metal, 37 Barracuda, 30 Rice Shrimp, 28 Ice Crab; 50.0/50.0 Durability; increases 140 Physical attacks112 Magic attacks35 physical defense28 magic defense; requires level 1; Equipment weight 1
+Medalla de ataque de dos estrellas; limitada a jugadores de nivel 70 o superior; requiere 28 metales turquesa, 37 barracudas, 30 camarones de río y 28 cangrejos de hielo; durabilidad 50.0; aumenta el ataque físico 140, el ataque mágico 112, la defensa física 35 y la defensa mágica 28; nivel 1; peso 1
+
+Three Star Attack Medal; limited to Level 80 exchange; requires 23 Silver white metal, 23 Gel essence, 25 Silver ore, 18 Ice ore, 15 Red Crystal ore; 50.0/50.0 Durability; increases 240 Physical attacks192 Magic attacks60 physical defense48 magic defense; requires level 1; Equipment weight 1
+Medalla de ataque de tres estrellas; limitada a jugadores de nivel 80 o superior; requiere 23 metales blancos plateados, 23 esencias de gel, 25 mineral de plata, 18 mineral de hielo y 15 mineral de cristal rojo; durabilidad 50.0; aumenta el ataque físico 240, el ataque mágico 192, la defensa física 60 y la defensa mágica 48; nivel 1; peso 1
+
+Four Star Attack Medal; limited to Level 90 exchange; requires 48 Bright Yellow Metal, 23 Sunflower, 21 Rose, 20 Mimosa; 50.0/50.0 Durability; increases 336 Physical attacks268 Magic attacks84 physical defense67 magic defense; requires level 1; Equipment weight 1
+Medalla de ataque de cuatro estrellas; limitada a jugadores de nivel 90 o superior; requiere 48 metales amarillos brillantes, 23 girasoles, 21 rosas y 20 mimosas; durabilidad 50.0; aumenta el ataque físico336, el ataque mágico  268, la defensa física 84 y la defensa mágica 67; nivel 1; peso 1
+
+Medal of the demon Hunting boy; limited to Level 75 exchange; requires 22 Lesser Demon Core, 22 Glazed Diamond, 20 Flame ore, 18 Blue crystal ore, 15Lanthanum ore; 50.0/50.0 Durability; increases 125 Physical attacks100 Magic attacks100 physical defense80 magic defense; requires level 1; Equipment weight 1
+Medalla del Cazademonios; limitada a jugadores de nivel 75 o superior; requiere 22 núcleo del demonio inferior, 22 diamantes vidriados, 20 mineral de llama, 18 mineral de cristal azul y 15 mineral de lantano; durabilidad 50.0; aumenta el ataque físico 125, el ataque mágico 100, la defensa física 100 y la defensa mágica 80; nivel 1; peso 1
+
+Medal of the Demon Chasing girl; limited to Level 75 exchange; requires 22 Lesser Demon Core, 22 Glazed Diamond, 20 Flame ore, 18 Blue crystal ore, 15 Lanthanum ore; 50.0/50.0 Durability; increases 125 Physical attacks100 Magic attacks100 physical defense80 magic defense; requires level 1; Equipment weight 1
+Medalla de la Cazademonios; limitada a jugadores de nivel 75 o superior; requiere 22 núcleo del demonio inferior, 22 diamantes vidriados, 20 mineral de llama, 18 mineral de cristal azul y 15 mineral de lantano; durabilidad 50.0; aumenta el ataque físico 125, el ataque mágico 100, la defensa física 100 y la defensa mágica 80; nivel 1; peso 1
+
+Medal of adored by Female Soldiers; limited to Level 90 exchange; requires 34 Medium Demon Essence, 34 Lake Blue Diamond, 20 Dark Green ore, 19 Gold ore, 18 Vajra Ore; 50.0/50.0 Durability; increases 215 Physical attacks172 Magic attacks172 physical defense138 magic defense; requires level 1; Equipment weight 1
+Medalla del adorado por Mujeres Soldado; limitada a jugadores de nivel 90 o superior; requiere 34 esencias de demonio medianas, 34 diamantes azules del lago, 20 mineral de oscuridad verde, 19 mineral de oro y 18 mineral de vajra; durabilidad 50.0; aumenta el ataque físico 215, el ataque mágico 172, la defensa física 172 y la defensa mágica 138; nivel 1; peso 1
+
+Medal of loved by the Counts; limited to Level 90 exchange; requires 34 Medium Demon Essence, 34 Lake Blue Diamond, 20 Dark Green ore, 19 Gold ore, 18 Vajra Ore; 50.0/50.0 Durability; increases 215 Physical attacks172 Magic attacks172 physical defense138 magic defense; requires level 1; Equipment weight 1
+Medalla de la amada por los condes; limitada a jugadores de nivel 90 o superior; requiere 34 esencias de demonio medianas, 34 diamantes azules del lago, 20 mineral de oscuridad verde, 19 mineral de oro y 18 mineral de vajra; durabilidad 50.0; aumenta el ataque físico 215, el ataque mágico 172, la defensa física 172 y la defensa mágica 138; nivel 1; peso 1
+
+soft pouch; limited to Level 40 exchange; requires 5 Insulating glue; 8 Worthless Blood; 5 Worthless Jerky; 6 Worthless Pelt; 15.0/15.0 Durability; increases 10 physical defense10 magic defense Load 1000; Level 40; It has excellent toughness, can disperse the load pressure, and fully expand the storage capacity of the backpack.
+Bolsa Ligera; limitada a jugadores de nivel 40 o superior; requiere 5 pegamentos aislantes, 8 sangres sin valor, 5 carnes sin valor y 6 pieles sin valor; durabilidad 15.0; aumenta la defensa física 10, la defensa mágica 10 y la carga en 1000; nivel 40; Tiene una dureza excelente y puede dispersar la presión de carga, lo que hace que la capacidad de almacenamiento de la mochila se expanda.
+
+hot bag; limited to Level 60 exchange; requires 5 Green cotton yarn; 15 Red velvet; 16 Flint; 14 Green Crystal ore; 12 Primal Stone; Durability 60.0; increases 30 physical defense30 magic defense Load 3000; Level 60; Equipment weight 5; It is quenched with materials rich in wind energy and fire energy, can be supported by the power of wind and heat constantly, which greatly increases the weight of the backpack.
+Mochila de Viento y Fuego; limitada a jugadores de nivel 60 o superior; requiere 5 hilos de algodón verde, 15 terciopelos rojos, 16 pedernal, 14 mineral de cristal verde y 12 piedras primigenias; durabilidad 60.0; aumenta la defensa física 30, la defensa mágica 30 y la carga en 3000; nivel 60; peso 5; Está fundida con energía eólica y energía de fuego, así que tiene el poder de estos dos elementos en grandes cantidades, lo que incrementa enormemente la carga que puede soportar.
+
+weightless sack; limited to Level 80 exchange; requires 25 Powerful magnet; 25 Liquid metal; 23 Vigna umbellata; 22 Snowflake Bean; 20 Centenarian Orchid; Durability 80.0; increases 50 physical defense50 magic defense Load 5000; Level 80; Equipment weight 5; It incorporates expensive anti gravity materials and contains chaotic energy, making everything in the bag as light as a feather.
+Saco Ingrávido; limitado a jugadores de nivel 80 o superior; requiere 25 imanes potentes, 25 metales líquidos, 23 judías de careta, 22 alfalfas y 20 orquídeas centenarias; durabilidad 80.0; aumenta la defensa física 50, la defensa mágica 50 y la carga en 5000; nivel 80; peso 5; Incorpora costosos materiales antigravedad y contiene energía del caos, lo que hace que todo lo que hay en la bolsa sea tan ligero como una pluma.
