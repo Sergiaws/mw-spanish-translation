@@ -399,3 +399,6 @@ la gema correspondiente
 
 get {n};{n};{n} socket, press to continue socketing
 obtuvo engarces de colores {sub2{$1}sub2}, {sub2{$2}sub2} y {sub2{$3}sub2}; presiona para seguir engarzando
+
+get {n};{n};{n};{n} socket, press to continue socketing
+obtuvo engarces de colores {sub2{$1}sub2}, {sub2{$2}sub2}, {sub2{$3}sub2} y {sub2{$4}sub2}; presiona para seguir engarzando
