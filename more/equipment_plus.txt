@@ -263,7 +263,7 @@ A bright machete, who knows what it feels like to use it to cut meat.
 Un machete brillante que sabe cómo se siente ser usado para cortar carne.
 
 A sharp dagger, a weapon for assassination.
-hecha para asesinar.
+Una daga afilada, hecha para asesinar.
 
 A bow made of hard wood and animal tendons, hunters can shoot farther with it.
 Un arco hecho de madera dura y tendones de animales con el que los cazadores pueden disparar a larga distancia.
@@ -272,10 +272,10 @@ The materials are taken from more than 100-year-old trees, which contain the pow
 Fue hecho a partir de árboles de más de 100 años de antigüedad que contienen el poder de la naturaleza.
 
 Contains the power of protection.
-Contiene el poder de proteger.
+Tiene poderes de protección.
 
 A scepter crafted from unknown bones.
-Un cetro fabricado con huesos que quién sabe de dónde vienen.
+Un cetro fabricado con huesos desconocidos.
 
 A sturdy helmet with better protection.
 Un yelmo resistente con buena protección.
@@ -341,7 +341,7 @@ Good gear is gear that allows you-hide.
 Buena pieza de equipo de asesino que le permite ocultarse.
 
 Lightweight armor that provides protection while still keeping you agile.
-Armadura de peso ligero que te protege mientras te permite seguir manteniéndote ágil.
+Armadura ligera que te protege mientras te permite seguir manteniéndote ágil.
 
 Fasten your belt and don't let your clothes make noise during an assassination.
 Abróchate el cinturón y no permitas que tu ropa haga ruido durante un asesinato.
@@ -365,7 +365,7 @@ A pendant made from eagle talons.
 Un colgante hecho de garras de águila.
 
 chasing is fundamental to the survival of hunters.
-La persecución es fundamental para la supervivencia de los cazadores, y esta capa les permite ser sigilosos a la hora de perseguir.
+La caza es fundamental para la supervivencia de los cazadores.
 
 made from the hide of the king of beasts.
 hecha con la piel del rey de las bestias.
@@ -383,7 +383,7 @@ Made of leather, it adds even more defense.
 hechos de cuero, otorgan defensa extra.
 
 A ring made of animal bones and inlaid with gemstones shaped like eagle eyes.
-Un anillo hecho de huesos de animales con piedras de gema en forma de ojos de águila incrustadas.
+Un anillo hecho de huesos de animales con gemas incrustadas cuya forma recuerda ojos de águila.
 
 Wearing it is more intelligent.
 Usarlo es la decisión más inteligente.
@@ -407,10 +407,10 @@ There are many mysterious symbols drawn on it, which will have better magic resi
 Tienen varios símbolos dibujados que hacen que tengan una buena resistencia mágica.
 
 The bracelet made of blue crystal has a hint of coolness.
-Los brazaletes, hechos de cristal azul, siempre permanecen fríos al tacto.
+El brazalete, hecho de cristal azul, exhala frescura.
 
 The ring made of blue crystal has a hint of coolness.
-El anillo, hecho de cristal azul, siempre permanece frío al tacto.
+El anillo, hecho de cristal azul, exhala frescura.
 
 Elves have always liked to be close to nature.
 A los elfos siempre les ha gustado estar cerca de la naturaleza.
@@ -425,7 +425,7 @@ Made of plant fiber, it has good magic resistance.
 hecha de fibra vegetal, posee una gran resistencia mágica.
 
 a belt made of ivy vine, full of nature.
-Un cinturón lleno de naturaleza hecho de vid de hiedra.
+Un cinturón hecho a partir de una enredadera de hiedra, que rebosa de naturaleza.
 
 Boots made from lotus leaves.
 Botas hechas de hojas de loto.
@@ -434,13 +434,13 @@ Made of plant fiber, it has good magic resistance.
 hecha de fibra vegetal, tiene una gran resistencia mágica.
 
 The bracelet made of red crystal has a faint flame beating in it.
-Los brazaletes hechos de cristal rojo tienen una tenue llama latiendo.
+El brazalete, hecho de cristal rojo, tiene una tenue llama latiendo.
 
 The ring made of red crystal has a faint flame beating in it.
 El anillo hecho de cristal rojo tiene una tenue llama latiendo.
 
 Wearing it symbolizes going on the charity path.
-Usar esta prenda simboliza que estás siendo caritativo.
+Llevar puesta esta prenda simboliza que caminas por la senda de la caridad
 
 Pendant made of green crystal.
 Un colgante hecho con un cristal verde.
@@ -461,13 +461,13 @@ Great love resists all attacks.
 El amor eterno resiste cualquier ataque.
 
 Bracelet made of green crystal, revealing full of vitality.
-hechos con un cristal verde de donde emerge la fuente de la vida.
+Un brazalete de cristal verde que rebosa vitalidad.
 
 Rings made of green crystals reveal full of vitality.
-Anillo hecho con un cristal verde de donde emerge la fuente de la vida.
+Anillo hecho con un cristal verde que rebosa vitalidad.
 
 Such a terrifying thing, only Sorcerer can carry it.
-Una cosa terrorífica que solo el hechicero puede llevar.
+Una cosa tan terrorífica que solo el hechicero puede llevarla puesa.
 
 Pendant made of amethyst.
 Un colgante hecho de amatista.
@@ -488,10 +488,10 @@ Leggings crafted from aged skeleton.
 Polainas fabricadas a partir de un esqueleto antiguo.
 
 A bracelet made of amethyst and mysterious dead bones.
-Brazaletes hechos de amatista y de misteriosos huesos de muertos.
+Un brazalete hecho de amatista y de misteriosos huesos de muertos.
 
 A ring made of amethyst, it is said that the undead are sealed in it.
-se dice que los no muertos están encerrados en él.
+un anillo echo de amatista, se dice que los no muertos están encerrados en él.
 
 A thick stick, the sound is like a tsunami when Waving.
 Un palo grueso que emite un sonido parecido a un tsunami al sacudirse.
@@ -695,13 +695,13 @@ A golden belt.
 Un cinturón dorado.
 
 The white boots were tied with golden knots.
-Estas botas blancas están atadas con agujetas doradas.
+Estas botas blancas están atadas con cordones dorados.
 
 A pair of silver and gold leggings.
 Un par de polainas de colores oro y plata.
 
 In the transparent bracelet, the golden holy light keeps flowing.
-La luz sagrada fluye y fluye en estos brazaletes transparentes de oro.
+Luz sagrada dorada fluye en este brazalete transparente .
 
 The gems on the ring enhance the power of the Holy Light spell.
 Las gemas en el anillo potencian los hechizos de luz sagrada.
