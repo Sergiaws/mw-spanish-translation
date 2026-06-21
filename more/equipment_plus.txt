@@ -401,16 +401,16 @@ A belt engraved with mysterious runes, the mage wears more wisdom.
 Un cinturón con misteriosas runas grabadas que hace a los magos más sabios cuando lo usan.
 
 Boots carved with runes, upon which the power of magic flows.
-Botas con runas talladas sobre las que corre el poder de la magia.
+Botas con runas talladas sobre las que corre el poder mágico.
 
 There are many mysterious symbols drawn on it, which will have better magic resistance.
 Tienen varios símbolos dibujados que hacen que tengan una buena resistencia mágica.
 
 The bracelet made of blue crystal has a hint of coolness.
-El brazalete, hecho de cristal azul, exhala frescura.
+El brazalete, hecho de cristal azul, exhala frecor.
 
 The ring made of blue crystal has a hint of coolness.
-El anillo, hecho de cristal azul, exhala frescura.
+El anillo, hecho de cristal azul, exhala frescor.
 
 Elves have always liked to be close to nature.
 A los elfos siempre les ha gustado estar cerca de la naturaleza.
@@ -446,19 +446,19 @@ Pendant made of green crystal.
 Un colgante hecho con un cristal verde.
 
 Love is the eternal theme of life.
-El amor siempre será el camino eterno de la vida.
+El amor es el tema eterno de la vida.
 
 Great love resists all attacks.
-El amor eterno resiste cualquier ataque.
+Un gran amor resiste todo ataque.
 
 Good always binds evil.
 El bien siempre triunfará sobre el mal.
 
 The path of love is bound to become wider and wider.
-El camino del amor siempre está destinado a volverse cada vez más largo.
+La senda del amor está destinada a volverse cada vez más amplia.
 
 Great love resists all attacks.
-El amor eterno resiste cualquier ataque.
+Un gran amor resiste todo ataque.
 
 Bracelet made of green crystal, revealing full of vitality.
 Un brazalete de cristal verde que rebosa vitalidad.
@@ -467,7 +467,7 @@ Rings made of green crystals reveal full of vitality.
 Anillo hecho con un cristal verde que rebosa vitalidad.
 
 Such a terrifying thing, only Sorcerer can carry it.
-Una cosa tan terrorífica que solo el hechicero puede llevarla puesa.
+Una prenda tan terrorífica que solo el hechicero puede llevarla puesta.
 
 Pendant made of amethyst.
 Un colgante hecho de amatista.
@@ -476,7 +476,7 @@ It is said to be made from the skin of a century-old zombie.
 Se dice que fue fabricada a partir de la piel de un zombi centenario.
 
 It is said to be a robe made from the hide of an aged carrion.
-Se dice que esta túnica se hizo a partir de la piel de una carroña vieja.
+Se dice que esta túnica se hizo a partir de la piel de una antigua bestia carroñera.
 
 A belt made of strong, aged mummy bandages.
 Un cinturón hecho de resistentes vendas de momia antigua.
@@ -491,7 +491,7 @@ A bracelet made of amethyst and mysterious dead bones.
 Un brazalete hecho de amatista y de misteriosos huesos de muertos.
 
 A ring made of amethyst, it is said that the undead are sealed in it.
-un anillo echo de amatista, se dice que los no muertos están encerrados en él.
+un anillo echo de amatista, se dice que los no muertos están sellados en él.
 
 A thick stick, the sound is like a tsunami when Waving.
 Un palo grueso que emite un sonido parecido a un tsunami al sacudirse.
