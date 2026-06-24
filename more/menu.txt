@@ -133,6 +133,89 @@ Diamantes de cuenta $1; puntos de recarga $2; diamantes vinculados al personaje 
 Recharge
 Recargar
 
+top-up
+recarga
+
+How to pay?
+¿Cómo pagar?
+
+Direct Top-up via Stripe (Credit Card, Debit Card, etc. Transaction limits may apply)
+Recarga directa a través de Stripe (Tarjeta de crédito, tarjeta de débito, etc. Pueden aplicarse límites de transacción)
+
+Direct Top-up via Paypal (Transaction limits may apply)
+Recarga directa a través de PayPal (Pueden aplicarse límites de transacción)
+
+Buy Point Card via PayPal
+Compre la Tarjeta de Puntos a través de PayPal
+
+Select the option below, press Enter to open the payment page, and after payment, we will email you the game point card. Point cards purchased here are only valid for Server1.
+Seleccione la opción a continuación, presione Enter para abrir la página de pago y, después del pago, le enviaremos la tarjeta de puntos del juego por correo electrónico. Las tarjetas de puntos compradas aquí solo son válidas para Server1.
+
+To avoid not receiving a Point Card, please add our email address serv@notify.mwgame.net to your email whitelist or contacts. Click here to see how to whitelist an email address or domain.
+Para evitar no recibir una Tarjeta de Puntos, por favor añada nuestra dirección de correo electrónico serv@notify.mwgame.net a su lista blanca de correo electrónico o contactos. Haga clic aquí para ver cómo poner una dirección de correo electrónico o dominio en la lista blanca.
+
+If you have not received your Point Card within 24 hours, please submit your feedback in the feedback section with your PayPal email address and merchant transaction ID. Don't worry, Point Card doesn't expire, you can always submit feedback to us and we'll deal with it promptly.
+Si no ha recibido su Tarjeta de Puntos en un plazo de 24 horas, por favor envíe su comentario en la sección de comentarios con su dirección de correo electrónico de PayPal y el ID de transacción del comerciante. No se preocupe, la Tarjeta de Puntos no caduca; siempre puede enviarnos comentarios y nos ocuparemos de ello rápidamente.
+
+50 diamond 1.29 USD (for Server1)
+50 diamantes 1.29 USD (para Server1)
+
+100 diamond 2.27 USD (for Server1)
+100 diamantes 2.27 USD (para Server1)
+
+200 diamond 4.23 USD (for Server1)
+200 diamantes 4.23 USD (para Server1)
+
+300 diamond 6.20 USD (for Server1)
+300 diamantes 6.20 USD (para Server1)
+
+500 diamond 10.15 USD (for Server1)
+500 diamantes 10.15 USD (para Server1)
+
+1000 diamond 19.99 USD (for Server1)
+1000 diamantes 19.99 USD (para Server1)
+
+2000 diamond 39.69 USD (for Server1)
+2000 diamantes 39.69 USD (para Server1)
+
+5000 diamond 98.79 USD (for Server1)
+5000 diamantes 98.79 USD (para Server1)
+
+10000 diamond 197.29 USD (for Server1)
+10000 diamantes 197.29 USD (para Server1)
+
+If clicking the link above does not open your browser directly, please click the link below, copy the corresponding URL to your clipboard, and then manually open your browser to visit the relevant Point Card purchase link.
+Si hacer clic en el enlace de arriba no abre su navegador directamente, por favor copie la URL correspondiente a su portapapeles y luego abra manualmente su navegador para visitar el enlace de compra de la Tarjeta de Puntos relevante.
+
+After exchanging your point card for an in-game item, you can list it for sale on the Ansible marketplace. This lets players who can't use PayPal buy point cards using gold coins. Your exchanging limit depends on your account. You have {d} points (diamonds) to exchange. Choose the card type you want.
+Tras cambiar tu tarjeta de puntos por ítems dentro del juego, puedes ponerlo a la venta en el mercado espacio-temporal. Esto permite a las personas que no pueden usar PayPal comprar tarjetas de puntos con monedas de oro. El límite de cambio depende de tu cuenta. Tienes $1 puntos (diamantes) para cambiar. Elige el tipo de tarjeta que quieras.
+
+Recharge 50 diamonds to exchange for 1 50-diamond recharge card item.
+Recargar 50 diamantes para conseguir un item, tarjeta de 50 diamantes, en el juego.
+
+Recharge 100 diamonds to exchange for 1 100-diamond recharge card item.
+Recargar 100 diamantes para conseguir un item, tarjeta de 100 diamantes, en el juego.
+
+Recharge 200 diamonds to exchange for 1 200-diamond recharge card item.
+Recargar 200 diamantes para conseguir un item, tarjeta de 200 diamantes, en el juego.
+
+Recharge 300 diamonds to exchange for 1 300-diamond recharge card item.
+Recargar 300 diamantes para conseguir un item, tarjeta de 300 diamantes, en el juego.
+
+Recharge 500 diamonds to exchange for 1 500-diamond recharge card item.
+Recargar 500 diamantes para conseguir un item, tarjeta de 500 diamantes, en el juego.
+
+Recharge 1000 diamonds to exchange for 1 1000-diamond recharge card item.
+Recargar 1000 diamantes para conseguir un item, tarjeta de 1000 diamantes, en el juego.
+
+Recharge 2000 diamonds to exchange for 1 2000-diamond recharge card item.
+Recargar 2000 diamantes para conseguir un item, tarjeta de 2000 diamantes, en el juego.
+
+Recharge 5000 diamonds to exchange for 1 5000-diamond recharge card item.
+Recargar 5000 diamantes para conseguir un item, tarjeta de 5000 diamantes, en el juego.
+Recharge 10000 diamonds to exchange for 1 10000-diamond recharge card item.
+Recargar 10000 diamantes para conseguir un item, tarjeta de 10000 diamantes, en el juego.
+
 load {d}/{d}
 carga $1/$2
 
