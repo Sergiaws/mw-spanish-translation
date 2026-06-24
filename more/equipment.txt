@@ -1646,34 +1646,34 @@ Inferno ring (right)
 Anillo infernal (derecho)
 
 Revival headband
-Diadema de reanimador
+Diadema de renacimiento
 
 Revival Pendant
-Colgante de reanimador
+Colgante de renacimiento
 
 Revival cape
-Capa de reanimador
+Capa de renacimiento
 
 Revival Robe
-Túnica de reanimador
+Túnica de renacimiento
 
 Revival Belt
-Cinturón de reanimador
+Cinturón de renacimiento
 
 Revival boots
-Botas de reanimador
+Botas de renacimiento
 
 Revival Leggings
-Polainas de reanimador
+Polainas de renacimiento
 
 Revival bracelet
-Brazaletes de reanimador
+Brazaletes de renacimiento
 
 Revival ring (left)
-Anillo de reanimador (izquierdo)
+Anillo de renacimiento (izquierdo)
 
 Revival ring (right)
-Anillo de reanimador (derecho)
+Anillo de renacimiento (derecho)
 
 Undead mask
 Máscara de no muerto
@@ -3341,16 +3341,16 @@ Godbless Inferno Set
 Conjunto infernal bendito
 
 Great Revival Set
-Conjunto de reanimador grandioso
+Conjunto de renacimiento grandioso
 
 Epic Revival Set
-Conjunto de reanimador épico
+Conjunto de renacimiento épico
 
 Heavenly Revival Set
-Conjunto de reanimador celestial
+Conjunto de renacimiento celestial
 
 Godbless Revival Set
-Conjunto de reanimador bendito
+Conjunto de renacimiento bendito
 
 Great Undead Set
 Conjunto de no muerto grandioso

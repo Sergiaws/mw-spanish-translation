@@ -809,10 +809,10 @@ Refined Inferno Set
 Conjunto invernal refinado
 
 Ordinary Revival Set
-Conjunto de reanimador ordinario
+Conjunto de renacimiento ordinario
 
 Refined Revival Set
-Conjunto de reanimador refinado
+Conjunto de renacimiento refinado
 
 Ordinary Undead Set
 Conjunto de no muerto ordinario
