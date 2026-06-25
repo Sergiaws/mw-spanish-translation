@@ -136,6 +136,12 @@ Recargar
 top-up
 recarga
 
+Use Point card
+Usar tarjeta de puntos.
+
+Exchange point card
+Cambiar tarjeta de puntos.
+
 How to pay?
 ¿Cómo pagar?
 

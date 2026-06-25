@@ -518,13 +518,13 @@ The top of the scepter is decorated with obsidian, which can absorb all light.
 La parte superior del cetro está decorada con obsidiana, que puede absorber toda la luz.
 
 A sea blue helmet made of special metal.
-Un yelmo de mar hecho de metal especial.
+Un yelmo azul marino hecho de metal especial.
 
 A pendant with sea blue stone.
-Un colgante con una piedra de mar.
+Un colgante con una piedra azul marino.
 
 Sea blue shoulder pads made of flexible fabrics and special metals.
-Hombreras de mar hechas con tela flexible y metal especial.
+Hombreras azul marino hechas con tela flexible y metal especial.
 
 Armor made of flexible fabric and special metal has good defense.
 Una armadura que ofrece buena defensa, hecha de tela flexible y metal especial.
@@ -557,7 +557,7 @@ Armor made of thick fabric and special metal has good defense.
 Una armadura con buena defensa, hecha de tela gruesa y metal especial.
 
 Waist support made of thick fabric and special metal.
-Apoyo para la cintura hecho de tela gruesa y metal especial.
+Cinturón hecho de tela gruesa y metal especial.
 
 Boots made of thick fabric.
 Botas hechas de tela gruesa.
@@ -626,10 +626,10 @@ The ring is inlaid with the magic crystal of the bird of prey.
 El anillo tiene incrustado un cristal mágico del ave de rapiña.
 
 Made of ice silk, the coolness will lift your spirits.
-hecha de seda de hielo que ayudará a elevar tu espíritu.
+Hecha de seda de hielo cuyo frescor ayudará a elevar tu espíritu.
 
 The light blue transparent gemstone on the pendant exudes an endless chill.
-La piedra preciosa azul claro incrustada en el colgante emana un frescor infinito.
+La gema azul claro incrustada en el colgante emana un frescor infinito.
 
 A cape made of ice silk.
 Una capa hecha de seda de hielo.
@@ -662,7 +662,7 @@ A cape made of flame flower petals.
 Una capa hecha de pétalos de flores de fuego.
 
 The robes are made of plant fibers extracted from flame flowers, and the symbols on them appear as if the flames are beating.
-los símbolos en ellas hacen parecer como si estuvieran incendiándose.
+La túnica está hecha de fibra extraída de flores de fuego, y los símbolos en ella parecen llamas latiendo.
 
 Belt made from flame flower plant fibers.
 Un cinturón hecho de fibra vegetal de flores de fuego.
@@ -671,7 +671,7 @@ Boots crafted from flame flower plant fibers.
 Botas fabricadas a partir de fibra vegetal de flores de fuego.
 
 Leggings made of plant fibers extracted from flame flowers, the symbols on them seem to beat like flames.
-los símbolos dibujados en ellas las hace parecer como si estuvieran ardiendo en llamas.
+Polainas fabricadas a partir de fibra de flor de fuego, los síbmolos en ellas se parecen a llamas latiendo.
 
 Crafted from Fire Flower Seeds.
 Fabricados a partir de semillas de flores de fuego.
@@ -686,7 +686,7 @@ A golden gem dangles from the silver necklace.
 Una gema dorada pende de este collar de plata.
 
 The silver cloak is painted with the holy light symbol representing light.
-La capa plateada tiene pintado el símbolo de la luz sagrada que representa lo divino.
+La capa plateada tiene pintado el símbolo de la luz sagrada.
 
 A silver and gold robe.
 Una túnica reluciente de oro y plata.
@@ -701,7 +701,7 @@ A pair of silver and gold leggings.
 Un par de polainas de colores oro y plata.
 
 In the transparent bracelet, the golden holy light keeps flowing.
-Luz sagrada dorada fluye en este brazalete transparente .
+Luz sagrada dorada fluye en este brazalete transparente.
 
 The gems on the ring enhance the power of the Holy Light spell.
 Las gemas en el anillo potencian los hechizos de luz sagrada.
@@ -716,19 +716,19 @@ How many souls are floating around.
 ¿Cuántas almas flotarán alrededor?
 
 Concentrate the power of the dead to protect you.
-Concentra el poder de los muertos, además de que sirve como protección.
+Concentra el poder de los muertos para protegeros.
 
 Only wizards like the haunting of the dead.
-Solo los hechiceros están dispuestos a cazar a los muertos.
+Solo a los hechiceros les gusta cazar a los muertos.
 
 Through the underworld full of undead.
 Para atravesar el submundo repleto de no muertos.
 
 Countless dead souls are sealed in this pair of bracelets.
-Incontables almas de muertos están selladas en este par de brazaletes.
+Incontables almas  están encerradas en este par de brazaletes.
 
 The power of the Ghost is attached to the weapon through your hands.
-El poder fantasmal está aderido a este anillo, lo que hace que cualquier arma que esté en tus manos sea más mortífera.
+El poder fantasmal se transfiere a cualquier arma desde tus manos
 
 A slender sword with a sharp blade that seems to cut through everything.
 Una espada delgada con una hoja afilada que parece ser capaz de cortar todo.
@@ -737,22 +737,22 @@ A heavy sledgehammer with a sense of oppression that destroys the world.
 Un mazo pesado con el que puedes provocar la opresión suficiente para conquistar el mundo.
 
 A sharp dagger, the target in front of it will never survive.
-Una daga afilada que hará que cualquier objetivo que se le enfrente no sobreviva a ella.
+Una daga afilada, cuyo objetivo no sobrevivirá.
 
 A majestic longbow, the arrows it shoots make monsters unable to escape.
-Un arco magestuoso que hace que no puedan escapar los monstruos de las flechas que dispara.
+Un arco largo y majestuoso, cuyas flechas disparadas hacen a los monstruos incapaces de escapar.
 
 The spherical translucent sapphire on the top of the gray blue staff has ice blue light flowing constantly.
-El zafiro translúcido en forma de esfera en la parte superior del bastón gris azulado tiene un chorro de luz que fluye constantemente.
+El zafiro translúcido en forma de esfera, colocado en la parte superior del bastón azul grisáceo, contiene luz azul hielo que fluye constantemente.
 
 The spherical translucent ruby at the top of the orange-red staff has flames that keep beating.
-El rubí translúcido en forma de esfera en la parte superior del bastón naranja rojizo tiene llamas que se mantienen ardiendo.
+El rubí translúcido, en forma de esfera y colocado en la parte superior del bastón naranja rojizo, contiene llamas que laten constantemente.
 
 There is a vibrant green glow in the spherical translucent emerald on top of the sage green scepter.
-La esmeralda translúcida en forma de esfera colocada en la parte superior del cetro verde salvia emite un resplandor verde vibrante.
+La esmeralda translúcida, en forma de esfera y colocada en la parte superior del cetro verde salvia, emite un resplandor verde vibrante.
 
 The spherical translucent gray-black gemstone on top of the black scepter seemed to be filled with a continuous flow of gray mist.
-La gema gris negruzca esférica translúcida en la parte superior del cetro negro parece estar llena de una niebla gris que va fluyendo.
+La gema esférica, negra grisácea y translúcida, en la parte superior del cetro negro, parece estar llena de una niebla gris que fluye continuamente.
 
 This helmet looks very spirited.
 Este yelmo parece lleno de fuerza.
@@ -761,22 +761,22 @@ It symbolizes the honor of warriors.
 Simboliza el honor de los guerreros.
 
 Soldiers are charged with defending their homes.
-Hechas para aquellos soldados encargados de defender sus hogares.
+Utilizada por soldados encargados de defender sus hogares.
 
 Safety is key in battle, let this armor protect you.
-La seguridad es lo primordial en una batalla, deja que esta armadura te proteja.
+La seguridad es fundamental en la batalla, deja que esta armadura te proteja.
 
 A flexible waistband.
 Un cinturón flexible.
 
 Charge forward for honor.
-Para que camines siempre hacia adelante con honor.
+Lánzate a la batalla por el honor.
 
 Charge forward for honor, and let this legplate keep you safe.
-Para que camines hacia adelante con honor, haz que estas perneras te mantengan seguro.
+Lánzate a la batalla por el honor y deja que estas perneras te mantengan seguro.
 
 Strengthen your wrist so that you can break through any obstacles and stick to your responsibilities.
-Potencian tus muñecas para que puedas romper cualquier obstáculo y así cumplir con tus responsabilidades.
+Potencian tus muñecas para que puedas romper cualquier obstáculo y así no abandones tu deber.
 
 The gems in the ring contain invincible power.
 Las gemas incrustadas en el anillo contienen un poder inmenso.
@@ -785,25 +785,25 @@ With a huge helmet, orcs can protect their heads in battle.
 Con este enorme casco, los orcos pueden protegerse la cabeza durante la batalla.
 
 A pendant made from the strongest demon core.
-Un colgante hecho del núcleo del demonio más poderoso.
+Un colgante hecho del núcleo del demonio más resistente.
 
 Its rugged shape goes well with the Orc.
-Su forma rugosa es ideal para los orcos.
+Su forma robusta es ideal para los orcos.
 
 The heavy armor is lined with the thick fur of demon, which plays a double protective role.
-La pesada armadura está forrada con piel gruesa de demonio, lo que le da una doble capa de defensa.
+La pesada armadura está forrada con pelaje grueso de demonio, lo que le da una doble capa de protección.
 
 A belt made of strong monster hide.
-Una correa hecha del cuero de un monstruo poderoso.
+Un cinturón hecho de resistente cuero de monstruo.
 
 The footprints of the orcs are all over the land.
-Para que las huellas de los orcos estén bien marcadas en la tierra.
+Para que las huellas de los orcos se extiendan por toda la tierra.
 
 The heavy legplates are lined with the thick fur of the monsters, which doubles as protection.
-Las perneras pesadas están forradas con el cuero de poderosos monstruos, lo que les da una capa extra de defensa.
+Las pesadas perneras están forradas con pelaje grueso de monstruo,  una segunda capa de protección.
 
 Bracers crafted from the strongest monster fur.
-Brazales fabricados con piel de monstruos poderosos.
+Brazales fabricados con el pelaje más resistente de monstruos.
 
 The ring is inlaid with the magic crystal of the giant beast.
 El anillo tiene incrustado el cristal mágico de una bestia gigante.
@@ -812,13 +812,13 @@ Hide the expression of penance.
 Útil para ocultar la expresión de penitencia.
 
 Asceticism makes assassins more powerful.
-El espiritualismo hace que los asesinos sean más poderosos.
+El ascetismo hace que los asesinos sean más poderosos.
 
 The taupe cape looks unremarkable.
 Esta capa gris pardo no parece tener nada especial.
 
 The black battle suit can bring the power of hell.
-Este traje negro de batalla hace que el asesino lleve consigo el poder del infierno.
+Este traje negro de batalla trae consigo el poder del infierno.
 
 Belt made of black fabric.
 Un cinturón hecho de tela negra.
@@ -830,28 +830,28 @@ Leggings made of black fabric.
 Polainas hechas de tela negra.
 
 Black gloves are more suitable for practicing in hardships.
-Estos guantes de color negro son ideales para los tiempos duros.
+Estos guantes de color negro son adecuados para tiempos difíciles.
 
 The ring made of special metal is set with black gemstones.
 Este anillo hecho con metal especial tiene incrustadas gemas negras.
 
 You would like to be a low-profile attacker in the team.
-Te hará ver como un atacante de bajo perfil en tu equipo.
+Prefieres ser un atacante discreto en el equipo.
 
 Your arrow will make the most correct choice.
-Con este colgante tu flecha siempre pegará en el punto preciso.
+Con este colgante tu flecha siempre elegirá el objetivo correcto.
 
 Ride among wild beasts and mighty enemies.
-Para que tus hombros estén cubiertos de los ataques de los monstruos salvajes y los enemigos poderosos.
+Avanza entre bestias salvajes y adversarios formidables.
 
 The protective color of this leather armor will keep you from falling prey to others.
-La protección que te ofrece esta armadura hará que no seas presa fácil para otros.
+El color de la armadura hará que pases desapercibido y no seas presa fácil para otros.
 
 When wear the belt, you will not be found by the prey.
 Al usar este cinturón tu presa no podrá detectarte.
 
 New prey is ahead.
-Para que siempre vayas un paso más allá de tu presa.
+Tu próxima presa se acerca.
 
 The protective color of these leather pants will keep you from becoming prey.
 La protección que te ofrecen estos pantalones de cuero evitará que tú te conviertas en una presa.
